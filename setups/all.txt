@@ -1,0 +1,6 @@
+########################################
+# All Leagues, Teams n Fixtures
+
+major-league-soccer!/teams_us
+major-league-soccer!/teams_ca
+

@@ -1,0 +1,9 @@
+#########################
+#  Canada, ca
+
+# NB: three canadian teams play in mls w/ us teams
+
+toronto,   Toronto|Toronto FC, TFC, city:toronto, ca
+vancouver, Vancouver Whitecaps, city:vancouver, ca
+montreal,  Montreal Impact|Montreal I., city:montreal, ca
+
