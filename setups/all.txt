@@ -4,3 +4,6 @@
 major-league-soccer!/teams_us
 major-league-soccer!/teams_ca
 
+# Match data
+major-league-soccer!/2014/mls
+

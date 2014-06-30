@@ -48,6 +48,13 @@ CD Chivas USA          3-2   Chicago Fire
 Use the `sportdb` command line tool to build your own `soccer.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
+Prerequisites:
+
+* world.db
+
+~~~
+git clone 
+~~~
 
 ## Questions? Comments?
 
