@@ -50,11 +50,33 @@ from the plain text fixtures. [More »](http://openfootball.github.io/build.html
 
 Prerequisites:
 
-* world.db
+* [world.db](https://github.com/openmundi/world.db.git)
 
 ~~~
-git clone 
+git clone https://github.com/openmundi/world.db.git
 ~~~
+
+* [sportdb](https://github.com/sportdb/sport.db.ruby)
+
+~~~
+gem install sportdb
+~~~
+
+Example:
+
+To create a database from scratch, use the following command, substituting the appropriate paths to major-league-soccer and world.db as necessary.
+
+~~~
+sportdb -n mls.db setup --include major-league-soccer --worldinclude world.db
+~~~
+
+Once you have an initialized database, you can load data on top of it as follows.
+
+~~~
+sportdb -n mls.db load major-league-soccer/2014/mls
+~~~
+
+See the sportdb help and git page for more information.
 
 ## Questions? Comments?
 
