@@ -1,8 +1,3 @@
-#####################################
-# Major League Soccer (MLS) 2014
-
-
-Regular Season
 Sat Mar/8 07:25 Seattle Sounders           1-0 Sporting Kansas City
 Sat Mar/8 11:00 Washington D.C. United           0-3 Columbus Crew
 Sat Mar/8 11:30 Vancouver Whitecaps FC           4-1 New York Red Bulls
@@ -322,4 +317,3 @@ Fri Oct/10 14:00 Seattle Sounders           VS Vancouver Whitecaps FC
 Thu Oct/16 12:00 Houston Dynamo           VS New England Revolution
 Sat Oct/18 07:00 Colorado Rapids           VS FC Dallas
 Wed Oct/22 13:30 Real Salt Lake           VS CD Chivas USA
-
