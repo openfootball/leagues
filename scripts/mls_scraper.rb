@@ -265,7 +265,7 @@ def main
   m = MLSScraper.new(options)
 
   # Current year is a different API
-  if (options[:year].to_i == 2014)
+  if (options[:year].to_i == Date.today.year)
     fixture_data = m.scrape
   else
     fixture_data = m.get_historical_game_data(options[:year])
