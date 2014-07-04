@@ -1,0 +1,263 @@
+Qualifying
+
+Thu Mar/25 13:55 Seattle Sounders           2-0 Philadelphia Union
+Fri Mar/26 14:30 CD Chivas USA           0-1 Colorado Rapids
+Sat Mar/27 08:00 Columbus Crew           2-0 Toronto FC
+Sat Mar/27 08:00 FC Dallas           1-1 Houston Dynamo
+Sat Mar/27 11:00 New York Red Bulls           1-0 Chicago Fire
+Sat Mar/27 12:30 Kansas City Wizards           4-0 Washington D.C. United
+Sat Mar/27 13:00 San Jose Earthquakes           0-3 Real Salt Lake
+Sat Mar/27 15:00 Los Angeles Galaxy           1-0 New England Revolution
+Thu Apr/1 13:00 Houston Dynamo           2-1 Real Salt Lake
+Thu Apr/1 15:15 Los Angeles Galaxy           2-0 CD Chivas USA
+Sat Apr/3 08:00 Colorado Rapids           2-2 Chicago Fire
+Sat Apr/3 11:30 Washington D.C. United           0-2 New England Revolution
+Sat Apr/3 14:30 Seattle Sounders           0-1 New York Red Bulls
+Sat Apr/10 08:00 CD Chivas USA           2-0 New York Red Bulls
+Sat Apr/10 10:00 Philadelphia Union           3-2 Washington D.C. United
+Sat Apr/10 11:30 New England Revolution           4-1 Toronto FC
+Sat Apr/10 12:30 FC Dallas           2-2 Columbus Crew
+Sat Apr/10 12:30 Houston Dynamo           0-2 Los Angeles Galaxy
+Sat Apr/10 12:30 Kansas City Wizards           1-0 Colorado Rapids
+Sat Apr/10 12:30 Chicago Fire           1-2 San Jose Earthquakes
+Sat Apr/10 13:00 Real Salt Lake           2-2 Seattle Sounders
+Thu Apr/15 11:15 Toronto FC           2-1 Philadelphia Union
+Sat Apr/17 07:00 Seattle Sounders           1-0 Kansas City Wizards
+Sat Apr/17 08:00 Houston Dynamo           3-0 CD Chivas USA
+Sat Apr/17 11:30 Washington D.C. United           0-2 Chicago Fire
+Sat Apr/17 11:30 New York Red Bulls           2-1 FC Dallas
+Sat Apr/17 14:00 San Jose Earthquakes           2-0 New England Revolution
+Sat Apr/17 14:30 Los Angeles Galaxy           2-1 Real Salt Lake
+Sun Apr/18 09:00 Colorado Rapids           3-1 Toronto FC
+Thu Apr/22 12:10 FC Dallas           2-2 Seattle Sounders
+Sat Apr/24 08:00 New York Red Bulls           2-1 Philadelphia Union
+Sat Apr/24 11:30 Columbus Crew           1-0 Real Salt Lake
+Sat Apr/24 11:30 New England Revolution           1-2 Colorado Rapids
+Sat Apr/24 12:30 Chicago Fire           2-0 Houston Dynamo
+Sat Apr/24 12:30 Kansas City Wizards           0-0 Los Angeles Galaxy
+Sat Apr/24 14:30 CD Chivas USA           3-2 San Jose Earthquakes
+Sun Apr/25 06:00 Toronto FC           2-0 Seattle Sounders
+Sat May/1 08:00 Washington D.C. United           0-2 New York Red Bulls
+Sat May/1 11:30 New England Revolution           1-1 FC Dallas
+Sat May/1 12:30 Houston Dynamo           3-0 Kansas City Wizards
+Sat May/1 12:30 Chicago Fire           1-1 CD Chivas USA
+Sat May/1 13:00 Real Salt Lake           2-1 Toronto FC
+Sat May/1 14:00 San Jose Earthquakes           1-0 Colorado Rapids
+Sat May/1 14:30 Los Angeles Galaxy           3-1 Philadelphia Union
+Sat May/1 14:30 Seattle Sounders           1-1 Columbus Crew
+Wed May/5 11:00 Washington D.C. United           2-1 Kansas City Wizards
+Wed May/5 11:30 New England Revolution           0-4 CD Chivas USA
+Wed May/5 13:00 Houston Dynamo           0-1 FC Dallas
+Wed May/5 13:30 Colorado Rapids           0-1 Los Angeles Galaxy
+Sat May/8 08:00 Seattle Sounders           0-4 Los Angeles Galaxy
+Sat May/8 08:00 Toronto FC           4-1 Chicago Fire
+Sat May/8 08:00 Real Salt Lake           3-0 Philadelphia Union
+Sat May/8 11:00 Columbus Crew           3-2 New England Revolution
+Sat May/8 13:00 FC Dallas           1-0 Washington D.C. United
+Sat May/8 14:00 San Jose Earthquakes           4-0 New York Red Bulls
+Sat May/8 14:30 CD Chivas USA           0-2 Houston Dynamo
+Thu May/13 13:00 Real Salt Lake           3-1 Houston Dynamo
+Sat May/15 08:00 Philadelphia Union           1-1 FC Dallas
+Sat May/15 10:00 New England Revolution           0-0 San Jose Earthquakes
+Sat May/15 11:30 Columbus Crew           1-0 CD Chivas USA
+Sat May/15 11:30 Washington D.C. United           0-1 Colorado Rapids
+Sat May/15 11:30 New York Red Bulls           0-1 Seattle Sounders
+Sat May/15 12:30 Kansas City Wizards           2-2 Chicago Fire
+Sat May/15 14:30 Los Angeles Galaxy           0-0 Toronto FC
+Thu May/20 12:00 New York Red Bulls           1-3 Columbus Crew
+Thu May/20 12:30 FC Dallas           0-1 Los Angeles Galaxy
+Sat May/22 05:00 Toronto FC           1-0 New England Revolution
+Sat May/22 07:00 Seattle Sounders           0-1 San Jose Earthquakes
+Sat May/22 12:00 Houston Dynamo           2-0 Washington D.C. United
+Sat May/22 14:30 CD Chivas USA           1-2 Real Salt Lake
+Sun May/23 08:00 Kansas City Wizards           0-1 Columbus Crew
+Thu May/27 12:00 Chicago Fire           1-1 FC Dallas
+Sat May/29 11:30 Columbus Crew           0-2 Los Angeles Galaxy
+Sat May/29 11:30 Washington D.C. United           3-2 CD Chivas USA
+Sat May/29 12:00 New England Revolution           3-2 New York Red Bulls
+Sat May/29 12:30 Houston Dynamo           2-3 Philadelphia Union
+Sat May/29 13:00 Colorado Rapids           1-0 Seattle Sounders
+Sat May/29 13:00 Real Salt Lake           4-1 Kansas City Wizards
+Sat May/29 14:00 San Jose Earthquakes           1-3 Toronto FC
+Wed Jun/2 11:30 New York Red Bulls           2-1 Houston Dynamo
+Wed Jun/2 14:00 San Jose Earthquakes           2-2 Columbus Crew
+Sat Jun/5 08:05 Toronto FC           0-0 Kansas City Wizards
+Sat Jun/5 11:30 Washington D.C. United           0-0 Real Salt Lake
+Sat Jun/5 11:30 New York Red Bulls           1-0 CD Chivas USA
+Sat Jun/5 12:00 Los Angeles Galaxy           4-1 Houston Dynamo
+Sat Jun/5 12:30 Chicago Fire           2-1 Philadelphia Union
+Sat Jun/5 12:30 FC Dallas           2-0 San Jose Earthquakes
+Sat Jun/5 13:00 Colorado Rapids           1-0 Columbus Crew
+Sat Jun/5 14:30 Seattle Sounders           3-0 New England Revolution
+Wed Jun/9 13:00 Chicago Fire           2-2 Colorado Rapids
+Wed Jun/9 13:00 Real Salt Lake           1-0 Los Angeles Galaxy
+Thu Jun/10 12:00 Kansas City Wizards           2-0 Philadelphia Union
+Thu Jun/10 14:00 Seattle Sounders           2-3 Washington D.C. United
+Fri Jun/25 13:00 Real Salt Lake           0-0 San Jose Earthquakes
+Sat Jun/26 11:30 Columbus Crew           2-0 Washington D.C. United
+Sat Jun/26 11:30 Toronto FC           0-0 Los Angeles Galaxy
+Sat Jun/26 12:30 Houston Dynamo           2-2 Colorado Rapids
+Sat Jun/26 12:30 Kansas City Wizards           0-3 New York Red Bulls
+Sat Jun/26 14:30 CD Chivas USA           1-2 FC Dallas
+Sun Jun/27 09:00 Philadelphia Union           3-1 Seattle Sounders
+Sun Jun/27 11:05 New England Revolution           0-1 Chicago Fire
+Thu Jul/1 11:00 Toronto FC           1-1 Houston Dynamo
+Fri Jul/2 14:00 Real Salt Lake           5-0 New England Revolution
+Sat Jul/3 12:00 Columbus Crew           2-1 Chicago Fire
+Sat Jul/3 12:30 FC Dallas           1-0 Kansas City Wizards
+Sat Jul/3 14:00 San Jose Earthquakes           1-1 Washington D.C. United
+Sat Jul/3 14:30 CD Chivas USA           1-1 Philadelphia Union
+Sun Jul/4 13:00 Colorado Rapids           1-1 New York Red Bulls
+Sun Jul/4 14:30 Los Angeles Galaxy           3-1 Seattle Sounders
+Thu Jul/8 13:30 Chicago Fire           0-1 Real Salt Lake
+Sat Jul/10 03:59 Toronto FC           1-0 Colorado Rapids
+Sat Jul/10 10:00 Philadelphia Union           1-2 San Jose Earthquakes
+Sat Jul/10 11:35 New York Red Bulls           0-0 Washington D.C. United
+Sat Jul/10 11:35 New England Revolution           2-0 Los Angeles Galaxy
+Sat Jul/10 12:35 Houston Dynamo           0-0 Columbus Crew
+Sat Jul/10 12:35 Kansas City Wizards           0-2 CD Chivas USA
+Sun Jul/11 14:30 Seattle Sounders           1-1 FC Dallas
+Wed Jul/14 11:30 Columbus Crew           0-1 Kansas City Wizards
+Thu Jul/15 12:00 Washington D.C. United           0-1 Seattle Sounders
+Sat Jul/17 07:30 Philadelphia Union           2-1 Toronto FC
+Sat Jul/17 11:30 Columbus Crew           2-0 New York Red Bulls
+Sat Jul/17 12:30 FC Dallas           2-0 Real Salt Lake
+Sat Jul/17 13:00 Colorado Rapids           1-1 Kansas City Wizards
+Sun Jul/18 11:30 Washington D.C. United           1-2 Los Angeles Galaxy
+Thu Jul/22 14:30 Los Angeles Galaxy           2-2 San Jose Earthquakes
+Sat Jul/24 08:00 Toronto FC           1-1 FC Dallas
+Sat Jul/24 11:30 Columbus Crew           3-0 Houston Dynamo
+Sat Jul/24 14:00 Real Salt Lake           1-1 CD Chivas USA
+Sun Jul/25 14:30 Seattle Sounders           2-1 Colorado Rapids
+Sat Jul/31 07:30 Philadelphia Union           1-1 New England Revolution
+Sat Jul/31 08:00 Colorado Rapids           1-1 FC Dallas
+Sat Jul/31 12:30 Houston Dynamo           2-2 New York Red Bulls
+Sat Jul/31 12:30 Kansas City Wizards           1-0 Toronto FC
+Sat Jul/31 13:00 Real Salt Lake           3-0 Washington D.C. United
+Sat Jul/31 14:00 San Jose Earthquakes           0-1 Seattle Sounders
+Sat Jul/31 14:30 CD Chivas USA           3-1 Columbus Crew
+Sun Aug/1 11:30 Los Angeles Galaxy           2-3 Chicago Fire
+Thu Aug/5 12:00 Philadelphia Union           1-2 Columbus Crew
+Sat Aug/7 08:00 Toronto FC           2-1 CD Chivas USA
+Sat Aug/7 11:30 New England Revolution           1-0 Washington D.C. United
+Sat Aug/7 12:30 Kansas City Wizards           1-1 Real Salt Lake
+Sat Aug/7 13:00 Colorado Rapids           1-0 San Jose Earthquakes
+Sun Aug/8 10:05 FC Dallas           3-1 Philadelphia Union
+Sun Aug/8 13:00 Chicago Fire           0-0 New York Red Bulls
+Sun Aug/8 15:00 Seattle Sounders           2-0 Houston Dynamo
+Wed Aug/11 11:30 New York Red Bulls           1-0 Toronto FC
+Wed Aug/11 11:30 Philadelphia Union           1-1 Real Salt Lake
+Sat Aug/14 08:00 Philadelphia Union           1-1 Colorado Rapids
+Sat Aug/14 10:00 New York Red Bulls           0-1 Los Angeles Galaxy
+Sat Aug/14 12:00 Washington D.C. United           1-3 FC Dallas
+Sat Aug/14 12:00 New England Revolution           1-0 Houston Dynamo
+Sat Aug/14 13:00 Real Salt Lake           2-0 Columbus Crew
+Sat Aug/14 14:00 San Jose Earthquakes           1-0 Kansas City Wizards
+Sat Aug/14 15:00 CD Chivas USA           0-0 Seattle Sounders
+Wed Aug/18 12:30 Chicago Fire           2-1 New England Revolution
+Sat Aug/21 05:00 Toronto FC           1-4 New York Red Bulls
+Sat Aug/21 08:00 San Jose Earthquakes           1-0 Los Angeles Galaxy
+Sat Aug/21 11:30 Columbus Crew           3-1 Colorado Rapids
+Sat Aug/21 12:30 FC Dallas           1-0 CD Chivas USA
+Sat Aug/21 12:30 Kansas City Wizards           4-1 New England Revolution
+Sat Aug/21 12:30 Houston Dynamo           4-3 Chicago Fire
+Sun Aug/22 06:00 Washington D.C. United           2-0 Philadelphia Union
+Sat Aug/28 08:00 Columbus Crew           0-0 FC Dallas
+Sat Aug/28 11:00 Toronto FC           0-0 Real Salt Lake
+Sat Aug/28 11:30 New England Revolution           1-2 Philadelphia Union
+Sat Aug/28 11:30 New York Red Bulls           2-0 San Jose Earthquakes
+Sat Aug/28 13:30 Colorado Rapids           3-0 Houston Dynamo
+Sat Aug/28 14:37 Los Angeles Galaxy           0-2 Kansas City Wizards
+Sat Aug/28 14:37 Seattle Sounders           2-1 Chicago Fire
+Sun Aug/29 14:15 CD Chivas USA           1-0 Washington D.C. United
+Sat Sep/4 07:30 Philadelphia Union           1-1 Kansas City Wizards
+Sat Sep/4 08:00 Chicago Fire           1-1 Los Angeles Galaxy
+Sat Sep/4 11:30 Washington D.C. United           0-1 Columbus Crew
+Sat Sep/4 11:30 New England Revolution           3-1 Seattle Sounders
+Sat Sep/4 12:30 FC Dallas           1-0 Toronto FC
+Sat Sep/4 13:00 Real Salt Lake           1-0 New York Red Bulls
+Sat Sep/4 13:00 Colorado Rapids           3-0 CD Chivas USA
+Sun Sep/5 12:30 Houston Dynamo           1-2 San Jose Earthquakes
+Wed Sep/8 12:30 Chicago Fire           0-0 Toronto FC
+Thu Sep/9 15:00 Seattle Sounders           0-0 Real Salt Lake
+Fri Sep/10 14:40 CD Chivas USA           2-0 New England Revolution
+Sat Sep/11 08:00 Toronto FC           0-1 Washington D.C. United
+Sat Sep/11 08:00 New York Red Bulls           3-1 Colorado Rapids
+Sat Sep/11 10:00 Philadelphia Union           1-0 Chicago Fire
+Sat Sep/11 14:00 San Jose Earthquakes           0-0 FC Dallas
+Sat Sep/11 14:30 Los Angeles Galaxy           3-1 Columbus Crew
+Wed Sep/15 14:00 San Jose Earthquakes           1-0 Philadelphia Union
+Thu Sep/16 13:00 FC Dallas           2-2 New York Red Bulls
+Sat Sep/18 08:00 Real Salt Lake           1-0 Chicago Fire
+Sat Sep/18 11:30 Columbus Crew           0-4 Seattle Sounders
+Sat Sep/18 12:30 Houston Dynamo           1-2 Toronto FC
+Sat Sep/18 13:00 Colorado Rapids           3-0 New England Revolution
+Sat Sep/18 14:30 Los Angeles Galaxy           2-1 Washington D.C. United
+Sun Sep/19 12:00 CD Chivas USA           0-2 Kansas City Wizards
+Wed Sep/22 12:30 Kansas City Wizards           4-3 Houston Dynamo
+Wed Sep/22 12:30 FC Dallas           2-2 New England Revolution
+Fri Sep/24 15:10 Los Angeles Galaxy           0-2 New York Red Bulls
+Sat Sep/25 08:00 Philadelphia Union           3-0 CD Chivas USA
+Sat Sep/25 08:00 Toronto FC           2-3 San Jose Earthquakes
+Sat Sep/25 11:37 Washington D.C. United           1-3 Houston Dynamo
+Sat Sep/25 11:37 New England Revolution           2-2 Columbus Crew
+Sat Sep/25 12:00 Chicago Fire           0-1 Seattle Sounders
+Sat Sep/25 12:00 Kansas City Wizards           1-3 FC Dallas
+Sat Sep/25 14:00 Real Salt Lake           1-1 Colorado Rapids
+Wed Sep/29 13:30 Colorado Rapids           4-1 Philadelphia Union
+Wed Sep/29 15:00 San Jose Earthquakes           0-3 Chicago Fire
+Sat Oct/2 07:30 Seattle Sounders           3-2 Toronto FC
+Sat Oct/2 08:00 Philadelphia Union           1-1 Houston Dynamo
+Sat Oct/2 11:35 Columbus Crew           0-0 San Jose Earthquakes
+Sat Oct/2 11:35 New England Revolution           1-2 Real Salt Lake
+Sat Oct/2 11:35 New York Red Bulls           1-0 Kansas City Wizards
+Sat Oct/2 12:30 FC Dallas           3-0 Chicago Fire
+Sat Oct/2 13:00 Colorado Rapids           0-1 Washington D.C. United
+Sun Oct/3 12:00 CD Chivas USA           1-2 Los Angeles Galaxy
+Thu Oct/7 12:00 Philadelphia Union           0-1 Los Angeles Galaxy
+Fri Oct/8 13:00 Chicago Fire           2-0 Columbus Crew
+Sat Oct/9 08:00 New York Red Bulls           0-0 Real Salt Lake
+Sat Oct/9 10:00 FC Dallas           2-2 Colorado Rapids
+Sat Oct/9 11:30 Washington D.C. United           0-2 San Jose Earthquakes
+Sat Oct/9 12:30 Kansas City Wizards           1-2 Seattle Sounders
+Sat Oct/9 14:30 CD Chivas USA           3-0 Toronto FC
+Sun Oct/10 12:30 Houston Dynamo           1-2 New England Revolution
+Tue Oct/12 12:30 Chicago Fire           0-2 Kansas City Wizards
+Fri Oct/15 15:00 Seattle Sounders           2-1 CD Chivas USA
+Sat Oct/16 08:00 Chicago Fire           0-0 Washington D.C. United
+Sat Oct/16 08:00 Toronto FC           2-2 Columbus Crew
+Sat Oct/16 10:00 Philadelphia Union           2-1 New York Red Bulls
+Sat Oct/16 12:00 New England Revolution           1-0 Kansas City Wizards
+Sat Oct/16 13:00 Real Salt Lake           2-0 FC Dallas
+Sat Oct/16 14:00 San Jose Earthquakes           0-1 Houston Dynamo
+Sat Oct/16 14:30 Los Angeles Galaxy           1-3 Colorado Rapids
+Wed Oct/20 14:00 San Jose Earthquakes           3-0 CD Chivas USA
+Thu Oct/21 11:50 New York Red Bulls           2-0 New England Revolution
+Sat Oct/23 08:00 Houston Dynamo           2-1 Seattle Sounders
+Sat Oct/23 11:30 Washington D.C. United           2-3 Toronto FC
+Sat Oct/23 12:30 Kansas City Wizards           4-1 San Jose Earthquakes
+Sat Oct/23 13:00 Colorado Rapids           2-2 Real Salt Lake
+Sat Oct/23 15:00 CD Chivas USA           1-4 Chicago Fire
+Sun Oct/24 08:00 Columbus Crew           3-1 Philadelphia Union
+Sun Oct/24 12:00 Los Angeles Galaxy           2-1 FC Dallas
+
+Quarter Final
+
+Thu Oct/28 13:15 Colorado Rapids           1-0 Columbus Crew
+Sat Oct/30 09:00 FC Dallas           2-1 Real Salt Lake
+Sat Oct/30 14:00 San Jose Earthquakes           0-1 New York Red Bulls
+Sun Oct/31 12:20 Seattle Sounders           0-1 Los Angeles Galaxy
+Thu Nov/4 12:20 New York Red Bulls           1-3 San Jose Earthquakes
+Sat Nov/6 08:00 Columbus Crew           2-1 Colorado Rapids
+Sat Nov/6 14:00 Real Salt Lake           1-1 FC Dallas
+Sun Nov/7 13:20 Los Angeles Galaxy           2-1 Seattle Sounders
+
+Semifinal
+
+Sat Nov/13 13:30 Colorado Rapids           1-0 San Jose Earthquakes
+Sun Nov/14 13:00 Los Angeles Galaxy           0-3 FC Dallas
+
+Final
+
+Sun Nov/21 12:55 Colorado Rapids(N)           1-1 FC Dallas
+

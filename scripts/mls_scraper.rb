@@ -56,7 +56,7 @@ class MLSScraper
 
   # Format a URL for historical data, and return a request
   def get_historical_game_data(year)
-    url_s = "http://data2.7m.cn/history_matches_data/#{year}/107/en/matches.js"
+    url_s = (year.to_i < 2008) ? "http://data2.7m.cn/history_matches_data/#{year}/107/en/index.shtml" : "http://data2.7m.cn/history_matches_data/#{year}/107/en/matches.js"
     url = URI.parse(URI.encode(url_s))
     request = Net::HTTP::Get.new(url.path, {'Accept' => '*/*', 'Cache-Control' => 'max-age=0', 
       'If-Modified-Since' => 'Mon, 30 Jun 2014 02:40:09 GMT', 'If-None-Match' => "bcb08f55c6f3ce1:bed4", 

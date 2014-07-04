@@ -1,4 +1,4 @@
-years = (2004..2014)
+years = (2005..2014)
 
 years.each do |year|
   directory "#{year}"
@@ -8,6 +8,7 @@ years.each do |year|
   end
 end
 
+desc "Generate all historical fixture data"
 task :generate_all_data => years.map { |year| "#{year}/mls.txt"} do
   p "(Re)Generating all fixture data"
 end
