@@ -9,4 +9,12 @@ major-league-soccer!/leagues
 
 # Match data
 major-league-soccer!/2014/mls
-
+major-league-soccer!/2013/mls
+major-league-soccer!/2012/mls
+major-league-soccer!/2011/mls
+major-league-soccer!/2010/mls
+major-league-soccer!/2009/mls
+major-league-soccer!/2008/mls
+major-league-soccer!/2007/mls
+major-league-soccer!/2006/mls
+major-league-soccer!/2005/mls
