@@ -1,10 +1,9 @@
-##################################
-#  MLS Season 2014
+
+# MLS Season 2011
 
 league: mls
-season: 2014
-start_at: 2014-03-08
-
+season: 2011
+start_at: 2011-01-01
 
 fixtures:
 - mls
@@ -29,4 +28,3 @@ teams:
 - toronto
 - vancouver
 - montreal
-
