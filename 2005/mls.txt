@@ -203,4 +203,4 @@ Sat Oct/29 14:00 San Jose           1-1 Los Angeles Galaxy
 Sun Oct/30 08:30 Washington D.C. United           0-4 Chicago Fire
 Sat Nov/5 13:00 Colorado Rapids           0-2 Los Angeles Galaxy
 Sun Nov/6 07:00 N.E. Revolution           1-0 Chicago Fire
-Sun Nov/13 07:30 N.E. Revolution(N)           0-0 Los Angeles Galaxy
+Sun Nov/13 07:30 N.E. Revolution           0-0 Los Angeles Galaxy

@@ -9,7 +9,7 @@ Sat Mar/2 14:30 CD Chivas USA           0-3 Columbus Crew
 Sun Mar/3 09:00 Los Angeles Galaxy           4-0 Chicago Fire
 Sun Mar/3 11:55 Portland Timbers           3-3 New York Red Bulls
 Sun Mar/3 14:00 San Jose Earthquakes           0-2 Real Salt Lake
-Sat Mar/9 05:30 Toronto FC(N)           2-1 Sporting Kansas City
+Sat Mar/9 05:30 Toronto FC           2-1 Sporting Kansas City
 Sat Mar/9 11:00 Washington D.C. United           1-0 Real Salt Lake
 Sat Mar/9 11:30 Vancouver Whitecaps FC           2-1 Columbus Crew
 Sat Mar/9 11:50 Chicago Fire           0-1 New England Revolution
@@ -19,7 +19,7 @@ Sun Mar/10 09:00 CD Chivas USA           3-1 FC Dallas
 Sun Mar/10 14:00 San Jose Earthquakes           2-1 New York Red Bulls
 Sat Mar/16 04:30 New York Red Bulls           0-0 Washington D.C. United
 Sat Mar/16 07:20 Sporting Kansas City           0-0 Chicago Fire
-Sat Mar/16 08:00 Montreal Impact(N)           2-1 Toronto FC
+Sat Mar/16 08:00 Montreal Impact           2-1 Toronto FC
 Sat Mar/16 09:00 Philadelphia Union           1-0 New England Revolution
 Sat Mar/16 09:30 Columbus Crew           1-1 San Jose Earthquakes
 Sat Mar/16 10:00 Real Salt Lake           1-1 Colorado Rapids
@@ -155,7 +155,7 @@ Sat Jun/29 09:50 Philadelphia Union           2-2 FC Dallas
 Sat Jun/29 11:00 Montreal Impact           3-4 Colorado Rapids
 Sat Jun/29 11:00 Washington D.C. United           0-1 Vancouver Whitecaps FC
 Sat Jun/29 12:30 Sporting Kansas City           3-2 Columbus Crew
-Sat Jun/29 14:30 San Jose Earthquakes(N)           3-2 Los Angeles Galaxy
+Sat Jun/29 14:30 San Jose Earthquakes           3-2 Los Angeles Galaxy
 Sat Jun/29 14:40 CD Chivas USA           1-1 New England Revolution
 Sun Jun/30 06:00 New York Red Bulls           2-0 Houston Dynamo
 Wed Jul/3 11:00 Toronto FC           3-3 Montreal Impact

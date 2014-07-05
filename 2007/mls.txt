@@ -205,4 +205,4 @@ Sat Nov/3 11:30 New England Revolution           1-0 New York Red Bulls
 Sat Nov/3 14:30 CD Chivas USA           0-0 Kansas City Wizards
 Thu Nov/8 11:30 New England Revolution           1-0 Chicago Fire
 Sat Nov/10 12:30 Houston Dynamo           2-0 Kansas City Wizards
-Sun Nov/18 04:15 New England Revolution(N)           1-2 Houston Dynamo
+Sun Nov/18 04:15 New England Revolution           1-2 Houston Dynamo

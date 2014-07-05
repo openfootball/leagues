@@ -8,12 +8,15 @@ require 'optparse'
 # A command-line utility to parse MLS data into
 # openfootball fixtures
 class MLSScraper
+  attr_accessor :arrays
+
   # Initialize logging
   # TBD: Determine source?
   def initialize(options)
     @logger = Logger.new(STDOUT)
     @logger.level = (options[:verbose] != nil) ? options[:verbose] : Logger::WARN
     @logger.debug(options.to_s)
+    @gen_roster = (options[:roster] != nil) ? options[:roster] : true
 
     @options = options
   end
@@ -34,13 +37,20 @@ class MLSScraper
         arr = {}
         matched = false
         arr[:name] = match[1]
-        arr[:val] = eval(match[3])
+        sanitized_val = match[3]
+
+        # Some teams have an (N) post fix
+        if (arr[:name] =~ /team/i)
+          sanitized_val = match[3].gsub(/\(N\)/,'')
+        end
+
+        arr[:val] = eval(sanitized_val)
 
         # Check if the name already exists.  If so, it will become an array of arrays (2D)
         arrays.each do |a|
           if (a[:name] == arr[:name])
             matched = true
-            a[:val][match[2].to_i] = eval(match[3])
+            a[:val][match[2].to_i] = eval(sanitized_val)
           end
         end
 
@@ -68,8 +78,8 @@ class MLSScraper
     # These arrays have a different format
     # s_name_arr = [ 'Qualifying','Play-offs','Quarter Final','Semifinal','Final'];
     # Some arrays are 2D, with first index corresponding to s_name_arr index
-    arrays = parse_js_array_v2(js)
-    return parse_arrays(arrays)
+    @arrays = parse_js_array_v2(js)
+    return parse_arrays(@arrays)
   end
 
   def get_response(url, request)
@@ -122,6 +132,7 @@ class MLSScraper
     teamB = []
     scores = []
     rounds = []
+    teamA_ids = []
     ret = ""
 
     arrays.each do |arr|
@@ -141,6 +152,18 @@ class MLSScraper
         when "s_name_arr"
           rounds = arr[:val]
           @logger.debug("[scrape] rounds: " + rounds.to_s)
+        when "TeamA_bh_arr"
+          teamA_ids = arr[:val]
+          @logger.debug("[scrape] teamA_ids: " + rounds.to_s)
+      end
+    end
+
+    # Generate rosters
+    if (@gen_roster)
+      if rounds.size > 0
+        print_rosters(teamA[0], teamA_ids[0])
+      else
+        print_rosters(teamA, teamA_ids)
       end
     end
 
@@ -158,6 +181,20 @@ class MLSScraper
     end
 
     return ret
+  end
+
+  # Query for each team's roster
+  def print_rosters(team_names, team_ids)
+    teams = {}
+
+    team_names.each_with_index do |team, i|
+      teams[team] = team_ids[i]
+    end
+
+    @logger.debug(teams)
+
+    # URL for team data
+    url_s = "http://data2.7m.cn/team_data/347/en/index.shtml"
   end
 
   # Return a hash {name: "foo", val: [bar]}
