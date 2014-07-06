@@ -2,7 +2,6 @@ require 'open-uri'
 #require 'nokogiri'
 require 'logger'
 require 'net/http'
-# Jaavscript parser
 require 'optparse'
 
 # A command-line utility to parse MLS data into
