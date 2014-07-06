@@ -7,7 +7,7 @@ class ESPNScraper
   def initialize(options = {})
     @base = "http://www.espnfc.com"
     @logger = Logger.new(STDOUT)
-    @logger.level = (options[:verbose]) ? options[:verbose] : Logger::DEBUG
+    @logger.level = (options[:verbose]) ? options[:verbose] : Logger::Info
     @roster_file = (options[:file]) ? options[:file] : "roster"
     @options = options
   end
@@ -18,8 +18,7 @@ class ESPNScraper
     # Find the URL for each team
     doc = Nokogiri::HTML(open("http://www.espnfc.com/major-league-soccer/19/statistics/scorers"))
     clubs_l = doc.css("li.sublist ul li a")
-    year = (@options[:year]) ? options[:year] : 2014
-    fixture_s = ""
+    year = (@options[:year]) ? @options[:year] : 2014
 
     clubs_l.each do | club |
       club_name = club.content.to_s.strip
@@ -28,7 +27,8 @@ class ESPNScraper
       @logger.debug("[scrape]   URL: " + squad_url)
       roster = scrape_team_roster(squad_url, year)
       fixture_s = generate_fixture(roster)
-      File.open("#{@roster_file}_#{club_name}_#{year.to_s}.txt", 'w') {|file| file.write(fixture_data)}
+      club_name = club_name.sub(/ /, '_').downcase
+      File.open("#{@roster_file}_#{club_name}_#{year.to_s}.txt", 'w') {|file| file.write(fixture_s)}
     end
   end
 
@@ -97,7 +97,7 @@ class ESPNScraper
       # If we parsed out some valid values, create an entry
       if (name != "" and number != -1)
         @logger.debug("[generate_fixture] Adding Player: (#{number}) #{pos} #{name}")
-        ret += "(#{number}) #{pos} #{name}"
+        ret += "(#{number}) #{pos} #{name}\n"
       end
     end # roster.each
 

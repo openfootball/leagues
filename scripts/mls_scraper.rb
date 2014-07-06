@@ -3,6 +3,7 @@ require 'open-uri'
 require 'logger'
 require 'net/http'
 require 'optparse'
+require_relative 'espn_scraper'
 
 # A command-line utility to parse MLS data into
 # openfootball fixtures
@@ -15,7 +16,10 @@ class MLSScraper
     @logger = Logger.new(STDOUT)
     @logger.level = (options[:verbose] != nil) ? options[:verbose] : Logger::WARN
     @logger.debug(options.to_s)
-    @gen_roster = (options[:roster] != nil) ? options[:roster] : true
+
+    # Do this in ESPN Scraper instead
+    #@gen_roster = (options[:roster] != nil) ? options[:roster] : true
+    @gen_roster = false
 
     @options = options
   end
@@ -270,7 +274,7 @@ def parse_options
   options = {}
 
   # Some defaults
-  options[:file] = "temp.txt"
+  options[:file] = "temp"
   options[:verbose] = Logger::WARN
   options[:year] = 2014
 
@@ -288,6 +292,10 @@ def parse_options
     opt.on('-y', '--year YEAR', 'Get historical data for YEAR') do |year|
       options[:year] = year
     end
+
+    opt.on('-r', '--roster roster', 'Get historical data for roster') do
+      options[:roster] = true
+    end
   end
 
   opts.parse!
@@ -300,13 +308,18 @@ def main
   fixture_data = ""
   m = MLSScraper.new(options)
 
-  # Current year is a different API
-  if (options[:year].to_i == Date.today.year)
-    fixture_data = m.scrape
+  if(options[:roster])
+    e = ESPNScraper.new(options)
+    e.scrape
   else
-    fixture_data = m.get_historical_game_data(options[:year])
-  end
-  File.open(options[:file], 'w') {|file| file.write(fixture_data)}
+    # Current year is a different API
+    if (options[:year].to_i == Date.today.year)
+      fixture_data = m.scrape
+    else
+      fixture_data = m.get_historical_game_data(options[:year])
+    end
+    File.open(options[:file], 'w') {|file| file.write(fixture_data)}
+  end # not roster
 end
 
 # Execute standalone or import
