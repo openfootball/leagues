@@ -293,9 +293,18 @@ def parse_options
       options[:year] = year
     end
 
-    opt.on('-r', '--roster roster', 'Get historical data for roster') do
+    opt.on('-r', '--roster', 'Get historical data for roster') do
       options[:roster] = true
     end
+
+    opt.on('-a', '--aux_file file1,file2,file3,...', Array, 'Helper files for formatting.  e.g. For roster, these can be team .yml files') do |aux|
+      if (aux.kind_of?(Array))
+        options[:aux] = aux
+      else
+        options[:aux] = [aux]
+      end
+    end
+    
   end
 
   opts.parse!

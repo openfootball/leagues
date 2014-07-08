@@ -3,6 +3,11 @@ years = (2005..2014)
 years.each do |year|
   directory "#{year}"
 
+  file "#{year}/squads" => "#{year}" do
+    sh "mkdir -p #{year}/squads/"
+    sh "ruby scripts/mls_scraper.rb -r -y #{year} -v -o #{year}/squads/ -a teams_us.txt,teams_ca.txt"
+  end
+
   file "#{year}/mls.txt" => "#{year}" do
     sh "ruby scripts/mls_scraper.rb -y #{year} -o #{year}/mls.txt"
   end
@@ -51,4 +56,9 @@ end
 desc "Generate a base .yml file for each year.  Might need manual updates"
 task :migrate_yml => years.map {|year| "#{year}/mls.yml"} do
   p "Generated all yml data"
+end
+
+desc "Generate the squads for each year"
+task :gen_squads => years.map {|year| "#{year}/squads"} do
+  p "Generated all squad data"
 end

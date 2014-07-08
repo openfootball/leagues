@@ -14,7 +14,7 @@ dallas, FC Dallas, city:dallas, us
 chivasusa, Club Deportivo Chivas US|CD Chivas USA, us
 chicago, Chicago Fire, us
 columbus, Columbus Crew, us
-dcunited, D.C. United, us
+dcunited, D.C. United|DC United, us
 newengland, New England Revolution, us
 newyork, New York Red Bulls, us
 philadelphia, Philadelphia Union, us

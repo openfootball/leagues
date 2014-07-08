@@ -1,0 +1,25 @@
+(24) G Bouna Coundoul
+(1) G Joe Cannon
+(27) G Byron Foss
+(32) D Stephen Keel
+(12) D Joshua Elbaum
+(8) D Hunter Freeman
+(6) D Mike Petke
+(28) D Leo Cullen
+(2) D Ricky Lewis
+(19) M Dedi Ben Dayan
+(30) M Amir Lowery
+(4) M Dan Gargan
+(16) M Eric Denton
+(--) M Clint Mathis
+(21) M Matt Crawford
+(5) M Kyle Beckerman
+(9) M Nat Borchers
+(25) M Pablo Mastroeni
+(14) M Terry Cooke
+(26) F Fabrice Noel
+(31) F Sasha Gotsmanov
+(--) F Cornell Glen
+(10) F Jean Philippe Peguero
+(7) F Luchi Gonzalez
+(20) F Jovan Kirovski

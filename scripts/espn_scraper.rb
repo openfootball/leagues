@@ -9,13 +9,49 @@ class ESPNScraper
     @logger = Logger.new(STDOUT)
     @logger.level = (options[:verbose]) ? options[:verbose] : Logger::Info
     @roster_file = (options[:file]) ? options[:file] : "roster"
+    @team_files = (options[:aux]) ? options[:aux] : []
     @options = options
+
+    # Build up an array 
+    lookup_team_keys(@team_files)
+  end
+
+  # Load N YAML files to determine what the keys for for each team
+  def lookup_team_keys(files)
+    @team_keys = {}
+    files.each do |file|
+      if (file =~ /\.yml/)
+        # Try to use the yml directly
+        f = YAML.load_file(file)
+        @team_keys += f["teams"]
+      else
+        # Use the teams.txt files because they have more info - easier to match
+        File.open(file).each do |line|
+          match = /^([A-Za-z0-9_\-]+),/.match(line)
+          if(match && match[1])
+            @team_keys[match[1]] = line.strip
+          end
+        end
+      end
+    end
+    @logger.debug("[lookup_team_keys] team_keys: " + @team_keys.to_s)
+  end
+
+  def find_key(name)
+    @team_keys.each do |key, line|
+      if (line =~ /#{name}/i)
+        @logger.debug("[find_key] Found #{key} for #{name}")
+        return key
+      end
+    end
+
+    @logger.debug("[find_key] No match for #{name}")
+    return "none"
   end
 
   def scrape
-    #details["name"] = doc.search('//meta[@itemprop="name"]').first['content']
-    #err_div = doc.css('#app div#gf-viewc div')[6]
     # Find the URL for each team
+    #details["name"] = doc.search('//meta[@itemprop="name"]').first['content']
     doc = Nokogiri::HTML(open("http://www.espnfc.com/major-league-soccer/19/statistics/scorers"))
     clubs_l = doc.css("li.sublist ul li a")
     year = (@options[:year]) ? @options[:year] : 2014
@@ -26,9 +62,17 @@ class ESPNScraper
       squad_url = @base + club.attributes["href"].value.to_s.sub(/index/,'squad') + "?season=#{year}"
       @logger.debug("[scrape]   URL: " + squad_url)
       roster = scrape_team_roster(squad_url, year)
-      fixture_s = generate_fixture(roster)
-      club_name = club_name.sub(/ /, '_').downcase
-      File.open("#{@roster_file}_#{club_name}_#{year.to_s}.txt", 'w') {|file| file.write(fixture_s)}
+
+      # If there's no data, move on to the next team
+      if (roster == [])
+        @logger.debug("[scrape] No data for club #{club} in year #{year}")
+        next
+      else
+        fixture_s = generate_fixture(roster)
+      end
+
+      club_key = find_key(club_name)
+      File.open("#{@roster_file}#{club_key}-#{year.to_s}.txt", 'w') {|file| file.write(fixture_s)}
     end
   end
 
@@ -40,9 +84,6 @@ class ESPNScraper
     doc = Nokogiri::HTML(open(url))
 
     # Goalkeepers are in their own table
-    #data = doc.css("div.squad-data-table div.responsive-table")
-
-    # Goalkeepers
     data = doc.css("div.squad-data-table div.responsive-table div table tbody tr")
     
     data.each do |row|

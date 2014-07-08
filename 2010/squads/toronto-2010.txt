@@ -1,0 +1,29 @@
+(24) G Stefan Frei
+(1) G Milos Kocic
+(1) G Jon Conway
+(28) D Doneil Henry
+(34) D Raivis Hscanovics
+(--) D Zachary Herold
+(20) D Ty Harden
+(32) D Emmanuel Gomez
+(33) D Maksim Usanov
+(3) D Nana Attakora-Gyan
+(12) D Adrian Cann
+(4) D Nick Garcia
+(--) D Jim Brennan
+(15) M Joseph Nane
+(25) M Martin Saric
+(29) M Maicon Santos
+(22) M Amadou Sanyang
+(6) M Julián De Guzman
+(27) M Gabe Gala
+(21) M Nick LaBrocca
+(23) M Jacob Peterson
+(8) M Dan Gargan
+(14) M Dwayne De Rosario
+(37) F Nicholas Lindsay
+(7) F Fuad Ibrahim
+(17) F O'Brian White
+(10) F Mista
+(9) F Ali Gerba
+(19) F Chad Barrett
