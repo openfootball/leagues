@@ -1,10 +1,17 @@
-Qualifying
+
+# Qualifying
+
+
+Week 1
 
 Sat Mar/10 10:00 Colorado Rapids           2-0 Columbus Crew
 Sat Mar/10 10:00 Vancouver Whitecaps FC           2-0 Montreal Impact
 Sat Mar/10 11:30 Washington D.C. United           0-1 Sporting Kansas City
 Sat Mar/10 14:30 San Jose Earthquakes           1-0 New England Revolution
 Sat Mar/10 14:30 Los Angeles Galaxy           1-3 Real Salt Lake
+
+Week 2
+
 Sun Mar/11 07:20 FC Dallas           2-1 New York Red Bulls
 Sun Mar/11 11:00 CD Chivas USA           0-1 Houston Dynamo
 Mon Mar/12 13:50 Portland Timbers           3-1 Philadelphia Union
@@ -15,6 +22,9 @@ Sat Mar/17 12:30 Sporting Kansas City           3-0 New England Revolution
 Sat Mar/17 14:07 Seattle Sounders           3-1 Toronto FC
 Sat Mar/17 14:15 Real Salt Lake           2-0 New York Red Bulls
 Sat Mar/17 14:30 CD Chivas USA           0-1 Vancouver Whitecaps FC
+
+Week 3
+
 Sun Mar/18 08:15 Philadelphia Union           1-2 Colorado Rapids
 Sun Mar/18 11:00 Los Angeles Galaxy           3-1 Washington D.C. United
 Fri Mar/23 14:20 Seattle Sounders           2-0 Houston Dynamo
@@ -24,6 +34,9 @@ Sat Mar/24 08:00 Columbus Crew           2-0 Montreal Impact
 Sat Mar/24 12:30 Chicago Fire           1-0 Philadelphia Union
 Sat Mar/24 13:00 Real Salt Lake           0-1 CD Chivas USA
 Sat Mar/24 14:00 Vancouver Whitecaps FC           0-0 Washington D.C. United
+
+Week 4
+
 Sun Mar/25 08:00 New York Red Bulls           4-1 Colorado Rapids
 Sun Mar/25 11:00 Sporting Kansas City           2-1 FC Dallas
 Fri Mar/30 11:50 Washington D.C. United           4-1 FC Dallas
@@ -33,6 +46,9 @@ Sat Mar/31 08:00 Philadelphia Union           0-0 Vancouver Whitecaps FC
 Sat Mar/31 14:00 Portland Timbers           2-3 Real Salt Lake
 Sat Mar/31 14:00 Seattle Sounders           0-1 San Jose Earthquakes
 Sat Mar/31 15:25 Los Angeles Galaxy           1-3 New England Revolution
+
+Week 5
+
 Sun Apr/1 11:00 Colorado Rapids           2-0 Chicago Fire
 Sun Apr/1 13:00 CD Chivas USA           0-1 Sporting Kansas City
 Wed Apr/4 13:00 Real Salt Lake           1-0 Montreal Impact
@@ -44,6 +60,9 @@ Sat Apr/7 11:00 San Jose Earthquakes           3-1 Vancouver Whitecaps FC
 Sat Apr/7 11:30 Washington D.C. United           0-0 Seattle Sounders
 Sat Apr/7 13:07 Real Salt Lake           2-0 Colorado Rapids
 Sat Apr/7 14:30 Portland Timbers           1-2 CD Chivas USA
+
+Week 6
+
 Sat Apr/14 07:30 Philadelphia Union           1-0 Columbus Crew
 Sat Apr/14 08:00 New England Revolution           1-2 Washington D.C. United
 Sat Apr/14 08:00 Seattle Sounders           1-0 Colorado Rapids
@@ -52,6 +71,9 @@ Sat Apr/14 11:00 New York Red Bulls           2-2 San Jose Earthquakes
 Sat Apr/14 12:30 FC Dallas           2-1 Montreal Impact
 Sat Apr/14 12:30 Sporting Kansas City           1-0 Real Salt Lake
 Sat Apr/14 14:30 Los Angeles Galaxy           3-1 Portland Timbers
+
+Week 7
+
 Sun Apr/15 11:00 Chicago Fire           1-1 Houston Dynamo
 Wed Apr/18 11:30 Washington D.C. United           1-1 Montreal Impact
 Wed Apr/18 14:00 Vancouver Whitecaps FC           1-3 Sporting Kansas City
@@ -62,6 +84,9 @@ Sat Apr/21 14:00 Vancouver Whitecaps FC           1-0 FC Dallas
 Sat Apr/21 14:30 Portland Timbers           1-0 Sporting Kansas City
 Sat Apr/21 14:30 CD Chivas USA           0-1 Philadelphia Union
 Sat Apr/21 14:30 San Jose Earthquakes           3-1 Real Salt Lake
+
+Week 8
+
 Sun Apr/22 10:00 Washington D.C. United           4-1 New York Red Bulls
 Wed Apr/25 12:30 FC Dallas           1-1 Real Salt Lake
 Sat Apr/28 06:00 Montreal Impact           2-0 Portland Timbers
@@ -73,6 +98,9 @@ Sat Apr/28 12:30 Chicago Fire           1-2 Seattle Sounders
 Sat Apr/28 13:00 Real Salt Lake           3-2 Toronto FC
 Sat Apr/28 13:00 Colorado Rapids           4-0 CD Chivas USA
 Sat Apr/28 14:30 Los Angeles Galaxy           1-1 FC Dallas
+
+Week 9
+
 Wed May/2 12:00 New England Revolution           2-1 Colorado Rapids
 Wed May/2 14:00 Seattle Sounders           2-0 Los Angeles Galaxy
 Wed May/2 14:30 San Jose Earthquakes           5-3 Washington D.C. United
@@ -84,6 +112,9 @@ Sat May/5 12:10 Los Angeles Galaxy           0-1 New York Red Bulls
 Sat May/5 12:30 Sporting Kansas City           0-2 Montreal Impact
 Sat May/5 13:00 Real Salt Lake           2-1 New England Revolution
 Sat May/5 14:30 Portland Timbers           0-0 Columbus Crew
+
+Week 10
+
 Sun May/6 11:00 FC Dallas           0-2 Colorado Rapids
 Wed May/9 11:00 New York Red Bulls           1-0 Houston Dynamo
 Wed May/9 12:30 Chicago Fire           0-0 Real Salt Lake
@@ -94,6 +125,9 @@ Sat May/12 11:30 New England Revolution           4-1 Vancouver Whitecaps FC
 Sat May/12 11:30 Columbus Crew           2-1 FC Dallas
 Sat May/12 12:30 Chicago Fire           2-1 Sporting Kansas City
 Sat May/12 14:00 Seattle Sounders           0-1 Real Salt Lake
+
+Week 11
+
 Sun May/13 04:30 Philadelphia Union           2-3 New York Red Bulls
 Sun May/13 11:00 San Jose Earthquakes           1-1 CD Chivas USA
 Tue May/15 12:30 Houston Dynamo           0-0 Portland Timbers
@@ -106,6 +140,9 @@ Sat May/19 12:30 FC Dallas           1-1 Philadelphia Union
 Sat May/19 13:00 Colorado Rapids           2-2 Sporting Kansas City
 Sat May/19 14:35 CD Chivas USA           1-0 Los Angeles Galaxy
 Sat May/19 14:35 San Jose Earthquakes           1-1 Columbus Crew
+
+Week 12
+
 Sun May/20 11:00 Portland Timbers           2-1 Chicago Fire
 Wed May/23 11:00 New York Red Bulls           1-1 CD Chivas USA
 Wed May/23 12:30 Chicago Fire           2-1 FC Dallas
@@ -119,8 +156,14 @@ Sat May/26 13:00 Real Salt Lake           3-2 FC Dallas
 Sat May/26 13:00 Colorado Rapids           3-2 Montreal Impact
 Sat May/26 14:00 Portland Timbers           1-1 Vancouver Whitecaps FC
 Sat May/26 14:30 CD Chivas USA           1-1 Seattle Sounders
+
+Week 13
+
 Sun May/27 08:50 Sporting Kansas City           2-1 San Jose Earthquakes
 Sat Jun/2 11:40 New England Revolution           2-0 Chicago Fire
+
+Week 14
+
 Sun Jun/10 11:05 Vancouver Whitecaps FC           3-1 Houston Dynamo
 Sat Jun/16 11:00 Vancouver Whitecaps FC           1-0 Colorado Rapids
 Sat Jun/16 11:15 Philadelphia Union           0-1 Washington D.C. United
@@ -129,6 +172,9 @@ Sat Jun/16 11:30 Montreal Impact           4-1 Seattle Sounders
 Sat Jun/16 11:30 New England Revolution           0-0 Columbus Crew
 Sat Jun/16 12:30 Sporting Kansas City           2-0 Toronto FC
 Sat Jun/16 14:30 CD Chivas USA           0-3 Real Salt Lake
+
+Week 15
+
 Sun Jun/17 09:20 Chicago Fire           3-1 New York Red Bulls
 Sun Jun/17 11:10 Los Angeles Galaxy           1-0 Portland Timbers
 Wed Jun/20 13:10 Houston Dynamo           3-3 Toronto FC
@@ -144,6 +190,9 @@ Sat Jun/23 12:30 Chicago Fire           2-1 Columbus Crew
 Sat Jun/23 13:00 Real Salt Lake           1-2 San Jose Earthquakes
 Sat Jun/23 13:00 FC Dallas           0-0 CD Chivas USA
 Sat Jun/23 14:30 Los Angeles Galaxy           3-0 Vancouver Whitecaps FC
+
+Week 16
+
 Sun Jun/24 09:10 Portland Timbers           2-1 Seattle Sounders
 Sun Jun/24 11:20 New York Red Bulls           3-2 Washington D.C. United
 Wed Jun/27 11:40 Montreal Impact           0-3 Toronto FC
@@ -155,6 +204,9 @@ Sat Jun/30 12:37 Houston Dynamo           2-1 Philadelphia Union
 Sat Jun/30 13:00 Columbus Crew           2-0 Real Salt Lake
 Sat Jun/30 13:00 Colorado Rapids           3-0 Portland Timbers
 Sat Jun/30 14:00 San Jose Earthquakes           4-3 Los Angeles Galaxy
+
+Week 17
+
 Tue Jul/3 12:30 Houston Dynamo           0-0 Chicago Fire
 Tue Jul/3 14:30 Portland Timbers           2-1 San Jose Earthquakes
 Wed Jul/4 11:00 Montreal Impact           1-3 Sporting Kansas City
@@ -167,6 +219,9 @@ Sat Jul/7 13:00 Real Salt Lake           3-0 Portland Timbers
 Sat Jul/7 13:00 FC Dallas           0-0 San Jose Earthquakes
 Sat Jul/7 14:30 CD Chivas USA           0-0 Vancouver Whitecaps FC
 Sat Jul/7 15:20 Seattle Sounders           2-1 Colorado Rapids
+
+Week 18
+
 Sun Jul/8 07:00 Chicago Fire           0-2 Los Angeles Galaxy
 Sun Jul/8 08:00 Philadelphia Union           3-0 Toronto FC
 Sun Jul/8 11:00 New England Revolution           2-0 New York Red Bulls
@@ -179,6 +234,9 @@ Sat Jul/14 12:30 Chicago Fire           1-0 Vancouver Whitecaps FC
 Sat Jul/14 13:00 Colorado Rapids           1-2 FC Dallas
 Sat Jul/14 14:30 San Jose Earthquakes           5-0 Real Salt Lake
 Sat Jul/14 15:20 Portland Timbers           3-5 Los Angeles Galaxy
+
+Week 19
+
 Sun Jul/15 08:00 New York Red Bulls           2-2 Seattle Sounders
 Sun Jul/15 13:00 Houston Dynamo           4-0 Washington D.C. United
 Wed Jul/18 05:00 New York Red Bulls           1-0 Chicago Fire
@@ -195,6 +253,9 @@ Sat Jul/21 12:30 Sporting Kansas City           0-0 New England Revolution
 Sat Jul/21 13:00 FC Dallas           5-0 Portland Timbers
 Sat Jul/21 14:00 Real Salt Lake           2-0 Colorado Rapids
 Sat Jul/21 14:00 Los Angeles Galaxy           3-1 CD Chivas USA
+
+Week 20
+
 Sun Jul/22 11:00 Vancouver Whitecaps FC           2-1 San Jose Earthquakes
 Fri Jul/27 13:00 Real Salt Lake           2-1 Vancouver Whitecaps FC
 Sat Jul/28 08:30 Toronto FC           0-2 Houston Dynamo
@@ -204,6 +265,9 @@ Sat Jul/28 12:30 Sporting Kansas City           1-2 Columbus Crew
 Sat Jul/28 13:00 Colorado Rapids           1-2 Seattle Sounders
 Sat Jul/28 14:30 San Jose Earthquakes           1-1 Chicago Fire
 Sat Jul/28 15:05 Portland Timbers           0-1 CD Chivas USA
+
+Week 21
+
 Sun Jul/29 11:25 Philadelphia Union           2-1 New England Revolution
 Fri Aug/3 12:20 Houston Dynamo           2-0 New York Red Bulls
 Sat Aug/4 11:30 Washington D.C. United           1-0 Columbus Crew
@@ -211,6 +275,9 @@ Sat Aug/4 11:30 New England Revolution           0-1 Sporting Kansas City
 Sat Aug/4 11:30 Montreal Impact           2-0 Philadelphia Union
 Sat Aug/4 12:30 Chicago Fire           2-1 Toronto FC
 Sat Aug/4 13:00 Colorado Rapids           1-0 Real Salt Lake
+
+Week 22
+
 Sun Aug/5 11:20 Portland Timbers           1-1 FC Dallas
 Sun Aug/5 13:00 Seattle Sounders           4-0 Los Angeles Galaxy
 Fri Aug/10 12:20 New York Red Bulls           2-0 Houston Dynamo
@@ -218,6 +285,9 @@ Sat Aug/11 11:00 Vancouver Whitecaps FC           2-1 Real Salt Lake
 Sat Aug/11 12:30 Sporting Kansas City           2-1 Washington D.C. United
 Sat Aug/11 13:00 FC Dallas           3-2 Colorado Rapids
 Sat Aug/11 14:30 San Jose Earthquakes           2-1 Seattle Sounders
+
+Week 23
+
 Sun Aug/12 11:00 New England Revolution           0-1 Montreal Impact
 Sun Aug/12 11:00 Philadelphia Union           1-3 Chicago Fire
 Sun Aug/12 15:00 CD Chivas USA           0-4 Los Angeles Galaxy
@@ -230,6 +300,9 @@ Sat Aug/18 11:30 Montreal Impact           3-1 San Jose Earthquakes
 Sat Aug/18 12:30 Chicago Fire           2-1 New England Revolution
 Sat Aug/18 13:00 Real Salt Lake           1-2 FC Dallas
 Sat Aug/18 13:00 Colorado Rapids           1-1 CD Chivas USA
+
+Week 24
+
 Sun Aug/19 09:20 Washington D.C. United           1-1 Philadelphia Union
 Sun Aug/19 11:00 New York Red Bulls           3-2 Portland Timbers
 Sun Aug/19 13:00 Houston Dynamo           2-2 Columbus Crew
@@ -242,6 +315,9 @@ Sat Aug/25 12:30 Houston Dynamo           1-1 Toronto FC
 Sat Aug/25 14:30 Portland Timbers           2-1 Vancouver Whitecaps FC
 Sat Aug/25 14:30 CD Chivas USA           2-6 Seattle Sounders
 Sat Aug/25 14:30 San Jose Earthquakes           4-1 Colorado Rapids
+
+Week 25
+
 Sun Aug/26 11:25 Los Angeles Galaxy           2-0 FC Dallas
 Sun Aug/26 13:00 Sporting Kansas City           1-1 New York Red Bulls
 Wed Aug/29 12:00 Washington D.C. United           2-2 New York Red Bulls
@@ -253,6 +329,9 @@ Sat Sep/1 11:30 Columbus Crew           2-1 Montreal Impact
 Sat Sep/1 12:30 Sporting Kansas City           2-1 Toronto FC
 Sat Sep/1 14:00 Los Angeles Galaxy           2-0 Vancouver Whitecaps FC
 Sat Sep/1 14:30 Real Salt Lake           1-0 Washington D.C. United
+
+Week 26
+
 Sun Sep/2 11:00 Chicago Fire           3-1 Houston Dynamo
 Sun Sep/2 11:00 FC Dallas           1-1 Seattle Sounders
 Sun Sep/2 13:20 San Jose Earthquakes           4-0 CD Chivas USA
@@ -260,6 +339,9 @@ Wed Sep/5 12:10 New England Revolution           2-0 Columbus Crew
 Wed Sep/5 13:25 Colorado Rapids           3-0 Portland Timbers
 Thu Sep/6 12:35 Houston Dynamo           1-0 Real Salt Lake
 Sat Sep/8 08:00 Seattle Sounders           2-1 CD Chivas USA
+
+Week 27
+
 Wed Sep/12 11:00 Toronto FC           1-2 Chicago Fire
 Fri Sep/14 12:30 Sporting Kansas City           1-1 Houston Dynamo
 Fri Sep/14 15:00 Los Angeles Galaxy           2-0 Colorado Rapids
@@ -270,6 +352,9 @@ Sat Sep/15 11:30 Washington D.C. United           2-1 New England Revolution
 Sat Sep/15 12:30 Chicago Fire           3-1 Montreal Impact
 Sat Sep/15 12:30 FC Dallas           1-0 Vancouver Whitecaps FC
 Sat Sep/15 14:30 CD Chivas USA           0-2 San Jose Earthquakes
+
+Week 28
+
 Wed Sep/19 11:00 New York Red Bulls           0-2 Sporting Kansas City
 Wed Sep/19 11:30 Columbus Crew           1-0 CD Chivas USA
 Wed Sep/19 14:35 San Jose Earthquakes           2-2 Portland Timbers
@@ -280,6 +365,9 @@ Sat Sep/22 12:20 Real Salt Lake           2-1 Portland Timbers
 Sat Sep/22 12:30 Chicago Fire           2-1 Columbus Crew
 Sat Sep/22 14:30 Los Angeles Galaxy           4-2 Toronto FC
 Sat Sep/22 14:30 Seattle Sounders           1-2 San Jose Earthquakes
+
+Week 29
+
 Sun Sep/23 08:00 Philadelphia Union           3-1 Houston Dynamo
 Sun Sep/23 11:00 Washington D.C. United           1-0 CD Chivas USA
 Sun Sep/23 11:30 Vancouver Whitecaps FC           2-2 Colorado Rapids
@@ -291,6 +379,9 @@ Sat Sep/29 13:20 Vancouver Whitecaps FC           0-0 Seattle Sounders
 Sat Sep/29 14:30 Portland Timbers           1-1 Washington D.C. United
 Sat Sep/29 14:30 CD Chivas USA           0-4 Real Salt Lake
 Sat Sep/29 14:30 San Jose Earthquakes           3-3 FC Dallas
+
+Week 30
+
 Sun Sep/30 11:05 Colorado Rapids           1-1 Los Angeles Galaxy
 Wed Oct/3 12:30 Chicago Fire           1-3 Philadelphia Union
 Wed Oct/3 14:00 Vancouver Whitecaps FC           4-0 CD Chivas USA
@@ -300,9 +391,15 @@ Sat Oct/6 11:00 Philadelphia Union           1-0 New England Revolution
 Sat Oct/6 12:30 Houston Dynamo           1-1 Montreal Impact
 Sat Oct/6 13:00 Colorado Rapids           1-4 San Jose Earthquakes
 Sat Oct/6 13:20 Los Angeles Galaxy           1-2 Real Salt Lake
+
+Week 31
+
 Sun Oct/7 08:00 Columbus Crew           1-1 Sporting Kansas City
 Sun Oct/7 11:00 CD Chivas USA           1-1 FC Dallas
 Sun Oct/7 13:00 Seattle Sounders           3-0 Portland Timbers
+
+Week 32
+
 Wed Oct/17 14:00 Seattle Sounders           0-0 Real Salt Lake
 Sat Oct/20 05:30 Toronto FC           0-0 Montreal Impact
 Sat Oct/20 11:00 New York Red Bulls           0-0 Sporting Kansas City
@@ -310,6 +407,9 @@ Sat Oct/20 11:30 Washington D.C. United           3-2 Columbus Crew
 Sat Oct/20 11:30 New England Revolution           1-0 Chicago Fire
 Sat Oct/20 11:50 Houston Dynamo           3-1 Philadelphia Union
 Sat Oct/20 14:30 CD Chivas USA           0-2 Colorado Rapids
+
+Week 33
+
 Sun Oct/21 11:00 Vancouver Whitecaps FC           0-1 Portland Timbers
 Sun Oct/21 11:00 San Jose Earthquakes           2-2 Los Angeles Galaxy
 Sun Oct/21 13:00 Seattle Sounders           3-1 FC Dallas
@@ -320,19 +420,33 @@ Sat Oct/27 08:20 Chicago Fire           1-1 Washington D.C. United
 Sat Oct/27 10:55 Portland Timbers           1-1 San Jose Earthquakes
 Sat Oct/27 13:00 Real Salt Lake           0-0 Vancouver Whitecaps FC
 Sat Oct/27 13:00 Colorado Rapids           2-0 Houston Dynamo
+
+Week 34
+
 Sun Oct/28 08:00 Columbus Crew           2-1 Toronto FC
 Sun Oct/28 11:00 FC Dallas           2-2 CD Chivas USA
 Sun Oct/28 13:00 Los Angeles Galaxy           1-0 Seattle Sounders
 
-Play-offs
+
+# Play-offs
+
+
+Week 35
 
 Wed Oct/31 13:30 Chicago Fire           1-2 Houston Dynamo
 Thu Nov/1 14:55 Los Angeles Galaxy           2-1 Vancouver Whitecaps FC
 
-Quarter Final
+
+# Quarter Final
+
+
+Week 36
 
 Fri Nov/2 14:00 Seattle Sounders           0-0 Real Salt Lake
 Sat Nov/3 12:00 Washington D.C. United           1-1 New York Red Bulls
+
+Week 37
+
 Sun Nov/4 07:50 Houston Dynamo           2-0 Sporting Kansas City
 Sun Nov/4 13:00 Los Angeles Galaxy           0-1 San Jose Earthquakes
 Wed Nov/7 13:00 Sporting Kansas City           1-0 Houston Dynamo
@@ -340,14 +454,25 @@ Wed Nov/7 15:25 San Jose Earthquakes           1-3 Los Angeles Galaxy
 Thu Nov/8 11:50 New York Red Bulls           0-1 Washington D.C. United
 Thu Nov/8 14:00 Real Salt Lake           0-1 Seattle Sounders
 
-Semifinal
+
+# Semifinal
+
+
+Week 38
 
 Sun Nov/11 08:25 Houston Dynamo           3-1 Washington D.C. United
 Sun Nov/11 13:00 Los Angeles Galaxy           3-0 Seattle Sounders
+
+Week 39
+
 Sun Nov/18 08:20 Washington D.C. United           1-1 Houston Dynamo
 Sun Nov/18 13:15 Seattle Sounders           2-1 Los Angeles Galaxy
 
-Final
+
+# Final
+
+
+Week 40
 
 Sat Dec/1 09:00 Los Angeles Galaxy           3-1 Houston Dynamo
 

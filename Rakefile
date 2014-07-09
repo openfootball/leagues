@@ -1,4 +1,4 @@
-require 'FileUtils'
+#require 'FileUtils'
 
 years = (2005..2014)
 
@@ -65,13 +65,14 @@ task :gen_squads => years.map {|year| "#{year}/squads"} do
   p "Generated all squad data"
 end
 
+desc "Remove existing match data"
 task :clean_match_data do
   p "Are you sure you want remove all match data (Y/N)? "
-  response  = gets.strip
+  response  = $stdin.gets.strip
 
   if (response =~ /y/i)
     years.each do |year|
-      FileUtils.rm("#{year}/*.txt")
+      FileUtils.rm("#{year}/mls.txt")
     end
   end
 end
