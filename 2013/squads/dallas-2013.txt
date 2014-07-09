@@ -1,0 +1,30 @@
+(--) G Jesse Gonzalez
+(30) G Kyle Zobeck
+(18) G Chris Seitz
+(25) D Walker Zimmerman
+(21) D London Woodberry
+(24) D Matt Hedges
+(--) D Moises Hernández
+(17) D Zach Loyd
+(14) D George John
+(31) D Michel
+(5) D Jair Benítez
+(22) D Stephen Keel
+(3) D Ugo Ihemelu
+(--) M Danny Garcia
+(12) M Erick
+(23) M Kellyn Acosta
+(27) M Je-Vaughn Watson
+(9) M Ramón Núñez
+(6) M Jackson
+(20) M Mauro Alberto Díaz
+(28) M Victor Ulloa
+(4) M Andrew Jacobson
+(8) M Peter Bernard Luccin
+(10) M David Arturo Ferreira
+(13) F Bradlee Baladez
+(29) F Eric Hassli
+(11) F Fabian Castillo
+(33) F Kenny Cooper
+(7) F Blas Pérez
+(32) F Jonathan Top

@@ -1,0 +1,27 @@
+(21) G Jon Kempin
+(30) G Andy Gruenebaum
+(1) G Eric Kronberg
+(40) D Igor de Carvalho Julião
+(2) D Erik Palmer-Brown
+(4) D Kevin Ellis
+(78) D Aurélien Collin
+(15) D Seth Sinovic
+(3) D Ike Opara
+(5) D Matt Besler
+(7) D Chance Myers
+(18) M Victor Munoz
+(94) M Jimmy Medranda Obando
+(12) M Mikey Lopez
+(25) M Christian Duke
+(13) M Lawrence Olum
+(6) M Paulo Nagamura
+(19) M Peterson Joseph
+(9) M Toni
+(10) M Benny Feilhaber
+(14) F Dom Dwyer
+(22) F Soony Saad
+(17) F CJ Sapong
+(8) F Graham Zusi
+(16) F Claudio Bieler
+(11) F Salvatore Zizzo
+(37) F Jacob Peterson

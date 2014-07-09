@@ -1,0 +1,33 @@
+(35) G Bryan Meredith
+(29) G Josh Ford
+(24) G Marcus Hahnemann
+(1) G Michael Gspurning
+(33) G Andrew Weber
+(32) D Daniel Steres
+(8) D Marc Burch
+(5) D Adam Johansson
+(4) D Patrick Ianni
+(34) D Jhon Kennedy Hurtado
+(12) D Leonardo Arce Gonzalez
+(30) D Andrew Durante
+(20) D Zach Scott
+(31) D Jeff Parke
+(25) M Andy Rose
+(23) M Servando Carrasco
+(14) M Michael Tetteh
+(27) M Alex Caskey
+(22) M Mike Seamon
+(15) M Mario Martínez
+(13) M Christian Tiffert
+(6) M Osvaldo Alonso
+(3) M Brad Evans
+(10) M Mauro Rosales
+(19) F Babayele Sodade
+(21) F Cordell Cato
+(35) F Mrisho Ngassa
+(16) F David Estrada
+(11) F Steve Zakuani
+(--) F O'Brian White
+(17) F Fredy Montero
+(26) F Samuel Ochoa Oregel
+(7) F Eddie Johnson
