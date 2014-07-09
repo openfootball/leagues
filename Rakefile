@@ -1,3 +1,5 @@
+require 'FileUtils'
+
 years = (2005..2014)
 
 years.each do |year|
@@ -49,7 +51,7 @@ teams:
 end
 
 desc "Generate all historical fixture data"
-task :generate_all_data => years.map { |year| "#{year}/mls.txt"} do
+task :gen_match_data => years.map { |year| "#{year}/mls.txt"} do
   p "Generated all fixture data"
 end
 
@@ -61,4 +63,20 @@ end
 desc "Generate the squads for each year"
 task :gen_squads => years.map {|year| "#{year}/squads"} do
   p "Generated all squad data"
+end
+
+task :clean_match_data do
+  p "Are you sure you want remove all match data (Y/N)? "
+  response  = gets.strip
+
+  if (response =~ /y/i)
+    years.each do |year|
+      FileUtils.rm("#{year}/*.txt")
+    end
+  end
+end
+
+desc "Generate all MLS data"
+task :all => [:gen_match_data, :migrate_yml, :gen_squads] do
+  p "Generated all data!"
 end

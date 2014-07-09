@@ -20,8 +20,10 @@ class MLSScraper
     # Do this in ESPN Scraper instead
     #@gen_roster = (options[:roster] != nil) ? options[:roster] : true
     @gen_roster = false
-
     @options = options
+
+    # To help keep track of week numbering between rounds
+    @week_offset = 0
   end
 
   # Slightly improved JS array parsing
@@ -183,6 +185,8 @@ class MLSScraper
       ret = print_fixture("Qualifying",times,teamA,teamB,scores)
     end
 
+    # Reset week count
+    @week_offset = 0
     return ret
   end
 
@@ -245,7 +249,10 @@ class MLSScraper
       @logger.debug("[parse_fixture]     scores.size: " + scores.size.to_s)
     end
 
-    ret_s = "#{round}\n\n"
+    ret_s = "\n# #{round}\n\n"
+    game_week = 0
+    date_week = 0
+    last_week = 0
 
     times.each_with_index do |t, i|
       # convert time to proper format
@@ -253,16 +260,30 @@ class MLSScraper
       # Subtract 13 hours to get into EST time
       time = date.to_time - (60*13*60)
       date_s = time.strftime("%a %b/%-d %H:%M")
+      date_week = time.strftime("%U").to_i
+
+      # Calculate which week of the season it is
+      if (game_week == 0)
+        game_week = 1 + @week_offset
+        last_week = time.strftime("%U").to_i
+        ret_s += "\nWeek " + game_week.to_s + "\n\n"
+      elsif (date_week > last_week)
+        game_week += 1
+        last_week = date_week
+        ret_s += "\nWeek " + game_week.to_s + "\n\n"
+      end
+
       # Parse out the score
       # Example:
       # 1-1(0-0)
       score_s = scores[i].sub(%r{\(.*\)}, '')
       spacing = "           "
 
-      @logger.debug("[parse_fixture] " + date_s + " " + teamA[i] + spacing + score_s + " " + teamB[i])
+      @logger.debug("[parse_fixture] Week: " + game_week.to_s + " "  + date_s + " " + teamA[i] + spacing + score_s + " " + teamB[i])
       ret_s += date_s + " " + teamA[i] + spacing + score_s + " " + teamB[i] + "\n"
     end
 
+    @week_offset = game_week
     return ret_s
   end
 

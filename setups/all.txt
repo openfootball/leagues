@@ -8,6 +8,7 @@ major-league-soccer!/teams_ca
 major-league-soccer!/leagues
 
 # Match data
+# Rosters should come right after match data for that year
 major-league-soccer!/2014/mls
 major-league-soccer!/2013/mls
 major-league-soccer!/2012/mls
@@ -17,6 +18,6 @@ major-league-soccer!/2009/mls
 major-league-soccer!/2008/mls
 major-league-soccer!/2007/mls
 major-league-soccer!/2006/mls
-major-league-soccer!/2005/mls
 
+major-league-soccer!/2005/mls
 major-league-soccer!/2005/squads/chicago-2005
