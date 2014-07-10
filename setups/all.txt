@@ -18,6 +18,5 @@ major-league-soccer!/2009/mls
 major-league-soccer!/2008/mls
 major-league-soccer!/2007/mls
 major-league-soccer!/2006/mls
-
 major-league-soccer!/2005/mls
-major-league-soccer!/2005/squads/chicago-2005
+

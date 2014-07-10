@@ -7,7 +7,7 @@ years.each do |year|
 
   file "#{year}/squads" => "#{year}" do
     sh "mkdir -p #{year}/squads/"
-    sh "ruby scripts/mls_scraper.rb -r -y #{year} -v -o #{year}/squads/ -a teams_us.txt,teams_ca.txt"
+    sh "ruby scripts/mls_scraper.rb -r -y #{year} -o #{year}/squads/ -a teams_us.txt,teams_ca.txt"
   end
 
   file "#{year}/mls.txt" => "#{year}" do
