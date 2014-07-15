@@ -20,3 +20,8 @@ major-league-soccer!/2007/mls
 major-league-soccer!/2006/mls
 major-league-soccer!/2005/mls
 
+# Test data
+#major-league-soccer!/test_data/2014/mls
+#major-league-soccer!/test_data/2014/squads/chicago-2014
+#major-league-soccer!/test_data/2013/mls
+#major-league-soccer!/test_data/2014/squads/chicago-2013
