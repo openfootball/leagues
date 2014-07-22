@@ -1,81 +1,81 @@
 (24) Santiago Castano
-#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (18) Ryan Meara
-#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (31) Luis Robles
-#$$ pos: G, starts: 20, subIns: 0, saves: 70, goalsConceded: 31, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
+$$ pos: G, starts: 20, subIns: 0, saves: 70, goalsConceded: 31, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (25) Chris Duvall
-#$$ pos: D, starts: 8, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
+$$ pos: D, starts: 8, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
 
 (2) Richard Eckersley
-#$$ pos: D, starts: 4, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+$$ pos: D, starts: 4, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
 
 (27) Kosuke Kimura
-#$$ pos: D, starts: 9, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 9, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
 
 (16) Connor Lade
-#$$ pos: D, starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (20) Matt Miazga
-#$$ pos: D, starts: 5, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 1, yellowCards: 2, redCards: 0, 
+$$ pos: D, starts: 5, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 1, yellowCards: 2, redCards: 0, 
 
 (7) Roy Miller
-#$$ pos: D, starts: 10, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+$$ pos: D, starts: 10, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
 
 (4) Jamison Olave
-#$$ pos: D, starts: 17, subIns: 0, totalGoals: 0, totalShots: 9, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 28, foulsSuffered: 18, yellowCards: 5, redCards: 0, 
+$$ pos: D, starts: 17, subIns: 0, totalGoals: 0, totalShots: 9, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 28, foulsSuffered: 18, yellowCards: 5, redCards: 0, 
 
 (3) Ambroise Oyongo
-#$$ pos: D, starts: 5, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 4, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 5, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 4, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
 
 (32) Ibrahim Sekagya
-#$$ pos: D, starts: 10, subIns: 2, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 1, yellowCards: 2, redCards: 1, 
+$$ pos: D, starts: 10, subIns: 2, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 1, yellowCards: 2, redCards: 1, 
 
 (12) Eric Alexander
-#$$ pos: M, starts: 18, subIns: 2, totalGoals: 2, totalShots: 19, shotsOnTarget: 9, goalAssists: 4, foulsCommitted: 6, foulsSuffered: 16, yellowCards: 2, redCards: 0, 
+$$ pos: M, starts: 18, subIns: 2, totalGoals: 2, totalShots: 19, shotsOnTarget: 9, goalAssists: 4, foulsCommitted: 6, foulsSuffered: 16, yellowCards: 2, redCards: 0, 
 
 (23) Michael Bustamante
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (17) Tim Cahill
-#$$ pos: M, starts: 10, subIns: 2, totalGoals: 1, totalShots: 13, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 29, foulsSuffered: 15, yellowCards: 3, redCards: 0, 
+$$ pos: M, starts: 10, subIns: 2, totalGoals: 1, totalShots: 13, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 29, foulsSuffered: 15, yellowCards: 3, redCards: 0, 
 
 (6) Ian Christianson
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (15) Bobby Convey
-#$$ pos: M, starts: 9, subIns: 3, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 9, subIns: 3, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
 
 (11) Dax McCarty
-#$$ pos: M, starts: 15, subIns: 2, totalGoals: 1, totalShots: 8, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 20, yellowCards: 2, redCards: 0, 
+$$ pos: M, starts: 15, subIns: 2, totalGoals: 1, totalShots: 8, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 20, yellowCards: 2, redCards: 0, 
 
 (13) Marius Obekop
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (10) Lloyd Sam
-#$$ pos: M, starts: 20, subIns: 0, totalGoals: 2, totalShots: 24, shotsOnTarget: 10, goalAssists: 6, foulsCommitted: 24, foulsSuffered: 37, yellowCards: 5, redCards: 0, 
+$$ pos: M, starts: 20, subIns: 0, totalGoals: 2, totalShots: 24, shotsOnTarget: 10, goalAssists: 6, foulsCommitted: 24, foulsSuffered: 37, yellowCards: 5, redCards: 0, 
 
 (19) Eric Stevenson
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (5) Armando
-#$$ pos: M, starts: 11, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 14, foulsSuffered: 14, yellowCards: 4, redCards: 0, 
+$$ pos: M, starts: 11, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 14, foulsSuffered: 14, yellowCards: 4, redCards: 0, 
 
 (9) Andre Akpan
-#$$ pos: F, starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+$$ pos: F, starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
 
 (14) Thierry Henry
-#$$ pos: F, starts: 17, subIns: 0, totalGoals: 4, totalShots: 52, shotsOnTarget: 18, goalAssists: 8, foulsCommitted: 22, foulsSuffered: 18, yellowCards: 3, redCards: 0, 
+$$ pos: F, starts: 17, subIns: 0, totalGoals: 4, totalShots: 52, shotsOnTarget: 18, goalAssists: 8, foulsCommitted: 22, foulsSuffered: 18, yellowCards: 3, redCards: 0, 
 
 (21) Ruben Bover Izquierdo
-#$$ pos: F, starts: 1, subIns: 6, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+$$ pos: F, starts: 1, subIns: 6, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
 
 (8) Pegguy Luyindula
-#$$ pos: F, starts: 9, subIns: 6, totalGoals: 4, totalShots: 13, shotsOnTarget: 7, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 13, yellowCards: 1, redCards: 0, 
+$$ pos: F, starts: 9, subIns: 6, totalGoals: 4, totalShots: 13, shotsOnTarget: 7, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 13, yellowCards: 1, redCards: 0, 
 
 (99) Bradley Wright-Phillips
-#$$ pos: F, starts: 16, subIns: 3, totalGoals: 17, totalShots: 61, shotsOnTarget: 35, goalAssists: 0, foulsCommitted: 34, foulsSuffered: 24, yellowCards: 2, redCards: 0, 
+$$ pos: F, starts: 16, subIns: 3, totalGoals: 17, totalShots: 61, shotsOnTarget: 35, goalAssists: 0, foulsCommitted: 34, foulsSuffered: 24, yellowCards: 2, redCards: 0, 
 
