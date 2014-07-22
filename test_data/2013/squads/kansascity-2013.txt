@@ -1,0 +1,78 @@
+(18) Eric Kronberg
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Jimmy Nielsen
+#$$ pos: G, starts: 39, subIns: 0, saves: 76, goalsConceded: 35, foulsCommitted: 0, foulsSuffered: 6, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(--) Federico Bessone
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Kevin Ellis
+#$$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(31) Joshua Gardner
+#$$ pos: D, starts: 2, subIns: 6, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 3, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+
+(24) Mechack Jerome
+#$$ pos: D, starts: 8, subIns: 2, totalGoals: 0, totalShots: 5, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 2, foulsSuffered: 3, yellowCards: 2, redCards: 0, 
+
+(27) Kyle Miller
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) Chance Myers
+#$$ pos: D, starts: 31, subIns: 1, totalGoals: 2, totalShots: 31, shotsOnTarget: 8, goalAssists: 2, foulsCommitted: 42, foulsSuffered: 28, yellowCards: 4, redCards: 0, 
+
+(13) Lawrence Olum
+#$$ pos: D, starts: 10, subIns: 12, totalGoals: 1, totalShots: 9, shotsOnTarget: 2, goalAssists: 1, foulsCommitted: 16, foulsSuffered: 7, yellowCards: 4, redCards: 0, 
+
+(3) Ike Opara
+#$$ pos: D, starts: 15, subIns: 6, totalGoals: 3, totalShots: 13, shotsOnTarget: 6, goalAssists: 0, foulsCommitted: 25, foulsSuffered: 5, yellowCards: 3, redCards: 0, 
+
+(2) Erik Palmer-Brown
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(33) Brendan Ruiz
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Seth Sinovic
+#$$ pos: D, starts: 36, subIns: 1, totalGoals: 1, totalShots: 18, shotsOnTarget: 6, goalAssists: 3, foulsCommitted: 42, foulsSuffered: 20, yellowCards: 6, redCards: 0, 
+
+(25) Christian Duke
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Benny Feilhaber
+#$$ pos: M, starts: 26, subIns: 5, totalGoals: 3, totalShots: 47, shotsOnTarget: 13, goalAssists: 5, foulsCommitted: 31, foulsSuffered: 57, yellowCards: 5, redCards: 0, 
+
+(19) Peterson Joseph
+#$$ pos: M, starts: 14, subIns: 9, totalGoals: 0, totalShots: 9, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 31, foulsSuffered: 14, yellowCards: 7, redCards: 0, 
+
+(12) Mikey Lopez
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Paulo Nagamura
+#$$ pos: M, starts: 21, subIns: 0, totalGoals: 0, totalShots: 27, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 28, foulsSuffered: 25, yellowCards: 3, redCards: 0, 
+
+(94) Jimmy Medranda Obando
+#$$ pos: M, starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(37) Jacob Peterson
+#$$ pos: M, starts: 12, subIns: 7, totalGoals: 0, totalShots: 18, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 11, yellowCards: 0, redCards: 0, 
+
+(20) Oriol Rosell
+#$$ pos: M, starts: 36, subIns: 0, totalGoals: 1, totalShots: 30, shotsOnTarget: 6, goalAssists: 1, foulsCommitted: 74, foulsSuffered: 39, yellowCards: 10, redCards: 0, 
+
+(16) Claudio Bieler
+#$$ pos: F, starts: 25, subIns: 6, totalGoals: 11, totalShots: 74, shotsOnTarget: 28, goalAssists: 4, foulsCommitted: 37, foulsSuffered: 33, yellowCards: 4, redCards: 0, 
+
+(9) Teal Bunbury
+#$$ pos: F, starts: 3, subIns: 11, totalGoals: 0, totalShots: 14, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 7, foulsSuffered: 5, yellowCards: 2, redCards: 0, 
+
+(14) Dom Dwyer
+#$$ pos: F, starts: 10, subIns: 11, totalGoals: 3, totalShots: 44, shotsOnTarget: 15, goalAssists: 2, foulsCommitted: 22, foulsSuffered: 22, yellowCards: 0, redCards: 0, 
+
+(22) Soony Saad
+#$$ pos: F, starts: 16, subIns: 10, totalGoals: 4, totalShots: 58, shotsOnTarget: 15, goalAssists: 4, foulsCommitted: 20, foulsSuffered: 31, yellowCards: 1, redCards: 0, 
+
+(17) CJ Sapong
+#$$ pos: F, starts: 20, subIns: 10, totalGoals: 5, totalShots: 45, shotsOnTarget: 17, goalAssists: 3, foulsCommitted: 45, foulsSuffered: 64, yellowCards: 1, redCards: 1, 
+

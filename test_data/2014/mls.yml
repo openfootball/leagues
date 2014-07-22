@@ -1,0 +1,30 @@
+
+# MLS Season 2014
+
+league: mls
+season: 2014
+start_at: 2014-01-01
+
+fixtures:
+- mls
+
+teams:
+- galaxy
+- seattle
+- houston
+- saltlake
+- sanjose
+- kansascity
+- colorado
+- dallas
+- chivasusa
+- chicago
+- columbus
+- dcunited
+- newengland
+- newyork
+- philadelphia
+- portland
+- toronto
+- vancouver
+- montreal

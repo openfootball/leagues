@@ -1,0 +1,81 @@
+(31) Karry Harrison
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(24) Thorne Holder
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(18) Zac MacMath
+#$$ pos: G, starts: 7, subIns: 1, saves: 17, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 1, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Faryd Mondragón
+#$$ pos: G, starts: 30, subIns: 0, saves: 58, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(4) Danny Califf
+#$$ pos: D, starts: 35, subIns: 0, totalGoals: 1, totalShots: 6, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 30, foulsSuffered: 24, yellowCards: 4, redCards: 0, 
+
+(3) Juan Diego González
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Joe Tait
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(5) Carlos Valdés
+#$$ pos: D, starts: 34, subIns: 0, totalGoals: 1, totalShots: 19, shotsOnTarget: 6, goalAssists: 0, foulsCommitted: 40, foulsSuffered: 33, yellowCards: 9, redCards: 0, 
+
+(25) Sheanon Williams
+#$$ pos: D, starts: 34, subIns: 0, totalGoals: 1, totalShots: 18, shotsOnTarget: 7, goalAssists: 3, foulsCommitted: 35, foulsSuffered: 42, yellowCards: 4, redCards: 1, 
+
+(7) Brian Carroll
+#$$ pos: M, starts: 32, subIns: 0, totalGoals: 1, totalShots: 19, shotsOnTarget: 10, goalAssists: 0, foulsCommitted: 40, foulsSuffered: 16, yellowCards: 6, redCards: 0, 
+
+(17) Keon Daniel
+#$$ pos: M, starts: 9, subIns: 9, totalGoals: 1, totalShots: 4, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 7, foulsSuffered: 7, yellowCards: 1, redCards: 0, 
+
+(21) Michael Farfan
+#$$ pos: M, starts: 15, subIns: 8, totalGoals: 2, totalShots: 22, shotsOnTarget: 10, goalAssists: 4, foulsCommitted: 17, foulsSuffered: 23, yellowCards: 1, redCards: 0, 
+
+(15) Gabriel Farfan
+#$$ pos: M, starts: 20, subIns: 4, totalGoals: 1, totalShots: 1, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 24, foulsSuffered: 25, yellowCards: 3, redCards: 0, 
+
+(26) Morgan Langley
+#$$ pos: M, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(22) Justin Mapp
+#$$ pos: M, starts: 25, subIns: 6, totalGoals: 3, totalShots: 24, shotsOnTarget: 17, goalAssists: 3, foulsCommitted: 19, foulsSuffered: 27, yellowCards: 1, redCards: 0, 
+
+(6) Stefani Miglioranzi
+#$$ pos: M, starts: 12, subIns: 5, totalGoals: 0, totalShots: 5, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 8, yellowCards: 2, redCards: 0, 
+
+(13) Kyle Nakazawa
+#$$ pos: M, starts: 14, subIns: 7, totalGoals: 1, totalShots: 11, shotsOnTarget: 6, goalAssists: 2, foulsCommitted: 22, foulsSuffered: 17, yellowCards: 1, redCards: 0, 
+
+(14) Amobi Okugo
+#$$ pos: M, starts: 10, subIns: 5, totalGoals: 0, totalShots: 10, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 5, yellowCards: 2, redCards: 0, 
+
+(27) Zach Pfeffer
+#$$ pos: M, starts: 2, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(23) Ryan Richter
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Roger Torres
+#$$ pos: M, starts: 9, subIns: 18, totalGoals: 3, totalShots: 24, shotsOnTarget: 9, goalAssists: 1, foulsCommitted: 15, foulsSuffered: 17, yellowCards: 1, redCards: 0, 
+
+(11) Freddy Adu
+#$$ pos: F, starts: 6, subIns: 7, totalGoals: 2, totalShots: 14, shotsOnTarget: 9, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 9, yellowCards: 1, redCards: 0, 
+
+(--) Levi Houapeu
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Sebastien Le Toux
+#$$ pos: F, starts: 36, subIns: 0, totalGoals: 12, totalShots: 75, shotsOnTarget: 50, goalAssists: 7, foulsCommitted: 18, foulsSuffered: 32, yellowCards: 0, redCards: 0, 
+
+(19) Jack McInerney
+#$$ pos: F, starts: 6, subIns: 15, totalGoals: 1, totalShots: 13, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 6, yellowCards: 1, redCards: 1, 
+
+(10) Danny Mwanga
+#$$ pos: F, starts: 15, subIns: 15, totalGoals: 5, totalShots: 40, shotsOnTarget: 25, goalAssists: 4, foulsCommitted: 23, foulsSuffered: 21, yellowCards: 3, redCards: 0, 
+
+(16) Veljko Paunovic
+#$$ pos: F, starts: 17, subIns: 1, totalGoals: 3, totalShots: 29, shotsOnTarget: 17, goalAssists: 1, foulsCommitted: 24, foulsSuffered: 16, yellowCards: 1, redCards: 0, 
+

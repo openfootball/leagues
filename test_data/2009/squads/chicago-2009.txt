@@ -1,0 +1,72 @@
+(1) Jon Busch
+#$$ pos: G, starts: 33, subIns: 0, saves: 107, goalsConceded: 35, foulsCommitted: 1, foulsSuffered: 1, yellowCards: 2, redCards: 0, wins: 12, losses: 9, draws: 12, 
+
+(40) Andrew Dykstra
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 10, losses: 8, draws: 8, 
+
+(25) Sean Johnson
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(4) Kwame Watson-Siriboe
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Steven Kinney
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(19) Corben Bone
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(13) Drew Yates
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(7) Krzysztof Krol
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(2) C.J. Brown
+#$$ pos: D, starts: 20, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 6, yellowCards: 1, redCards: 0, 
+
+(22) Wilman Conde
+#$$ pos: D, starts: 18, subIns: 2, totalGoals: 2, totalShots: 5, shotsOnTarget: 1, goalAssists: 3, foulsCommitted: 14, foulsSuffered: 11, yellowCards: 2, redCards: 0, 
+
+(12) Logan Pause
+#$$ pos: D, starts: 29, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 11, foulsSuffered: 13, yellowCards: 2, redCards: 0, 
+
+(32) Dasan Robinson
+#$$ pos: D, starts: 12, subIns: 3, totalGoals: 1, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 4, yellowCards: 2, redCards: 1, 
+
+(5) Tim Ward
+#$$ pos: D, starts: 19, subIns: 0, totalGoals: 0, totalShots: 10, shotsOnTarget: 4, goalAssists: 3, foulsCommitted: 4, foulsSuffered: 5, yellowCards: 4, redCards: 0, 
+
+(18) Mike Banner
+#$$ pos: M, starts: 9, subIns: 14, totalGoals: 2, totalShots: 7, shotsOnTarget: 3, goalAssists: 2, foulsCommitted: 4, foulsSuffered: 12, yellowCards: 1, redCards: 0, 
+
+(9) Baggio Husidic
+#$$ pos: M, starts: 6, subIns: 4, totalGoals: 0, totalShots: 7, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 1, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+
+(29) Peter Lowry.
+#$$ pos: M, starts: 8, subIns: 1, totalGoals: 3, totalShots: 6, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+
+(21) Justin Mapp
+#$$ pos: M, starts: 11, subIns: 12, totalGoals: 1, totalShots: 16, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 2, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
+
+(16) Marco Pappa
+#$$ pos: M, starts: 31, subIns: 2, totalGoals: 5, totalShots: 50, shotsOnTarget: 23, goalAssists: 5, foulsCommitted: 17, foulsSuffered: 22, yellowCards: 2, redCards: 0, 
+
+(11) John Thorrington
+#$$ pos: M, starts: 21, subIns: 0, totalGoals: 1, totalShots: 15, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 22, yellowCards: 7, redCards: 2, 
+
+(3) Calen Carr
+#$$ pos: F, starts: 0, subIns: 10, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+
+(14) Patrick Nyarko
+#$$ pos: F, starts: 22, subIns: 11, totalGoals: 4, totalShots: 22, shotsOnTarget: 10, goalAssists: 4, foulsCommitted: 7, foulsSuffered: 19, yellowCards: 0, redCards: 0, 
+
+(23) Stefan Dimitrov
+#$$ pos: F, starts: 1, subIns: 6, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+
+(6) Julio Martinez
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(20) Brian McBride
+#$$ pos: F, starts: 25, subIns: 0, totalGoals: 7, totalShots: 40, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 4, foulsSuffered: 17, yellowCards: 1, redCards: 0, 
+

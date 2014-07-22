@@ -1,0 +1,72 @@
+(1) Ben Dragovan
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 1, losses: 1, draws: 0, 
+
+(18) Brian Edwards
+#$$ pos: G, starts: 3, subIns: 0, saves: 6, goalsConceded: 6, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 6, losses: 8, draws: 7, 
+
+(24) Stefan Frei
+#$$ pos: G, starts: 26, subIns: 0, saves: 89, goalsConceded: 37, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 9, losses: 9, draws: 8, 
+
+(1) Kevin Guppy
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(3) Nana Attakora-Gyan
+#$$ pos: D, starts: 19, subIns: 1, totalGoals: 2, totalShots: 3, shotsOnTarget: 2, goalAssists: 4, foulsCommitted: 10, foulsSuffered: 3, yellowCards: 2, redCards: 0, 
+
+(11) Jim Brennan
+#$$ pos: D, starts: 28, subIns: 0, totalGoals: 2, totalShots: 13, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 6, yellowCards: 7, redCards: 0, 
+
+(2) Sam Cronin
+#$$ pos: D, starts: 26, subIns: 1, totalGoals: 1, totalShots: 4, shotsOnTarget: 0, goalAssists: 3, foulsCommitted: 9, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(5) Lesly Fellinga
+#$$ pos: D, starts: 1, subIns: 3, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Gabe Gala
+#$$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Nick Garcia
+#$$ pos: D, starts: 25, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 7, yellowCards: 5, redCards: 0, 
+
+(10) Ali Gerba
+#$$ pos: D, starts: 5, subIns: 6, totalGoals: 1, totalShots: 11, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 6, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+
+(22) Amadou Sanyang
+#$$ pos: D, starts: 3, subIns: 4, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 2, yellowCards: 2, redCards: 1, 
+
+(16) Marvell Wynne
+#$$ pos: D, starts: 21, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 3, foulsCommitted: 14, foulsSuffered: 11, yellowCards: 1, redCards: 0, 
+
+(6) Julián De Guzman
+#$$ pos: M, starts: 5, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 7, yellowCards: 1, redCards: 0, 
+
+(14) Dwayne De Rosario
+#$$ pos: M, starts: 27, subIns: 1, totalGoals: 11, totalShots: 55, shotsOnTarget: 24, goalAssists: 5, foulsCommitted: 16, foulsSuffered: 24, yellowCards: 4, redCards: 0, 
+
+(20) Amado Guevara
+#$$ pos: M, starts: 24, subIns: 1, totalGoals: 5, totalShots: 34, shotsOnTarget: 15, goalAssists: 3, foulsCommitted: 19, foulsSuffered: 16, yellowCards: 3, redCards: 0, 
+
+(33) Carl Robinson
+#$$ pos: M, starts: 20, subIns: 1, totalGoals: 0, totalShots: 7, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 18, foulsSuffered: 11, yellowCards: 6, redCards: 0, 
+
+(15) Adrian Serioux
+#$$ pos: M, starts: 25, subIns: 1, totalGoals: 2, totalShots: 5, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 22, foulsSuffered: 9, yellowCards: 7, redCards: 1, 
+
+(19) Chad Barrett
+#$$ pos: F, starts: 27, subIns: 2, totalGoals: 5, totalShots: 45, shotsOnTarget: 17, goalAssists: 2, foulsCommitted: 12, foulsSuffered: 12, yellowCards: 5, redCards: 1, 
+
+(7) Abdus Ibrahim
+#$$ pos: F, starts: 2, subIns: 4, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(8) Pablo Vitti
+#$$ pos: F, starts: 18, subIns: 8, totalGoals: 2, totalShots: 29, shotsOnTarget: 11, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 21, yellowCards: 3, redCards: 0, 
+
+(9) Daniele Dichio
+#$$ pos: F, starts: 6, subIns: 13, totalGoals: 3, totalShots: 13, shotsOnTarget: 6, goalAssists: 2, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(32) Emmanuel Gomez
+#$$ pos: F, starts: 6, subIns: 3, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+
+(17) O'Brian White
+#$$ pos: F, starts: 5, subIns: 4, totalGoals: 2, totalShots: 5, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 2, redCards: 0, 
+

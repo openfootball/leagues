@@ -1,0 +1,81 @@
+(50) Andrew Dykstra
+#$$ pos: G, starts: 4, subIns: 0, saves: 7, goalsConceded: 3, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Bill Hamid
+#$$ pos: G, starts: 15, subIns: 0, saves: 52, goalsConceded: 17, foulsCommitted: 1, foulsSuffered: 2, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(31) Joe Willis
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(4) Nana Attakora
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Steve Birnbaum
+#$$ pos: D, starts: 6, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+
+(32) Bobby Boswell
+#$$ pos: D, starts: 19, subIns: 0, totalGoals: 1, totalShots: 14, shotsOnTarget: 3, goalAssists: 2, foulsCommitted: 16, foulsSuffered: 11, yellowCards: 1, redCards: 0, 
+
+(5) Sean Franklin
+#$$ pos: D, starts: 13, subIns: 1, totalGoals: 1, totalShots: 7, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
+
+(33) Taylor Kemp
+#$$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(22) Chris Korb
+#$$ pos: D, starts: 10, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(2) Jeff Parke
+#$$ pos: D, starts: 13, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+
+(20) Jalen Robinson
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) David Arnaud
+#$$ pos: M, starts: 17, subIns: 1, totalGoals: 2, totalShots: 13, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 27, foulsSuffered: 35, yellowCards: 5, redCards: 0, 
+
+(12) Alex Caskey
+#$$ pos: M, starts: 1, subIns: 6, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 1, yellowCards: 0, redCards: 1, 
+
+(14) Nick DeLeon
+#$$ pos: M, starts: 18, subIns: 0, totalGoals: 2, totalShots: 29, shotsOnTarget: 7, goalAssists: 2, foulsCommitted: 18, foulsSuffered: 14, yellowCards: 2, redCards: 0, 
+
+(25) Jared Jeffrey
+#$$ pos: M, starts: 0, subIns: 5, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+
+(23) Perry Kitchen
+#$$ pos: M, starts: 18, subIns: 0, totalGoals: 3, totalShots: 13, shotsOnTarget: 7, goalAssists: 1, foulsCommitted: 38, foulsSuffered: 14, yellowCards: 7, redCards: 0, 
+
+(27) Collin Martin
+#$$ pos: M, starts: 1, subIns: 2, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(24) Lewis Neal
+#$$ pos: M, starts: 5, subIns: 11, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 6, foulsSuffered: 4, yellowCards: 4, redCards: 0, 
+
+(13) Chris Pontius
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Kyle Porter
+#$$ pos: M, starts: 0, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(17) Conor Shanosky
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(30) Conor Doyle
+#$$ pos: F, starts: 1, subIns: 15, totalGoals: 0, totalShots: 4, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 10, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
+
+(9) Fabian Espindola
+#$$ pos: F, starts: 14, subIns: 1, totalGoals: 7, totalShots: 35, shotsOnTarget: 15, goalAssists: 7, foulsCommitted: 28, foulsSuffered: 27, yellowCards: 4, redCards: 0, 
+
+(7) Eddie Johnson
+#$$ pos: F, starts: 16, subIns: 0, totalGoals: 3, totalShots: 28, shotsOnTarget: 11, goalAssists: 2, foulsCommitted: 24, foulsSuffered: 34, yellowCards: 1, redCards: 0, 
+
+(18) Chris Rolfe
+#$$ pos: F, starts: 15, subIns: 2, totalGoals: 3, totalShots: 22, shotsOnTarget: 7, goalAssists: 3, foulsCommitted: 7, foulsSuffered: 14, yellowCards: 0, redCards: 0, 
+
+(29) Michael Seaton
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) Luis Silva
+#$$ pos: F, starts: 9, subIns: 5, totalGoals: 5, totalShots: 20, shotsOnTarget: 9, goalAssists: 1, foulsCommitted: 10, foulsSuffered: 8, yellowCards: 1, redCards: 0, 
+

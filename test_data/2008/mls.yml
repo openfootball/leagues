@@ -1,0 +1,30 @@
+
+# MLS Season 2008
+
+league: mls
+season: 2008
+start_at: 2008-01-01
+
+fixtures:
+- mls
+
+teams:
+- galaxy
+- seattle
+- houston
+- saltlake
+- sanjose
+- kansascity
+- colorado
+- dallas
+- chivasusa
+- chicago
+- columbus
+- dcunited
+- newengland
+- newyork
+- philadelphia
+- portland
+- toronto
+- vancouver
+- montreal

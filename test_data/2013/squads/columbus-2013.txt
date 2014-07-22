@@ -1,0 +1,90 @@
+(30) Andy Gruenebaum
+#$$ pos: G, starts: 21, subIns: 0, saves: 71, goalsConceded: 28, foulsCommitted: 1, foulsSuffered: 3, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Matt Lampson
+#$$ pos: G, starts: 13, subIns: 0, saves: 43, goalsConceded: 18, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(41) Brad Stuver
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(40) Daniel Withrow
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(21) Chad Barson
+#$$ pos: D, starts: 18, subIns: 2, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 14, foulsSuffered: 18, yellowCards: 0, redCards: 0, 
+
+(22) Drew Beckie
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Leandro Leandro Gláuber Berti
+#$$ pos: D, starts: 13, subIns: 0, totalGoals: 1, totalShots: 5, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 26, foulsSuffered: 6, yellowCards: 5, redCards: 0, 
+
+(14) Chad Marshall
+#$$ pos: D, starts: 30, subIns: 0, totalGoals: 1, totalShots: 21, shotsOnTarget: 8, goalAssists: 0, foulsCommitted: 22, foulsSuffered: 28, yellowCards: 1, redCards: 0, 
+
+(2) Tyson Wahl
+#$$ pos: D, starts: 24, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 1, foulsCommitted: 29, foulsSuffered: 12, yellowCards: 4, redCards: 0, 
+
+(3) Joshua Williams
+#$$ pos: D, starts: 25, subIns: 2, totalGoals: 3, totalShots: 21, shotsOnTarget: 8, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 13, yellowCards: 2, redCards: 0, 
+
+(7) Bernardo Anor
+#$$ pos: M, starts: 19, subIns: 1, totalGoals: 4, totalShots: 53, shotsOnTarget: 17, goalAssists: 0, foulsCommitted: 34, foulsSuffered: 35, yellowCards: 4, redCards: 0, 
+
+(16) Eric Gehrig
+#$$ pos: M, starts: 6, subIns: 0, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Kevan George
+#$$ pos: M, starts: 3, subIns: 8, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 3, redCards: 0, 
+
+(31) Kyle Hyland
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(5) Danny O´Rourke
+#$$ pos: M, starts: 20, subIns: 3, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 45, foulsSuffered: 17, yellowCards: 6, redCards: 0, 
+
+(32) Shawn Sloan
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Matías Sánchez
+#$$ pos: M, starts: 10, subIns: 4, totalGoals: 1, totalShots: 6, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 32, foulsSuffered: 12, yellowCards: 5, redCards: 0, 
+
+(6) Tony Tchani
+#$$ pos: M, starts: 13, subIns: 9, totalGoals: 0, totalShots: 9, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 26, foulsSuffered: 27, yellowCards: 3, redCards: 0, 
+
+(20) Wil Trapp
+#$$ pos: M, starts: 16, subIns: 0, totalGoals: 0, totalShots: 8, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 17, foulsSuffered: 9, yellowCards: 3, redCards: 0, 
+
+(24) Agustín Viana
+#$$ pos: M, starts: 20, subIns: 0, totalGoals: 0, totalShots: 12, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 33, foulsSuffered: 29, yellowCards: 4, redCards: 0, 
+
+(19) Konrad Warzycha
+#$$ pos: M, starts: 2, subIns: 11, totalGoals: 0, totalShots: 10, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 4, yellowCards: 1, redCards: 0, 
+
+(25) Jairo Obando Arrieta
+#$$ pos: F, starts: 21, subIns: 5, totalGoals: 3, totalShots: 64, shotsOnTarget: 18, goalAssists: 4, foulsCommitted: 44, foulsSuffered: 28, yellowCards: 6, redCards: 0, 
+
+(13) Ethan Finlay
+#$$ pos: F, starts: 3, subIns: 16, totalGoals: 0, totalShots: 4, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
+
+(26) Ryan Finley
+#$$ pos: F, starts: 3, subIns: 11, totalGoals: 1, totalShots: 18, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 3, foulsSuffered: 6, yellowCards: 0, redCards: 0, 
+
+(33) Federico Higuaín
+#$$ pos: F, starts: 29, subIns: 0, totalGoals: 11, totalShots: 86, shotsOnTarget: 31, goalAssists: 9, foulsCommitted: 20, foulsSuffered: 20, yellowCards: 5, redCards: 1, 
+
+(27) Aaron Horton
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Justin Meram
+#$$ pos: F, starts: 9, subIns: 10, totalGoals: 1, totalShots: 21, shotsOnTarget: 6, goalAssists: 1, foulsCommitted: 13, foulsSuffered: 12, yellowCards: 1, redCards: 0, 
+
+(11) Dominic Oduro
+#$$ pos: F, starts: 34, subIns: 0, totalGoals: 13, totalShots: 92, shotsOnTarget: 36, goalAssists: 3, foulsCommitted: 25, foulsSuffered: 67, yellowCards: 3, redCards: 1, 
+
+(18) Aaron Schoenfeld
+#$$ pos: F, starts: 3, subIns: 7, totalGoals: 1, totalShots: 10, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 15, foulsSuffered: 7, yellowCards: 2, redCards: 0, 
+
+(17) Ben Speas
+#$$ pos: F, starts: 10, subIns: 9, totalGoals: 1, totalShots: 18, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 4, foulsSuffered: 14, yellowCards: 0, redCards: 0, 
+

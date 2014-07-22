@@ -1,0 +1,108 @@
+(24) Stefan Frei
+#$$ pos: G, starts: 27, subIns: 0, saves: 109, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 12, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(30) Milos Kocic
+#$$ pos: G, starts: 7, subIns: 1, saves: 27, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(3) Nana Attakora-Gyan
+#$$ pos: D, starts: 4, subIns: 2, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 5, yellowCards: 1, redCards: 0, 
+
+(25) Danleigh Borman
+#$$ pos: D, starts: 19, subIns: 5, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 3, foulsCommitted: 15, foulsSuffered: 9, yellowCards: 5, redCards: 0, 
+
+(12) Adrian Cann
+#$$ pos: D, starts: 12, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+
+(29) Kyle Davies
+#$$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Richard Eckersley
+#$$ pos: D, starts: 22, subIns: 1, totalGoals: 0, totalShots: 6, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 36, foulsSuffered: 31, yellowCards: 6, redCards: 0, 
+
+(20) Ty Harden
+#$$ pos: D, starts: 24, subIns: 2, totalGoals: 0, totalShots: 6, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 13, yellowCards: 3, redCards: 1, 
+
+(4) Doneil Henry
+#$$ pos: D, starts: 6, subIns: 4, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+
+(3) Andy Iro
+#$$ pos: D, starts: 15, subIns: 2, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 22, foulsSuffered: 14, yellowCards: 3, redCards: 1, 
+
+(5) Ashtone Morgan
+#$$ pos: D, starts: 9, subIns: 5, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 10, foulsSuffered: 9, yellowCards: 1, redCards: 0, 
+
+(2) Demitrius Omphroy
+#$$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(55) Eddy Viator
+#$$ pos: D, starts: 2, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+
+(31) Dicoy Williams
+#$$ pos: D, starts: 7, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+
+(19) Mikael-David Yourassowsky
+#$$ pos: D, starts: 13, subIns: 7, totalGoals: 0, totalShots: 19, shotsOnTarget: 12, goalAssists: 1, foulsCommitted: 19, foulsSuffered: 26, yellowCards: 4, redCards: 1, 
+
+(8) Eric Avila
+#$$ pos: M, starts: 13, subIns: 9, totalGoals: 2, totalShots: 16, shotsOnTarget: 7, goalAssists: 2, foulsCommitted: 12, foulsSuffered: 14, yellowCards: 1, redCards: 0, 
+
+(17) Elbekay Bouchiba
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(77) Junior Burgos
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Oscar Cordon
+#$$ pos: M, starts: 1, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+
+(6) Julián De Guzman
+#$$ pos: M, starts: 16, subIns: 3, totalGoals: 2, totalShots: 15, shotsOnTarget: 6, goalAssists: 2, foulsCommitted: 33, foulsSuffered: 28, yellowCards: 6, redCards: 0, 
+
+(23) Terry Dunfield
+#$$ pos: M, starts: 13, subIns: 5, totalGoals: 1, totalShots: 11, shotsOnTarget: 5, goalAssists: 2, foulsCommitted: 8, foulsSuffered: 15, yellowCards: 4, redCards: 0, 
+
+(22) Torsten Frings
+#$$ pos: M, starts: 13, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 8, foulsSuffered: 8, yellowCards: 0, redCards: 0, 
+
+(26) Matthew Goldwell
+#$$ pos: M, starts: 0, subIns: 3, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(21) Leandre Griffit
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(37) Nicholas Lindsay
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(13) Keith Makubuya
+#$$ pos: M, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Alan Stevanovic
+#$$ pos: M, starts: 9, subIns: 3, totalGoals: 0, totalShots: 7, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 9, yellowCards: 1, redCards: 0, 
+
+(15) Matt Stinson
+#$$ pos: M, starts: 5, subIns: 8, totalGoals: 0, totalShots: 9, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 10, foulsSuffered: 5, yellowCards: 2, redCards: 0, 
+
+(11) Nathan Sturgis
+#$$ pos: M, starts: 11, subIns: 3, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 13, yellowCards: 1, redCards: 0, 
+
+(28) Gianluca Zavarise
+#$$ pos: M, starts: 4, subIns: 10, totalGoals: 0, totalShots: 5, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 8, yellowCards: 1, redCards: 1, 
+
+(9) Ryan Johnson
+#$$ pos: F, starts: 12, subIns: 2, totalGoals: 3, totalShots: 39, shotsOnTarget: 18, goalAssists: 4, foulsCommitted: 26, foulsSuffered: 17, yellowCards: 3, redCards: 0, 
+
+(14) Danny Koevermans
+#$$ pos: F, starts: 9, subIns: 1, totalGoals: 8, totalShots: 27, shotsOnTarget: 18, goalAssists: 2, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+
+(70) Peri Marosevic
+#$$ pos: F, starts: 4, subIns: 3, totalGoals: 2, totalShots: 10, shotsOnTarget: 6, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+
+(33) Javier Martina
+#$$ pos: F, starts: 15, subIns: 8, totalGoals: 2, totalShots: 12, shotsOnTarget: 7, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 6, yellowCards: 3, redCards: 0, 
+
+(7) Joao Plata Cotera
+#$$ pos: F, starts: 21, subIns: 5, totalGoals: 3, totalShots: 42, shotsOnTarget: 25, goalAssists: 5, foulsCommitted: 8, foulsSuffered: 17, yellowCards: 1, redCards: 0, 
+
+(18) Nick Soolsma
+#$$ pos: F, starts: 18, subIns: 5, totalGoals: 3, totalShots: 26, shotsOnTarget: 19, goalAssists: 4, foulsCommitted: 16, foulsSuffered: 17, yellowCards: 0, redCards: 0, 
+
