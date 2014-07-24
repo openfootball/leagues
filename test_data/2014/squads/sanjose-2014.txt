@@ -4,9 +4,6 @@ $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, 
 (18) Jon Busch
 $$ pos: G, starts: 17, subIns: 0, saves: 60, goalsConceded: 19, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
-(31) Billy Knutsen
-$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
-
 (13) Bryan Meredith
 $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 

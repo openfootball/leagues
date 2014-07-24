@@ -23,7 +23,7 @@ $$ pos: D, starts: 0, subIns: 3, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (2) Jordan Harvey
-$$ pos: D, starts: 18, subIns: 0, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 21, foulsSuffered: 20, yellowCards: 2, redCards: 1, 
+$$ pos: D, starts: 18, subIns: 0, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 20, foulsSuffered: 20, yellowCards: 2, redCards: 1, 
 
 (16) Johnny Leveron
 $$ pos: D, starts: 9, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 1, redCards: 0, 
@@ -71,7 +71,7 @@ $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: M, starts: 8, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 19, foulsSuffered: 7, yellowCards: 3, redCards: 0, 
 
 (7) Sebastian Fernandez
-$$ pos: F, starts: 12, subIns: 6, totalGoals: 3, totalShots: 30, shotsOnTarget: 9, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 34, yellowCards: 4, redCards: 0, 
+$$ pos: F, starts: 12, subIns: 6, totalGoals: 3, totalShots: 30, shotsOnTarget: 9, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 33, yellowCards: 4, redCards: 0, 
 
 (30) Jordan Haynes
 $$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
@@ -83,7 +83,7 @@ $$ pos: F, starts: 9, subIns: 7, totalGoals: 3, totalShots: 37, shotsOnTarget: 1
 $$ pos: F, starts: 12, subIns: 4, totalGoals: 4, totalShots: 25, shotsOnTarget: 14, goalAssists: 3, foulsCommitted: 15, foulsSuffered: 21, yellowCards: 1, redCards: 0, 
 
 (17) Omar Salgado
-$$ pos: F, starts: 1, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+$$ pos: F, starts: 1, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 5, yellowCards: 0, redCards: 0, 
 
 (31) Russell Teibert
 $$ pos: F, starts: 10, subIns: 5, totalGoals: 0, totalShots: 8, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 11, foulsSuffered: 4, yellowCards: 2, redCards: 0, 

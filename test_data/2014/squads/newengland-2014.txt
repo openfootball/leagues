@@ -41,7 +41,7 @@ $$ pos: M, starts: 18, subIns: 1, totalGoals: 4, totalShots: 52, shotsOnTarget: 
 $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (16) Daigo Kobayashi
-$$ pos: M, starts: 15, subIns: 4, totalGoals: 0, totalShots: 11, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 12, foulsSuffered: 13, yellowCards: 2, redCards: 0, 
+$$ pos: M, starts: 15, subIns: 4, totalGoals: 0, totalShots: 11, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 12, foulsSuffered: 12, yellowCards: 2, redCards: 0, 
 
 (4) Steve Neumann
 $$ pos: M, starts: 1, subIns: 13, totalGoals: 0, totalShots: 9, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 3, yellowCards: 0, redCards: 0, 

@@ -26,7 +26,7 @@ $$ pos: D, starts: 9, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0,
 $$ pos: D, starts: 5, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
 
 (22) Leonardo
-$$ pos: D, starts: 11, subIns: 2, totalGoals: 1, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+$$ pos: D, starts: 11, subIns: 2, totalGoals: 1, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 4, yellowCards: 1, redCards: 0, 
 
 (26) James Riley
 $$ pos: D, starts: 2, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 3, yellowCards: 1, redCards: 0, 

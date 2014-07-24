@@ -32,7 +32,7 @@ $$ pos: D, starts: 8, subIns: 2, totalGoals: 0, totalShots: 7, shotsOnTarget: 2,
 $$ pos: D, starts: 8, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 7, yellowCards: 3, redCards: 0, 
 
 (44) Heath Pearce
-$$ pos: D, starts: 12, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 8, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 12, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
 
 (51) Maxim Tissot
 $$ pos: D, starts: 4, subIns: 5, totalGoals: 0, totalShots: 7, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
@@ -56,7 +56,7 @@ $$ pos: M, starts: 5, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 1,
 $$ pos: M, starts: 1, subIns: 9, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
 
 (21) Justin Mapp
-$$ pos: M, starts: 14, subIns: 2, totalGoals: 0, totalShots: 21, shotsOnTarget: 6, goalAssists: 7, foulsCommitted: 9, foulsSuffered: 22, yellowCards: 1, redCards: 0, 
+$$ pos: M, starts: 14, subIns: 2, totalGoals: 0, totalShots: 21, shotsOnTarget: 6, goalAssists: 7, foulsCommitted: 9, foulsSuffered: 21, yellowCards: 1, redCards: 0, 
 
 (43) Zakaria Messoudi
 $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 

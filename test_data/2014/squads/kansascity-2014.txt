@@ -71,10 +71,10 @@ $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: F, starts: 3, subIns: 5, totalGoals: 1, totalShots: 10, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
 
 (14) Dom Dwyer
-$$ pos: F, starts: 18, subIns: 2, totalGoals: 14, totalShots: 71, shotsOnTarget: 31, goalAssists: 0, foulsCommitted: 40, foulsSuffered: 44, yellowCards: 3, redCards: 0, 
+$$ pos: F, starts: 18, subIns: 2, totalGoals: 14, totalShots: 72, shotsOnTarget: 31, goalAssists: 0, foulsCommitted: 41, foulsSuffered: 44, yellowCards: 3, redCards: 0, 
 
 (37) Jacob Peterson
-$$ pos: F, starts: 9, subIns: 7, totalGoals: 1, totalShots: 17, shotsOnTarget: 7, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 11, yellowCards: 2, redCards: 0, 
+$$ pos: F, starts: 9, subIns: 7, totalGoals: 1, totalShots: 18, shotsOnTarget: 7, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 11, yellowCards: 2, redCards: 0, 
 
 (22) Soony Saad
 $$ pos: F, starts: 5, subIns: 6, totalGoals: 1, totalShots: 16, shotsOnTarget: 7, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 9, yellowCards: 1, redCards: 0, 

@@ -13,6 +13,9 @@ $$ pos: D, starts: 16, subIns: 0, totalGoals: 0, totalShots: 5, shotsOnTarget: 1
 (13) Steven Caldwell
 $$ pos: D, starts: 13, subIns: 0, totalGoals: 0, totalShots: 5, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 8, yellowCards: 3, redCards: 1, 
 
+(--) Warren Creavalle
+$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
 (17) Nick Hagglund
 $$ pos: D, starts: 8, subIns: 2, totalGoals: 0, totalShots: 9, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 11, foulsSuffered: 7, yellowCards: 1, redCards: 1, 
 

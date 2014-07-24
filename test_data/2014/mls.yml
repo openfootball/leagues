@@ -1,9 +1,9 @@
 
-# MLS Season 2014
+# MLS Season 2013
 
 league: mls
-season: 2014
-start_at: 2014-01-01
+season: 2013
+start_at: 2013-01-01
 
 fixtures:
 - mls
