@@ -4,6 +4,9 @@ $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, 
 (99) Brian Holt
 $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
+(92) Rais M'Bolhi
+$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
 (18) Zac MacMath
 $$ pos: G, starts: 21, subIns: 0, saves: 61, goalsConceded: 35, foulsCommitted: 1, foulsSuffered: 1, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
 

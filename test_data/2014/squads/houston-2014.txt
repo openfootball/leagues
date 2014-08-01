@@ -10,6 +10,9 @@ $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, 
 (3) Anthony Arena
 $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
+(21) DaMarcus Beasley
+$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
 (2) Eric Brunner
 $$ pos: D, starts: 2, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
 
@@ -31,9 +34,6 @@ $$ pos: M, starts: 17, subIns: 0, totalGoals: 0, totalShots: 7, shotsOnTarget: 2
 (23) Giles Barnes
 $$ pos: M, starts: 20, subIns: 0, totalGoals: 5, totalShots: 68, shotsOnTarget: 21, goalAssists: 4, foulsCommitted: 34, foulsSuffered: 25, yellowCards: 1, redCards: 0, 
 
-(--) DaMarcus Beasley
-$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
-
 (17) Servando Carrasco
 $$ pos: M, starts: 6, subIns: 6, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 6, yellowCards: 0, redCards: 1, 
 
@@ -51,6 +51,9 @@ $$ pos: M, starts: 18, subIns: 2, totalGoals: 0, totalShots: 20, shotsOnTarget: 
 
 (27) Boniek García
 $$ pos: M, starts: 16, subIns: 0, totalGoals: 1, totalShots: 14, shotsOnTarget: 6, goalAssists: 1, foulsCommitted: 20, foulsSuffered: 37, yellowCards: 1, redCards: 0, 
+
+(19) Luis Garrido
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (10) Alexander López
 $$ pos: M, starts: 1, subIns: 5, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
