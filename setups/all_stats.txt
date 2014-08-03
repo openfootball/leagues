@@ -103,7 +103,7 @@ major-league-soccer!/test_data/2010/squads/dallas-2010
 major-league-soccer!/test_data/2010/squads/dcunited-2010
 major-league-soccer!/test_data/2010/squads/galaxy-2010
 major-league-soccer!/test_data/2010/squads/houston-2010
-major-league-soccer!/test_data/2010/squads/kansascity-2010
+major-league-soccer!/test_data/2010/squads/kcwizards-2010
 major-league-soccer!/test_data/2010/squads/newengland-2010
 major-league-soccer!/test_data/2010/squads/newyork-2010
 major-league-soccer!/test_data/2010/squads/philadelphia-2010
@@ -121,7 +121,7 @@ major-league-soccer!/test_data/2009/squads/dallas-2009
 major-league-soccer!/test_data/2009/squads/dcunited-2009
 major-league-soccer!/test_data/2009/squads/galaxy-2009
 major-league-soccer!/test_data/2009/squads/houston-2009
-major-league-soccer!/test_data/2009/squads/kansascity-2009
+major-league-soccer!/test_data/2009/squads/kcwizards-2009
 major-league-soccer!/test_data/2009/squads/newengland-2009
 major-league-soccer!/test_data/2009/squads/newyork-2009
 major-league-soccer!/test_data/2009/squads/saltlake-2009
@@ -138,7 +138,7 @@ major-league-soccer!/test_data/2008/squads/dallas-2008
 major-league-soccer!/test_data/2008/squads/dcunited-2008
 major-league-soccer!/test_data/2008/squads/galaxy-2008
 major-league-soccer!/test_data/2008/squads/houston-2008
-major-league-soccer!/test_data/2008/squads/kansascity-2008
+major-league-soccer!/test_data/2008/squads/kcwizards-2008
 major-league-soccer!/test_data/2008/squads/newengland-2008
 major-league-soccer!/test_data/2008/squads/newyork-2008
 major-league-soccer!/test_data/2008/squads/saltlake-2008
@@ -154,7 +154,7 @@ major-league-soccer!/test_data/2007/squads/dallas-2007
 major-league-soccer!/test_data/2007/squads/dcunited-2007
 major-league-soccer!/test_data/2007/squads/galaxy-2007
 major-league-soccer!/test_data/2007/squads/houston-2007
-major-league-soccer!/test_data/2007/squads/kansascity-2007
+major-league-soccer!/test_data/2007/squads/kcwizards-2007
 major-league-soccer!/test_data/2007/squads/newengland-2007
 major-league-soccer!/test_data/2007/squads/newyork-2007
 major-league-soccer!/test_data/2007/squads/saltlake-2007
@@ -169,7 +169,7 @@ major-league-soccer!/test_data/2006/squads/dallas-2006
 major-league-soccer!/test_data/2006/squads/dcunited-2006
 major-league-soccer!/test_data/2006/squads/galaxy-2006
 major-league-soccer!/test_data/2006/squads/houston-2006
-major-league-soccer!/test_data/2006/squads/kansascity-2006
+major-league-soccer!/test_data/2006/squads/kcwizards-2006
 major-league-soccer!/test_data/2006/squads/newengland-2006
 major-league-soccer!/test_data/2006/squads/newyork-2006
 major-league-soccer!/test_data/2006/squads/saltlake-2006
@@ -182,9 +182,9 @@ major-league-soccer!/test_data/2005/squads/columbus-2005
 major-league-soccer!/test_data/2005/squads/dallas-2005
 major-league-soccer!/test_data/2005/squads/dcunited-2005
 major-league-soccer!/test_data/2005/squads/galaxy-2005
-major-league-soccer!/test_data/2005/squads/kansascity-2005
+major-league-soccer!/test_data/2005/squads/kcwizards-2005
 major-league-soccer!/test_data/2005/squads/newengland-2005
-major-league-soccer!/test_data/2005/squads/newyork-2005
+major-league-soccer!/test_data/2005/squads/nymetro-2005
 major-league-soccer!/test_data/2005/squads/saltlake-2005
 major-league-soccer!/test_data/2005/squads/sanjose-2005
 

@@ -5,7 +5,7 @@ $$ pos: G, starts: 8, subIns: 0, saves: 37, goalsConceded: 12, foulsCommitted: 0
 $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (18) Nick Rimando
-$$ pos: G, starts: 13, subIns: 0, saves: 38, goalsConceded: 15, foulsCommitted: 1, foulsSuffered: 5, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
+$$ pos: G, starts: 14, subIns: 0, saves: 43, goalsConceded: 15, foulsCommitted: 1, foulsSuffered: 5, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (7) Jordan Allen
 $$ pos: D, starts: 0, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
@@ -14,10 +14,10 @@ $$ pos: D, starts: 0, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: D, starts: 2, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
 
 (2) Tony Beltran
-$$ pos: D, starts: 18, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 27, foulsSuffered: 9, yellowCards: 3, redCards: 1, 
+$$ pos: D, starts: 19, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 28, foulsSuffered: 9, yellowCards: 4, redCards: 1, 
 
 (6) Nat Borchers
-$$ pos: D, starts: 20, subIns: 0, totalGoals: 0, totalShots: 11, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 14, foulsSuffered: 9, yellowCards: 3, redCards: 0, 
+$$ pos: D, starts: 21, subIns: 0, totalGoals: 0, totalShots: 11, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 9, yellowCards: 3, redCards: 0, 
 
 (14) Justen Glad
 $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
@@ -26,10 +26,10 @@ $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: D, starts: 3, subIns: 5, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 3, foulsSuffered: 6, yellowCards: 0, redCards: 0, 
 
 (4) Aaron Maund
-$$ pos: D, starts: 4, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 5, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 4, yellowCards: 0, redCards: 1, 
 
 (16) Carlos Salcedo
-$$ pos: D, starts: 1, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+$$ pos: D, starts: 1, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (28) Chris Schuler
 $$ pos: D, starts: 17, subIns: 0, totalGoals: 0, totalShots: 10, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 19, foulsSuffered: 8, yellowCards: 3, redCards: 0, 
@@ -38,37 +38,37 @@ $$ pos: D, starts: 17, subIns: 0, totalGoals: 0, totalShots: 10, shotsOnTarget: 
 $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (17) Chris Wingert
-$$ pos: D, starts: 19, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 22, foulsSuffered: 10, yellowCards: 4, redCards: 0, 
+$$ pos: D, starts: 20, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 23, foulsSuffered: 11, yellowCards: 5, redCards: 0, 
 
 (5) Kyle Beckerman
-$$ pos: M, starts: 15, subIns: 0, totalGoals: 2, totalShots: 22, shotsOnTarget: 12, goalAssists: 2, foulsCommitted: 22, foulsSuffered: 12, yellowCards: 2, redCards: 0, 
+$$ pos: M, starts: 16, subIns: 0, totalGoals: 2, totalShots: 23, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 23, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
 
 (21) Luis Gil
-$$ pos: M, starts: 11, subIns: 4, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 8, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 12, subIns: 4, totalGoals: 2, totalShots: 13, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 8, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
 
 (20) Ned Grabavoy
-$$ pos: M, starts: 18, subIns: 2, totalGoals: 1, totalShots: 20, shotsOnTarget: 9, goalAssists: 2, foulsCommitted: 21, foulsSuffered: 31, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 19, subIns: 2, totalGoals: 1, totalShots: 20, shotsOnTarget: 9, goalAssists: 2, foulsCommitted: 21, foulsSuffered: 32, yellowCards: 0, redCards: 0, 
 
 (12) Cole Grossman
-$$ pos: M, starts: 5, subIns: 6, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+$$ pos: M, starts: 5, subIns: 7, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
 
 (11) Javier Morales
-$$ pos: M, starts: 20, subIns: 0, totalGoals: 5, totalShots: 38, shotsOnTarget: 11, goalAssists: 7, foulsCommitted: 41, foulsSuffered: 48, yellowCards: 5, redCards: 0, 
+$$ pos: M, starts: 21, subIns: 0, totalGoals: 6, totalShots: 40, shotsOnTarget: 12, goalAssists: 7, foulsCommitted: 43, foulsSuffered: 50, yellowCards: 5, redCards: 0, 
 
 (19) Luke Mulholland
 $$ pos: M, starts: 13, subIns: 7, totalGoals: 5, totalShots: 24, shotsOnTarget: 9, goalAssists: 2, foulsCommitted: 10, foulsSuffered: 29, yellowCards: 3, redCards: 1, 
 
 (27) John Stertzer
-$$ pos: M, starts: 3, subIns: 5, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
+$$ pos: M, starts: 3, subIns: 6, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
 
 (26) Sebastian Velasquez
 $$ pos: M, starts: 0, subIns: 6, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 2, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
 
 (10) Robbie Findley
-$$ pos: F, starts: 2, subIns: 3, totalGoals: 0, totalShots: 4, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
+$$ pos: F, starts: 3, subIns: 3, totalGoals: 0, totalShots: 6, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
 
 (13) Olmes Garcia
-$$ pos: F, starts: 8, subIns: 8, totalGoals: 2, totalShots: 20, shotsOnTarget: 8, goalAssists: 0, foulsCommitted: 19, foulsSuffered: 14, yellowCards: 3, redCards: 0, 
+$$ pos: F, starts: 8, subIns: 8, totalGoals: 2, totalShots: 20, shotsOnTarget: 8, goalAssists: 0, foulsCommitted: 20, foulsSuffered: 14, yellowCards: 3, redCards: 0, 
 
 (8) Joao Plata Cotera
 $$ pos: F, starts: 15, subIns: 1, totalGoals: 9, totalShots: 32, shotsOnTarget: 20, goalAssists: 2, foulsCommitted: 12, foulsSuffered: 11, yellowCards: 0, redCards: 0, 
@@ -77,5 +77,5 @@ $$ pos: F, starts: 15, subIns: 1, totalGoals: 9, totalShots: 32, shotsOnTarget: 
 $$ pos: F, starts: 10, subIns: 0, totalGoals: 6, totalShots: 35, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 19, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
 
 (49) Devon Sandoval
-$$ pos: F, starts: 6, subIns: 7, totalGoals: 0, totalShots: 9, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
+$$ pos: F, starts: 7, subIns: 7, totalGoals: 0, totalShots: 9, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 10, yellowCards: 0, redCards: 0, 
 

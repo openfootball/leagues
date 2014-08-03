@@ -37,6 +37,9 @@ $$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 (25) Walker Zimmerman
 $$ pos: D, starts: 7, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
 
+(--) Coy Craft
+$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
 (10) Mauro Alberto Díaz
 $$ pos: M, starts: 8, subIns: 3, totalGoals: 3, totalShots: 16, shotsOnTarget: 6, goalAssists: 2, foulsCommitted: 6, foulsSuffered: 25, yellowCards: 1, redCards: 0, 
 

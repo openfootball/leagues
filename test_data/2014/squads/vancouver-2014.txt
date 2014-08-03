@@ -23,7 +23,7 @@ $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: D, starts: 20, subIns: 0, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 22, foulsSuffered: 22, yellowCards: 3, redCards: 1, 
 
 (16) Johnny Leveron
-$$ pos: D, starts: 11, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 13, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+$$ pos: D, starts: 11, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
 
 (24) Carlyle Mitchell
 $$ pos: D, starts: 8, subIns: 0, totalGoals: 1, totalShots: 5, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 2, redCards: 0, 
@@ -53,7 +53,7 @@ $$ pos: M, starts: 11, subIns: 7, totalGoals: 4, totalShots: 32, shotsOnTarget: 
 $$ pos: M, starts: 16, subIns: 3, totalGoals: 1, totalShots: 20, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 35, foulsSuffered: 31, yellowCards: 4, redCards: 0, 
 
 (15) Matias Laba
-$$ pos: M, starts: 19, subIns: 1, totalGoals: 0, totalShots: 5, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 33, foulsSuffered: 29, yellowCards: 4, redCards: 1, 
+$$ pos: M, starts: 19, subIns: 1, totalGoals: 0, totalShots: 5, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 35, foulsSuffered: 29, yellowCards: 4, redCards: 1, 
 
 (29) Nicolás Mezquida
 $$ pos: M, starts: 3, subIns: 6, totalGoals: 2, totalShots: 7, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 6, yellowCards: 0, redCards: 0, 
@@ -68,7 +68,7 @@ $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 $$ pos: M, starts: 8, subIns: 4, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 19, foulsSuffered: 7, yellowCards: 3, redCards: 0, 
 
 (7) Sebastian Fernandez
-$$ pos: F, starts: 14, subIns: 6, totalGoals: 3, totalShots: 35, shotsOnTarget: 11, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 39, yellowCards: 4, redCards: 0, 
+$$ pos: F, starts: 14, subIns: 6, totalGoals: 3, totalShots: 35, shotsOnTarget: 11, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 39, yellowCards: 4, redCards: 0, 
 
 (30) Jordan Haynes
 $$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
