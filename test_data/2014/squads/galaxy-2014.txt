@@ -16,9 +16,6 @@ $$ pos: D, starts: 2, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 0,
 (33) Dan Gargan
 $$ pos: D, starts: 16, subIns: 1, totalGoals: 0, totalShots: 5, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 19, foulsSuffered: 14, yellowCards: 4, redCards: 1, 
 
-(4) Omar Gonzalez
-$$ pos: D, starts: 8, subIns: 0, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 9, yellowCards: 1, redCards: 0, 
-
 (21) Tommy Meyer
 $$ pos: D, starts: 9, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
 
@@ -33,9 +30,6 @@ $$ pos: D, starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 
 (31) Kyle Venter
 $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
-
-(10) Landon Donovan
-$$ pos: M, starts: 16, subIns: 1, totalGoals: 4, totalShots: 36, shotsOnTarget: 13, goalAssists: 5, foulsCommitted: 17, foulsSuffered: 14, yellowCards: 3, redCards: 0, 
 
 (25) Rafael García
 $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 

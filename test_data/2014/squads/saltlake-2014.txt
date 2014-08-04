@@ -4,17 +4,11 @@ $$ pos: G, starts: 8, subIns: 0, saves: 37, goalsConceded: 12, foulsCommitted: 0
 (1) Eduardo Fernandez
 $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
-(18) Nick Rimando
-$$ pos: G, starts: 14, subIns: 0, saves: 43, goalsConceded: 15, foulsCommitted: 1, foulsSuffered: 5, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
-
 (7) Jordan Allen
 $$ pos: D, starts: 0, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
 
 (25) Rich Balchan
 $$ pos: D, starts: 2, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
-
-(2) Tony Beltran
-$$ pos: D, starts: 19, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 28, foulsSuffered: 9, yellowCards: 4, redCards: 1, 
 
 (6) Nat Borchers
 $$ pos: D, starts: 21, subIns: 0, totalGoals: 0, totalShots: 11, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 9, yellowCards: 3, redCards: 0, 
@@ -39,9 +33,6 @@ $$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0,
 
 (17) Chris Wingert
 $$ pos: D, starts: 20, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 23, foulsSuffered: 11, yellowCards: 5, redCards: 0, 
-
-(5) Kyle Beckerman
-$$ pos: M, starts: 16, subIns: 0, totalGoals: 2, totalShots: 23, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 23, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
 
 (21) Luis Gil
 $$ pos: M, starts: 12, subIns: 4, totalGoals: 2, totalShots: 13, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 8, foulsSuffered: 9, yellowCards: 0, redCards: 0, 

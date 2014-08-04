@@ -46,9 +46,6 @@ $$ pos: M, starts: 19, subIns: 0, totalGoals: 2, totalShots: 3, shotsOnTarget: 3
 (26) George Fochive
 $$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
-(4) Will Johnson
-$$ pos: M, starts: 22, subIns: 0, totalGoals: 6, totalShots: 47, shotsOnTarget: 18, goalAssists: 1, foulsCommitted: 19, foulsSuffered: 34, yellowCards: 3, redCards: 0, 
-
 (17) Michael Nanchoff
 $$ pos: M, starts: 1, subIns: 2, totalGoals: 0, totalShots: 4, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
 

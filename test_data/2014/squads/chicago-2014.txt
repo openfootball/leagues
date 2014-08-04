@@ -76,9 +76,6 @@ $$ pos: F, starts: 0, subIns: 5, totalGoals: 0, totalShots: 3, shotsOnTarget: 2,
 (92) Guiseppe Gentile
 $$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
-(9) Mike Magee
-$$ pos: F, starts: 15, subIns: 0, totalGoals: 6, totalShots: 36, shotsOnTarget: 14, goalAssists: 4, foulsCommitted: 15, foulsSuffered: 24, yellowCards: 4, redCards: 0, 
-
 (19) Harrison Shipp
 $$ pos: F, starts: 17, subIns: 3, totalGoals: 6, totalShots: 29, shotsOnTarget: 11, goalAssists: 5, foulsCommitted: 8, foulsSuffered: 14, yellowCards: 0, redCards: 0, 
 

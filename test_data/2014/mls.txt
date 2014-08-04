@@ -258,14 +258,14 @@ Wed Jul/30 22:35 Chicago Fire           0-0 Vancouver Whitecaps FC
 Wed Jul/30 23:10 Real Salt Lake           1-1 New York Red Bulls
 Fri Aug/1 22:20 Sporting Kansas City           1-1 Philadelphia Union
 Sat Aug/2 16:45 Los Angeles Galaxy           3-1 Portland Timbers
-Sat Aug/2 19:00 Montreal Impact           VS Toronto FC
-Sat Aug/2 21:00 New York Red Bulls           VS New England Revolution
-Sat Aug/2 22:30 Chicago Fire           VS Columbus Crew
-Sat Aug/2 23:00 Colorado Rapids           VS Real Salt Lake
+Sat Aug/2 19:00 Montreal Impact           0-2 Toronto FC
+Sat Aug/2 21:00 New York Red Bulls           2-1 New England Revolution
+Sat Aug/2 22:30 Chicago Fire           1-1 Columbus Crew
+Sat Aug/2 23:00 Colorado Rapids           0-1 Real Salt Lake
 
 Week 22
 
-Sun Aug/3 00:30 San Jose Earthquakes           VS Seattle Sounders
+Sun Aug/3 00:50 San Jose Earthquakes           1-0 Seattle Sounders
 Sun Aug/3 22:00 Houston Dynamo           VS Washington D.C. United
 Mon Aug/4 00:00 CD Chivas USA           VS FC Dallas
 Mon Aug/4 21:30 New England Revolution           VS Columbus Crew

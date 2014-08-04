@@ -70,9 +70,6 @@ $$ pos: M, starts: 11, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 1
 (9) Andre Akpan
 $$ pos: F, starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
 
-(14) Thierry Henry
-$$ pos: F, starts: 19, subIns: 0, totalGoals: 5, totalShots: 57, shotsOnTarget: 19, goalAssists: 8, foulsCommitted: 23, foulsSuffered: 19, yellowCards: 3, redCards: 0, 
-
 (21) Ruben Bover Izquierdo
 $$ pos: F, starts: 1, subIns: 7, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
 

@@ -171,7 +171,7 @@ major-league-soccer!/test_data/2006/squads/galaxy-2006
 major-league-soccer!/test_data/2006/squads/houston-2006
 major-league-soccer!/test_data/2006/squads/kcwizards-2006
 major-league-soccer!/test_data/2006/squads/newengland-2006
-major-league-soccer!/test_data/2006/squads/newyork-2006
+major-league-soccer!/test_data/2006/squads/nymetro-2006
 major-league-soccer!/test_data/2006/squads/saltlake-2006
 
 major-league-soccer!/test_data/2005/mls

@@ -14,7 +14,7 @@ $$ pos: D, starts: 8, subIns: 2, totalGoals: 0, totalShots: 3, shotsOnTarget: 2,
 $$ pos: D, starts: 14, subIns: 0, totalGoals: 0, totalShots: 7, shotsOnTarget: 2, goalAssists: 1, foulsCommitted: 15, foulsSuffered: 5, yellowCards: 2, redCards: 0, 
 
 (16) Eric Gehrig
-$$ pos: D, starts: 6, subIns: 3, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+$$ pos: D, starts: 6, subIns: 3, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
 
 (5) Giancarlo González
 $$ pos: D, starts: 15, subIns: 0, totalGoals: 0, totalShots: 8, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 11, foulsSuffered: 11, yellowCards: 3, redCards: 0, 
@@ -53,7 +53,7 @@ $$ pos: M, starts: 8, subIns: 12, totalGoals: 2, totalShots: 26, shotsOnTarget: 
 $$ pos: M, starts: 2, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
 
 (17) Ben Speas
-$$ pos: M, starts: 5, subIns: 3, totalGoals: 0, totalShots: 10, shotsOnTarget: 2, goalAssists: 3, foulsCommitted: 2, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+$$ pos: M, starts: 5, subIns: 3, totalGoals: 0, totalShots: 10, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 2, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
 
 (6) Tony Tchani
 $$ pos: M, starts: 22, subIns: 0, totalGoals: 0, totalShots: 21, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 43, foulsSuffered: 32, yellowCards: 5, redCards: 0, 
@@ -71,11 +71,11 @@ $$ pos: F, starts: 13, subIns: 3, totalGoals: 3, totalShots: 35, shotsOnTarget: 
 $$ pos: F, starts: 3, subIns: 9, totalGoals: 1, totalShots: 8, shotsOnTarget: 8, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
 
 (13) Ethan Finlay
-$$ pos: F, starts: 9, subIns: 8, totalGoals: 5, totalShots: 27, shotsOnTarget: 10, goalAssists: 2, foulsCommitted: 8, foulsSuffered: 16, yellowCards: 1, redCards: 0, 
+$$ pos: F, starts: 9, subIns: 8, totalGoals: 5, totalShots: 27, shotsOnTarget: 10, goalAssists: 3, foulsCommitted: 8, foulsSuffered: 16, yellowCards: 1, redCards: 0, 
 
 (10) Federico Higuaín
 $$ pos: F, starts: 18, subIns: 1, totalGoals: 8, totalShots: 40, shotsOnTarget: 15, goalAssists: 5, foulsCommitted: 19, foulsSuffered: 26, yellowCards: 6, redCards: 0, 
 
 (18) Aaron Schoenfeld
-$$ pos: F, starts: 0, subIns: 4, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 3, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+$$ pos: F, starts: 0, subIns: 4, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 3, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
 

@@ -28,9 +28,6 @@ $$ pos: D, starts: 19, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 1
 (4) Jermaine Taylor
 $$ pos: D, starts: 16, subIns: 0, totalGoals: 0, totalShots: 5, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 6, yellowCards: 6, redCards: 0, 
 
-(26) Corey Ashe
-$$ pos: M, starts: 17, subIns: 0, totalGoals: 0, totalShots: 7, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 7, foulsSuffered: 19, yellowCards: 1, redCards: 0, 
-
 (23) Giles Barnes
 $$ pos: M, starts: 20, subIns: 0, totalGoals: 5, totalShots: 68, shotsOnTarget: 21, goalAssists: 4, foulsCommitted: 34, foulsSuffered: 25, yellowCards: 1, redCards: 0, 
 
@@ -42,9 +39,6 @@ $$ pos: M, starts: 4, subIns: 1, totalGoals: 0, totalShots: 7, shotsOnTarget: 1,
 
 (13) Ricardo Clark
 $$ pos: M, starts: 10, subIns: 1, totalGoals: 2, totalShots: 22, shotsOnTarget: 5, goalAssists: 2, foulsCommitted: 17, foulsSuffered: 6, yellowCards: 3, redCards: 0, 
-
-(11) Brad Davis
-$$ pos: M, starts: 11, subIns: 0, totalGoals: 4, totalShots: 17, shotsOnTarget: 8, goalAssists: 5, foulsCommitted: 12, foulsSuffered: 14, yellowCards: 0, redCards: 0, 
 
 (20) Andrew Driver
 $$ pos: M, starts: 18, subIns: 2, totalGoals: 0, totalShots: 20, shotsOnTarget: 6, goalAssists: 0, foulsCommitted: 21, foulsSuffered: 7, yellowCards: 1, redCards: 0, 

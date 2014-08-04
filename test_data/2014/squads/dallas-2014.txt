@@ -1,6 +1,3 @@
-(1) Raúl Fernández
-$$ pos: G, starts: 9, subIns: 1, saves: 32, goalsConceded: 14, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 1, redCards: 0, wins: 0, losses: 0, draws: 0, 
-
 (44) Jesse Gonzalez
 $$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
