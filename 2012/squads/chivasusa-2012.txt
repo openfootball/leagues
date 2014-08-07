@@ -1,28 +1,84 @@
-(24) G Patrick McLain
-(28) G Timothy Melia
-(1) G Dan Kennedy
-(4) D Rauwshan McKenzie
-(5) D John Valencia
-(23) D Danny Califf
-(2) D Bobby Burling
-(13) D Ante Jazic
-(7) D James Riley
-(12) M Marco Delgado
-(26) M Marvin Iraheta
-(21) M Ben Zemanski
-(30) M Paolo Cardozo
-(8) M Oswaldo Minda
-(19) M Jorge Villafaña
-(10) M Nick LaBrocca
-(17) M Miller Bolaños
-(22) M Ryan Smith
-(18) M Shalrie Joseph
-(6) M Peter Vagenas
-(16) M Laurent Courtois
-(58) F Cesar Romero
-(14) F Casey Townsend
-(27) F Jose Correa Villero
-(11) F Juan Agudelo
-(20) F Tristan Bowen
-(15) F Alejandro Moreno
-(9) F Juan Pablo Angel
+(1) Dan Kennedy
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(24) Patrick McLain
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Timothy Melia
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(2) Bobby Burling
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Danny Califf
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(13) Ante Jazic
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Rauwshan McKenzie
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) James Riley
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(5) John Valencia
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(17) Miller Bolaños
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(30) Paolo Cardozo
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Laurent Courtois
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(12) Marco Delgado
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(26) Marvin Iraheta
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(18) Shalrie Joseph
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Nick LaBrocca
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Oswaldo Minda
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(22) Ryan Smith
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Peter Vagenas
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Jorge Villafaña
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(21) Ben Zemanski
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) Juan Agudelo
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Juan Pablo Angel
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(20) Tristan Bowen
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Jose Correa Villero
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Alejandro Moreno
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(58) Cesar Romero
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(14) Casey Townsend
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+

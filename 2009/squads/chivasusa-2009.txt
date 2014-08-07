@@ -1,25 +1,75 @@
-(21) G Lance Parker
-(1) G Dan Kennedy
-(22) G Zach Thornton
-(14) G Jon Conway
-(28) D Cesar Zamora
-(45) D Yamith Cuesta
-(6) D Ante Jazic
-(2) D Claudio Suarez
-(13) D Jonathan Bornstein
-(55) D Marcelo Saragosa
-(77) M Chukwudi Chijindu
-(27) M Michael Lahoud
-(24) M Gerson Mayen
-(10) M Jesús Andrés Padilla Cisneros
-(16) M Sacha Kljestan
-(15) M Jesse Marsch
-(18) M Sasha Victorine
-(12) M Carey Talley
-(8) M Mariano Trujillo
-(19) F Jorge Villafaña
-(11) F Maykel Galindo
-(9) F Ante Razov
-(29) F Maicon Santos
-(17) F Justin Braun
-(--) - Blair Gavin
+(14) Jon Conway
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Dan Kennedy
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(21) Lance Parker
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(22) Zach Thornton
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(--) Blair Gavin
+#$$ pos: -, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(13) Jonathan Bornstein
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(45) Yamith Cuesta
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Ante Jazic
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(55) Marcelo Saragosa
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Claudio Suarez
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(28) Cesar Zamora
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(77) Chukwudi Chijindu
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Sacha Kljestan
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Michael Lahoud
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Jesse Marsch
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(24) Gerson Mayen
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Jesús Andrés Padilla Cisneros
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(12) Carey Talley
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Mariano Trujillo
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(18) Sasha Victorine
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) Maykel Galindo
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Ante Razov
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Jorge Villafaña
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(17) Justin Braun
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(29) Maicon Santos
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+

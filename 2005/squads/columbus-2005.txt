@@ -1,24 +1,72 @@
-(31) G Bill Gaudette
-(22) G Matt Jordan
-(1) G Jon Busch
-(88) G Jonny Walker
-(6) D Chris Wingert
-(14) D Chad Marshall
-(5) D Stephen Herdsman
-(8) D Duncan Oughton
-(21) M Luis Gallardo
-(30) M Eric Vasquez
-(18) M Marcus Storey
-(9) M Mario Rodriguez
-(28) M Domenic Mediate
-(17) M Danny Szetela
-(10) M Kyle Martino
-(7) M Simon Elliott
-(--) M Ritchie Kotschau
-(19) M Chris Henderson
-(2) M Frankie Hejduk
-(29) F Knox Cameron
-(23) F David Testo
-(27) F Jamal Sutton
-(12) F Edson Buddle
-(11) F John Wolyniec
+(1) Jon Busch
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(31) Bill Gaudette
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(22) Matt Jordan
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(88) Jonny Walker
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(5) Stephen Herdsman
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(14) Chad Marshall
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Duncan Oughton
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Chris Wingert
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) Simon Elliott
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(21) Luis Gallardo
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Frankie Hejduk
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Chris Henderson
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(--) Ritchie Kotschau
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Kyle Martino
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(28) Domenic Mediate
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Mario Rodriguez
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(18) Marcus Storey
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(17) Danny Szetela
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(30) Eric Vasquez
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(12) Edson Buddle
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(29) Knox Cameron
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Jamal Sutton
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) David Testo
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) John Wolyniec
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+

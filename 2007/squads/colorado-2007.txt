@@ -1,34 +1,102 @@
-(24) G Justin Hughes
-(1) G Bouna Coundoul
-(31) G Zach Thornton
-(32) D Clifton Wilmes
-(2) D Jordan Harvey
-(33) D Daniel Wasson
-(3) D Facundo Erpen
-(13) D Stephen Keel
-(18) D Ugo Ihemelu
-(4) D Dan Gargan
-(3) D Greg Vanney
-(16) D Chris Wingert
-(12) D Mike Petke
-(6) D Brandon Prideaux
-(16) M Daniel Osorno
-(27) M Kosuke Kimura
-(22) M Nick LaBrocca
-(28) M John DiRaimondo
-(8) M Yherland McDonald
-(21) M Nico Colaluca
-(23) M Colin Clark
-(8) M Mehdi Ballouchy
-(15) M Jacob Peterson
-(29) M Tony Sanneh
-(7) M Jovan Kirovski
-(10) M Herculez Gomez
-(9) M Jose Cancela
-(5) M Kyle Beckerman
-(25) M Pablo Mastroeni
-(11) M Terry Cooke
-(14) F Omar Cummings
-(19) F Roberto Brown
-(20) F Nicolas Hernandez
-(26) F Conor Casey
+(1) Bouna Coundoul
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(24) Justin Hughes
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(31) Zach Thornton
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(3) Facundo Erpen
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Dan Gargan
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Jordan Harvey
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(18) Ugo Ihemelu
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(13) Stephen Keel
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(12) Mike Petke
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Brandon Prideaux
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(3) Greg Vanney
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(33) Daniel Wasson
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(32) Clifton Wilmes
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Chris Wingert
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Mehdi Ballouchy
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(5) Kyle Beckerman
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Jose Cancela
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Colin Clark
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(21) Nico Colaluca
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) Terry Cooke
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(28) John DiRaimondo
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(10) Herculez Gomez
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Kosuke Kimura
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) Jovan Kirovski
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(22) Nick LaBrocca
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(25) Pablo Mastroeni
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Yherland McDonald
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Daniel Osorno
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Jacob Peterson
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(29) Tony Sanneh
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Roberto Brown
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(26) Conor Casey
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(14) Omar Cummings
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(20) Nicolas Hernandez
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+

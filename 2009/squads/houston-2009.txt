@@ -1,24 +1,72 @@
-(5) G Danny Cruz
-(30) G Tyler Deric
-(1) G Tally Hall
-(18) G Pat Onstad
-(31) D Andrew Hainault
-(32) D Bobby Boswell
-(24) D Wade Barrett
-(4) D Ryan Cochrane
-(16) D Craig Waibel
-(2) D Eddie Robinson
-(11) M Brad Davis
-(15) M Cameron Weaver
-(20) M Geoff Cameron
-(13) M Ricardo Clark
-(--) M Kevin Harmse
-(6) M Erik Ustruck
-(19) M John Michael Hayden
-(26) M Corey Ashe
-(17) M Mike Chabala
-(8) M Richard Mulrooney
-(23) F Dominic Oduro
-(9) F Brian Mullan
-(7) F Luis Angel Cortes Landin
-(25) F Brian Ching
+(5) Danny Cruz
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(30) Tyler Deric
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Tally Hall
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(18) Pat Onstad
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(24) Wade Barrett
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(32) Bobby Boswell
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(4) Ryan Cochrane
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(31) Andrew Hainault
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Eddie Robinson
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(16) Craig Waibel
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(26) Corey Ashe
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(20) Geoff Cameron
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(17) Mike Chabala
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(13) Ricardo Clark
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(11) Brad Davis
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(--) Kevin Harmse
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) John Michael Hayden
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Richard Mulrooney
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(6) Erik Ustruck
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(15) Cameron Weaver
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(9) Brian Mullan
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Dominic Oduro
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(25) Brian Ching
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) Luis Angel Cortes Landin
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+

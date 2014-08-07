@@ -1,30 +1,26 @@
-
-# MLS Season 2013
-
+---
 league: mls
-season: 2013
-start_at: 2013-01-01
-
+season: '2014'
+start_at: '2014-01-01'
 fixtures:
 - mls
-
 teams:
-- galaxy
 - seattle
-- houston
-- saltlake
-- sanjose
-- kansascity
-- colorado
-- dallas
-- chivasusa
-- chicago
-- columbus
 - dcunited
-- newengland
+- vancouver
+- houston
+- dallas
+- galaxy
+- portland
+- chivasusa
 - newyork
 - philadelphia
-- portland
+- kansascity
+- sanjose
+- newengland
+- saltlake
 - toronto
-- vancouver
+- colorado
+- columbus
+- chicago
 - montreal

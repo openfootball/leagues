@@ -1,30 +1,87 @@
-(44) G Marco Carducci
-(1) G David Ousted
-(70) G Paolo Tornaghi
-(27) D Ethen Sampson
-(22) D Christian Dean
-(41) D Jackson Farmer
-(3) D Sam Adekugbe
-(24) D Carlyle Mitchell
-(33) D Steven Beitashour
-(2) D Jordan Harvey
-(16) D Johnny Leveron
-(6) D Jay DeMerit
-(40) D Andrew O'Brien
-(37) M Mitchell Piraux
-(29) M Nicolás Mezquida
-(38) M Kianz Froese
-(19) M Erik Hurtado
-(36) M Bryce Alderson
-(28) M Gershon Koffie
-(15) M Matias Laba
-(32) M Marcos Bustos
-(8) M Mehdi Ballouchy
-(77) M Pedro Morales
-(20) M Nigel Reo-Coker
-(30) F Jordan Haynes
-(23) F Kekuta Manneh
-(11) F Darren Mattocks
-(31) F Russell Teibert
-(17) F Omar Salgado
-(7) F Sebastian Fernandez
+(44) Marco Carducci
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) David Ousted
+#$$ pos: G, starts: 21, subIns: 0, saves: 58, goalsConceded: 29, foulsCommitted: 1, foulsSuffered: 4, yellowCards: 1, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(70) Paolo Tornaghi
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(3) Sam Adekugbe
+#$$ pos: D, starts: 1, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 0, yellowCards: 1, redCards: 0, 
+
+(33) Steven Beitashour
+#$$ pos: D, starts: 16, subIns: 0, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 14, foulsSuffered: 15, yellowCards: 2, redCards: 0, 
+
+(22) Christian Dean
+#$$ pos: D, starts: 0, subIns: 3, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(41) Jackson Farmer
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(2) Jordan Harvey
+#$$ pos: D, starts: 20, subIns: 0, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 22, foulsSuffered: 22, yellowCards: 3, redCards: 1, 
+
+(16) Johnny Leveron
+#$$ pos: D, starts: 11, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(24) Carlyle Mitchell
+#$$ pos: D, starts: 8, subIns: 0, totalGoals: 1, totalShots: 5, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 2, redCards: 0, 
+
+(40) Andrew O'Brien
+#$$ pos: D, starts: 13, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 13, foulsSuffered: 3, yellowCards: 3, redCards: 0, 
+
+(27) Ethen Sampson
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(36) Bryce Alderson
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(8) Mehdi Ballouchy
+#$$ pos: M, starts: 1, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(32) Marcos Bustos
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(38) Kianz Froese
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Erik Hurtado
+#$$ pos: M, starts: 11, subIns: 7, totalGoals: 4, totalShots: 32, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 18, foulsSuffered: 12, yellowCards: 0, redCards: 0, 
+
+(28) Gershon Koffie
+#$$ pos: M, starts: 16, subIns: 3, totalGoals: 1, totalShots: 20, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 35, foulsSuffered: 31, yellowCards: 4, redCards: 0, 
+
+(15) Matias Laba
+#$$ pos: M, starts: 19, subIns: 1, totalGoals: 0, totalShots: 5, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 35, foulsSuffered: 29, yellowCards: 4, redCards: 1, 
+
+(29) Nicolás Mezquida
+#$$ pos: M, starts: 3, subIns: 6, totalGoals: 2, totalShots: 7, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 6, yellowCards: 0, redCards: 0, 
+
+(77) Pedro Morales
+#$$ pos: M, starts: 17, subIns: 3, totalGoals: 7, totalShots: 70, shotsOnTarget: 25, goalAssists: 6, foulsCommitted: 14, foulsSuffered: 19, yellowCards: 3, redCards: 0, 
+
+(37) Mitchell Piraux
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(20) Nigel Reo-Coker
+#$$ pos: M, starts: 8, subIns: 4, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 19, foulsSuffered: 7, yellowCards: 3, redCards: 0, 
+
+(7) Sebastian Fernandez
+#$$ pos: F, starts: 14, subIns: 6, totalGoals: 3, totalShots: 35, shotsOnTarget: 11, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 39, yellowCards: 4, redCards: 0, 
+
+(30) Jordan Haynes
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Kekuta Manneh
+#$$ pos: F, starts: 9, subIns: 9, totalGoals: 3, totalShots: 40, shotsOnTarget: 15, goalAssists: 1, foulsCommitted: 9, foulsSuffered: 12, yellowCards: 2, redCards: 0, 
+
+(11) Darren Mattocks
+#$$ pos: F, starts: 14, subIns: 4, totalGoals: 5, totalShots: 34, shotsOnTarget: 16, goalAssists: 3, foulsCommitted: 18, foulsSuffered: 22, yellowCards: 2, redCards: 0, 
+
+(17) Omar Salgado
+#$$ pos: F, starts: 1, subIns: 5, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 7, yellowCards: 0, redCards: 0, 
+
+(31) Russell Teibert
+#$$ pos: F, starts: 10, subIns: 6, totalGoals: 0, totalShots: 8, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 11, foulsSuffered: 5, yellowCards: 2, redCards: 0, 
+

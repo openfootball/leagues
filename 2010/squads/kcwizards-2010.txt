@@ -1,0 +1,78 @@
+(18) Eric Kronberg
+#$$ pos: G, starts: 1, subIns: 0, saves: 2, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Jimmy Nielsen
+#$$ pos: G, starts: 29, subIns: 0, saves: 60, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 1, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(5) Matt Besler
+#$$ pos: D, starts: 10, subIns: 2, totalGoals: 0, totalShots: 4, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 14, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(12) Jimmy Conrad
+#$$ pos: D, starts: 26, subIns: 0, totalGoals: 1, totalShots: 5, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 12, yellowCards: 6, redCards: 0, 
+
+(6) Pablo Escobar
+#$$ pos: D, starts: 7, subIns: 0, totalGoals: 0, totalShots: 5, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+
+(17) Roger Espinoza
+#$$ pos: D, starts: 25, subIns: 0, totalGoals: 0, totalShots: 12, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 35, foulsSuffered: 21, yellowCards: 6, redCards: 0, 
+
+(2) Michael Harrington
+#$$ pos: D, starts: 29, subIns: 0, totalGoals: 0, totalShots: 5, shotsOnTarget: 1, goalAssists: 3, foulsCommitted: 23, foulsSuffered: 18, yellowCards: 3, redCards: 0, 
+
+(15) Aaron Hohlbein
+#$$ pos: D, starts: 1, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(32) Nick Kounenakis
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(25) Jonathan Leathers
+#$$ pos: D, starts: 3, subIns: 5, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+
+(6) Thomas Shavar
+#$$ pos: D, starts: 16, subIns: 0, totalGoals: 0, totalShots: 7, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 10, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+
+(3) Korede Aiyegbusi
+#$$ pos: M, starts: 1, subIns: 4, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(22) David Arnaud
+#$$ pos: M, starts: 27, subIns: 0, totalGoals: 6, totalShots: 49, shotsOnTarget: 26, goalAssists: 3, foulsCommitted: 29, foulsSuffered: 49, yellowCards: 4, redCards: 3, 
+
+(8) Stephane Auvray
+#$$ pos: M, starts: 21, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 19, foulsSuffered: 15, yellowCards: 2, redCards: 0, 
+
+(21) Igori Costrov
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(14) Jack Jewsbury
+#$$ pos: M, starts: 17, subIns: 11, totalGoals: 2, totalShots: 26, shotsOnTarget: 12, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 23, yellowCards: 4, redCards: 0, 
+
+(4) Craig Rocastle
+#$$ pos: M, starts: 18, subIns: 5, totalGoals: 0, totalShots: 8, shotsOnTarget: 0, goalAssists: 3, foulsCommitted: 27, foulsSuffered: 29, yellowCards: 4, redCards: 1, 
+
+(11) Ryan Smith
+#$$ pos: M, starts: 25, subIns: 1, totalGoals: 2, totalShots: 30, shotsOnTarget: 18, goalAssists: 4, foulsCommitted: 12, foulsSuffered: 43, yellowCards: 4, redCards: 0, 
+
+(9) Teal Bunbury
+#$$ pos: F, starts: 13, subIns: 12, totalGoals: 5, totalShots: 33, shotsOnTarget: 18, goalAssists: 1, foulsCommitted: 24, foulsSuffered: 23, yellowCards: 3, redCards: 0, 
+
+(19) Sunil Chhetri
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(27) Birahim Diop
+#$$ pos: F, starts: 7, subIns: 7, totalGoals: 5, totalShots: 15, shotsOnTarget: 12, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
+
+(20) Zoltan Hercegfalvi
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(23) Kei Kamara
+#$$ pos: F, starts: 27, subIns: 2, totalGoals: 10, totalShots: 74, shotsOnTarget: 34, goalAssists: 3, foulsCommitted: 40, foulsSuffered: 50, yellowCards: 4, redCards: 0, 
+
+(7) Chance Myers
+#$$ pos: F, starts: 6, subIns: 9, totalGoals: 0, totalShots: 7, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 7, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+
+(16) Josh Wolff
+#$$ pos: F, starts: 16, subIns: 9, totalGoals: 2, totalShots: 19, shotsOnTarget: 10, goalAssists: 3, foulsCommitted: 9, foulsSuffered: 20, yellowCards: 1, redCards: 0, 
+
+(28) Graham Zusi
+#$$ pos: F, starts: 4, subIns: 15, totalGoals: 1, totalShots: 13, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 9, yellowCards: 2, redCards: 0, 
+

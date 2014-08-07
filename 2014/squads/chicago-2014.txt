@@ -1,28 +1,81 @@
-(1) G Alec Kann
-(25) G Sean Johnson
-(28) G Kyle Reynish
-(23) D Marco Franco
-(16) D Greg Cochrane
-(3) D Hunter Jumper
-(18) D Steven Kinney
-(4) D Bakary Soumare
-(6) D Patrick Ianni
-(34) D Jhon Kennedy Hurtado
-(13) D Gonzalo Segares
-(8) M Grant Ward
-(21) M Chris Ritter
-(54) M Hector Joya
-(7) M Alex
-(22) M Matt Watson
-(11) M Dilly Duka
-(14) M Patrick Nyarko
-(4) M Álvaro Fernández
-(5) M Lovel Palmer
-(20) M Jeff Larentowicz
-(12) M Logan Pause
-(19) F Harrison Shipp
-(92) F Guiseppe Gentile
-(15) F Matt Fondy
-(24) F Quincy Amarikwa
-(33) F Juan Anangonó
-(9) F Mike Magee
+(25) Sean Johnson
+#$$ pos: G, starts: 21, subIns: 0, saves: 58, goalsConceded: 34, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(1) Alec Kann
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Kyle Reynish
+#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(16) Greg Cochrane
+#$$ pos: D, starts: 11, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 6, foulsSuffered: 2, yellowCards: 2, redCards: 0, 
+
+(23) Marco Franco
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(34) Jhon Kennedy Hurtado
+#$$ pos: D, starts: 18, subIns: 0, totalGoals: 1, totalShots: 6, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 23, foulsSuffered: 15, yellowCards: 2, redCards: 1, 
+
+(6) Patrick Ianni
+#$$ pos: D, starts: 7, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 12, foulsSuffered: 2, yellowCards: 2, redCards: 0, 
+
+(3) Hunter Jumper
+#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(18) Steven Kinney
+#$$ pos: D, starts: 2, subIns: 0, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(13) Gonzalo Segares
+#$$ pos: D, starts: 10, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 17, foulsSuffered: 8, yellowCards: 3, redCards: 0, 
+
+(4) Bakary Soumare
+#$$ pos: D, starts: 15, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 21, foulsSuffered: 12, yellowCards: 2, redCards: 0, 
+
+(30) Razvan Cocis
+#$$ pos: M, starts: 0, subIns: 2, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(7) Alex
+#$$ pos: M, starts: 12, subIns: 3, totalGoals: 0, totalShots: 19, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 15, foulsSuffered: 24, yellowCards: 1, redCards: 0, 
+
+(54) Hector Joya
+#$$ pos: M, starts: 9, subIns: 3, totalGoals: 1, totalShots: 16, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 12, yellowCards: 2, redCards: 0, 
+
+(20) Jeff Larentowicz
+#$$ pos: M, starts: 20, subIns: 0, totalGoals: 4, totalShots: 27, shotsOnTarget: 10, goalAssists: 1, foulsCommitted: 36, foulsSuffered: 18, yellowCards: 0, redCards: 0, 
+
+(14) Patrick Nyarko
+#$$ pos: M, starts: 7, subIns: 2, totalGoals: 1, totalShots: 8, shotsOnTarget: 5, goalAssists: 2, foulsCommitted: 8, foulsSuffered: 17, yellowCards: 1, redCards: 1, 
+
+(11) Sanna Nyassi
+#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(5) Lovel Palmer
+#$$ pos: M, starts: 17, subIns: 1, totalGoals: 0, totalShots: 16, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 18, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
+
+(12) Logan Pause
+#$$ pos: M, starts: 1, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 3, yellowCards: 0, redCards: 0, 
+
+(21) Chris Ritter
+#$$ pos: M, starts: 7, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 7, yellowCards: 3, redCards: 0, 
+
+(8) Grant Ward
+#$$ pos: M, starts: 7, subIns: 4, totalGoals: 1, totalShots: 9, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 12, yellowCards: 1, redCards: 0, 
+
+(22) Matt Watson
+#$$ pos: M, starts: 10, subIns: 5, totalGoals: 0, totalShots: 10, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 15, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
+
+(24) Quincy Amarikwa
+#$$ pos: F, starts: 17, subIns: 2, totalGoals: 6, totalShots: 41, shotsOnTarget: 15, goalAssists: 3, foulsCommitted: 34, foulsSuffered: 52, yellowCards: 4, redCards: 1, 
+
+(33) Juan Anangonó
+#$$ pos: F, starts: 4, subIns: 11, totalGoals: 2, totalShots: 18, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 10, foulsSuffered: 13, yellowCards: 0, redCards: 0, 
+
+(15) Matt Fondy
+#$$ pos: F, starts: 0, subIns: 5, totalGoals: 0, totalShots: 3, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
+
+(92) Guiseppe Gentile
+#$$ pos: F, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Harrison Shipp
+#$$ pos: F, starts: 17, subIns: 3, totalGoals: 6, totalShots: 29, shotsOnTarget: 11, goalAssists: 5, foulsCommitted: 8, foulsSuffered: 14, yellowCards: 0, redCards: 0, 
+
