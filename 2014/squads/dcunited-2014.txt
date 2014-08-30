@@ -1,75 +1,87 @@
 (50) Andrew Dykstra
-#$$ pos: G, starts: 4, subIns: 0, saves: 7, goalsConceded: 3, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+#$$ pos: G, age: 0, starts: 4, subIns: 0, saves: 7, goalsConceded: 3, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(28) Bill Hamid
+#$$ pos: G, age: 23, starts: 21, subIns: 0, saves: 80, goalsConceded: 27, foulsCommitted: 1, foulsSuffered: 4, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (31) Joe Willis
-#$$ pos: G, starts: 0, subIns: 0, saves: 0, goalsConceded: 1, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+#$$ pos: G, age: 0, starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (4) Nana Attakora
-#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+#$$ pos: D, age: 0, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (15) Steve Birnbaum
-#$$ pos: D, starts: 8, subIns: 0, totalGoals: 0, totalShots: 6, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 5, yellowCards: 0, redCards: 0, 
+#$$ pos: D, age: 0, starts: 12, subIns: 0, totalGoals: 0, totalShots: 8, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 6, yellowCards: 0, redCards: 0, 
+
+(32) Bobby Boswell
+#$$ pos: D, age: 31, starts: 25, subIns: 0, totalGoals: 1, totalShots: 16, shotsOnTarget: 4, goalAssists: 2, foulsCommitted: 25, foulsSuffered: 11, yellowCards: 1, redCards: 0, 
+
+(5) Sean Franklin
+#$$ pos: D, age: 29, starts: 19, subIns: 1, totalGoals: 1, totalShots: 11, shotsOnTarget: 3, goalAssists: 1, foulsCommitted: 12, foulsSuffered: 9, yellowCards: 0, redCards: 0, 
 
 (33) Taylor Kemp
-#$$ pos: D, starts: 1, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+#$$ pos: D, age: 0, starts: 4, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 6, foulsSuffered: 2, yellowCards: 2, redCards: 0, 
 
 (22) Chris Korb
-#$$ pos: D, starts: 11, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 10, foulsSuffered: 3, yellowCards: 3, redCards: 0, 
+#$$ pos: D, age: 0, starts: 12, subIns: 1, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 10, foulsSuffered: 5, yellowCards: 3, redCards: 0, 
 
-(--) Kofi Opare
-#$$ pos: D, starts: 5, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
+(6) Kofi Opare
+#$$ pos: D, age: 0, starts: 5, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 6, yellowCards: 2, redCards: 0, 
 
 (2) Jeff Parke
-#$$ pos: D, starts: 13, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+#$$ pos: D, age: 32, starts: 13, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
 
 (20) Jalen Robinson
-#$$ pos: D, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+#$$ pos: D, age: 0, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (8) David Arnaud
-#$$ pos: M, starts: 19, subIns: 1, totalGoals: 2, totalShots: 15, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 29, foulsSuffered: 36, yellowCards: 6, redCards: 0, 
+#$$ pos: M, age: 0, starts: 22, subIns: 1, totalGoals: 2, totalShots: 16, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 35, foulsSuffered: 41, yellowCards: 7, redCards: 0, 
 
 (12) Alex Caskey
-#$$ pos: M, starts: 1, subIns: 6, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 1, yellowCards: 0, redCards: 1, 
+#$$ pos: M, age: 0, starts: 2, subIns: 8, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 5, yellowCards: 0, redCards: 1, 
 
 (14) Nick DeLeon
-#$$ pos: M, starts: 19, subIns: 0, totalGoals: 2, totalShots: 30, shotsOnTarget: 8, goalAssists: 3, foulsCommitted: 18, foulsSuffered: 18, yellowCards: 2, redCards: 0, 
+#$$ pos: M, age: 24, starts: 22, subIns: 1, totalGoals: 2, totalShots: 32, shotsOnTarget: 8, goalAssists: 3, foulsCommitted: 19, foulsSuffered: 20, yellowCards: 2, redCards: 0, 
+
+(3) David Estrada
+#$$ pos: M, age: 0, starts: 1, subIns: 4, totalGoals: 0, totalShots: 3, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 1, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
 
 (25) Jared Jeffrey
-#$$ pos: M, starts: 0, subIns: 6, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
+#$$ pos: M, age: 24, starts: 1, subIns: 7, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 11, foulsSuffered: 1, yellowCards: 2, redCards: 0, 
 
 (23) Perry Kitchen
-#$$ pos: M, starts: 20, subIns: 0, totalGoals: 3, totalShots: 13, shotsOnTarget: 7, goalAssists: 2, foulsCommitted: 43, foulsSuffered: 17, yellowCards: 8, redCards: 0, 
+#$$ pos: M, age: 22, starts: 23, subIns: 0, totalGoals: 4, totalShots: 14, shotsOnTarget: 8, goalAssists: 2, foulsCommitted: 52, foulsSuffered: 21, yellowCards: 9, redCards: 0, 
 
 (27) Collin Martin
-#$$ pos: M, starts: 1, subIns: 3, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+#$$ pos: M, age: 0, starts: 1, subIns: 3, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
 
 (24) Lewis Neal
-#$$ pos: M, starts: 6, subIns: 12, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 6, foulsSuffered: 7, yellowCards: 4, redCards: 0, 
+#$$ pos: M, age: 33, starts: 7, subIns: 14, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 7, foulsSuffered: 9, yellowCards: 4, redCards: 0, 
 
 (13) Chris Pontius
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+#$$ pos: M, age: 27, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (19) Kyle Porter
-#$$ pos: M, starts: 0, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+#$$ pos: M, age: 24, starts: 0, subIns: 3, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 2, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
 
 (17) Conor Shanosky
-#$$ pos: M, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+#$$ pos: M, age: 0, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (30) Conor Doyle
-#$$ pos: F, starts: 1, subIns: 16, totalGoals: 0, totalShots: 4, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 11, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
+#$$ pos: F, age: 22, starts: 1, subIns: 16, totalGoals: 0, totalShots: 4, shotsOnTarget: 2, goalAssists: 0, foulsCommitted: 11, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
 
 (9) Fabian Espindola
-#$$ pos: F, starts: 14, subIns: 1, totalGoals: 7, totalShots: 35, shotsOnTarget: 15, goalAssists: 7, foulsCommitted: 28, foulsSuffered: 27, yellowCards: 4, redCards: 0, 
+#$$ pos: F, age: 29, starts: 16, subIns: 3, totalGoals: 9, totalShots: 43, shotsOnTarget: 19, goalAssists: 7, foulsCommitted: 35, foulsSuffered: 35, yellowCards: 5, redCards: 0, 
 
 (7) Eddie Johnson
-#$$ pos: F, starts: 18, subIns: 0, totalGoals: 4, totalShots: 32, shotsOnTarget: 13, goalAssists: 2, foulsCommitted: 27, foulsSuffered: 37, yellowCards: 2, redCards: 0, 
+#$$ pos: F, age: 30, starts: 20, subIns: 0, totalGoals: 4, totalShots: 35, shotsOnTarget: 14, goalAssists: 2, foulsCommitted: 28, foulsSuffered: 43, yellowCards: 3, redCards: 0, 
 
 (18) Chris Rolfe
-#$$ pos: F, starts: 17, subIns: 2, totalGoals: 4, totalShots: 27, shotsOnTarget: 9, goalAssists: 3, foulsCommitted: 10, foulsSuffered: 15, yellowCards: 0, redCards: 0, 
+#$$ pos: F, age: 0, starts: 20, subIns: 2, totalGoals: 6, totalShots: 32, shotsOnTarget: 12, goalAssists: 4, foulsCommitted: 11, foulsSuffered: 21, yellowCards: 0, redCards: 0, 
 
 (29) Michael Seaton
-#$$ pos: F, starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+#$$ pos: F, age: 18, starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (11) Luis Silva
-#$$ pos: F, starts: 11, subIns: 5, totalGoals: 5, totalShots: 24, shotsOnTarget: 10, goalAssists: 1, foulsCommitted: 10, foulsSuffered: 10, yellowCards: 1, redCards: 0, 
+#$$ pos: F, age: 25, starts: 15, subIns: 5, totalGoals: 7, totalShots: 30, shotsOnTarget: 12, goalAssists: 3, foulsCommitted: 14, foulsSuffered: 13, yellowCards: 2, redCards: 0, 
 
