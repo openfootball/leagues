@@ -292,9 +292,6 @@ Week 24
 Sun Aug/17 00:30 CD Chivas USA           0-0 Vancouver Whitecaps FC
 Sun Aug/17 00:30 San Jose Earthquakes           0-5 FC Dallas
 Sun Aug/17 22:00 Washington D.C. United           4-2 Colorado Rapids
-Mon Aug/18 21:00 Washington D.C. United           VS Chicago Fire
-Tue Aug/19 00:30 San Jose Earthquakes           VS Vancouver Whitecaps FC
-Tue Aug/19 22:30 Los Angeles Galaxy           VS Seattle Sounders
 Wed Aug/20 23:00 Colorado Rapids           3-4 Los Angeles Galaxy
 Thu Aug/21 00:05 Seattle Sounders           1-1 San Jose Earthquakes
 Fri Aug/22 23:20 FC Dallas           2-1 Real Salt Lake
