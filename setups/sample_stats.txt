@@ -1,0 +1,35 @@
+######################################################
+# This data is not yet parsable by the latest sportdb
+# release.  Support for this has been forked into
+# https://github.com/cecomp64/sport.db.ruby
+
+# Teams
+major-league-soccer!/teams_us
+major-league-soccer!/teams_ca
+
+# League
+major-league-soccer!/leagues
+
+# Match and squad data for each year
+major-league-soccer!/test_data/2014/mls
+major-league-soccer!/test_data/2014/squads/chicago-2014
+major-league-soccer!/test_data/2014/squads/chivasusa-2014
+major-league-soccer!/test_data/2014/squads/colorado-2014
+major-league-soccer!/test_data/2014/squads/columbus-2014
+major-league-soccer!/test_data/2014/squads/dallas-2014
+major-league-soccer!/test_data/2014/squads/dcunited-2014
+major-league-soccer!/test_data/2014/squads/galaxy-2014
+major-league-soccer!/test_data/2014/squads/houston-2014
+major-league-soccer!/test_data/2014/squads/kansascity-2014
+major-league-soccer!/test_data/2014/squads/montreal-2014
+major-league-soccer!/test_data/2014/squads/newengland-2014
+major-league-soccer!/test_data/2014/squads/newyork-2014
+major-league-soccer!/test_data/2014/squads/philadelphia-2014
+major-league-soccer!/test_data/2014/squads/portland-2014
+major-league-soccer!/test_data/2014/squads/saltlake-2014
+major-league-soccer!/test_data/2014/squads/sanjose-2014
+major-league-soccer!/test_data/2014/squads/seattle-2014
+major-league-soccer!/test_data/2014/squads/toronto-2014
+major-league-soccer!/test_data/2014/squads/vancouver-2014
+
+
