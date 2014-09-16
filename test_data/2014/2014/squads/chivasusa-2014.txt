@@ -1,0 +1,87 @@
+(1) Dan Kennedy
+$$ pos: G, age: 32, starts: 27, subIns: 0, saves: 75, goalsConceded: 47, foulsCommitted: 2, foulsSuffered: 7, yellowCards: 1, redCards: 1, wins: 0, losses: 0, draws: 0, 
+
+(23) Trevor Spangenberg
+$$ pos: G, age: 0, starts: 0, subIns: 1, saves: 0, goalsConceded: 1, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
+
+(16) Andrew Jean Baptiste
+$$ pos: D, age: 22, starts: 8, subIns: 2, totalGoals: 0, totalShots: 8, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 10, foulsSuffered: 4, yellowCards: 2, redCards: 0, 
+
+(3) Carlos Bocanegra
+$$ pos: D, age: 35, starts: 18, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 13, foulsSuffered: 11, yellowCards: 1, redCards: 0, 
+
+(2) Bobby Burling
+$$ pos: D, age: 26, starts: 14, subIns: 2, totalGoals: 1, totalShots: 6, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 19, foulsSuffered: 15, yellowCards: 5, redCards: 1, 
+
+(34) Jhon Kennedy Hurtado
+$$ pos: D, age: 22, starts: 22, subIns: 0, totalGoals: 1, totalShots: 6, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 33, foulsSuffered: 15, yellowCards: 2, redCards: 1, 
+
+(14) Akira Kaji
+$$ pos: D, age: 0, starts: 9, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 5, yellowCards: 0, redCards: 0, 
+
+(4) Tony Lochhead
+$$ pos: D, age: 32, starts: 18, subIns: 0, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 35, foulsSuffered: 9, yellowCards: 5, redCards: 0, 
+
+(13) Michael Nwiloh
+$$ pos: D, age: 23, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(25) Donny Toia
+$$ pos: D, age: 0, starts: 18, subIns: 3, totalGoals: 0, totalShots: 11, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 22, foulsSuffered: 5, yellowCards: 4, redCards: 0, 
+
+(15) Eric Avila
+$$ pos: M, age: 26, starts: 24, subIns: 2, totalGoals: 0, totalShots: 14, shotsOnTarget: 5, goalAssists: 1, foulsCommitted: 21, foulsSuffered: 25, yellowCards: 2, redCards: 0, 
+
+(18) Marvin Chávez
+$$ pos: M, age: 30, starts: 6, subIns: 6, totalGoals: 2, totalShots: 11, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 15, foulsSuffered: 15, yellowCards: 2, redCards: 0, 
+
+(12) Marco Delgado
+$$ pos: M, age: 19, starts: 12, subIns: 8, totalGoals: 2, totalShots: 12, shotsOnTarget: 4, goalAssists: 1, foulsCommitted: 24, foulsSuffered: 6, yellowCards: 4, redCards: 1, 
+
+(6) Matthew Dunn
+$$ pos: M, age: 20, starts: 0, subIns: 2, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 2, yellowCards: 0, redCards: 0, 
+
+(17) Thomas McNamara
+$$ pos: M, age: 23, starts: 6, subIns: 0, totalGoals: 1, totalShots: 6, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 6, foulsSuffered: 6, yellowCards: 1, redCards: 0, 
+
+(30) Oswaldo Minda
+$$ pos: M, age: 31, starts: 15, subIns: 0, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 34, foulsSuffered: 18, yellowCards: 8, redCards: 1, 
+
+(8) Agustín Pelletieri
+$$ pos: M, age: 0, starts: 22, subIns: 1, totalGoals: 1, totalShots: 10, shotsOnTarget: 4, goalAssists: 0, foulsCommitted: 35, foulsSuffered: 3, yellowCards: 4, redCards: 1, 
+
+(7) Nigel Reo-Coker
+$$ pos: M, age: 30, starts: 12, subIns: 4, totalGoals: 0, totalShots: 6, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 25, foulsSuffered: 12, yellowCards: 3, redCards: 0, 
+
+(5) Martín Rivero
+$$ pos: M, age: 24, starts: 6, subIns: 1, totalGoals: 0, totalShots: 4, shotsOnTarget: 1, goalAssists: 2, foulsCommitted: 9, foulsSuffered: 12, yellowCards: 1, redCards: 0, 
+
+(24) Nathan Sturgis
+$$ pos: M, age: 27, starts: 11, subIns: 7, totalGoals: 0, totalShots: 3, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 16, foulsSuffered: 9, yellowCards: 3, redCards: 0, 
+
+(11) Leandro Barrera
+$$ pos: F, age: 23, starts: 19, subIns: 7, totalGoals: 1, totalShots: 28, shotsOnTarget: 12, goalAssists: 2, foulsCommitted: 17, foulsSuffered: 32, yellowCards: 3, redCards: 0, 
+
+(10) Luis Alberto Bolaños León
+$$ pos: F, age: 29, starts: 0, subIns: 2, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, 
+
+(20) Félix Borja
+$$ pos: F, age: 31, starts: 6, subIns: 0, totalGoals: 0, totalShots: 12, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 8, foulsSuffered: 4, yellowCards: 0, redCards: 0, 
+
+(29) Caleb Calvert
+$$ pos: F, age: 17, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(--) Jose Correa Villero
+$$ pos: F, age: 22, starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
+(19) Ryan Finley
+$$ pos: F, age: 0, starts: 3, subIns: 11, totalGoals: 1, totalShots: 10, shotsOnTarget: 3, goalAssists: 0, foulsCommitted: 4, foulsSuffered: 8, yellowCards: 0, redCards: 0, 
+
+(9) Erick Torres
+$$ pos: F, age: 21, starts: 25, subIns: 0, totalGoals: 14, totalShots: 78, shotsOnTarget: 27, goalAssists: 1, foulsCommitted: 44, foulsSuffered: 49, yellowCards: 4, redCards: 1, 
+
+(21) Kristopher Tyrpak
+$$ pos: F, age: 22, starts: 0, subIns: 6, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 1, foulsCommitted: 1, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
+
+(22) Eriq Zavaleta
+$$ pos: F, age: 0, starts: 11, subIns: 2, totalGoals: 0, totalShots: 2, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 9, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
+
