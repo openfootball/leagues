@@ -305,64 +305,62 @@ Week 25
 
 Sun Aug/24 00:30 Los Angeles Galaxy           2-0 Vancouver Whitecaps FC
 Sun Aug/24 19:00 Portland Timbers           2-4 Seattle Sounders
-Sun Aug/24 22:00 Colorado Rapids           VS Seattle Sounders
 Sun Aug/24 22:00 Philadelphia Union           4-2 San Jose Earthquakes
-Sun Aug/24 22:00 Chicago Fire           VS Houston Dynamo
 Thu Aug/28 00:30 Los Angeles Galaxy           4-1 Washington D.C. United
 Fri Aug/29 22:20 Sporting Kansas City           1-3 Houston Dynamo
 Sat Aug/30 18:00 Seattle Sounders           1-0 Colorado Rapids
-Sat Aug/30 19:00 Toronto FC           VS New England Revolution
-Sat Aug/30 21:30 Montreal Impact           VS Columbus Crew
-Sat Aug/30 22:30 Chicago Fire           VS FC Dallas
+Sat Aug/30 19:00 Toronto FC           0-3 New England Revolution
+Sat Aug/30 21:30 Montreal Impact           2-0 Columbus Crew
+Sat Aug/30 22:30 Chicago Fire           1-0 FC Dallas
 
 Week 26
 
-Sun Aug/31 00:30 Vancouver Whitecaps FC           VS Portland Timbers
-Sun Aug/31 00:30 San Jose Earthquakes           VS Real Salt Lake
-Sun Aug/31 16:30 Washington D.C. United           VS New York Red Bulls
-Sun Aug/31 22:00 CD Chivas USA           VS Los Angeles Galaxy
-Wed Sep/3 21:00 Philadelphia Union           VS Toronto FC
-Wed Sep/3 21:30 New England Revolution           VS Sporting Kansas City
-Thu Sep/4 00:30 CD Chivas USA           VS Seattle Sounders
-Sat Sep/6 00:30 Los Angeles Galaxy           VS Colorado Rapids
-Sat Sep/6 02:00 Vancouver Whitecaps FC           VS Washington D.C. United
-Sat Sep/6 02:00 Toronto FC           VS Philadelphia Union
-Sat Sep/6 21:00 New York Red Bulls           VS Sporting Kansas City
-Sat Sep/6 22:30 Houston Dynamo           VS Montreal Impact
+Sun Aug/31 00:30 Vancouver Whitecaps FC           0-3 Portland Timbers
+Sun Aug/31 00:30 San Jose Earthquakes           1-1 Real Salt Lake
+Sun Aug/31 16:50 Washington D.C. United           2-0 New York Red Bulls
+Sun Aug/31 22:00 CD Chivas USA           0-3 Los Angeles Galaxy
+Wed Sep/3 21:00 Philadelphia Union           1-0 Toronto FC
+Wed Sep/3 21:30 New England Revolution           3-1 Sporting Kansas City
+Thu Sep/4 00:30 CD Chivas USA           2-4 Seattle Sounders
+Sat Sep/6 00:50 Los Angeles Galaxy           6-0 Colorado Rapids
+Sat Sep/6 16:00 Toronto FC           0-2 Philadelphia Union
+Sat Sep/6 21:55 New York Red Bulls           2-1 Sporting Kansas City
+Sat Sep/6 22:30 Houston Dynamo           3-2 Montreal Impact
 
 Week 27
 
-Sun Sep/7 00:00 Real Salt Lake           VS FC Dallas
-Sun Sep/7 17:00 Columbus Crew           VS CD Chivas USA
-Sun Sep/7 19:00 Portland Timbers           VS San Jose Earthquakes
-Sun Sep/7 21:00 New England Revolution           VS Chicago Fire
-Wed Sep/10 02:00 Montreal Impact           VS Los Angeles Galaxy
-Wed Sep/10 02:00 Vancouver Whitecaps FC           VS San Jose Earthquakes
-Wed Sep/10 22:00 New York Red Bulls           VS Washington D.C. United
-Sat Sep/13 00:30 Seattle Sounders           VS Real Salt Lake
-Sat Sep/13 17:00 Philadelphia Union           VS New York Red Bulls
-Sat Sep/13 21:30 New England Revolution           VS Montreal Impact
-Sat Sep/13 22:30 Houston Dynamo           VS Columbus Crew
-Sat Sep/13 22:30 FC Dallas           VS Vancouver Whitecaps FC
-Sat Sep/13 22:30 Chicago Fire           VS Toronto FC
-Sat Sep/13 23:00 Colorado Rapids           VS Portland Timbers
+Sun Sep/7 00:05 Real Salt Lake           2-1 FC Dallas
+Sun Sep/7 00:10 Vancouver Whitecaps FC           0-0 Washington D.C. United
+Sun Sep/7 17:00 Columbus Crew           3-0 CD Chivas USA
+Sun Sep/7 19:00 Portland Timbers           3-3 San Jose Earthquakes
+Sun Sep/7 21:00 New England Revolution           2-1 Chicago Fire
+Wed Sep/10 21:35 Montreal Impact           2-2 Los Angeles Galaxy
+Wed Sep/10 22:00 New York Red Bulls           1-0 Washington D.C. United
+Thu Sep/11 00:10 Vancouver Whitecaps FC           2-0 San Jose Earthquakes
+Sat Sep/13 00:30 CD Chivas USA           0-4 Sporting Kansas City
+Sat Sep/13 00:50 Seattle Sounders           3-2 Real Salt Lake
+Sat Sep/13 18:20 Philadelphia Union           2-2 New York Red Bulls
+Sat Sep/13 21:30 New England Revolution           2-1 Montreal Impact
+Sat Sep/13 22:30 Houston Dynamo           2-2 Columbus Crew
+Sat Sep/13 22:30 FC Dallas           2-1 Vancouver Whitecaps FC
+Sat Sep/13 22:30 Chicago Fire           1-1 Toronto FC
+Sat Sep/13 23:00 Colorado Rapids           2-2 Portland Timbers
 
 Week 28
 
-Sun Sep/14 00:30 CD Chivas USA           VS Sporting Kansas City
-Sun Sep/14 17:00 San Jose Earthquakes           VS Los Angeles Galaxy
+Sun Sep/14 17:00 San Jose Earthquakes           1-1 Los Angeles Galaxy
 Sat Sep/20 00:00 Real Salt Lake           VS Colorado Rapids
-Sat Sep/20 02:00 Philadelphia Union           VS Houston Dynamo
-Sat Sep/20 02:00 Columbus Crew           VS New England Revolution
-Sat Sep/20 02:00 Montreal Impact           VS San Jose Earthquakes
-Sat Sep/20 02:00 Chicago Fire           VS Washington D.C. United
-Sat Sep/20 02:00 Los Angeles Galaxy           VS FC Dallas
-Sat Sep/20 16:30 New York Red Bulls           VS Seattle Sounders
 Sat Sep/20 19:00 Portland Timbers           VS Vancouver Whitecaps FC
+Sat Sep/20 21:00 Philadelphia Union           VS Houston Dynamo
+Sat Sep/20 21:30 Columbus Crew           VS New England Revolution
+Sat Sep/20 21:30 Montreal Impact           VS San Jose Earthquakes
+Sat Sep/20 21:30 New York Red Bulls           VS Seattle Sounders
+Sat Sep/20 22:30 Chicago Fire           VS Washington D.C. United
 
 Week 29
 
-Sun Sep/21 18:00 Toronto FC           VS CD Chivas USA
+Sun Sep/21 00:30 Los Angeles Galaxy           VS FC Dallas
+Sun Sep/21 17:00 Toronto FC           VS CD Chivas USA
 Wed Sep/24 23:00 FC Dallas           VS Seattle Sounders
 Fri Sep/26 22:00 Sporting Kansas City           VS New England Revolution
 Sat Sep/27 02:00 Vancouver Whitecaps FC           VS Real Salt Lake
