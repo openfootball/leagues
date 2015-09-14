@@ -1,3 +1,2 @@
-#  Need a league for game parsing
-mls,     Major League Soccer
 
+mls,     Major League Soccer
