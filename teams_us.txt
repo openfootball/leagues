@@ -3,23 +3,189 @@
 
 # NB: use three/two letter codes from mlssoccer.com
 
-galaxy, Los Angeles Galaxy|LA Galaxy, LA, city:losangeles, us
-seattle, Seattle Sounders|Seattle Sounders FC, SEA, city:seattle, us
-houston, Houston | Houston Dynamo|H. Dynamo, HOU, city:houston, us
-saltlake, Real Salt Lake|Real Salt Lake City, RSL, city:saltlakecity, us
-sanjose, San Jose|San Jose Earthquakes|SJ Earthquakes|Earthquakes|San Jose, SJ, city:sanjose, us
-kansascity, Sporting KC|Sporting Kansas City, city:kansascity, us  # change key to sportingkc
-colorado, Colorado|Colorado Rapids, city:denver, us
-dallas, Dallas|FC Dallas, city:dallas, us
-chivasusa, Club Deportivo Chivas US|CD Chivas USA, us
-chicago, Chicago | Chicago Fire, city:chicago, us
-columbus, Columbus| Columbus Crew | Columbus Crew SC, city:columbus, us
-dcunited, D.C. United|DC United|Washington D.C. United, city:washington, us
-newengland, New England | New England Revolution|N.E. Revolution, us
-newyork, NY Red Bulls| New York Red Bulls, city:newyork, us
-philadelphia, Philadelphia|Philadelphia Union, city:philadelphia, us
-portland, Portland| Portland Timbers, city:portland, us
-nymetro, New York Metrostars, us
-kcwizards, Kansas City Wizards, us
-nycity, New York City|New York City FC, city:newyork, us
-orlando, Orlando| Orlando City | Orlando City SC, city:orlando, us
+[galaxy]
+  Los Angeles Galaxy|LA Galaxy, LA, 1995
+  // Los Angeles  ## California    - use Carson ??
+  wikipedia: LA_Galaxy
+  www.lagalaxy.com
+  us   ## use country code
+
+[sanjose]
+  San Jose|San Jose Earthquakes|SJ Earthquakes|Earthquakes|San Jose, SJ, 1994
+  // San Jose   ## California
+  wikipedia: San_Jose_Earthquakes
+  www.sjearthquakes.com
+  us   ## use country code
+
+[seattle]
+  Seattle Sounders|Seattle Sounders FC, SEA, 2007
+  // Seattle   ## Washington
+  wikipedia: Seattle_Sounders_FC
+  www.soundersfc.com
+  us   ## use country code
+
+[portland]
+  Portland|Portland Timbers, POR, 2009
+  // Portland  ## Oregon
+  wikipedia: Portland_Timbers
+  www.timbers.com
+  us   ## use country code
+
+[houston]
+  Houston|Houston Dynamo|H. Dynamo, HOU, 2005
+  // Houston  ## Texas
+  wikipedia: Houston_Dynamo
+  www.houstondynamo.com
+  us   ## use country code
+
+[dallas]
+  Dallas|FC Dallas, DAL, 1996
+  // Dallas   ## Texas    - use Frisco ??
+  wikipedia: FC_Dallas
+  www.fcdallas.com
+  us   ## use country code
+
+[saltlake]
+  Real Salt Lake|Real Salt Lake City, RSL, 2004
+  // Salt Lake City ## Utah   - use Sandy ??
+  wikipedia: Real_Salt_Lake
+  www.realsaltlake.com
+  us   ## use country code
+
+[kansascity]     # change to sportingkc - why? why not??
+  Sporting KC|Sporting Kansas City|Kansas City Wizards, SKC, 1995
+  // Kansas City  ## Kansas
+  wikipedia: Sporting_Kansas_City
+  www.sportingkc.com 
+  us   ## use country code
+
+## note: was known as: Kansas City Wizards
+##   rebranded in Nov 2010 to Sporting Kansas City
+  
+
+[colorado]
+  Colorado|Colorado Rapids, COL, 1996
+  // Denver   ## Colorado    - use Commerce City ??
+  wikipedia: Colorado_Rapids
+  www.coloradorapids.com
+  us   ## use country code
+
+
+
+[chicago]
+  Chicago|Chicago Fire, CHI, 1997
+  // Chicago  ## Illinois    - use Bridgeview ??
+  wikipedia: Chicago_Fire_Soccer_Club
+  www.chicago-fire.com
+  us   ## use country code
+
+[columbus]
+  Columbus|Columbus Crew|Columbus Crew SC, CLB, 1994
+  // Columbus  ## Ohio
+  wikipedia: Columbus_Crew_SC
+  www.columbuscrewsc.com
+  us   ## use country code
+
+[dcunited]
+  D.C. United|DC United|Washington D.C. United, DC, 1995
+  // Washington   ## D.C.
+  wikipedia: D.C._United
+  www.dcunited.com
+  us   ## use country code
+
+[newengland]
+  New England|New England Revolution|N.E. Revolution, NE, 1995
+  // Boston    ## Massachusetts  - use Foxborough ??
+  wikipedia:  New_England_Revolution
+  www.revolutionsoccer.net
+  us   ## use country code
+
+[philadelphia]
+  Philadelphia|Philadelphia Union, PHI, 2008
+  // Philadelphia   ## Pennsylvania - use Chester ??  
+  wikipedia: Philadelphia_Union
+  www.philadelphiaunion.com
+  us   ## use country code
+
+[newyork]
+  NY Red Bulls|New York Red Bulls|New York Metrostars|Metrostars, NY, 1995
+  // Harrison   ## New Jersey     -- use New York ??
+  wikipedia: New_York_Red_Bulls
+  www.newyorkredbulls.com
+  us   ## use country code
+
+## note: was known as the New York/New Jersey MetroStars  through 1997.
+##   From the 1998 season through the 2005 season, the team was known as the MetroStars.
+##  On March 2006 sold/rebranded to New York Red Bulls
+##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
+
+
+[nycity]
+  New York City|New York City FC, NYC, 2013 
+  // New York   ## New York
+  wikipedia: New_York_City_FC
+  www.nycfc.com
+  us   ## use country code
+
+[orlando]
+  Orlando|Orlando City|Orlando City SC, ORL, 2013
+  // Orlando   ## Florida
+  wikipedia: Orlando_City_SC
+  www.orlandocitysc.com
+  us   ## use country code
+
+
+
+##############################
+# Future (Upcoming) Clubs
+
+
+[atlanta]
+  Atlanta United FC,  2014     ## will join in 2017
+  // Atlanta   ## Georgia
+  wikipedia: Atlanta_United_FC
+  www.atlutd.com
+  us   ## use country code
+
+[minnesota]
+  Minnesota United FC, 2015    ## will join in 2017 or 2018
+  // Minneapolis   ## Minnesota
+  wikipedia: Minnesota_United_FC_(MLS)
+  us   ## use country code
+
+[lafc]
+  Los Angeles FC, 2014      ## will join in 2018
+  // Los Angeles   ## California
+  wikipedia: Los_Angeles_Football_Club
+  us   ## use country code
+
+## [miami]
+##  Miami, 2014        ## will join in  ??
+##  // Miami    ## Florida
+##  wikipedia: Miami_MLS_team
+##  us   ## use country code
+
+
+
+#####################
+# Historic Clubs (Disolved)
+
+[chivasusa]
+  Club Deportivo Chivas US|CD Chivas USA    ## 2004-2014
+  // Los Angeles  ## California 
+  wikipedia: Chivas_USA
+  us   ## use country code
+
+[miamifusion]
+  Miami Fusion     ## 1998–2001
+  // Fort Lauderdale  ## Florida
+  wikipedia: Miami_Fusion
+  us   ## use country code
+
+[tampabay] 
+  Tampa Bay Mutiny   ## 1996-2001
+  // Tampa     ## Florida
+  wikipedia: Tampa_Bay_Mutiny
+  us   ## use country code
+
+
