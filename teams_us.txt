@@ -22,3 +22,4 @@ portland, Portland| Portland Timbers, city:portland, us
 nymetro, New York Metrostars, us
 kcwizards, Kansas City Wizards, us
 nycity, New York City|New York City FC, city:newyork, us
+orlando, Orlando| Orlando City | Orlando City SC, city:orlando, us
