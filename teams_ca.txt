@@ -3,7 +3,25 @@
 
 # NB: three canadian teams play in mls w/ us teams
 
-toronto,   Toronto|Toronto FC, TFC, city:toronto, ca
-vancouver, Vancouver|Vancouver Whitecaps|Vancouver Whitecaps FC , city:vancouver, ca
-montreal,  Montreal|Montreal Impact|Montreal I., city:montreal, ca
+[toronto]
+  Toronto|Toronto FC|TFC, TOR, 2006
+  // Toronto    ## Ontario
+  wikipedia: Toronto_FC
+  www.torontofc.ca
+  ca   ## note: use country code
+
+[vancouver]
+  Vancouver|Vancouver Whitecaps|Vancouver Whitecaps FC, VAN, 1974
+  // Vancouver   ## British Columbia
+  wikipedia: Vancouver_Whitecaps_FC
+  www.whitecapsfc.com
+  ca   ## note: use country code
+
+[montreal]
+  Montreal|Montreal Impact|Montreal I.|Impact Montréal|Impact de Montréal, MTL, 2010
+  // Montréal   ## Quebec
+  wikipedia: Montreal_Impact
+  www.impactmontreal.com
+  ca   ## note: use country code
+
 
