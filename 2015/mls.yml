@@ -1,27 +1,25 @@
----
-league: mls
-season: '2015'
-start_at: '2015-03-06'
-fixtures:
-- mls
-teams:
-- seattle
-- dcunited
-- vancouver
-- houston
-- dallas
-- galaxy
-- portland
-- orlando
-- newyork
-- philadelphia
-- kansascity
-- sanjose
-- newengland
-- saltlake
-- toronto
-- colorado
-- columbus
-- chicago
-- montreal
-- nycity
+league:    mls
+season:    2015
+start_at:  2015-03-06
+
+20 teams:
+- Seattle
+- D.C. United
+- Vancouver
+- Houston
+- FC Dallas
+- LA Galaxy
+- Portland
+- Orlando
+- NY Red Bulls
+- Philadelphia
+- Sporting KC
+- San Jose
+- New England
+- Real Salt Lake
+- Toronto FC
+- Colorado
+- Columbus
+- Chicago
+- Montreal
+- New York City
