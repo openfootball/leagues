@@ -1,0 +1,454 @@
+[Fri. 06.03.]
+  LA Galaxy               2-0  Chicago Fire
+[Sat. 07.03.]
+  D.C. United             1-0  Montreal Impact
+  Philadelphia Union      0-0  Colorado Rapids
+  Vancouver Whitecaps FC  1-3  Toronto FC
+  FC Dallas               1-0  San Jose Earthquakes
+  Houston Dynamo          1-0  Columbus Crew SC
+  Portland Timbers        0-0  Real Salt Lake
+[Sun. 08.03.]
+  Orlando City SC         1-1  New York City FC
+  Sporting Kansas City    1-1  New York Red Bulls
+  Seattle Sounders FC     3-0  New England Revolution
+[Fri. 13.03.]
+  Houston Dynamo          0-1  Orlando City SC
+[Sat. 14.03.]
+  Chicago Fire            0-1  Vancouver Whitecaps FC
+  Columbus Crew SC        2-0  Toronto FC
+  FC Dallas               3-1  Sporting Kansas City
+  Real Salt Lake          3-3  Philadelphia Union
+  Seattle Sounders FC     2-3  San Jose Earthquakes
+[Sun. 15.03.]
+  New York City FC        2-0  New England Revolution
+  Portland Timbers        2-2  LA Galaxy
+[Sat. 21.03.]
+  New England Revolution  0-0  Montreal Impact
+  Colorado Rapids         0-0  New York City FC
+  Philadelphia Union      0-2  FC Dallas
+  Orlando City SC         0-1  Vancouver Whitecaps FC
+  Sporting Kansas City    0-0  Portland Timbers
+  LA Galaxy               1-1  Houston Dynamo
+[Sun. 22.03.]
+  New York Red Bulls      2-0  D.C. United 
+  San Jose Earthquakes    2-1  Chicago Fire
+[Sat. 28.03.]
+  New England Revolution  2-1  San Jose Earthquakes
+  Montreal Impact         2-2  Orlando City SC
+  New York City FC        0-1  Sporting Kansas City
+  D.C. United             1-0  LA Galaxy
+  Columbus Crew SC        1-2  New York Red Bulls
+  Vancouver Whitecaps FC  2-1  Portland Timbers
+  FC Dallas               0-0  Seattle Sounders FC
+  Houston Dynamo          0-0  Colorado Rapids
+[Sun. 29.03.]
+  Chicago Fire            1-0  Philadelphia Union
+  Real Salt Lake          2-1  Toronto FC
+[Fri. 03.04.]
+  Orlando City SC         0-1  D.C. United 
+[Sat. 04.04.]
+  Chicago Fire            3-2  Toronto FC
+  Colorado Rapids         0-2  New England Revolution
+  New York Red Bulls      -  Montreal Impact
+  Vancouver Whitecaps FC  2-0  LA Galaxy
+  Seattle Sounders FC     1-0  Houston Dynamo
+  Portland Timbers        3-1  FC Dallas
+[Sun. 05.04.]
+  San Jose Earthquakes    0-1  Real Salt Lake
+  Sporting Kansas City    3-2  Philadelphia Union
+[Wed. 08.04.]
+  Vancouver Whitecaps FC  2-2  Columbus Crew SC
+[Fri. 10.04.]
+  FC Dallas               0-4  Colorado Rapids
+[Sat. 11.04.]
+  New England Revolution  0-0  Columbus Crew SC
+  Philadelphia Union      2-1  New York City FC
+  D.C. United             2-2  New York Red Bulls
+  Sporting Kansas City    0-0  Real Salt Lake
+  Houston Dynamo          3-0  Montreal Impact
+  San Jose Earthquakes    1-0  Vancouver Whitecaps FC
+[Sun. 12.04.]
+  Portland Timbers        0-2  Orlando City SC
+  LA Galaxy               1-0  Seattle Sounders FC
+[Thu. 16.04.]
+  New York City FC        1-1  Philadelphia Union
+[Fri. 17.04.]
+  New York Red Bulls      2-0  San Jose Earthquakes
+[Sat. 18.04.]
+  D.C. United             1-1  Houston Dynamo
+  Columbus Crew SC        3-0  Orlando City SC
+  FC Dallas               3-2  Toronto FC
+  Colorado Rapids         1-3  Seattle Sounders FC
+  Real Salt Lake          0-1  Vancouver Whitecaps FC
+  LA Galaxy               2-1  Sporting Kansas City
+[Sun. 19.04.]
+  Philadelphia Union      1-2  New England Revolution
+  New York City FC        0-1  Portland Timbers
+[Fri. 24.04.]
+  Chicago Fire            1-0  New York City FC
+  Colorado Rapids         1-1  FC Dallas
+[Sat. 25.04.]
+  Columbus Crew SC        4-1  Philadelphia Union
+  New England Revolution  4-0  Real Salt Lake
+  Houston Dynamo          4-4  Sporting Kansas City
+  Vancouver Whitecaps FC  1-2  D.C. United 
+[Sun. 26.04.]
+  New York Red Bulls      1-1  LA Galaxy
+  Orlando City SC         0-2  Toronto FC
+  Seattle Sounders FC     1-0  Portland Timbers
+[Wed. 29.04.]
+  New York Red Bulls      1-1  Colorado Rapids
+[Fri. 01.05.]
+  Houston Dynamo          1-4  FC Dallas
+  Real Salt Lake          1-1  San Jose Earthquakes
+[Sat. 02.05.]
+  Philadelphia Union      0-1  Toronto FC
+  D.C. United             2-0  Columbus Crew SC
+  New England Revolution  2-1  New York Red Bulls
+  Portland Timbers        0-0  Vancouver Whitecaps FC
+  LA Galaxy               1-1  Colorado Rapids
+[Sun. 03.05.]
+  Sporting Kansas City    1-0  Chicago Fire
+  New York City FC        1-3  Seattle Sounders FC
+[Tue. 05.05.]
+  Houston Dynamo          0-1  San Jose Earthquakes
+[Wed. 06.05.]
+  Real Salt Lake          0-0  LA Galaxy
+[Fri. 08.05.]
+  Orlando City SC         2-2  New England Revolution
+  Colorado Rapids         1-1  San Jose Earthquakes
+[Sat. 09.05.]
+  Chicago Fire            1-2  Real Salt Lake
+  Montreal Impact         1-2  Portland Timbers
+  D.C. United             1-1  Sporting Kansas City
+  Vancouver Whitecaps FC  3-0  Philadelphia Union
+  Columbus Crew SC        3-2  Seattle Sounders FC
+  FC Dallas               2-1  LA Galaxy
+[Sun. 10.05.]
+  Toronto FC              1-2  Houston Dynamo
+  New York Red Bulls      2-1  New York City FC
+[Wed. 13.05.]
+  D.C. United             2-1  Orlando City SC
+[Fri. 15.05.]
+  New York City FC        2-2  Chicago Fire
+  FC Dallas               0-0  New York Red Bulls
+[Sat. 16.05.]
+  Montreal Impact         4-1  Real Salt Lake
+  Vancouver Whitecaps FC  0-2  Seattle Sounders FC
+  New England Revolution  1-1  Toronto FC
+  Houston Dynamo          3-1  Portland Timbers
+  Sporting Kansas City    0-0  Colorado Rapids
+  San Jose Earthquakes    2-0  Columbus Crew SC
+[Sun. 17.05.]
+  Orlando City SC         4-0  LA Galaxy
+  Philadelphia Union      1-0  D.C. United 
+[Wed. 20.05.]
+  Sporting Kansas City    4-2  New England Revolution
+[Fri. 22.05.]
+  Columbus Crew SC        2-2  Chicago Fire
+  LA Galaxy               1-0  Houston Dynamo
+[Sat. 23.05.]
+  Toronto FC              1-0  Portland Timbers
+  New England Revolution  1-1  D.C. United 
+  Montreal Impact         2-1  FC Dallas
+  Colorado Rapids         1-0  Vancouver Whitecaps FC
+  Real Salt Lake          2-0  New York City FC
+  Seattle Sounders FC     0-0  Sporting Kansas City
+[Sun. 24.05.]
+  New York Red Bulls      0-2  Philadelphia Union
+  San Jose Earthquakes    1-1  Orlando City SC
+[Wed. 27.05.]
+  Seattle Sounders FC     1-0  Colorado Rapids
+  LA Galaxy               1-0  Real Salt Lake
+  Portland Timbers        1-0  D.C. United 
+[Fri. 29.05.]
+  Sporting Kansas City    4-0  FC Dallas
+[Sat. 30.05.]
+  Toronto FC              3-1  San Jose Earthquakes
+  Vancouver Whitecaps FC  2-1  Real Salt Lake
+  D.C. United             2-1  Philadelphia Union
+  New York City FC        1-1  Houston Dynamo
+  Orlando City SC         2-2  Columbus Crew SC
+  Chicago Fire            3-0  Montreal Impact
+  Colorado Rapids         1-2  Portland Timbers
+[Sun. 31.05.]
+  Seattle Sounders FC     2-1  New York Red Bulls
+  New England Revolution  2-2  LA Galaxy
+[Wed. 03.06.]
+  Philadelphia Union      3-0  Columbus Crew SC
+  D.C. United             3-1  Chicago Fire
+  Montreal Impact         2-1  Vancouver Whitecaps FC
+[Fri. 05.06.]
+  Houston Dynamo          4-2  New York Red Bulls
+[Sat. 06.06.]
+  D.C. United             1-2  Toronto FC
+  Philadelphia Union      1-2  New York City FC
+  Columbus Crew SC        1-2  Montreal Impact
+  Chicago Fire            2-3  Orlando City SC
+  Sporting Kansas City    1-0  Seattle Sounders FC
+  Portland Timbers        2-0  New England Revolution
+  LA Galaxy               0-1  Vancouver Whitecaps FC
+[Sun. 07.06.]
+  Real Salt Lake          0-0  Colorado Rapids
+  San Jose Earthquakes    0-0  FC Dallas
+[Sat. 13.06.]
+  New York City FC        3-1  Montreal Impact
+  Columbus Crew SC        1-1  LA Galaxy
+  New England Revolution  2-0  Chicago Fire
+  Seattle Sounders FC     3-0  FC Dallas
+[Sun. 14.06.]
+  Orlando City SC         1-0  D.C. United 
+[Fri. 19.06.]
+  Colorado Rapids         1-1  FC Dallas
+[Sat. 20.06.]
+  Seattle Sounders FC     0-2  San Jose Earthquakes
+  New York Red Bulls      1-2  Vancouver Whitecaps FC
+  Toronto FC              0-2  New York City FC
+  Montreal Impact         2-0  Orlando City SC
+  Portland Timbers        2-0  Houston Dynamo
+  LA Galaxy               5-1  Philadelphia Union
+[Sun. 21.06.]
+  D.C. United             2-1  New England Revolution
+  Real Salt Lake          2-1  Sporting Kansas City
+[Wed. 24.06.]
+  Philadelphia Union      1-0  Seattle Sounders FC
+  Orlando City SC         2-0  Colorado Rapids
+  Columbus Crew SC        2-1  New England Revolution
+  New York Red Bulls      1-0  Real Salt Lake
+  Toronto FC              3-1  Montreal Impact
+  Chicago Fire            0-1  D.C. United 
+  LA Galaxy               5-0  Portland Timbers
+[Fri. 26.06.]
+  FC Dallas               2-0  Houston Dynamo
+[Sat. 27.06.]
+  Toronto FC              0-0  D.C. United 
+  Philadelphia Union      2-2  Montreal Impact
+  New England Revolution  1-2  Vancouver Whitecaps FC
+  Sporting Kansas City    2-0  Colorado Rapids
+  Real Salt Lake          2-2  Columbus Crew SC
+  San Jose Earthquakes    3-1  LA Galaxy
+[Sun. 28.06.]
+  New York City FC        1-3  New York Red Bulls
+  Portland Timbers        4-1  Seattle Sounders FC
+[Fri. 03.07.]
+  Houston Dynamo          1-1  Chicago Fire
+  Seattle Sounders FC     1-0  D.C. United 
+[Sat. 04.07.]
+  Columbus Crew SC        2-1  New York Red Bulls
+  Montreal Impact         1-2  New York City FC
+  FC Dallas               3-0  New England Revolution
+  Colorado Rapids         2-1  Vancouver Whitecaps FC
+  Real Salt Lake          1-1  Orlando City SC
+  LA Galaxy               4-0  Toronto FC
+[Sun. 05.07.]
+  Portland Timbers        1-0  San Jose Earthquakes
+[Fri. 10.07.]
+  San Jose Earthquakes    0-2  Houston Dynamo
+[Sat. 11.07.]
+  New York Red Bulls      4-1  New England Revolution
+  Philadelphia Union      3-0  Portland Timbers
+  Orlando City SC         0-2  FC Dallas
+  Montreal Impact         3-0  Columbus Crew SC
+  Chicago Fire            1-0  Seattle Sounders FC
+  Colorado Rapids         3-1  Real Salt Lake
+[Sun. 12.07.]
+  New York City FC        4-4  Toronto FC
+  Vancouver Whitecaps FC  0-1  Sporting Kansas City
+[Wed. 15.07.]
+  Chicago Fire            0-1  Columbus Crew SC
+[Fri. 17.07.]
+  LA Galaxy               5-2  San Jose Earthquakes
+[Sat. 18.07.]
+  Toronto FC              2-1  Philadelphia Union
+  Orlando City SC         0-2  New York Red Bulls
+  New England Revolution  1-0  New York City FC
+  Sporting Kansas City    2-1  Montreal Impact
+  FC Dallas               2-1  D.C. United 
+  Seattle Sounders FC     0-1  Colorado Rapids
+  Real Salt Lake          2-0  Houston Dynamo
+  Portland Timbers        1-1  Vancouver Whitecaps FC
+[Sun. 19.07.]
+  Columbus Crew SC        3-1  Chicago Fire
+[Fri. 24.07.]
+  Real Salt Lake          2-1  Sporting Kansas City
+[Sat. 25.07.]
+  Columbus Crew SC        3-3  Toronto FC
+  Montreal Impact         1-0  Seattle Sounders FC
+  Chicago Fire            2-2  New England Revolution
+  Houston Dynamo          3-0  LA Galaxy
+  FC Dallas               4-1  Portland Timbers
+[Sun. 26.07.]
+  New York City FC        5-3  Orlando City SC
+  D.C. United             3-2  Philadelphia Union
+  Vancouver Whitecaps FC  3-1  San Jose Earthquakes
+[Sat. 01.08.]
+  New York City FC        2-3  Montreal Impact
+  Philadelphia Union      1-3  New York Red Bulls
+  D.C. United             6-4  Real Salt Lake
+  Orlando City SC         5-2  Columbus Crew SC
+  New England Revolution  3-1  Toronto FC
+  Sporting Kansas City    1-1  Houston Dynamo
+  Colorado Rapids         1-3  LA Galaxy
+  Seattle Sounders FC     0-3  Vancouver Whitecaps FC
+[Sun. 02.08.]
+  San Jose Earthquakes    0-0  Portland Timbers
+  Chicago Fire            2-0  FC Dallas
+[Wed. 05.08.]
+  Montreal Impact         1-1  New York Red Bulls
+  Toronto FC              4-1  Orlando City SC
+[Fri. 07.08.]
+  Portland Timbers        1-0  Chicago Fire
+[Sat. 08.08.]
+  Toronto FC              1-3  Sporting Kansas City
+  Orlando City SC         0-0  Philadelphia Union
+  Montreal Impact         0-1  D.C. United 
+  Colorado Rapids         1-2  Columbus Crew SC
+  Houston Dynamo          2-1  San Jose Earthquakes
+  Vancouver Whitecaps FC  4-0  Real Salt Lake
+[Sun. 09.08.]
+  LA Galaxy               3-1  Seattle Sounders FC
+  New York Red Bulls      2-0  New York City FC
+[Thu. 13.08.]
+  New York City FC        3-1  D.C. United 
+[Fri. 14.08.]
+  San Jose Earthquakes    1-0  Colorado Rapids
+[Sat. 15.08.]
+  New York Red Bulls      3-0  Toronto FC
+  New England Revolution  2-0  Houston Dynamo
+  FC Dallas               1-2  LA Galaxy
+  Sporting Kansas City    4-3  Vancouver Whitecaps FC
+  Real Salt Lake          0-1  Portland Timbers
+[Sun. 16.08.]
+  Seattle Sounders FC     4-0  Orlando City SC
+  Philadelphia Union      3-3  Chicago Fire
+[Wed. 19.08.]
+  Columbus Crew SC        2-2  New York City FC
+  Sporting Kansas City    0-5  San Jose Earthquakes
+[Fri. 21.08.]
+  Portland Timbers        2-2  Houston Dynamo
+[Sat. 22.08.]
+  Toronto FC              5-0  Orlando City SC
+  D.C. United             0-2  San Jose Earthquakes
+  Columbus Crew SC        3-2  Sporting Kansas City
+  Montreal Impact         0-1  Philadelphia Union
+  Chicago Fire            0-1  Colorado Rapids
+  Real Salt Lake          2-0  Seattle Sounders FC
+  Vancouver Whitecaps FC  1-0  FC Dallas
+[Sun. 23.08.]
+  LA Galaxy               5-1  New York City FC
+[Wed. 26.08.]
+  Chicago Fire            3-2  New York Red Bulls
+  Colorado Rapids         2-1  Houston Dynamo
+[Fri. 28.08.]
+  San Jose Earthquakes    1-0  LA Galaxy
+[Sat. 29.08.]
+  New York City FC        1-2  Columbus Crew SC
+  Toronto FC              2-1  Montreal Impact
+  Philadelphia Union      0-1  New England Revolution
+  Colorado Rapids         2-1  Sporting Kansas City
+  Houston Dynamo          2-0  Vancouver Whitecaps FC
+  FC Dallas               2-0  Real Salt Lake
+  Orlando City SC         1-1  Chicago Fire
+[Sun. 30.08.]
+  Seattle Sounders FC     2-1  Portland Timbers
+  New York Red Bulls      3-0  D.C. United 
+[Sat. 05.09.]
+  New England Revolution  3-0  Orlando City SC
+  Montreal Impact         4-3  Chicago Fire
+  Seattle Sounders FC     2-1  Toronto FC
+  San Jose Earthquakes    1-2  Philadelphia Union
+[Sun. 06.09.]
+  Columbus Crew SC        0-3  FC Dallas
+[Wed. 09.09.]
+  Vancouver Whitecaps FC  2-0  Colorado Rapids
+  Portland Timbers        0-0  Sporting Kansas City
+[Fri. 11.09.]
+  New York Red Bulls      3-2  Chicago Fire
+[Sat. 12.09.]
+  Philadelphia Union      1-2  Columbus Crew SC
+  Houston Dynamo          1-3  Real Salt Lake
+  FC Dallas               2-1  New York City FC
+  Colorado Rapids         1-0  D.C. United 
+  LA Galaxy               -  Montreal Impact
+  San Jose Earthquakes    -  Seattle Sounders FC
+[Sun. 13.09.]
+  Toronto FC              -  New England Revolution
+  Orlando City SC         -  Sporting Kansas City
+[Wed. 16.09.]
+  New York City FC        -  Toronto FC
+  New England Revolution  -  New York Red Bulls
+  San Jose Earthquakes    -  Montreal Impact
+[Fri. 18.09.]
+  Sporting Kansas City    -  FC Dallas
+[Sat. 19.09.]
+  Toronto FC              -  Colorado Rapids
+  New York City FC        -  San Jose Earthquakes
+  Vancouver Whitecaps FC  -  Seattle Sounders FC
+  D.C. United             -  Columbus Crew SC
+  Montreal Impact         -  New England Revolution
+  Chicago Fire            -  Orlando City SC
+  Real Salt Lake          -  LA Galaxy
+[Sun. 20.09.]
+  Portland Timbers        -  New York Red Bulls
+  Philadelphia Union      -  Houston Dynamo
+[Wed. 23.09.]
+  Montreal Impact         -  Chicago Fire
+  Houston Dynamo          -  Sporting Kansas City
+[Fri. 25.09.]
+  New York Red Bulls      -  Orlando City SC
+[Sat. 26.09.]
+  Toronto FC              -  Chicago Fire
+  Montreal Impact         -  D.C. United 
+  San Jose Earthquakes    -  Real Salt Lake
+  New England Revolution  -  Philadelphia Union
+  Columbus Crew SC        -  Portland Timbers
+  Houston Dynamo          -  Colorado Rapids
+  Vancouver Whitecaps FC  -  New York City FC
+  LA Galaxy               -  FC Dallas
+[Sun. 27.09.]
+  Sporting Kansas City    -  Seattle Sounders FC
+[Fri. 02.10.]
+  D.C. United             -  New York City FC
+[Sat. 03.10.]
+  Toronto FC              -  Philadelphia Union
+  New York Red Bulls      -  Columbus Crew SC
+  Orlando City SC         -  Montreal Impact
+  Chicago Fire            -  New England Revolution
+  Colorado Rapids         -  Real Salt Lake
+  Portland Timbers        -  Sporting Kansas City
+  San Jose Earthquakes    -  Vancouver Whitecaps FC
+[Sun. 04.10.]
+  FC Dallas               -  Houston Dynamo
+  Seattle Sounders FC     -  LA Galaxy
+[Wed. 07.10.]
+  Vancouver Whitecaps FC  -  FC Dallas
+  Real Salt Lake          -  FC Dallas
+[Sat. 10.10.]
+  Colorado Rapids         -  Montreal Impact
+[Wed. 14.10.]
+  Toronto FC              -  New York Red Bulls
+  FC Dallas               -  Vancouver Whitecaps FC
+  Real Salt Lake          -  Portland Timbers
+[Fri. 16.10.]
+  Orlando City SC         -  New York City FC
+  San Jose Earthquakes    -  Sporting Kansas City
+[Sat. 17.10.]
+  Toronto FC              -  Columbus Crew SC
+  New England Revolution  -  Montreal Impact
+[Sun. 18.10.]
+  LA Galaxy               -  Portland Timbers
+  New York Red Bulls      -  Philadelphia Union
+  D.C. United             -  Chicago Fire
+  Houston Dynamo          -  Seattle Sounders FC
+[Sun. 25.10.]
+  Philadelphia Union      -  Orlando City SC
+  Montreal Impact         -  Toronto FC
+  Columbus Crew SC        -  D.C. United 
+  Chicago Fire            -  New York Red Bulls
+  New York City FC        -  New England Revolution
+  Portland Timbers        -  Colorado Rapids
+  FC Dallas               -  San Jose Earthquakes
+  Vancouver Whitecaps FC  -  Houston Dynamo
+  Seattle Sounders FC     -  Real Salt Lake
+  Sporting Kansas City    -  LA Galaxy
+
