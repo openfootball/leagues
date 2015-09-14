@@ -5,19 +5,20 @@
 
 galaxy, Los Angeles Galaxy|LA Galaxy, LA, city:losangeles, us
 seattle, Seattle Sounders|Seattle Sounders FC, SEA, city:seattle, us
-houston, Houston Dynamo|H. Dynamo, HOU, city:houston, us
+houston, Houston | Houston Dynamo|H. Dynamo, HOU, city:houston, us
 saltlake, Real Salt Lake|Real Salt Lake City, RSL, city:saltlakecity, us
-sanjose, San Jose Earthquakes|SJ Earthquakes|Earthquakes|San Jose, SJ, city:sanjose, us
+sanjose, San Jose|San Jose Earthquakes|SJ Earthquakes|Earthquakes|San Jose, SJ, city:sanjose, us
 kansascity, Sporting KC|Sporting Kansas City, city:kansascity, us  # change key to sportingkc
-colorado, Colorado Rapids, city:denver, us
-dallas, FC Dallas, city:dallas, us
+colorado, Colorado|Colorado Rapids, city:denver, us
+dallas, Dallas|FC Dallas, city:dallas, us
 chivasusa, Club Deportivo Chivas US|CD Chivas USA, us
-chicago, Chicago Fire, us
-columbus, Columbus Crew, us
-dcunited, D.C. United|DC United|Washington D.C. United, us
-newengland, New England Revolution|N.E. Revolution, us
-newyork, New York Red Bulls, us
-philadelphia, Philadelphia Union, us
-portland, Portland Timbers, us
+chicago, Chicago | Chicago Fire, city:chicago, us
+columbus, Columbus| Columbus Crew | Columbus Crew SC, city:columbus, us
+dcunited, D.C. United|DC United|Washington D.C. United, city:washington, us
+newengland, New England | New England Revolution|N.E. Revolution, us
+newyork, NY Red Bulls| New York Red Bulls, city:newyork, us
+philadelphia, Philadelphia|Philadelphia Union, city:philadelphia, us
+portland, Portland| Portland Timbers, city:portland, us
 nymetro, New York Metrostars, us
 kcwizards, Kansas City Wizards, us
+nycity, New York City|New York City FC, city:newyork, us
