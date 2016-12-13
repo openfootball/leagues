@@ -1,340 +1,340 @@
-Tue Mar  6 12:30:00  New York Red Bulls 0-2 Toronto FC
-Tue Mar  6 13:00:00  Orlando City 2-2 Real Salt Lake
-Tue Mar  6 13:00:00  Chicago Fire 3-4 New York City
-Tue Mar  6 14:00:00  San Jose Earthquakes 1-0 Colorado Rapids
-Tue Mar  6 14:00:00  Houston Dynamo 3-3 New England Revolution
-Tue Mar  6 14:00:00  FC Dallas 2-0 Philadelphia Union
-Tue Mar  6 15:30:00  Portland Timbers 2-1 Columbus Crew
-Tue Mar  6 16:30:00  Vancouver Whitecaps 2-3 Montreal Impact
-Tue Mar  6 18:00:00  Seattle Sounders 0-1 Sporting Kansas City
-Tue Mar  6 21:00:00  Los Angeles Galaxy 4-1 DC United
-Sun Mar 11 18:00:00  Orlando City 1-1 Chicago Fire
-Mon Mar 12 14:00:00  New England Revolution 0-0 DC United
-Mon Mar 12 15:00:00  Real Salt Lake 2-1 Seattle Sounders
-Mon Mar 12 15:00:00  Montreal Impact 3-0 New York Red Bulls
-Mon Mar 12 18:00:00  Colorado Rapids 1-0 Los Angeles Galaxy
-Mon Mar 12 18:30:00  Columbus Crew 1-2 Philadelphia Union
-Mon Mar 12 19:30:00  Sporting Kansas City 2-1 Vancouver Whitecaps
-Mon Mar 12 19:30:00  Houston Dynamo 5-0 FC Dallas
-Tue Mar 13 16:00:00  New York City 2-2 Toronto FC
-Tue Mar 13 18:00:00  San Jose Earthquakes 2-1 Portland Timbers
-Sun Mar 18 18:00:00  New York City 0-1 Orlando City
-Mon Mar 19 16:00:00  Chicago Fire 0-0 Columbus Crew
-Mon Mar 19 18:00:00  New York Red Bulls 4-3 Houston Dynamo
-Mon Mar 19 20:00:00  FC Dallas 2-0 Montreal Impact
-Mon Mar 19 21:00:00  Seattle Sounders 1-2 Vancouver Whitecaps
-Mon Mar 19 21:30:00  Portland Timbers 2-2 Real Salt Lake
-Mon Mar 19 21:30:00  Los Angeles Galaxy 3-1 San Jose Earthquakes
-Tue Mar 20 13:30:00  Philadelphia Union 3-0 New England Revolution
-Tue Mar 20 16:00:00  DC United 1-1 Colorado Rapids
-Tue Mar 20 18:00:00  Sporting Kansas City 1-0 Toronto FC
-Mon Mar 26 14:00:00  New York City 1-1 New England Revolution
-Mon Mar 26 16:30:00  DC United 0-3 FC Dallas
-Mon Mar 26 21:00:00  Vancouver Whitecaps 1-0 Houston Dynamo
-Sun Apr  1 18:00:00  New England Revolution 1-0 New York Red Bulls
-Mon Apr  2 16:00:00  Chicago Fire 1-0 Philadelphia Union
-Mon Apr  2 19:00:00  Colorado Rapids 1-0 Toronto FC
-Mon Apr  2 19:30:00  Sporting Kansas City 1-2 Real Salt Lake
-Mon Apr  2 20:00:00  FC Dallas 1-1 Columbus Crew
-Mon Apr  2 21:00:00  Vancouver Whitecaps 0-0 Los Angeles Galaxy
-Mon Apr  2 21:00:00  Seattle Sounders 1-0 Montreal Impact
-Mon Apr  2 21:30:00  San Jose Earthquakes 1-1 DC United
-Tue Apr  3 19:00:00  Orlando City 4-1 Portland Timbers
-Sun Apr  8 18:00:00  Philadelphia Union 2-1 Orlando City
-Mon Apr  9 15:00:00  New England Revolution 1-1 Toronto FC
-Mon Apr  9 15:00:00  Montreal Impact 2-0 Columbus Crew
-Mon Apr  9 16:30:00  DC United 4-0 Vancouver Whitecaps
-Mon Apr  9 18:00:00  New York Red Bulls 0-2 Sporting Kansas City
-Mon Apr  9 20:00:00  FC Dallas 2-2 San Jose Earthquakes
-Mon Apr  9 20:30:00  Real Salt Lake 1-0 Colorado Rapids
-Tue Apr 10 15:00:00  Houston Dynamo 1-1 Seattle Sounders
-Tue Apr 10 18:00:00  New York City 0-0 Chicago Fire
-Tue Apr 10 20:30:00  Los Angeles Galaxy 1-1 Portland Timbers
-Fri Apr 13 19:30:00  Sporting Kansas City 1-2 Colorado Rapids
-Fri Apr 13 21:30:00  San Jose Earthquakes 2-0 New York Red Bulls
-Fri Apr 13 21:30:00  Portland Timbers 1-3 FC Dallas
-Sun Apr 15 18:00:00  Houston Dynamo 1-4 Los Angeles Galaxy
-Mon Apr 16 16:00:00  DC United 0-1 Toronto FC
-Mon Apr 16 16:00:00  Chicago Fire 1-2 Montreal Impact
-Mon Apr 16 18:30:00  Columbus Crew 3-2 New York City
-Mon Apr 16 20:00:00  Colorado Rapids 2-1 New York Red Bulls
-Mon Apr 16 21:00:00  Seattle Sounders 2-1 Philadelphia Union
-Mon Apr 16 21:00:00  Real Salt Lake 1-0 Vancouver Whitecaps
-Mon Apr 16 21:30:00  Portland Timbers 3-1 San Jose Earthquakes
-Tue Apr 17 14:30:00  Orlando City 2-2 New England Revolution
-Tue Apr 17 18:00:00  FC Dallas 2-1 Sporting Kansas City
-Mon Apr 23 15:00:00  Philadelphia Union 2-0 New York City
-Mon Apr 23 15:00:00  Montreal Impact 0-2 Toronto FC
-Mon Apr 23 16:30:00  DC United 3-0 New England Revolution
-Mon Apr 23 18:30:00  Columbus Crew 1-0 Houston Dynamo
-Mon Apr 23 20:00:00  Colorado Rapids 3-1 Seattle Sounders
-Mon Apr 23 21:30:00  Vancouver Whitecaps 3-0 FC Dallas
-Mon Apr 23 21:30:00  Los Angeles Galaxy 5-2 Real Salt Lake
-Tue Apr 24 14:30:00  San Jose Earthquakes 1-0 Sporting Kansas City
-Tue Apr 24 18:30:00  New York Red Bulls 3-2 Orlando City
-Fri Apr 27 18:00:00  New York City 1-1 Montreal Impact
-Fri Apr 27 18:30:00  New England Revolution 1-1 Portland Timbers
-Fri Apr 27 21:30:00  Vancouver Whitecaps 1-1 Sporting Kansas City
-Sun Apr 29 18:00:00  New York Red Bulls 4-0 FC Dallas
-Mon Apr 30 15:00:00  Seattle Sounders 1-0 Columbus Crew
-Mon Apr 30 15:00:00  Philadelphia Union 1-1 San Jose Earthquakes
-Mon Apr 30 15:00:00  New York City 3-2 Vancouver Whitecaps
-Mon Apr 30 15:00:00  Montreal Impact 2-2 Colorado Rapids
-Mon Apr 30 16:00:00  Chicago Fire 1-1 DC United
-Mon Apr 30 18:30:00  New England Revolution 2-2 Orlando City
-Mon Apr 30 20:30:00  Real Salt Lake 2-1 Houston Dynamo
-Tue May  1 14:30:00  Portland Timbers 2-1 Toronto FC
-Tue May  1 19:00:00  Sporting Kansas City 1-1 Los Angeles Galaxy
-Sun May  6 18:00:00  Orlando City 1-1 New York Red Bulls
-Mon May  7 16:00:00  Vancouver Whitecaps 2-1 Portland Timbers
-Mon May  7 18:30:00  Toronto FC 1-0 FC Dallas
-Mon May  7 18:30:00  Columbus Crew 4-4 Montreal Impact
-Mon May  7 19:30:00  Houston Dynamo 2-0 Sporting Kansas City
-Mon May  7 20:00:00  Colorado Rapids 1-0 Real Salt Lake
-Mon May  7 21:00:00  Seattle Sounders 2-0 San Jose Earthquakes
-Tue May  8 14:30:00  Los Angeles Galaxy 4-2 New England Revolution
-Tue May  8 18:30:00  DC United 0-2 New York City
-Fri May 11 18:00:00  Philadelphia Union 2-2 Los Angeles Galaxy
-Fri May 11 20:00:00  FC Dallas 2-1 Portland Timbers
-Fri May 11 20:00:00  Colorado Rapids 1-0 Sporting Kansas City
-Fri May 11 21:00:00  Vancouver Whitecaps 2-1 Chicago Fire
-Fri May 11 21:30:00  San Jose Earthquakes 3-1 Houston Dynamo
-Sun May 13 18:00:00  DC United 2-0 New York Red Bulls
-Mon May 14 16:00:00  Montreal Impact 1-1 Philadelphia Union
-Mon May 14 18:30:00  Toronto FC 3-4 Vancouver Whitecaps
-Mon May 14 18:30:00  New England Revolution 2-0 Chicago Fire
-Mon May 14 18:30:00  Columbus Crew 1-1 Colorado Rapids
-Mon May 14 20:00:00  FC Dallas 2-0 Seattle Sounders
-Tue May 15 13:00:00  Houston Dynamo 1-0 Real Salt Lake
-Tue May 15 15:00:00  Sporting Kansas City 2-1 Orlando City
-Tue May 15 19:10:00  Portland Timbers 1-2 New York City
-Fri May 18 18:00:00  Toronto FC 1-1 New York City
-Fri May 18 18:30:00  New York Red Bulls 1-0 Chicago Fire
-Sun May 20 18:00:00  Philadelphia Union 1-0 DC United
-Mon May 21 14:00:00  New York City 0-7 New York Red Bulls
-Mon May 21 16:00:00  Toronto FC 0-0 Columbus Crew
-Mon May 21 16:00:00  Chicago Fire 1-0 Houston Dynamo
-Mon May 21 18:30:00  Orlando City 2-1 Montreal Impact
-Mon May 21 18:30:00  New England Revolution 2-4 FC Dallas
-Mon May 21 19:30:00  Sporting Kansas City 1-3 Real Salt Lake
-Mon May 21 21:00:00  Seattle Sounders 0-1 Colorado Rapids
-Tue May 22 15:30:00  Portland Timbers 4-2 Vancouver Whitecaps
-Tue May 22 18:00:00  Los Angeles Galaxy 1-1 San Jose Earthquakes
-Fri May 25 18:30:00  Orlando City 2-2 Philadelphia Union
-Sun May 27 20:30:00  Sporting Kansas City 0-1 DC United
-Mon May 28 17:00:00  Vancouver Whitecaps 1-1 Houston Dynamo
-Mon May 28 18:00:00  New York Red Bulls 3-0 Toronto FC
-Mon May 28 18:30:00  New England Revolution 2-1 Seattle Sounders
-Mon May 28 18:30:00  Columbus Crew 4-3 Real Salt Lake
-Mon May 28 19:00:00  Montreal Impact 3-2 Los Angeles Galaxy
-Mon May 28 19:30:00  Chicago Fire 1-1 Portland Timbers
-Mon May 28 20:00:00  Colorado Rapids 1-1 Philadelphia Union
-Mon May 28 21:30:00  San Jose Earthquakes 0-0 FC Dallas
-Tue May 29 15:30:00  New York City 2-2 Orlando City
-Fri Jun  1 18:00:00  Philadelphia Union 3-2 Columbus Crew
-Fri Jun  1 19:00:00  DC United 0-2 Seattle Sounders
-Fri Jun  1 21:30:00  Portland Timbers 1-0 San Jose Earthquakes
-Sat Jun  2 18:00:00  New York City 2-3 Real Salt Lake
-Sat Jun  2 20:00:00  FC Dallas 1-1 Houston Dynamo
-Sat Jun  2 21:30:00  Los Angeles Galaxy 0-0 Sporting Kansas City
-Mon Jun 18 12:00:00  New York City 3-2 Philadelphia Union
-Mon Jun 18 18:00:00  Vancouver Whitecaps 1-2 New England Revolution
-Mon Jun 18 18:30:00  Toronto FC 1-0 Los Angeles Galaxy
-Mon Jun 18 18:30:00  Orlando City 2-2 San Jose Earthquakes
-Mon Jun 18 18:30:00  Columbus Crew 0-0 Montreal Impact
-Mon Jun 18 20:00:00  Houston Dynamo 0-0 DC United
-Mon Jun 18 20:00:00  Colorado Rapids 2-1 Chicago Fire
-Mon Jun 18 21:00:00  Real Salt Lake 2-2 Portland Timbers
-Tue Jun 19 16:00:00  Sporting Kansas City 2-0 FC Dallas
-Tue Jun 19 18:30:00  New York Red Bulls 2-0 Seattle Sounders
-Fri Jun 22 18:00:00  Philadelphia Union 4-3 Chicago Fire
-Fri Jun 22 21:00:00  Real Salt Lake 2-1 New York Red Bulls
-Fri Jun 22 21:30:00  Los Angeles Galaxy 0-0 Colorado Rapids
-Mon Jun 25 16:00:00  Seattle Sounders 0-2 New York City
-Mon Jun 25 18:00:00  Philadelphia Union 2-3 Vancouver Whitecaps
-Mon Jun 25 18:00:00  DC United 2-0 New England Revolution
-Mon Jun 25 18:30:00  Orlando City 3-2 Toronto FC
-Mon Jun 25 18:30:00  Montreal Impact 2-2 Sporting Kansas City
-Mon Jun 25 18:30:00  Columbus Crew 1-1 New York Red Bulls
-Mon Jun 25 19:00:00  FC Dallas 2-0 Real Salt Lake
-Mon Jun 25 21:00:00  San Jose Earthquakes 1-1 Los Angeles Galaxy
-Tue Jun 26 17:00:00  Portland Timbers 3-2 Houston Dynamo
-Sun Jul  1 19:00:00  Chicago Fire 1-0 San Jose Earthquakes
-Sun Jul  1 21:30:00  Real Salt Lake 1-1 DC United
-Mon Jul  2 16:30:00  Montreal Impact 3-2 New England Revolution
-Mon Jul  2 18:30:00  Toronto FC 1-1 Seattle Sounders
-Mon Jul  2 20:00:00  Houston Dynamo 1-0 Philadelphia Union
-Tue Jul  3 11:00:00  New York City 2-0 New York Red Bulls
-Tue Jul  3 18:00:00  Sporting Kansas City 3-2 Columbus Crew
-Wed Jul  4 20:00:00  FC Dallas 4-0 Orlando City
-Wed Jul  4 20:00:00  Colorado Rapids 0-0 Portland Timbers
-Wed Jul  4 21:30:00  Los Angeles Galaxy 2-0 Vancouver Whitecaps
-Fri Jul  6 18:30:00  New England Revolution 0-1 New York City
-Sun Jul  8 19:00:00  Orlando City 0-0 Houston Dynamo
-Sun Jul  8 21:30:00  San Jose Earthquakes 0-1 FC Dallas
-Mon Jul  9 14:00:00  Seattle Sounders 0-1 Los Angeles Galaxy
-Mon Jul  9 18:00:00  Philadelphia Union 3-0 DC United
-Mon Jul  9 18:30:00  Toronto FC 1-0 Chicago Fire
-Mon Jul  9 18:30:00  New England Revolution 3-1 Columbus Crew
-Mon Jul  9 21:00:00  Vancouver Whitecaps 2-2 Colorado Rapids
-Mon Jul  9 21:00:00  Real Salt Lake 1-1 Montreal Impact
-Tue Jul 10 17:00:00  New York Red Bulls 0-0 Portland Timbers
-Tue Jul 10 19:00:00  Sporting Kansas City 3-1 New York City
-Fri Jul 13 18:00:00  Columbus Crew 1-1 Toronto FC
-Fri Jul 13 18:30:00  New York Red Bulls 2-0 Orlando City
-Fri Jul 13 19:30:00  Chicago Fire 1-0 Sporting Kansas City
-Fri Jul 13 21:30:00  Vancouver Whitecaps 2-0 Real Salt Lake
-Fri Jul 13 21:30:00  Seattle Sounders 5-0 FC Dallas
-Fri Jul 13 21:30:00  Portland Timbers 1-1 Montreal Impact
-Sun Jul 15 22:00:00  Los Angeles Galaxy 1-0 Houston Dynamo
-Mon Jul 16 18:30:00  Columbus Crew 1-1 DC United
-Mon Jul 16 20:00:00  FC Dallas 3-1 Chicago Fire
-Mon Jul 16 20:00:00  Colorado Rapids 1-0 Sporting Kansas City
-Mon Jul 16 21:00:00  Vancouver Whitecaps 2-2 Orlando City
-Mon Jul 16 21:00:00  Real Salt Lake 0-0 New England Revolution
-Mon Jul 16 21:30:00  San Jose Earthquakes 2-1 Toronto FC
-Tue Jul 17 14:00:00  Portland Timbers 3-1 Seattle Sounders
-Tue Jul 17 16:00:00  Montreal Impact 1-3 New York City
-Tue Jul 17 18:00:00  Philadelphia Union 2-2 New York Red Bulls
-Sun Jul 22 22:00:00  Real Salt Lake 1-1 San Jose Earthquakes
-Mon Jul 23 14:30:00  Portland Timbers 1-2 Los Angeles Galaxy
-Mon Jul 23 18:30:00  Toronto FC 4-1 DC United
-Mon Jul 23 18:30:00  New England Revolution 1-0 Chicago Fire
-Mon Jul 23 18:30:00  Montreal Impact 5-1 Philadelphia Union
-Mon Jul 23 18:30:00  Columbus Crew 2-2 Orlando City
-Mon Jul 23 20:00:00  Colorado Rapids 1-1 FC Dallas
-Mon Jul 23 20:30:00  Houston Dynamo 0-0 Vancouver Whitecaps
-Tue Jul 24 12:00:00  New York Red Bulls 4-1 New York City
-Tue Jul 24 14:00:00  Sporting Kansas City 3-0 Seattle Sounders
-Mon Jul 30 14:00:00  New York City 5-1 Colorado Rapids
-Tue Jul 31 13:00:00  Sporting Kansas City 1-0 Portland Timbers
-Tue Jul 31 15:00:00  Seattle Sounders 1-1 Los Angeles Galaxy
-Tue Jul 31 17:00:00  FC Dallas 2-0 Vancouver Whitecaps
-Tue Jul 31 17:30:00  DC United 1-1 Montreal Impact
-Tue Jul 31 18:00:00  Philadelphia Union 1-2 Real Salt Lake
-Tue Jul 31 18:00:00  Chicago Fire 2-2 New York Red Bulls
-Tue Jul 31 18:30:00  Toronto FC 3-0 Columbus Crew
-Tue Jul 31 18:30:00  Orlando City 3-1 New England Revolution
-Tue Jul 31 20:00:00  Houston Dynamo 1-1 San Jose Earthquakes
-Fri Aug  3 18:00:00  Toronto FC 1-0 Real Salt Lake
-Sun Aug  5 22:00:00  San Jose Earthquakes 0-0 New York City
-Mon Aug  6 18:00:00  DC United 2-2 Philadelphia Union
-Mon Aug  6 18:30:00  Toronto FC 4-1 New England Revolution
-Mon Aug  6 18:30:00  Montreal Impact 1-0 Houston Dynamo
-Mon Aug  6 20:00:00  Colorado Rapids 2-0 Vancouver Whitecaps
-Mon Aug  6 21:00:00  Real Salt Lake 3-1 Chicago Fire
-Tue Aug  7 15:00:00  Portland Timbers 3-0 Sporting Kansas City
-Tue Aug  7 18:00:00  Orlando City 1-3 Seattle Sounders
-Tue Aug  7 20:30:00  Los Angeles Galaxy 2-2 New York Red Bulls
-Sun Aug 12 22:00:00  Vancouver Whitecaps 1-2 San Jose Earthquakes
-Mon Aug 13 18:00:00  New York Red Bulls 3-1 Montreal Impact
-Mon Aug 13 18:30:00  New England Revolution 0-4 Philadelphia Union
-Mon Aug 13 18:30:00  Columbus Crew 3-3 New York City
-Mon Aug 13 19:00:00  DC United 2-0 Portland Timbers
-Mon Aug 13 20:00:00  FC Dallas 2-2 Sporting Kansas City
-Mon Aug 13 21:30:00  Los Angeles Galaxy 1-1 Colorado Rapids
-Tue Aug 14 15:00:00  Chicago Fire 2-2 Orlando City
-Tue Aug 14 18:00:00  Seattle Sounders 2-1 Real Salt Lake
-Tue Aug 14 20:15:00  Houston Dynamo 1-1 Toronto FC
-Sun Aug 19 22:00:00  San Jose Earthquakes 1-2 Houston Dynamo
-Mon Aug 20 14:30:00  New York City 1-0 Los Angeles Galaxy
-Mon Aug 20 18:00:00  Philadelphia Union 1-3 Toronto FC
-Mon Aug 20 18:30:00  New England Revolution 0-2 Columbus Crew
-Mon Aug 20 18:30:00  Montreal Impact 0-3 Chicago Fire
-Mon Aug 20 20:00:00  Colorado Rapids 0-0 Orlando City
-Mon Aug 20 21:00:00  Sporting Kansas City 2-0 Vancouver Whitecaps
-Mon Aug 20 21:00:00  Real Salt Lake 1-0 FC Dallas
-Tue Aug 21 14:00:00  DC United 2-2 New York Red Bulls
-Tue Aug 21 20:30:00  Seattle Sounders 3-1 Portland Timbers
-Fri Aug 24 18:30:00  Orlando City 1-2 Toronto FC
-Fri Aug 24 18:30:00  Montreal Impact 1-1 DC United
-Fri Aug 24 18:30:00  Columbus Crew 1-2 Philadelphia Union
-Fri Aug 24 19:30:00  Chicago Fire 2-2 Los Angeles Galaxy
-Fri Aug 24 20:00:00  Houston Dynamo 1-1 Seattle Sounders
-Fri Aug 24 21:30:00  San Jose Earthquakes 0-0 New England Revolution
-Sun Aug 26 19:00:00  Real Salt Lake 2-1 Colorado Rapids
-Mon Aug 27 18:00:00  Philadelphia Union 2-0 Sporting Kansas City
-Mon Aug 27 18:00:00  DC United 6-2 Chicago Fire
-Mon Aug 27 18:30:00  Toronto FC 0-1 Montreal Impact
-Mon Aug 27 18:30:00  Columbus Crew 2-0 San Jose Earthquakes
-Mon Aug 27 20:00:00  Houston Dynamo 1-3 FC Dallas
-Mon Aug 27 21:30:00  Los Angeles Galaxy 0-0 Vancouver Whitecaps
-Tue Aug 28 13:30:00  New York Red Bulls 1-0 New England Revolution
-Tue Aug 28 16:00:00  Portland Timbers 4-2 Seattle Sounders
-Tue Aug 28 18:00:00  Orlando City 2-1 New York City
-Sat Sep  1 18:00:00  New York City 3-2 DC United
-Mon Sep  3 18:00:00  Vancouver Whitecaps 0-1 New York Red Bulls
-Mon Sep  3 18:30:00  New England Revolution 2-0 Colorado Rapids
-Mon Sep  3 19:30:00  Chicago Fire 3-0 Philadelphia Union
-Mon Sep  3 20:00:00  FC Dallas 3-1 Portland Timbers
-Mon Sep  3 21:30:00  Los Angeles Galaxy 2-1 Columbus Crew
-Fri Sep  7 18:30:00  Montreal Impact 1-4 Orlando City
-Fri Sep  7 20:30:00  Real Salt Lake 3-3 Los Angeles Galaxy
-Sun Sep  9 19:00:00  Sporting Kansas City 3-3 Houston Dynamo
-Mon Sep 10 17:00:00  Columbus Crew 1-3 Vancouver Whitecaps
-Mon Sep 10 18:00:00  Philadelphia Union 1-1 Montreal Impact
-Mon Sep 10 19:00:00  New England Revolution 3-1 New York City
-Mon Sep 10 19:30:00  Chicago Fire 1-2 Toronto FC
-Mon Sep 10 20:00:00  FC Dallas 0-1 Colorado Rapids
-Mon Sep 10 21:30:00  San Jose Earthquakes 1-1 Seattle Sounders
-Mon Sep 10 21:30:00  Portland Timbers 1-0 Real Salt Lake
-Tue Sep 11 12:00:00  New York Red Bulls 2-2 DC United
-Tue Sep 11 18:00:00  Los Angeles Galaxy 4-2 Orlando City
-Sun Sep 16 19:00:00  Chicago Fire 2-2 DC United
-Mon Sep 17 15:00:00  Seattle Sounders 1-0 Vancouver Whitecaps
-Mon Sep 17 17:00:00  Portland Timbers 2-1 Philadelphia Union
-Mon Sep 17 18:00:00  New York City 2-2 FC Dallas
-Mon Sep 17 18:30:00  Orlando City 1-4 Columbus Crew
-Mon Sep 17 18:30:00  Montreal Impact 1-3 New England Revolution
-Mon Sep 17 20:00:00  Colorado Rapids 0-0 San Jose Earthquakes
-Mon Sep 17 20:30:00  Real Salt Lake 0-1 Houston Dynamo
-Tue Sep 18 13:00:00  Sporting Kansas City 2-2 Los Angeles Galaxy
-Tue Sep 18 16:00:00  Toronto FC 3-3 New York Red Bulls
-Sun Sep 23 19:00:00  New York City 4-1 Chicago Fire
-Mon Sep 24 16:00:00  Toronto FC 1-1 Philadelphia Union
-Mon Sep 24 18:00:00  Vancouver Whitecaps 3-3 Colorado Rapids
-Mon Sep 24 18:00:00  New York Red Bulls 1-0 Montreal Impact
-Mon Sep 24 18:00:00  DC United 4-1 Orlando City
-Mon Sep 24 20:00:00  Houston Dynamo 3-1 Portland Timbers
-Mon Sep 24 20:30:00  Real Salt Lake 0-0 FC Dallas
-Mon Sep 24 21:30:00  San Jose Earthquakes 1-2 Sporting Kansas City
-Tue Sep 25 15:00:00  Los Angeles Galaxy 2-4 Seattle Sounders
-Tue Sep 25 18:00:00  Columbus Crew 2-0 New England Revolution
-Fri Sep 28 18:30:00  Toronto FC 0-0 Orlando City
-Fri Sep 28 18:30:00  Montreal Impact 3-1 San Jose Earthquakes
-Fri Sep 28 18:30:00  DC United 3-0 Columbus Crew
-Fri Sep 28 21:30:00  Seattle Sounders 1-0 Chicago Fire
-Sun Sep 30 19:00:00  Houston Dynamo 0-2 New York City
-Mon Oct  1 18:00:00  New York Red Bulls 3-2 Philadelphia Union
-Mon Oct  1 18:30:00  Toronto FC 1-2 DC United
-Mon Oct  1 18:30:00  New England Revolution 3-1 Sporting Kansas City
-Mon Oct  1 18:30:00  Columbus Crew 3-0 Chicago Fire
-Mon Oct  1 20:00:00  FC Dallas 1-0 Los Angeles Galaxy
-Mon Oct  1 20:00:00  Colorado Rapids 1-0 Portland Timbers
-Mon Oct  1 21:30:00  San Jose Earthquakes 2-1 Real Salt Lake
-Tue Oct  2 12:00:00  Orlando City 0-1 Montreal Impact
-Tue Oct  2 19:00:00  Vancouver Whitecaps 1-2 Seattle Sounders
-Mon Oct  8 19:30:00  Houston Dynamo 2-3 Colorado Rapids
-Fri Oct 12 21:30:00  Seattle Sounders 0-0 Houston Dynamo
-Sat Oct 13 19:30:00  Chicago Fire 2-2 Columbus Crew
-Sat Oct 13 20:00:00  Colorado Rapids 2-1 San Jose Earthquakes
-Tue Oct 16 14:00:00  Philadelphia Union 0-2 Orlando City
-Tue Oct 16 14:00:00  New York Red Bulls 3-2 Columbus Crew
-Tue Oct 16 14:00:00  Montreal Impact 2-2 Toronto FC
-Tue Oct 16 14:00:00  DC United 3-1 New York City
-Tue Oct 16 14:00:00  Chicago Fire 2-1 New England Revolution
-Tue Oct 16 16:00:00  San Jose Earthquakes 0-0 Vancouver Whitecaps
-Tue Oct 16 16:00:00  Real Salt Lake 0-0 Sporting Kansas City
-Tue Oct 16 16:00:00  Portland Timbers 1-0 Colorado Rapids
-Tue Oct 16 16:00:00  Houston Dynamo 0-1 Los Angeles Galaxy
-Tue Oct 16 16:00:00  FC Dallas 2-1 Seattle Sounders
-Tue Oct 23 15:00:00  Vancouver Whitecaps 4-1 Portland Timbers
-Tue Oct 23 15:00:00  Toronto FC 3-2 Chicago Fire
-Tue Oct 23 15:00:00  Sporting Kansas City 2-0 San Jose Earthquakes
-Tue Oct 23 15:00:00  Seattle Sounders 2-1 Real Salt Lake
-Tue Oct 23 15:00:00  Philadelphia Union 0-2 New York Red Bulls
-Tue Oct 23 15:00:00  Orlando City 4-2 DC United
-Tue Oct 23 15:00:00  New York City 4-1 Columbus Crew
-Tue Oct 23 15:00:00  New England Revolution 3-0 Montreal Impact
-Tue Oct 23 15:00:00  Los Angeles Galaxy 0-0 FC Dallas
-Tue Oct 23 15:00:00  Colorado Rapids 1-1 Houston Dynamo
+Mar 06 New York Red Bulls 0-2 Toronto FC
+Mar 06 Orlando City 2-2 Real Salt Lake
+Mar 06 Chicago Fire 3-4 New York City
+Mar 06 San Jose Earthquakes 1-0 Colorado Rapids
+Mar 06 Houston Dynamo 3-3 New England Revolution
+Mar 06 FC Dallas 2-0 Philadelphia Union
+Mar 06 Portland Timbers 2-1 Columbus Crew
+Mar 06 Vancouver Whitecaps 2-3 Montreal Impact
+Mar 06 Seattle Sounders 0-1 Sporting Kansas City
+Mar 06 Los Angeles Galaxy 4-1 DC United
+Mar 11 Orlando City 1-1 Chicago Fire
+Mar 12 New England Revolution 0-0 DC United
+Mar 12 Real Salt Lake 2-1 Seattle Sounders
+Mar 12 Montreal Impact 3-0 New York Red Bulls
+Mar 12 Colorado Rapids 1-0 Los Angeles Galaxy
+Mar 12 Columbus Crew 1-2 Philadelphia Union
+Mar 12 Sporting Kansas City 2-1 Vancouver Whitecaps
+Mar 12 Houston Dynamo 5-0 FC Dallas
+Mar 13 New York City 2-2 Toronto FC
+Mar 13 San Jose Earthquakes 2-1 Portland Timbers
+Mar 18 New York City 0-1 Orlando City
+Mar 19 Chicago Fire 0-0 Columbus Crew
+Mar 19 New York Red Bulls 4-3 Houston Dynamo
+Mar 19 FC Dallas 2-0 Montreal Impact
+Mar 19 Seattle Sounders 1-2 Vancouver Whitecaps
+Mar 19 Portland Timbers 2-2 Real Salt Lake
+Mar 19 Los Angeles Galaxy 3-1 San Jose Earthquakes
+Mar 20 Philadelphia Union 3-0 New England Revolution
+Mar 20 DC United 1-1 Colorado Rapids
+Mar 20 Sporting Kansas City 1-0 Toronto FC
+Mar 26 New York City 1-1 New England Revolution
+Mar 26 DC United 0-3 FC Dallas
+Mar 26 Vancouver Whitecaps 1-0 Houston Dynamo
+Apr 01 New England Revolution 1-0 New York Red Bulls
+Apr 02 Chicago Fire 1-0 Philadelphia Union
+Apr 02 Colorado Rapids 1-0 Toronto FC
+Apr 02 Sporting Kansas City 1-2 Real Salt Lake
+Apr 02 FC Dallas 1-1 Columbus Crew
+Apr 02 Vancouver Whitecaps 0-0 Los Angeles Galaxy
+Apr 02 Seattle Sounders 1-0 Montreal Impact
+Apr 02 San Jose Earthquakes 1-1 DC United
+Apr 03 Orlando City 4-1 Portland Timbers
+Apr 08 Philadelphia Union 2-1 Orlando City
+Apr 09 New England Revolution 1-1 Toronto FC
+Apr 09 Montreal Impact 2-0 Columbus Crew
+Apr 09 DC United 4-0 Vancouver Whitecaps
+Apr 09 New York Red Bulls 0-2 Sporting Kansas City
+Apr 09 FC Dallas 2-2 San Jose Earthquakes
+Apr 09 Real Salt Lake 1-0 Colorado Rapids
+Apr 10 Houston Dynamo 1-1 Seattle Sounders
+Apr 10 New York City 0-0 Chicago Fire
+Apr 10 Los Angeles Galaxy 1-1 Portland Timbers
+Apr 13 Sporting Kansas City 1-2 Colorado Rapids
+Apr 13 San Jose Earthquakes 2-0 New York Red Bulls
+Apr 13 Portland Timbers 1-3 FC Dallas
+Apr 15 Houston Dynamo 1-4 Los Angeles Galaxy
+Apr 16 DC United 0-1 Toronto FC
+Apr 16 Chicago Fire 1-2 Montreal Impact
+Apr 16 Columbus Crew 3-2 New York City
+Apr 16 Colorado Rapids 2-1 New York Red Bulls
+Apr 16 Seattle Sounders 2-1 Philadelphia Union
+Apr 16 Real Salt Lake 1-0 Vancouver Whitecaps
+Apr 16 Portland Timbers 3-1 San Jose Earthquakes
+Apr 17 Orlando City 2-2 New England Revolution
+Apr 17 FC Dallas 2-1 Sporting Kansas City
+Apr 23 Philadelphia Union 2-0 New York City
+Apr 23 Montreal Impact 0-2 Toronto FC
+Apr 23 DC United 3-0 New England Revolution
+Apr 23 Columbus Crew 1-0 Houston Dynamo
+Apr 23 Colorado Rapids 3-1 Seattle Sounders
+Apr 23 Vancouver Whitecaps 3-0 FC Dallas
+Apr 23 Los Angeles Galaxy 5-2 Real Salt Lake
+Apr 24 San Jose Earthquakes 1-0 Sporting Kansas City
+Apr 24 New York Red Bulls 3-2 Orlando City
+Apr 27 New York City 1-1 Montreal Impact
+Apr 27 New England Revolution 1-1 Portland Timbers
+Apr 27 Vancouver Whitecaps 1-1 Sporting Kansas City
+Apr 29 New York Red Bulls 4-0 FC Dallas
+Apr 30 Seattle Sounders 1-0 Columbus Crew
+Apr 30 Philadelphia Union 1-1 San Jose Earthquakes
+Apr 30 New York City 3-2 Vancouver Whitecaps
+Apr 30 Montreal Impact 2-2 Colorado Rapids
+Apr 30 Chicago Fire 1-1 DC United
+Apr 30 New England Revolution 2-2 Orlando City
+Apr 30 Real Salt Lake 2-1 Houston Dynamo
+May 01 Portland Timbers 2-1 Toronto FC
+May 01 Sporting Kansas City 1-1 Los Angeles Galaxy
+May 06 Orlando City 1-1 New York Red Bulls
+May 07 Vancouver Whitecaps 2-1 Portland Timbers
+May 07 Toronto FC 1-0 FC Dallas
+May 07 Columbus Crew 4-4 Montreal Impact
+May 07 Houston Dynamo 2-0 Sporting Kansas City
+May 07 Colorado Rapids 1-0 Real Salt Lake
+May 07 Seattle Sounders 2-0 San Jose Earthquakes
+May 08 Los Angeles Galaxy 4-2 New England Revolution
+May 08 DC United 0-2 New York City
+May 11 Philadelphia Union 2-2 Los Angeles Galaxy
+May 11 FC Dallas 2-1 Portland Timbers
+May 11 Colorado Rapids 1-0 Sporting Kansas City
+May 11 Vancouver Whitecaps 2-1 Chicago Fire
+May 11 San Jose Earthquakes 3-1 Houston Dynamo
+May 13 DC United 2-0 New York Red Bulls
+May 14 Montreal Impact 1-1 Philadelphia Union
+May 14 Toronto FC 3-4 Vancouver Whitecaps
+May 14 New England Revolution 2-0 Chicago Fire
+May 14 Columbus Crew 1-1 Colorado Rapids
+May 14 FC Dallas 2-0 Seattle Sounders
+May 15 Houston Dynamo 1-0 Real Salt Lake
+May 15 Sporting Kansas City 2-1 Orlando City
+May 15 Portland Timbers 1-2 New York City
+May 18 Toronto FC 1-1 New York City
+May 18 New York Red Bulls 1-0 Chicago Fire
+May 20 Philadelphia Union 1-0 DC United
+May 21 New York City 0-7 New York Red Bulls
+May 21 Toronto FC 0-0 Columbus Crew
+May 21 Chicago Fire 1-0 Houston Dynamo
+May 21 Orlando City 2-1 Montreal Impact
+May 21 New England Revolution 2-4 FC Dallas
+May 21 Sporting Kansas City 1-3 Real Salt Lake
+May 21 Seattle Sounders 0-1 Colorado Rapids
+May 22 Portland Timbers 4-2 Vancouver Whitecaps
+May 22 Los Angeles Galaxy 1-1 San Jose Earthquakes
+May 25 Orlando City 2-2 Philadelphia Union
+May 27 Sporting Kansas City 0-1 DC United
+May 28 Vancouver Whitecaps 1-1 Houston Dynamo
+May 28 New York Red Bulls 3-0 Toronto FC
+May 28 New England Revolution 2-1 Seattle Sounders
+May 28 Columbus Crew 4-3 Real Salt Lake
+May 28 Montreal Impact 3-2 Los Angeles Galaxy
+May 28 Chicago Fire 1-1 Portland Timbers
+May 28 Colorado Rapids 1-1 Philadelphia Union
+May 28 San Jose Earthquakes 0-0 FC Dallas
+May 29 New York City 2-2 Orlando City
+Jun 01 Philadelphia Union 3-2 Columbus Crew
+Jun 01 DC United 0-2 Seattle Sounders
+Jun 01 Portland Timbers 1-0 San Jose Earthquakes
+Jun 02 New York City 2-3 Real Salt Lake
+Jun 02 FC Dallas 1-1 Houston Dynamo
+Jun 02 Los Angeles Galaxy 0-0 Sporting Kansas City
+Jun 18 New York City 3-2 Philadelphia Union
+Jun 18 Vancouver Whitecaps 1-2 New England Revolution
+Jun 18 Toronto FC 1-0 Los Angeles Galaxy
+Jun 18 Orlando City 2-2 San Jose Earthquakes
+Jun 18 Columbus Crew 0-0 Montreal Impact
+Jun 18 Houston Dynamo 0-0 DC United
+Jun 18 Colorado Rapids 2-1 Chicago Fire
+Jun 18 Real Salt Lake 2-2 Portland Timbers
+Jun 19 Sporting Kansas City 2-0 FC Dallas
+Jun 19 New York Red Bulls 2-0 Seattle Sounders
+Jun 22 Philadelphia Union 4-3 Chicago Fire
+Jun 22 Real Salt Lake 2-1 New York Red Bulls
+Jun 22 Los Angeles Galaxy 0-0 Colorado Rapids
+Jun 25 Seattle Sounders 0-2 New York City
+Jun 25 Philadelphia Union 2-3 Vancouver Whitecaps
+Jun 25 DC United 2-0 New England Revolution
+Jun 25 Orlando City 3-2 Toronto FC
+Jun 25 Montreal Impact 2-2 Sporting Kansas City
+Jun 25 Columbus Crew 1-1 New York Red Bulls
+Jun 25 FC Dallas 2-0 Real Salt Lake
+Jun 25 San Jose Earthquakes 1-1 Los Angeles Galaxy
+Jun 26 Portland Timbers 3-2 Houston Dynamo
+Jul 01 Chicago Fire 1-0 San Jose Earthquakes
+Jul 01 Real Salt Lake 1-1 DC United
+Jul 02 Montreal Impact 3-2 New England Revolution
+Jul 02 Toronto FC 1-1 Seattle Sounders
+Jul 02 Houston Dynamo 1-0 Philadelphia Union
+Jul 03 New York City 2-0 New York Red Bulls
+Jul 03 Sporting Kansas City 3-2 Columbus Crew
+Jul 04 FC Dallas 4-0 Orlando City
+Jul 04 Colorado Rapids 0-0 Portland Timbers
+Jul 04 Los Angeles Galaxy 2-0 Vancouver Whitecaps
+Jul 06 New England Revolution 0-1 New York City
+Jul 08 Orlando City 0-0 Houston Dynamo
+Jul 08 San Jose Earthquakes 0-1 FC Dallas
+Jul 09 Seattle Sounders 0-1 Los Angeles Galaxy
+Jul 09 Philadelphia Union 3-0 DC United
+Jul 09 Toronto FC 1-0 Chicago Fire
+Jul 09 New England Revolution 3-1 Columbus Crew
+Jul 09 Vancouver Whitecaps 2-2 Colorado Rapids
+Jul 09 Real Salt Lake 1-1 Montreal Impact
+Jul 10 New York Red Bulls 0-0 Portland Timbers
+Jul 10 Sporting Kansas City 3-1 New York City
+Jul 13 Columbus Crew 1-1 Toronto FC
+Jul 13 New York Red Bulls 2-0 Orlando City
+Jul 13 Chicago Fire 1-0 Sporting Kansas City
+Jul 13 Vancouver Whitecaps 2-0 Real Salt Lake
+Jul 13 Seattle Sounders 5-0 FC Dallas
+Jul 13 Portland Timbers 1-1 Montreal Impact
+Jul 15 Los Angeles Galaxy 1-0 Houston Dynamo
+Jul 16 Columbus Crew 1-1 DC United
+Jul 16 FC Dallas 3-1 Chicago Fire
+Jul 16 Colorado Rapids 1-0 Sporting Kansas City
+Jul 16 Vancouver Whitecaps 2-2 Orlando City
+Jul 16 Real Salt Lake 0-0 New England Revolution
+Jul 16 San Jose Earthquakes 2-1 Toronto FC
+Jul 17 Portland Timbers 3-1 Seattle Sounders
+Jul 17 Montreal Impact 1-3 New York City
+Jul 17 Philadelphia Union 2-2 New York Red Bulls
+Jul 22 Real Salt Lake 1-1 San Jose Earthquakes
+Jul 23 Portland Timbers 1-2 Los Angeles Galaxy
+Jul 23 Toronto FC 4-1 DC United
+Jul 23 New England Revolution 1-0 Chicago Fire
+Jul 23 Montreal Impact 5-1 Philadelphia Union
+Jul 23 Columbus Crew 2-2 Orlando City
+Jul 23 Colorado Rapids 1-1 FC Dallas
+Jul 23 Houston Dynamo 0-0 Vancouver Whitecaps
+Jul 24 New York Red Bulls 4-1 New York City
+Jul 24 Sporting Kansas City 3-0 Seattle Sounders
+Jul 30 New York City 5-1 Colorado Rapids
+Jul 31 Sporting Kansas City 1-0 Portland Timbers
+Jul 31 Seattle Sounders 1-1 Los Angeles Galaxy
+Jul 31 FC Dallas 2-0 Vancouver Whitecaps
+Jul 31 DC United 1-1 Montreal Impact
+Jul 31 Philadelphia Union 1-2 Real Salt Lake
+Jul 31 Chicago Fire 2-2 New York Red Bulls
+Jul 31 Toronto FC 3-0 Columbus Crew
+Jul 31 Orlando City 3-1 New England Revolution
+Jul 31 Houston Dynamo 1-1 San Jose Earthquakes
+Aug 03 Toronto FC 1-0 Real Salt Lake
+Aug 05 San Jose Earthquakes 0-0 New York City
+Aug 06 DC United 2-2 Philadelphia Union
+Aug 06 Toronto FC 4-1 New England Revolution
+Aug 06 Montreal Impact 1-0 Houston Dynamo
+Aug 06 Colorado Rapids 2-0 Vancouver Whitecaps
+Aug 06 Real Salt Lake 3-1 Chicago Fire
+Aug 07 Portland Timbers 3-0 Sporting Kansas City
+Aug 07 Orlando City 1-3 Seattle Sounders
+Aug 07 Los Angeles Galaxy 2-2 New York Red Bulls
+Aug 12 Vancouver Whitecaps 1-2 San Jose Earthquakes
+Aug 13 New York Red Bulls 3-1 Montreal Impact
+Aug 13 New England Revolution 0-4 Philadelphia Union
+Aug 13 Columbus Crew 3-3 New York City
+Aug 13 DC United 2-0 Portland Timbers
+Aug 13 FC Dallas 2-2 Sporting Kansas City
+Aug 13 Los Angeles Galaxy 1-1 Colorado Rapids
+Aug 14 Chicago Fire 2-2 Orlando City
+Aug 14 Seattle Sounders 2-1 Real Salt Lake
+Aug 14 Houston Dynamo 1-1 Toronto FC
+Aug 19 San Jose Earthquakes 1-2 Houston Dynamo
+Aug 20 New York City 1-0 Los Angeles Galaxy
+Aug 20 Philadelphia Union 1-3 Toronto FC
+Aug 20 New England Revolution 0-2 Columbus Crew
+Aug 20 Montreal Impact 0-3 Chicago Fire
+Aug 20 Colorado Rapids 0-0 Orlando City
+Aug 20 Sporting Kansas City 2-0 Vancouver Whitecaps
+Aug 20 Real Salt Lake 1-0 FC Dallas
+Aug 21 DC United 2-2 New York Red Bulls
+Aug 21 Seattle Sounders 3-1 Portland Timbers
+Aug 24 Orlando City 1-2 Toronto FC
+Aug 24 Montreal Impact 1-1 DC United
+Aug 24 Columbus Crew 1-2 Philadelphia Union
+Aug 24 Chicago Fire 2-2 Los Angeles Galaxy
+Aug 24 Houston Dynamo 1-1 Seattle Sounders
+Aug 24 San Jose Earthquakes 0-0 New England Revolution
+Aug 26 Real Salt Lake 2-1 Colorado Rapids
+Aug 27 Philadelphia Union 2-0 Sporting Kansas City
+Aug 27 DC United 6-2 Chicago Fire
+Aug 27 Toronto FC 0-1 Montreal Impact
+Aug 27 Columbus Crew 2-0 San Jose Earthquakes
+Aug 27 Houston Dynamo 1-3 FC Dallas
+Aug 27 Los Angeles Galaxy 0-0 Vancouver Whitecaps
+Aug 28 New York Red Bulls 1-0 New England Revolution
+Aug 28 Portland Timbers 4-2 Seattle Sounders
+Aug 28 Orlando City 2-1 New York City
+Sep 01 New York City 3-2 DC United
+Sep 03 Vancouver Whitecaps 0-1 New York Red Bulls
+Sep 03 New England Revolution 2-0 Colorado Rapids
+Sep 03 Chicago Fire 3-0 Philadelphia Union
+Sep 03 FC Dallas 3-1 Portland Timbers
+Sep 03 Los Angeles Galaxy 2-1 Columbus Crew
+Sep 07 Montreal Impact 1-4 Orlando City
+Sep 07 Real Salt Lake 3-3 Los Angeles Galaxy
+Sep 09 Sporting Kansas City 3-3 Houston Dynamo
+Sep 10 Columbus Crew 1-3 Vancouver Whitecaps
+Sep 10 Philadelphia Union 1-1 Montreal Impact
+Sep 10 New England Revolution 3-1 New York City
+Sep 10 Chicago Fire 1-2 Toronto FC
+Sep 10 FC Dallas 0-1 Colorado Rapids
+Sep 10 San Jose Earthquakes 1-1 Seattle Sounders
+Sep 10 Portland Timbers 1-0 Real Salt Lake
+Sep 11 New York Red Bulls 2-2 DC United
+Sep 11 Los Angeles Galaxy 4-2 Orlando City
+Sep 16 Chicago Fire 2-2 DC United
+Sep 17 Seattle Sounders 1-0 Vancouver Whitecaps
+Sep 17 Portland Timbers 2-1 Philadelphia Union
+Sep 17 New York City 2-2 FC Dallas
+Sep 17 Orlando City 1-4 Columbus Crew
+Sep 17 Montreal Impact 1-3 New England Revolution
+Sep 17 Colorado Rapids 0-0 San Jose Earthquakes
+Sep 17 Real Salt Lake 0-1 Houston Dynamo
+Sep 18 Sporting Kansas City 2-2 Los Angeles Galaxy
+Sep 18 Toronto FC 3-3 New York Red Bulls
+Sep 23 New York City 4-1 Chicago Fire
+Sep 24 Toronto FC 1-1 Philadelphia Union
+Sep 24 Vancouver Whitecaps 3-3 Colorado Rapids
+Sep 24 New York Red Bulls 1-0 Montreal Impact
+Sep 24 DC United 4-1 Orlando City
+Sep 24 Houston Dynamo 3-1 Portland Timbers
+Sep 24 Real Salt Lake 0-0 FC Dallas
+Sep 24 San Jose Earthquakes 1-2 Sporting Kansas City
+Sep 25 Los Angeles Galaxy 2-4 Seattle Sounders
+Sep 25 Columbus Crew 2-0 New England Revolution
+Sep 28 Toronto FC 0-0 Orlando City
+Sep 28 Montreal Impact 3-1 San Jose Earthquakes
+Sep 28 DC United 3-0 Columbus Crew
+Sep 28 Seattle Sounders 1-0 Chicago Fire
+Sep 30 Houston Dynamo 0-2 New York City
+Oct 01 New York Red Bulls 3-2 Philadelphia Union
+Oct 01 Toronto FC 1-2 DC United
+Oct 01 New England Revolution 3-1 Sporting Kansas City
+Oct 01 Columbus Crew 3-0 Chicago Fire
+Oct 01 FC Dallas 1-0 Los Angeles Galaxy
+Oct 01 Colorado Rapids 1-0 Portland Timbers
+Oct 01 San Jose Earthquakes 2-1 Real Salt Lake
+Oct 02 Orlando City 0-1 Montreal Impact
+Oct 02 Vancouver Whitecaps 1-2 Seattle Sounders
+Oct 08 Houston Dynamo 2-3 Colorado Rapids
+Oct 12 Seattle Sounders 0-0 Houston Dynamo
+Oct 13 Chicago Fire 2-2 Columbus Crew
+Oct 13 Colorado Rapids 2-1 San Jose Earthquakes
+Oct 16 Philadelphia Union 0-2 Orlando City
+Oct 16 New York Red Bulls 3-2 Columbus Crew
+Oct 16 Montreal Impact 2-2 Toronto FC
+Oct 16 DC United 3-1 New York City
+Oct 16 Chicago Fire 2-1 New England Revolution
+Oct 16 San Jose Earthquakes 0-0 Vancouver Whitecaps
+Oct 16 Real Salt Lake 0-0 Sporting Kansas City
+Oct 16 Portland Timbers 1-0 Colorado Rapids
+Oct 16 Houston Dynamo 0-1 Los Angeles Galaxy
+Oct 16 FC Dallas 2-1 Seattle Sounders
+Oct 23 Vancouver Whitecaps 4-1 Portland Timbers
+Oct 23 Toronto FC 3-2 Chicago Fire
+Oct 23 Sporting Kansas City 2-0 San Jose Earthquakes
+Oct 23 Seattle Sounders 2-1 Real Salt Lake
+Oct 23 Philadelphia Union 0-2 New York Red Bulls
+Oct 23 Orlando City 4-2 DC United
+Oct 23 New York City 4-1 Columbus Crew
+Oct 23 New England Revolution 3-0 Montreal Impact
+Oct 23 Los Angeles Galaxy 0-0 FC Dallas
+Oct 23 Colorado Rapids 1-1 Houston Dynamo
