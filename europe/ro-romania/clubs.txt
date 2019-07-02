@@ -1,0 +1,22 @@
+####################################
+# Romania (ROU), ro
+
+Key,                Name,                   Code
+dinamobu,           Dinamo București,       FCD
+rapidbu,            Rapid București,        RBU
+steaua,             Steaua București,       SBU
+cfrcluj,            CFR Cluj,               CFR
+ucluj,              U Cluj,                 UCJ
+astra,              Astra Giurgiu,          AFC
+ceahlau,            Ceahlaul Piatra Neamt,  FCC
+chiajna,            Concordia Chiajna,      CCH
+iasi,               CSMS Iasi,              CSI
+fcbrasov,           FC Brasov,              FCB
+severin,            FC Severin,             FCS
+vaslui,             FC Vaslui,              FCV
+gazmetanmedias,     Gaz Metan Medias,       GMM
+gloriabistrita,     Gloria Bistrita,        GBS
+otelul,             Otelul Galati,          OTG
+pandurii,           Pandurii Tg Jiu,        PTJ
+petrolul,           Petrolul Ploiesti,      PPL
+viitorulconstanta,  Viitorul Constanta,     VCT
