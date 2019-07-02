@@ -17,17 +17,19 @@ for the United States n Canada.
 
 Example:
 
-~~~
-galaxy, Los Angeles Galaxy|LA Galaxy, LA, city:losangeles, us
-seattle, Seattle Sounders|Seattle Sounders FC, SEA, city:seattle, us
-houston, Houston Dynamo|H. Dynamo, HOU, city:houston, us
-saltlake, Real Salt Lake, RSL, city:saltlakecity, us
-~~~
+```
+Key,      Name,                Code
+galaxy,   Los Angeles Galaxy,  LA
+seattle,  Seattle Sounders,    SEA
+houston,  Houston Dynamo,      HOU
+saltlake, Real Salt Lake,      RSL
+...
+```
 
 or
 
-~~~
-Matchday 1
+```
+Week 1
 
 [Sat Mar 8]
 Seattle Sounders FC    1-0   Sporting Kansas City
@@ -40,7 +42,7 @@ Houston Dynamo         4-0   New England Revolution
 Portland Timbers       1-1   Philadelphia Union
 Los Angeles Galaxy     0-1   Real Salt Lake City
 CD Chivas USA          3-2   Chicago Fire
-~~~
+```
 
 
 ## Build Your Own `soccer.db` Copy
@@ -52,29 +54,29 @@ Prerequisites:
 
 * [world.db](https://github.com/openmundi/world.db.git)
 
-~~~
+```
 git clone https://github.com/openmundi/world.db.git
-~~~
+```
 
 * [sportdb](https://github.com/sportdb/sport.db.ruby)
 
-~~~
+```
 gem install sportdb
-~~~
+```
 
 Example:
 
 To create a database from scratch, use the following command, substituting the appropriate paths to major-league-soccer and world.db as necessary.
 
-~~~
+```
 sportdb -n mls.db setup --include major-league-soccer --worldinclude world.db
-~~~
+```
 
 Once you have an initialized database, you can load data on top of it as follows.
 
-~~~
+```
 sportdb -n mls.db load major-league-soccer/2014/mls
-~~~
+```
 
 See the sportdb help and git page for more information.
 

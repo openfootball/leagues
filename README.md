@@ -15,23 +15,6 @@ Free open public domain football dataset include:
 - Major League Soccer (MLS) / United States n Canada
 
 
-Example:
-
-```
-Matchday 1
-
-[Sat Mar 8]
-Seattle Sounders FC    1-0   Sporting Kansas City
-
-[Sun Mar 9]
-D.C. United            0-3   Columbus Crew
-Vancouver Whitecaps    4-1   New York Red Bulls
-FC Dallas              3-2   Montreal Impact
-Houston Dynamo         4-0   New England Revolution
-Portland Timbers       1-1   Philadelphia Union
-Los Angeles Galaxy     0-1   Real Salt Lake City
-CD Chivas USA          3-2   Chicago Fire
-```
 
 
 ## License

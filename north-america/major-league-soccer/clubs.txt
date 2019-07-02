@@ -1,5 +1,5 @@
 #####################################
-# Major League Soccer  (MLS)
+# Major League Soccer (MLS)
 
 # Note: use three/two letter codes from mlssoccer.com
 
