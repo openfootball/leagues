@@ -1,0 +1,24 @@
+
+= International =
+
+copa.l  Copa Libertadores
+         | COPA L
+copa.s  Copa Sudamericana
+         | COPA S
+
+
+
+= Brazil (br) =
+1        Brasileiro Série A
+           | BRA 1 | Brasilien Brasilero Serie A
+2        Brasileiro Série B
+           | BRA 2 | Brasilien Brasilero Serie B
+
+
+= Paraguay (py) =
+1     Primera Division
+        | PAR 1 | Paraguay Primera Division
+
+= Peru (pe) =
+1      Primera Division
+         | PER 1 | Peru Primera Division

@@ -1,0 +1,6 @@
+
+= Israel (il) =
+1    Winner League
+      | ISR 1 |  Israel Winner League
+2    National League
+      | ISR 2 |  Israel National League
