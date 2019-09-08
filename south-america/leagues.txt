@@ -1,3 +1,0 @@
-co, Primera A,          co
-uy, Primera División,   uy
-ve, Primera División,   ve
