@@ -3,3 +3,8 @@
 
 asia.cl  AFC Champions League     # afc = asian football confederation ?
           | AFC CL
+
+= Japan (jp) =
+
+cup      J. League Cup
+          | JPN LC | Japan Nabisco Cup
