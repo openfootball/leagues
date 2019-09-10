@@ -30,6 +30,8 @@ el      UEFA Europa League
          | RL SBG
 3.t     Regionalliga Tirol
          | RL TIR
+3.v     Eliteliga Vorarlberg
+         | RL VBG   
 
 
 = England (eng) =    ## add incl. Wales   as country2 or something - why? why not?
@@ -42,9 +44,12 @@ el      UEFA Europa League
 4       English League Two
 5       English National League
 
-cup      EFL Cup
-          | League Cup | Football League Cup
-          | ENG LC | England Liga Cup
+cup         EFL Cup
+             | League Cup | Football League Cup
+             | ENG LC | England Liga Cup
+cup.trophy  EFL Trophy
+             | ENG LTR | England Football League Trophy
+
 
 = Scotland (sco) =
 1       Scottish Premiership
