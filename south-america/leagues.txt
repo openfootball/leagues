@@ -14,6 +14,9 @@ copa.s  Copa Sudamericana
 2        Brasileiro Série B
            | BRA 2 | Brasilien Brasilero Serie B
 
+cup      Copa do Brasil
+           | BRA CUP | Brasilien Cup | Brazil Cup
+
 
 = Paraguay (py) =
 1     Primera Division
@@ -22,3 +25,6 @@ copa.s  Copa Sudamericana
 = Peru (pe) =
 1      Primera Division
          | PER 1 | Peru Primera Division
+
+cup.bic  Copa Bicentenario 2019
+           | CP BIC | Peru Copa Bicentenario
