@@ -28,3 +28,13 @@ cup      Copa do Brasil
 
 cup.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
+
+= Colombia (co) =
+1   Primera A  
+     | Categoría Primera A
+
+= Uruguay (uy) =
+1   Primera División
+
+= Venezuela (ve) =
+1   Primera División
