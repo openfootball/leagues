@@ -31,7 +31,7 @@ el      UEFA Europa League
 3.t     Regionalliga Tirol
          | RL TIR
 3.v     Eliteliga Vorarlberg
-         | RL VBG   
+         | RL VBG
 
 
 = England (eng) =    ## add incl. Wales   as country2 or something - why? why not?
@@ -105,10 +105,18 @@ cup     Landspokalturneringen
 2       1. Division
           | NOR 2 |  Norwegen Adeccoligaen
 
+= Netherlands (nl) =
+1       Eredivisie
+          | Dutch First Division
+          | Niederlande Eredivisie
+
 
 = Belgium (be) =
 1      Pro League
-          | BEL 1 | Belgien Pro League
+          | BEL 1
+          | Belgian First League
+          | Belgien Pro League | Belgien Eerste Klasse
+
 
 = Portugal (pt) =
 1       Primeira Liga
