@@ -35,22 +35,22 @@ or
 ```
 = Germany • Deutschland (de) =
 1       Bundesliga
-         | GER BL | Deutschland Bundesliga
+         | GER 1 | GER BL | Deutschland Bundesliga
 2       2. Bundesliga
-         | GER 2  | Deutschland 2. Bundesliga
+         | GER 2 | Deutschland 2. Bundesliga
 3       3. Liga
-         | GER 3  | Deutschland 3. Liga
+         | GER 3 | Deutschland 3. Liga
 
 = England (eng) =
 1       English Premier League
-          | ENG PL | England Premier League | Premier League
+          | ENG 1 | ENG PL | England Premier League | Premier League
 2       English Championship
-          | ENG CS | England Championship | Championship
+          | ENG 2 | ENG CS | England Championship | Championship
 3       English League One
-          | ENG 1  | England League One | League One
+          | ENG 3 | England League One | League One
 4       English League Two
 5       English National League
-
+           
 ...
 ```
 
