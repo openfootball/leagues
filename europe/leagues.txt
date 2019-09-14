@@ -26,6 +26,7 @@ el      UEFA Europa League
 2       2. Liga
          | AUT 2 | Österreich Zweite Liga
 
+
 3.o     Regionalliga Ost
          | AUT RLO | Österreich Regionalliga Ost
 3.m     Regionalliga Mitte
@@ -44,30 +45,34 @@ el      UEFA Europa League
         | Schweiz Super League
 2      Challenge League
 
-
-
+cup    Schweizer Cup
+        | SUI P
 
 
 = England (eng) =    ## add incl. Wales   as country2 or something - why? why not?
 1       English Premier League
-          | ENG PL | England Premier League | Premier League
+          | ENG PL | ENG 1 | England Premier League | Premier League
 2       English Championship
-          | ENG CS | England Championship | Championship
+          | ENG CS | ENG 2 | England Championship | Championship
 3       English League One
-          | ENG 1  | England League One | League One      ## note: uses "generic" ENG 1  - might get confused with Premier League
+          | ENG 3  | England League One | League One
 4       English League Two
 5       English National League
 
 cup         EFL Cup
              | League Cup | Football League Cup
-             | ENG LC | England Liga Cup
+             | ENG LC | ENG L
+             | England Liga Cup
 cup.trophy  EFL Trophy
-             | ENG LTR | England Football League Trophy
+             | Football League Trophy | England Football League Trophy
+             | ENG LTR | ENG T
 
 
 = Scotland (sco) =
 1       Scottish Premiership
+         | SCO 1
 2       Scottish Championship
+         | SCO 2
 3       Scottish League One
 4       Scottish League Two
 
@@ -96,7 +101,7 @@ cup.trophy  EFL Trophy
 = Spain • España (es) =
 1        Primera División
           | ESP 1
-          | Spanish Liga
+          | Spanish Liga | La Liga
           | Spanien Primera Division
 2        Segunda División
           | ESP 2 | Spanien Segunda Division
@@ -164,12 +169,14 @@ cup      Coupe de la Ligue    ## French League Cup
 2        1. Division
           | DEN 2 | Dänemark 1. Division
 cup     Landspokalturneringen
-          | DEN CUP | Dänemark Landspokalturneringen
+          | DEN CUP | DEN P
+          | Dänemark Landspokalturneringen
+          | DBU Pokalen
 
 = Norway (no) =
 1       Tippeligaen
           | NOR 1
-          | Norwegian Premier Division A
+          | Norwegian Premier Division A | Eliteserien
           | Norwegen Tippeligaen
 2       1. Division
           | NOR 2 |  Norwegen Adeccoligaen
@@ -188,7 +195,7 @@ cup     Cup
 1      Veikkausliiga
         | FIN 1 |  Finnland Veikkausliiga
 2      Ykkonen
-        | FIN 2 | Finnland Ykkonen
+        | FIN 2 | Ykkönen | Finnland Ykkonen
 3      Kakkonen
         | FIN 3 | Finnland Kakkonen
 
@@ -197,7 +204,10 @@ cup     Cup
 = Netherlands (nl) =
 1       Eredivisie
           | Dutch First Division
+          | NED 1
           | Niederlande Eredivisie
+2       Eerste Divisie
+          | NED 2
 
 = Belgium (be) =
 1      Pro League
@@ -220,9 +230,12 @@ cup     Cup
 
 = Hungary (hu) =
 1     Hungarian First League
+       | HUN 1 | NB I
 
 = Czech Republic (cz) =
 1     Czech First League
+       | CZE1 | 1. Liga
+
 
 = Slovakia (sk) =
 1     Slovak First League
@@ -232,6 +245,7 @@ cup     Cup
 
 = Slovenia (si) =
 1     Slovene First League
+       | SLO 1 | Prva Liga
 
 = Croatia • Hrvatska (hr) =
 1      1. HNL
