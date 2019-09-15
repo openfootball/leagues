@@ -94,7 +94,12 @@ cup.trophy  EFL Trophy
 
 = Iceland (is) =
 1      Urvalsdeild
-        | ISL 1 | Island Urvalsdeild
+        | ISL 1 
+        | Island Urvalsdeild
+        | Icelandic Premier League
+
+= Faroe Islands (fo) =
+1      Faroese Premier Division
 
 
 
@@ -112,6 +117,9 @@ cup.trophy  EFL Trophy
           | Portuguese First Division
           | Portugal Primeira Liga
 
+= Gibraltar (gi) =
+1     Gibraltarian Premier League A
+     
 = Andorra (ad) =
 1     Andorran Premier Division
 
@@ -193,7 +201,9 @@ cup     Cup
 
 = Finland (fi) =
 1      Veikkausliiga
-        | FIN 1 |  Finnland Veikkausliiga
+        | FIN 1 
+        | Finnland Veikkausliiga
+        | Finnish First Division
 2      Ykkonen
         | FIN 2 | Ykkönen | Finnland Ykkonen
 3      Kakkonen
@@ -302,8 +312,10 @@ cup     Cup
 1      Lithuanian First Division
 
 = Estonia (ee) =
-1      Meistriliiga
-         | EST 1 | Estland Meistriliiga
+1      Meistriliiga 
+         | EST 1 
+         | Estonian First League A
+         | Estland Meistriliiga
 
 
 
@@ -330,12 +342,9 @@ cup  Russian Cup
 = Azerbaijan (az) =
 1     Azerbaijani Premier League A
 
-
-
-
-
-
-
+= Georgia (ge) =
+1     Georgian Premier League A
+ 
 
 
 
