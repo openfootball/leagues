@@ -8,3 +8,7 @@ asia.cl  AFC Champions League     # afc = asian football confederation ?
 
 cup      J. League Cup
           | JPN LC | Japan Nabisco Cup
+
+= Kazakhstan (kz) =
+
+1        Kazakh Premier League A
