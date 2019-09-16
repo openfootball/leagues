@@ -78,6 +78,7 @@ cup.trophy  EFL Trophy
 
 = Wales (wal) =
 1        Welsh Premier League
+          | WAL 1 | Wales Premier League
 
 = Northern Ireland (nir) =
 1     Premiership
@@ -94,7 +95,7 @@ cup.trophy  EFL Trophy
 
 = Iceland (is) =
 1      Urvalsdeild
-        | ISL 1 
+        | ISL 1
         | Island Urvalsdeild
         | Icelandic Premier League
 
@@ -119,7 +120,7 @@ cup.trophy  EFL Trophy
 
 = Gibraltar (gi) =
 1     Gibraltarian Premier League A
-     
+
 = Andorra (ad) =
 1     Andorran Premier Division
 
@@ -201,7 +202,7 @@ cup     Cup
 
 = Finland (fi) =
 1      Veikkausliiga
-        | FIN 1 
+        | FIN 1
         | Finnland Veikkausliiga
         | Finnish First Division
 2      Ykkonen
@@ -256,6 +257,8 @@ cup     Cup
 = Slovenia (si) =
 1     Slovene First League
        | SLO 1 | Prva Liga
+cup   Slowenien Cup
+       | SLO CUP
 
 = Croatia • Hrvatska (hr) =
 1      1. HNL
@@ -312,8 +315,8 @@ cup     Cup
 1      Lithuanian First Division
 
 = Estonia (ee) =
-1      Meistriliiga 
-         | EST 1 
+1      Meistriliiga
+         | EST 1
          | Estonian First League A
          | Estland Meistriliiga
 
@@ -344,7 +347,7 @@ cup  Russian Cup
 
 = Georgia (ge) =
 1     Georgian Premier League A
- 
+
 
 
 
