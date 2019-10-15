@@ -6,8 +6,13 @@ asia.cl  AFC Champions League     # afc = asian football confederation ?
 
 = Japan (jp) =
 
-cup      J. League Cup
-          | JPN LC | Japan Nabisco Cup
+cup      J. League Cup                    # note: league cup (incl. all teams from J. League and 0-2 teams from J2 League)
+          | JPN LC | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
+
+cup.fa   Emperor's Cup                    # note: national cup
+          | JPN CUP | Japan Emperor Cup 
+          | Japan FA Cup 
+
 
 = Kazakhstan (kz) =
 
