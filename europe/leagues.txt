@@ -154,8 +154,11 @@ cup      Coupe de la Ligue    ## French League Cup
           | Italien Serie A
 2       Serie B
           | ITA B | Italien Serie B
+3.a     Serie C (North & Central West)   # Group A
+          | ITA C1A | Italien Lega Pro Prima Divisione Girone A
 3.b     Serie C (North & Central East)   # Group B
           | ITA C1B | Italien Lega Pro Prima Divisione Girone B
+
 
 = San Marino (sm) =
 1     San Marinese Championship
