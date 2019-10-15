@@ -32,12 +32,16 @@ cup.bic  Copa Bicentenario 2019
 = Colombia (co) =
 1   Primera A
      | Categoría Primera A
+     | COL 1  | Kolumbien Primera Liga [de]
 
 cup  Copa Colombia
       | COL P
 
 = Uruguay (uy) =
 1   Primera División
+      | URU 1 | Uruguay Primera Division
+
+
 
 = Venezuela (ve) =
 1   Primera División
