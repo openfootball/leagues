@@ -4,5 +4,9 @@
       | ISR 1
       |  Israeli Premier League
       |  Israel Winner League
+      
 2    National League
       | ISR 2 |  Israel National League
+
+cup  League Cup National
+      | ISR LCN | Israel League Cup National 
