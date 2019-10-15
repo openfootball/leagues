@@ -19,11 +19,11 @@ el      UEFA Europa League
          | GER 3  | Deutschland 3. Liga
 
 = Austria (at) =
-1       Bundesliga
+1       Bundesliga                    # Each year (July→December/February→May)
          | AUT BL
          | Austrian Bundesliga
          | Österreich Bundesliga
-2       2. Liga
+2       2. Liga                       # Each year (July→May)
          | AUT 2 | Österreich Zweite Liga
 
 
@@ -37,6 +37,10 @@ el      UEFA Europa League
          | RL TIR
 3.v     Eliteliga Vorarlberg
          | RL VBG
+
+cup     ÖFB Cup
+         | Österreich ÖFB Cup
+         | AUT CUP | Austrian Cup
 
 = Switzerland • Confoederatio Helvetica (ch) =
 1      Super League
@@ -70,7 +74,8 @@ cup.trophy  EFL Trophy
 
 = Scotland (sco) =
 1       Scottish Premiership
-         | SCO 1
+         | SCO 1 | SCO PS
+         | Schottland Premiership [de]
 2       Scottish Championship
          | SCO 2
 3       Scottish League One
@@ -118,6 +123,11 @@ cup.trophy  EFL Trophy
           | Portuguese First Division
           | Portugal Primeira Liga
 
+cup      Taça da Liga                   # note: League Cup (and NOT National Cup)
+          | POR LC  
+          | Portugal Carlsberg Cup [de]   ## $$$ Carlsberg is sponsor
+
+
 = Gibraltar (gi) =
 1     Gibraltarian Premier League A
 
@@ -161,9 +171,15 @@ cup      Coupe de la Ligue    ## French League Cup
 
 = Greece (gr) =
 1     Greek Super League
+       | GRE 1  
+       | Griechenland Super League [de]
+
 
 = Cyprus (cy) =
 1     Cypriot First Division
+       | CYP 1
+       | Zypern 1. Division [de]
+
 
 = Malta (mt) =
 1     Maltese Premier League
@@ -190,6 +206,11 @@ cup     Landspokalturneringen
 2       1. Division
           | NOR 2 |  Norwegen Adeccoligaen
 
+cup      Norwegian Football Cup
+          | NOR CUP 
+          | Norwegen Cup [de]
+
+
 = Sweden (se) =
 1       Allsvenskan
          | SWE 1
@@ -215,7 +236,7 @@ cup     Cup
 = Netherlands (nl) =
 1       Eredivisie
           | Dutch First Division
-          | NED 1
+          | NL 1  | NED 1
           | Niederlande Eredivisie
 2       Eerste Divisie
           | NED 2
@@ -250,7 +271,8 @@ cup     Cup
 
 = Slovakia (sk) =
 1     Slovak First League
-
+        | SVK 1 
+        | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
 
 
 
@@ -272,8 +294,15 @@ cup   Slowenien Cup
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
 
+cup   Bosnia and Herzegovina Football Cup
+       | BOS CUP  
+       | Bosnien Cup [de]
+
 = Serbia (rs) =
 1     Serbian Super League
+        | SERB 1   
+        | Serbien Meridijan Superliga        ## check - Meridijan is sponsor?
+
 
 = Kosovo (xk) =
 1     Kosovan Superliga A
