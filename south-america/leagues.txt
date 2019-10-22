@@ -8,7 +8,7 @@ copa.s  Copa Sudamericana
 
 
 
-= Brazil (br) =
+= Brazil =
 1        Brasileiro Série A
            | BRA 1 | Brasilien Brasilero Serie A
 2        Brasileiro Série B
@@ -18,18 +18,18 @@ cup      Copa do Brasil
            | BRA CUP | Brasilien Cup | Brazil Cup
 
 
-= Paraguay (py) =
+= Paraguay =
 1     Primera Division
         | PAR 1 | Paraguay Primera Division
 
-= Peru (pe) =
+= Peru =
 1      Primera Division
          | PER 1 | Peru Primera Division
 
 cup.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
 
-= Colombia (co) =
+= Colombia =
 1   Primera A
      | Categoría Primera A
      | COL 1  | Kolumbien Primera Liga [de]
@@ -37,12 +37,12 @@ cup.bic  Copa Bicentenario 2019
 cup  Copa Colombia
       | COL P
 
-= Uruguay (uy) =
+= Uruguay =
 1   Primera División
       | URU 1 | Uruguay Primera Division
 
 
 
-= Venezuela (ve) =
+= Venezuela =
 1   Primera División
       | VEN 1 | Venezuela Primera Divison
