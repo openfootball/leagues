@@ -1,12 +1,12 @@
 
-= Israel (il) =
+= Israel =
 1    Winner League
       | ISR 1
-      |  Israeli Premier League
-      |  Israel Winner League
+      | Israeli Premier League
+      | Israel Winner League
       
 2    National League
-      | ISR 2 |  Israel National League
+      | ISR 2 | Israel National League
 
 cup  League Cup National
       | ISR LCN | Israel League Cup National 
