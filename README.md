@@ -33,7 +33,7 @@ copa.s  Copa Sudamericana
 or
 
 ```
-= Germany • Deutschland (de) =
+= Germany =
 1       Bundesliga
          | GER 1 | GER BL | Deutschland Bundesliga
 2       2. Bundesliga
@@ -41,7 +41,7 @@ or
 3       3. Liga
          | GER 3 | Deutschland 3. Liga
 
-= England (eng) =
+= England =
 1       English Premier League
           | ENG 1 | ENG PL | England Premier League | Premier League
 2       English Championship
