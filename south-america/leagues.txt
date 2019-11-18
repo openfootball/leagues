@@ -2,29 +2,27 @@
 = International =
 
 copa.l  Copa Libertadores
-         | COPA L
 copa.s  Copa Sudamericana
-         | COPA S
 
 
 
 = Brazil =
 1        Brasileiro Série A
-           | BRA 1 | Brasilien Brasilero Serie A
+           | Brasilien Brasilero Serie A
 2        Brasileiro Série B
-           | BRA 2 | Brasilien Brasilero Serie B
+           | Brasilien Brasilero Serie B
 
 cup      Copa do Brasil
-           | BRA CUP | Brasilien Cup | Brazil Cup
+           | Brasilien Cup | Brazil Cup
 
 
 = Paraguay =
 1     Primera Division
-        | PAR 1 | Paraguay Primera Division
+        | Paraguay Primera Division
 
 = Peru =
 1      Primera Division
-         | PER 1 | Peru Primera Division
+        | Peru Primera Division
 
 cup.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
@@ -32,17 +30,17 @@ cup.bic  Copa Bicentenario 2019
 = Colombia =
 1   Primera A
      | Categoría Primera A
-     | COL 1  | Kolumbien Primera Liga [de]
+     | Kolumbien Primera Liga [de]
 
 cup  Copa Colombia
       | COL P
 
 = Uruguay =
 1   Primera División
-      | URU 1 | Uruguay Primera Division
+     | Uruguay Primera Division
 
 
 
 = Venezuela =
 1   Primera División
-      | VEN 1 | Venezuela Primera Divison
+     | Venezuela Primera Divison
