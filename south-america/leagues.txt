@@ -16,6 +16,10 @@ cup      Copa do Brasil
            | Brasilien Cup | Brazil Cup
 
 
+= Argentina =
+1       Primera Division
+          | Argentinien Primera Division
+
 = Paraguay =
 1     Primera Division
         | Paraguay Primera Division
