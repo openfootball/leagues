@@ -1,4 +1,3 @@
 = Costa Rica =
 
 1  Costa Rica Primera División
-     | CRC 1
