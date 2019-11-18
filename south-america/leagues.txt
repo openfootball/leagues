@@ -19,6 +19,9 @@ cup      Copa do Brasil
 = Argentina =
 1       Primera Division
           | Argentinien Primera Division
+cup     Cup
+          | Argentinien Cup
+
 
 = Paraguay =
 1     Primera Division
@@ -37,7 +40,8 @@ cup.bic  Copa Bicentenario 2019
      | Kolumbien Primera Liga [de]
 
 cup  Copa Colombia
-      | COL P
+      | COL P | COL COP
+
 
 = Uruguay =
 1   Primera División
