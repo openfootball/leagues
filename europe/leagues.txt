@@ -2,10 +2,7 @@
 = International =
 
 cl      UEFA Champions League
-         | CL
 el      UEFA Europa League
-         | EL
-
 
 
 = Germany =
@@ -66,6 +63,9 @@ cup    Schweizer Cup
 4       English League Two
 5       English National League
 
+cup         FA Cup                  ## use cup.fa as key - why? why not?
+             | ENG FA 
+             | England FA Cup
 cup.l       EFL Cup
              | League Cup | Football League Cup
              | ENG LC | ENG L
@@ -176,11 +176,15 @@ cup.l    Coupe de la Ligue    ## French League Cup
            | Türkei Süper Lig
 
 2       1. Lig 
-           | Türkei TFF 1. Lig
+           | Türkei TFF 1. Lig      ## todo/check - is TFF the sponsor?
+
 
 = Greece =
 1     Greek Super League
        | Griechenland Super League [de]
+
+2     Greek Super League 2
+       | Griechenland Super League 2 [de]
 
 
 = Cyprus =
@@ -276,6 +280,9 @@ cup     Cup
 1     Czech First League
        | 1. Liga
 
+cup   Cup
+       | Tschechien Cup
+
 
 = Slovakia =
 1     Slovak First League
@@ -334,6 +341,10 @@ cup   Bosnia and Herzegovina Football Cup
 2    Liga 2
       | Rumänien Liga 2
 
+cup  Cup
+      | Rumänien Cup
+
+
 = Bulgaria =
 1     Premier League
        | Bulgarian A League
@@ -370,6 +381,9 @@ cup  Russian Cup
 1     Premier League
        | Ukrainian Premier League
        | Ukraine Premier League
+cup   Cup
+       | Ukraine Cup
+
 
 = Belarus =
 1     Belarusian Premier League
