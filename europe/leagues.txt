@@ -83,6 +83,10 @@ cup.t       EFL Trophy
 3       Scottish League One
 4       Scottish League Two
 
+cup.l  League Cup 
+         | SCO LC | Schottland League Cup
+
+
 = Wales =
 1        Welsh Premier League
           | Wales Premier League
@@ -171,6 +175,9 @@ cup.l    Coupe de la Ligue    ## French League Cup
            | Turkish Super League
            | Türkei Süper Lig
 
+2       1. Lig 
+           | Türkei TFF 1. Lig
+
 = Greece =
 1     Greek Super League
        | Griechenland Super League [de]
@@ -235,10 +242,19 @@ cup     Cup
           | Niederlande Eredivisie
 2       Eerste Divisie
 
+cup     Cup
+          | NL CUP | Niederlande KNVB Cup
+
+
 = Belgium =
 1      Pro League
+          | Belgian First Division A
           | Belgian First League
-          | Belgien Pro League | Belgien Eerste Klasse
+          | Belgien Pro League 
+          | Belgien Eerste Klasse
+
+2      Belgian First Division B
+          | Belgium Tweede Klasse
 
 = Luxembourg =
 1      Luxembourger First Division
