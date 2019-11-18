@@ -7,7 +7,7 @@ usmx.cup   US & Mexican Leagues Cup    ## check if clubs include country code?
 
 = United States =        ## add incl. Canada - why? why not?
 1       Major League Soccer                   ### todo: use mls (and not us.1) as "primary" key - why? why not?
-         | USA 1 | USA MLS | USA Major League Soccer
+         | USA MLS | USA Major League Soccer
 
 cup     US Open Cup
-         | USA CUP | USA US Open Cup
+         | USA US Open Cup
