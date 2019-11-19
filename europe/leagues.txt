@@ -125,6 +125,9 @@ cup.l  League Cup
           | Portuguese First Division
           | Portugal Primeira Liga
 
+cup     Taça de Portugal  
+          | Portugal Taça de Portugal
+
 cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup)
           | POR LC  
           | Portugal Carlsberg Cup [de]   ## $$$ Carlsberg is sponsor
