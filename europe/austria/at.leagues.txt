@@ -66,8 +66,8 @@ cup     ÖFB Cup
 ## niederösterreich 
 
 ############## -- 2. Landesliga (2 Staffeln)
-5.n.ost     2. Landesliga Ost (NÖ)
-5.n.west    2. Landesliga West (NÖ)
+5.n.ost     2. Landesliga Ost (NÖ)        ## todo/check: use – (geviertstrich) to avoid () e.g. 2. Landesliga Ost – NÖ
+5.n.west    2. Landesliga West (NÖ)       ## todo/check: use – (geviertstrich) to avoid () e.g. 2. Landesliga West – NÖ
 
 ############## -- Gebietsliga (4 Staffeln)
 #####  2. Landesliga Ost (NÖ)
