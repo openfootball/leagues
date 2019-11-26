@@ -60,20 +60,60 @@ cup     DFB Pokal
          | Österreich Zweite Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
 
+# todo/check: use groups for West/Mitte/Ost??
+#  and just use at.3, Österr. Regionalliga
+#  use 3.ost / 3.mitte / 3.west ? 
+
+
 3.o     Regionalliga Ost
-         | AUT RLO | Österreich Regionalliga Ost
+         | AUT RLO 
+         | Österr. Regionalliga Ost | Österreich Regionalliga Ost
 3.m     Regionalliga Mitte
-         | AUT RLM | Österreich Regionalliga Mitte
+         | AUT RLM 
+         | Österr. Regionalliga Mitte | Österreich Regionalliga Mitte
 3.sbg   Regionalliga Salzburg
          | RL SBG
 3.t     Regionalliga Tirol
          | RL TIR
 3.v     Eliteliga Vorarlberg
          | RL VBG
+       
+3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20   
+         | Österr. Regionalliga West
 
 cup     ÖFB Cup
          | Österreich ÖFB Cup
          | Austrian Cup
+
+###
+# 9 leagues (one per bundesland/state)
+
+#
+# add .ost .mitte .west to key ?? why? why not??
+
+### Regionalliga Ost
+4.ost.w       Wiener Stadtliga
+4.ost.n       Landesliga Niederösterreich
+               | 1. Niederösterreichische Landesliga
+4.ost.b       Landesliga Burgenland
+               | Burgendland Liga | Burgenlandliga
+
+### Regionalliga Mitte
+4.mitte.st    Steirische Landesliga
+               | Landesliga Steiermark
+4.mitte.o     Landesliga Oberösterreich
+               | OÖ Liga | Oberösterreich Liga
+4.mitte.k     Kärtner Liga
+               | Landesliga Kärnten
+
+### Regionalliga West
+4.west.s      Salzburger Liga
+               | Landesliga Salzburg | 1. Salzburger Landesliga
+4.west.t      Tiroler Liga
+               | Tirol Liga
+4.west.v      Vorarlberg Liga
+               | Vorarlbergliga
+
 
 = Switzerland =
 1      Super League
