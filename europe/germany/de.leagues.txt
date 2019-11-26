@@ -1,0 +1,45 @@
+= Germany =
+
+1       Bundesliga
+         | GER BL
+         | German Bundesliga
+         | Deutschland Bundesliga | Deutsche Bundesliga
+2       2. Bundesliga
+         | Deutschland 2. Bundesliga | Deutsche 2. Bundesliga
+3       3. Liga
+         | Deutschland 3. Liga | Deutsche 3. Liga
+
+cup     DFB Pokal
+
+
+4.nord        Regionalliga Nord
+4.nordost     Regionalliga Nordost
+4.west        Regionalliga West
+4.suedwest    Regionalliga Südwest
+4.by          Regionalliga Bayern
+
+# add .nord .nordost .west, .suedwest, .by to key ?? why? why not??
+
+##  Regionalliga Nord
+5.nord.sh     Schleswig-Holstein-Liga
+5.nord.hh     Oberliga Hamburg
+5.nord.hb     Bremen-Liga
+5.nord.ni     Oberliga Niedersachsen
+
+## Regionalliga Nordost
+5.nordost.n   Oberliga Nordost (Nord)
+5.nordost.s   Oberliga Nordost (Süd)
+
+## Regionalliga West
+5.west.niederrhein   Oberliga Niederrhein
+5.west.mittelrhein   Mittelrheinliga
+5.west.westfalen     Oberliga Westfalen
+
+## Regionalliga Südwest
+5.suedwest.rp.sl   Oberliga Rheinland-Pfalz/Saar        ## change key rp.sl to rp_sl or rp+sl ??
+5.suedwest.he      Hessenliga
+5.suedwest.bw      Oberliga Baden-Württemberg
+
+## Regionalliga Bayern
+5.by.n    Bayernliga (Nord)
+5.by.s    Bayernliga (Süd)
