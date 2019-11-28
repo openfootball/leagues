@@ -70,7 +70,10 @@ cup.l  League Cup
           | Spanish Liga | La Liga
           | Spanien Primera Division
 2        Segunda División
-          | Spanien Segunda Division
+          | Spanien Segunda Division      # todo: add Liga Adelante ??
+
+cup      Copa del Rey
+
 
 = Portugal =
 1       Primeira Liga
