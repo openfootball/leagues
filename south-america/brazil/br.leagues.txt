@@ -1,9 +1,28 @@
 = Brazil =
 
-1        Brasileiro Série A
+1       Campeonato Brasileiro Série A  
+           | Brasileiro Série A
            | Brasilien Brasilero Serie A
-2        Brasileiro Série B
+           | BR A    ## br.a
+2       Campeonato Brasileiro Série B
+           | Brasileiro Série B
            | Brasilien Brasilero Serie B
+           | BR B    ## br.b
+3       Campeonato Brasileiro Série C
+           | BR C    ## br.c
+4       Campeonato Brasileiro Série D
+           | BR D    ## br.d 
 
 cup      Copa do Brasil
            | Brasilien Cup | Brazil Cup
+
+
+league     Primeira Liga
+
+rs         Gauchão - Campeonato Estadual Gaúcho
+rs.2       Divisão de Acesso Gaúcha - Divisão de acesso do Campeonato Estadual Gaúcho
+rs.3       Terceirona - Segunda divisão do Campeonato Estadual Gaúcho
+
+sp         Paulistão - Campeonato Estadual Paulista
+rj         Campeonato Estadual Carioca
+mg         Mineirão - Campeonato Estadual Mineiro
