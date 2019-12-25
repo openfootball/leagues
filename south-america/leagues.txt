@@ -6,16 +6,6 @@ copa.s  Copa Sudamericana
 
 
 
-= Brazil =
-1        Brasileiro Série A
-           | Brasilien Brasilero Serie A
-2        Brasileiro Série B
-           | Brasilien Brasilero Serie B
-
-cup      Copa do Brasil
-           | Brasilien Cup | Brazil Cup
-
-
 = Argentina =
 1       Primera Division
           | Argentinien Primera Division
