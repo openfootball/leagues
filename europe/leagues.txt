@@ -67,12 +67,12 @@ cup.l  League Cup
 
 = Spain =
 1        Primera División
-          | Primera División de España
+          | España Primera División | Primera División de España
           | Spanish Liga | La Liga
-          | Spanien Primera Division
-2        Segunda División
-          | Segunda División de España
-          | Spanien Segunda Division      # todo: add Liga Adelante ??
+          | Spanien Primera Division [de]
+2        Segunda División                 # todo: add Liga Adelante ??
+          | España Segunda División | Segunda División de España
+          | Spanien Segunda Division [de]      
 
 cup      Copa del Rey
 
