@@ -24,6 +24,13 @@ cup     Cup
 cup.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
 
+= Bolivia =
+1      Bolivian Primera División
+         | División Profesional
+         | Bolivien Liga Profesjonal [de]    ## match/keep j typo in from tipp3 - why? why not?
+
+
+
 = Colombia =
 1   Primera A
      | Categoría Primera A
@@ -37,8 +44,14 @@ cup  Copa Colombia
 1   Primera División
      | Uruguay Primera Division
 
+= Ecuador =
+1  Serie A 
+     | Ecuador Serie A
 
 
 = Venezuela =
 1   Primera División
      | Venezuela Primera Divison
+
+cup  Copa Venezuela
+     
