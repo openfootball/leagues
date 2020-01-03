@@ -282,11 +282,9 @@ cup    Schweizer Cup
 
 = Slovakia =
 1     Slovak First League
-        | SVK 1                 # todo: check if FIFA code match
         | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
 
 cup   Slovak Cup
-        | SVK CUP 
         | Slowakei Cup [de]
 
 
@@ -307,7 +305,7 @@ cup    Croatian Cup
 
 = Bosnia and Herzegovina =
 1     Premier Liga
-       | BOS 1
+       | BOS 1                   # note: FIFA code is BIH
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
 
