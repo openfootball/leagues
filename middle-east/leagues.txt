@@ -9,3 +9,12 @@
 
 cup  League Cup National
       | ISR LCN | Israel League Cup National 
+
+
+= Qatar =
+1   Qatar Stars League
+     | Katar Stars League [de]
+
+= Iran =
+1   Iran Pro League
+      | IRI 1    # note: FIFA code is IRN
