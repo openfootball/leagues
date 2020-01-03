@@ -34,6 +34,8 @@ cup.t       EFL Trophy
          | SCO PS
          | Schottland Premiership [de]
 2       Scottish Championship
+         | SCO CS   
+         | Schottland Championship [de]
 3       Scottish League One
 4       Scottish League Two
 
@@ -84,6 +86,9 @@ cup      Copa del Rey
           | Portuguese First Division
           | Portugal Primeira Liga
 
+2      Segunda Liga
+         | Portugal Segunda Liga 
+
 cup     Taça de Portugal  
           | Portugal Taça de Portugal
 
@@ -124,6 +129,13 @@ cup.l    Coupe de la Ligue    ## French League Cup
 3.c     Serie C (South)                  # Group C
           | ITA C1C | Italien Lega Pro Prima Divisione Girone C
 
+cup     Coppa Italia
+          | Italien Coppa Italia
+
+sc      Supercoppa Italiana
+          | ITA SC
+          | Italian Super Cup
+          | Italien Supercoppa [de]
 
 
 = San Marino =
@@ -140,6 +152,8 @@ cup.l    Coupe de la Ligue    ## French League Cup
 2       1. Lig 
            | Türkei TFF 1. Lig      ## todo/check - is TFF the sponsor?
 
+cup     Türkiye Kupasi
+           | Türkei Türkiye Kupasi
 
 = Greece =
 1     Greek Super League
@@ -222,6 +236,9 @@ cup     Cup
 2      Belgian First Division B
           | Belgium Tweede Klasse
 
+cup    Beker van Belgie
+          | Belgium Beker van Belgie
+
 = Luxembourg =
 1      Luxembourger First Division
 
@@ -230,9 +247,14 @@ cup     Cup
 = Poland =
 1      Ekstraklasa
         | Polish First Division
-        | Polen Ekstraklasa
+        | Polen Ekstraklasa [de]
 2      I Liga
-        | Polen I Liga
+        | Polen I Liga [de]
+
+cup    Polish Cup
+        | Puchar Polski
+        | Polen Cup [de]
+
 
 = Hungary =
 1     Hungarian First League
@@ -260,8 +282,12 @@ cup    Schweizer Cup
 
 = Slovakia =
 1     Slovak First League
+        | SVK 1                 # todo: check if FIFA code match
         | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
 
+cup   Slovak Cup
+        | SVK CUP 
+        | Slowakei Cup [de]
 
 
 = Slovenia =
@@ -274,6 +300,10 @@ cup   Slowenien Cup
 1      1. HNL
         | Croatian First League
         | Kroatien 1. HNL
+
+cup    Croatian Cup
+        | Kroatien Croatian Cup [de]
+
 
 = Bosnia and Herzegovina =
 1     Premier Liga
@@ -321,9 +351,11 @@ cup  Cup
 
 = Bulgaria =
 1     Premier League
-       | Bulgarian A League
-       | Bulgarien Premier League
+       | Bulgarian A League 
+       | Bulgarien Premier League [de]
 
+cup   Bulgarian Cup  
+       | Bulgarien Cup [de]
 
 
 = Latvia =
