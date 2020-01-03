@@ -1,4 +1,19 @@
+= International =
+
+caf.cl  CAF Champions League 
+         | CAF CL   
+
+
+= Egypt =
+
+1   Premier League
+       | EGY 1 
+       | Egyptian Premier League
+       | Ägypten Premier League [de]
+
+
 = South Africa =
 
 1    Premier League
-      | RSA PL | Südafrika Premier League
+      | RSA PL 
+      | Südafrika Premier League [de]
