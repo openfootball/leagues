@@ -2,7 +2,9 @@
 = International =
 
 cl      UEFA Champions League
+         | Champions League
 el      UEFA Europa League
+         | Europa League
 
 
 = England =       ## add incl. Wales   as country2 or something - why? why not?
