@@ -14,6 +14,10 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
           | JPN LC | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
 
 
+= China =
+
+1       Chinese Super League  
+         | China Chinese Super League
 
 = Kazakhstan =
 
