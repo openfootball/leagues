@@ -27,7 +27,8 @@
          | RL VBG
        
 3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20   
-         | Österr. Regionalliga West
+         | AUT RLW  
+         | Österr. Regionalliga West | Österreich Regionalliga West
 
 cup     ÖFB Cup
          | Österreich ÖFB Cup
