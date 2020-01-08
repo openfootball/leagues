@@ -11,6 +11,9 @@ cup     League Cup National
 cup.lp  League Cup Premier
          | ISR LCP | Israel League Cup Premier
 
+super   Supercup 
+         | ISR SC | Israel Supercup
+
 
 = Qatar =
 1   Qatar Stars League
