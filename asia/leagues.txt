@@ -26,6 +26,16 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 1      K-League
         | Südkorea K-League [de]
 
+= Singapore =
+
+1     S. League
+        | Singapur S. League [de]
+
+= Thailand =
+
+1     Premier League
+       | Thai Premier League
+
 
 = China =
 
