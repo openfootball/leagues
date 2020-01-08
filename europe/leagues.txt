@@ -61,8 +61,12 @@ cup.l  League Cup
 
 = Iceland =
 1      Urvalsdeild
-        | Island Urvalsdeild
         | Icelandic Premier League
+        | Island Urvalsdeild
+
+2      1. Deild
+        | Island 1. Deild
+
 
 = Faroe Islands =
 1      Faroese Premier Division
