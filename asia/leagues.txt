@@ -6,6 +6,11 @@ asia.cl  AFC Champions League     # afc = asian football confederation ?
 
 = Japan =
 
+1      J. League 
+         | Japan J. League
+2      J. League 2
+         | Japan J. League 2
+
 cup    Emperor's Cup                       # note: national cup (as a rule use cup key for national cup and NOT league cup if both exists)
           | Japan Emperor Cup 
           | Japan FA Cup 
