@@ -28,3 +28,6 @@ cup     US Open Cup
      | México Segunda División Clausura
      | Liga de Ascenso
      | Ascenso MX
+
+cup  Copa MX
+      |  Mexiko, Copa MX
