@@ -236,7 +236,7 @@ cup     Landspokalturneringen
 2       1. Division
           |  Norwegen Adeccoligaen
 3       2. Division  
-          | Norwegen 2. Division, Avd. 2
+          | Norwegen 2. Division Avd. 2
 
 cup      Norwegian Football Cup
           | Norwegen Cup [de]
