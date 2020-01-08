@@ -29,6 +29,10 @@ cup.bic  Copa Bicentenario 2019
          | División Profesional
          | Bolivien Liga Profesjonal [de]    ## match/keep j typo in from tipp3 - why? why not?
 
+= Chile =
+1      Primera Divison
+        | Chile Primera Divison
+cup    Copa Chile
 
 
 = Colombia =
