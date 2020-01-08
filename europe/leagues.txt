@@ -6,12 +6,13 @@ cl      UEFA Champions League
 el      UEFA Europa League
          | Europa League
 
-uefa.s  UEFA Super Cup 
-         | UEFA SC  
+uefa.super  UEFA Super Cup 
+             | UEFA SC  
 
 
-czsk.cup.s  Czechoslovak Supercup
-             | CZSK SC | Tschechisch-Slowakischer Supercup
+czsk.super  Czechoslovak Supercup
+             | CZSK SC 
+             | Tschechisch-Slowakischer Supercup [de]
 
 
 = England =       ## add incl. Wales   as country2 or something - why? why not?
