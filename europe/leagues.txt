@@ -53,6 +53,9 @@ com         FA Community Shield
 cup.l  League Cup 
          | SCO LC | Schottland League Cup
 
+cup.fa  FA Cup
+         | SCO FA | Schottland FA Cup
+
 
 = Wales =
 1        Welsh Premier League
@@ -183,12 +186,16 @@ super   Supercoppa Italiana
 1        Süper Lig
            | Turkish Super League
            | Türkei Süper Lig
-
 2       1. Lig 
            | Türkei TFF 1. Lig      ## todo/check - is TFF the sponsor?
 
 cup     Türkiye Kupasi
            | Türkei Türkiye Kupasi
+
+super   Süper Kupa
+          | TUR SC 
+          | Türkei Süper Kupa [de]
+
 
 = Greece =
 1     Greek Super League
@@ -385,6 +392,10 @@ cup   Bosnia and Herzegovina Football Cup
         | SERB 1                   # note: FIFA code is SRB
         | Serbien Meridijan Superliga        ## check - Meridijan is sponsor?
 
+cup   Serbian Cup
+        | SER CUP                  # note: FIFA code is SRB
+        | Serbien Cup [de]
+
 
 = Kosovo =
 1     Kosovan Superliga A
@@ -468,6 +479,9 @@ super  Supercup
        | Ukraine Premier League
 cup   Cup
        | Ukraine Cup
+
+super  Ukraine Supercup 
+        | UKR SC   
 
 
 = Belarus =
