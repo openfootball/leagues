@@ -21,6 +21,11 @@ cup    Emperor's Cup                       # note: national cup (as a rule use c
 cup.l    J. League Cup                    # note: league cup (incl. all teams from J. League and 0-2 teams from J2 League)
           | JPN LC | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
 
+= South Korea =
+
+1      K-League
+        | Südkorea K-League [de]
+
 
 = China =
 
