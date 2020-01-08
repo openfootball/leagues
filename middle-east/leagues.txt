@@ -3,12 +3,13 @@
 1    Winner League
       | Israeli Premier League
       | Israel Winner League
-      
 2    National League
       | Israel National League
 
-cup  League Cup National
-      | ISR LCN | Israel League Cup National 
+cup     League Cup National
+         | ISR LCN | Israel League Cup National 
+cup.lp  League Cup Premier
+         | ISR LCP | Israel League Cup Premier
 
 
 = Qatar =
