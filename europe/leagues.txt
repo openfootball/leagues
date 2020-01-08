@@ -57,15 +57,25 @@ cup.l  League Cup
 1      Premier Division
         | Irish Premier Division A
         | Irland Premier Division
+2      First Division
+        | Irland First Division
+
+cup.l  League Cup
+        | IRL LC 
+        | Irland League Cup
 
 
 = Iceland =
 1      Urvalsdeild
         | Icelandic Premier League
         | Island Urvalsdeild
-
 2      1. Deild
         | Island 1. Deild
+3      2. Delid
+        | Island 2. Delid
+
+cup    Icelandic Cup
+        | Island Cup
 
 
 = Faroe Islands =
@@ -81,6 +91,9 @@ cup.l  League Cup
 2        Segunda División                 # todo: add Liga Adelante ??
           | España Segunda División | Segunda División de España
           | Spanien Segunda Division [de]      
+3        Segunda División B
+          | ESP 2B   
+          | Spanien Segunda Division B [de]
 
 cup      Copa del Rey
 
@@ -190,10 +203,13 @@ cup     Landspokalturneringen
 
 = Norway =
 1       Tippeligaen
-          | Norwegian Premier Division A | Eliteserien
+          | Eliteserien
+          | Norwegian Premier Division A 
           | Norwegen Tippeligaen
 2       1. Division
           |  Norwegen Adeccoligaen
+3       2. Division  
+          | Norwegen 2. Division, Avd. 2
 
 cup      Norwegian Football Cup
           | Norwegen Cup [de]
@@ -205,8 +221,14 @@ cup      Norwegian Football Cup
          | Schweden Allsvenskan
 2       Superettan
          | Schweden Superettan
+3.s     Div 1 Södra
+         | Schweden Div 1 Södra
+3.n     Div 1 Norra
+         | Schweden Div 1 Norra   
+
 cup     Cup
          | Schweden Cup
+
 
 = Finland =
 1      Veikkausliiga
@@ -228,6 +250,9 @@ cup     Cup
 
 cup     Cup
           | NL CUP | Niederlande KNVB Cup
+
+po      Promotion/Relegation Playoffs 
+          | Niederlande Auf/Abstiegsplayoffs
 
 
 = Belgium =
@@ -361,7 +386,10 @@ cup   Bulgarian Cup
 
 
 = Latvia =
-1      Latvian First Division
+1      Latvian Higher League 
+        | Virslīga
+        | Latvian First Division
+        | Lettland LMT Virsliga
 
 = Lithuania =
 1      Lithuanian First Division
