@@ -4,6 +4,7 @@
 copa.l  Copa Libertadores
 copa.s  Copa Sudamericana
 
+recopa  Recopa Sudamericana
 
 
 = Argentina =
@@ -11,6 +12,9 @@ copa.s  Copa Sudamericana
           | Argentinien Primera Division
 cup     Cup
           | Argentinien Cup
+cup.l   Copa Superliga
+          | Copa de la Superliga
+          | ARG LC | Argentinien Ligacup
 
 
 = Paraguay =
