@@ -10,6 +10,10 @@ uefa.s  UEFA Super Cup
          | UEFA SC  
 
 
+czsk.cup.s  Czechoslovak Supercup
+             | CZSK SC | Tschechisch-Slowakischer Supercup
+
+
 = England =       ## add incl. Wales   as country2 or something - why? why not?
 1       English Premier League
          | ENG PL | England Premier League | Premier League
@@ -30,6 +34,9 @@ cup.l       EFL Cup
 cup.t       EFL Trophy
              | Football League Trophy | England Football League Trophy
              | ENG LTR | ENG T
+
+com         FA Community Shield
+             | England Community Shield
 
 
 = Scotland =
@@ -116,6 +123,9 @@ cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup
           | POR LC  
           | Portugal Carlsberg Cup [de]   ## $$$ Carlsberg is sponsor
 
+super   Supercup 
+         | POR SC | Portugal Supercup
+
 
 = Gibraltar =
 1     Gibraltarian Premier League A
@@ -133,6 +143,10 @@ cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup
 
 cup.l    Coupe de la Ligue    ## French League Cup
           | FRA LC | Frankreich Coupe de la Ligue
+
+super    Trophée des Champions           ## todo - check if this is the french supercup? 
+          | FRA SC | Frankreich Trophée des Champions
+
 
 
 = Italy =
@@ -152,7 +166,7 @@ cup.l    Coupe de la Ligue    ## French League Cup
 cup     Coppa Italia
           | Italien Coppa Italia
 
-sc      Supercoppa Italiana
+super   Supercoppa Italiana
           | ITA SC
           | Italian Super Cup
           | Italien Supercoppa [de]
@@ -186,6 +200,8 @@ cup     Türkiye Kupasi
 = Cyprus =
 1     Cypriot First Division
        | Zypern 1. Division [de]
+cup   Cypriot Cup
+       | Zypern Cup [de]
 
 
 = Malta =
@@ -235,12 +251,15 @@ cup     Cup
 
 = Finland =
 1      Veikkausliiga
-        | Finnland Veikkausliiga
         | Finnish First Division
+        | Finnland Veikkausliiga [de]
 2      Ykkonen
         | Ykkönen | Finnland Ykkonen
 3      Kakkonen
         | Finnland Kakkonen
+
+cup    Cup
+        | Finnland Cup [de]
 
 
 
@@ -253,6 +272,9 @@ cup     Cup
 
 cup     Cup
           | NL CUP | Niederlande KNVB Cup
+
+super   Johan Cruijff Schaal in Amsterdam    ## todo/check - is supercup?
+          | NL SC | Niederlande Johan Cruijff Schaal in Amsterdam
 
 po      Promotion/Relegation Playoffs 
           | Niederlande Auf/Abstiegsplayoffs
@@ -271,6 +293,10 @@ po      Promotion/Relegation Playoffs
 cup    Beker van Belgie
           | Belgium Beker van Belgie
 
+super  Supercup
+         | BEL SC | Belgien Supercup
+
+
 = Luxembourg =
 1      Luxembourger First Division
 
@@ -286,6 +312,9 @@ cup    Beker van Belgie
 cup    Polish Cup
         | Puchar Polski
         | Polen Cup [de]
+
+super  Supercup
+        | POL SC | Polen Supercup
 
 
 = Hungary =
@@ -336,6 +365,9 @@ cup   Slowenien Cup
 cup    Croatian Cup
         | Kroatien Croatian Cup [de]
 
+super  Supercup
+        | CRO SC  | Kroatien Supercup
+
 
 = Bosnia and Herzegovina =
 1     Premier Liga
@@ -377,8 +409,10 @@ cup   Bosnia and Herzegovina Football Cup
 2    Liga 2
       | Rumänien Liga 2
 
-cup  Cup
-      | Rumänien Cup
+cup    Cup
+        | Rumänien Cup
+super  Supercup
+        | ROU SC | Rumänien Supercup
 
 
 = Bulgaria =
@@ -388,6 +422,9 @@ cup  Cup
 
 cup   Bulgarian Cup  
        | Bulgarien Cup [de]
+
+super  Supercup
+        |  BUL SC | Bulgarien Supercup
 
 
 = Latvia =
@@ -419,6 +456,10 @@ cup   Bulgarian Cup
       
 cup  Russian Cup
       | Russland Russian Cup
+
+super  Supercup
+        | RUS SC | Russland Supercup
+
 
 = Ukraine =
 1     Premier League
