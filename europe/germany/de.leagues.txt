@@ -11,6 +11,10 @@
 
 cup     DFB Pokal
 
+cup.super   Supercup
+             | GER SC
+             | Deutschland Supercup
+
 
 4.nord        Regionalliga Nord
 4.nordost     Regionalliga Nordost
