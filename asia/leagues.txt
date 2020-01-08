@@ -1,8 +1,11 @@
 
 = International =
 
-asia.cl  AFC Champions League     # afc = asian football confederation ?
-          | AFC CL
+asia.cl   AFC Champions League     # afc = asian football confederation ?
+           | AFC CL
+asia.cup  AFC Cup
+           | AFC C    
+
 
 = Japan =
 
