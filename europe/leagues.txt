@@ -6,6 +6,9 @@ cl      UEFA Champions League
 el      UEFA Europa League
          | Europa League
 
+uefa.s  UEFA Super Cup 
+         | UEFA SC  
+
 
 = England =       ## add incl. Wales   as country2 or something - why? why not?
 1       English Premier League
@@ -292,6 +295,8 @@ cup    Polish Cup
 = Czech Republic =
 1     Czech First League
        | 1. Liga
+2     1. Division
+       | Tschechien 1. Division
 
 cup   Cup
        | Tschechien Cup
@@ -393,6 +398,8 @@ cup   Bulgarian Cup
 
 = Lithuania =
 1      Lithuanian First Division
+        | LIT 1 
+        | Litauen A Lyga
 
 = Estonia =
 1      Meistriliiga
