@@ -1,10 +1,10 @@
 
 = International =
 
-cl      UEFA Champions League
-         | Champions League
-el      UEFA Europa League
-         | Europa League
+uefa.cl      UEFA Champions League          ## note: cl gets used by Chile (cl) - change? why? why not?
+              | Champions League
+uefa.el      UEFA Europa League
+              | Europa League
 
 uefa.super  UEFA Super Cup 
              | UEFA SC  
@@ -361,9 +361,9 @@ cup   Slovak Cup
 
 = Slovenia =
 1     Slovene First League
-       | SLO 1 | Prva Liga      # note: FIFA code is SVN !!!
+       | SLO 1 | Prva Liga      # note: official FIFA code is SVN !!!
 cup   Slowenien Cup
-       | SLO CUP
+       | SLO CUP                # note: official FIFA code is SVN
 
 = Croatia  =
 1      1. HNL
@@ -379,21 +379,21 @@ super  Supercup
 
 = Bosnia and Herzegovina =
 1     Premier Liga
-       | BOS 1                   # note: FIFA code is BIH
+       | BOS 1                   # note: official FIFA code is BIH
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
 
 cup   Bosnia and Herzegovina Football Cup
-       | BOS CUP                  # note: FIFA code is BIH
+       | BOS CUP                  # note: official FIFA code is BIH
        | Bosnien Cup [de]
 
 = Serbia =
 1     Serbian Super League
-        | SERB 1                   # note: FIFA code is SRB
-        | Serbien Meridijan Superliga        ## check - Meridijan is sponsor?
+        | SERB 1                   # note: official FIFA code is SRB
+        | Serbien Meridijan Superliga  [de]   ## check - Meridijan is sponsor?
 
 cup   Serbian Cup
-        | SER CUP                  # note: FIFA code is SRB
+        | SER CUP                  # note: official FIFA code is SRB
         | Serbien Cup [de]
 
 
@@ -436,24 +436,26 @@ cup   Bulgarian Cup
        | Bulgarien Cup [de]
 
 super  Supercup
-        |  BUL SC | Bulgarien Supercup
+        |  BUL SC 
+        | Bulgarien Supercup [de]
 
 
 = Latvia =
 1      Latvian Higher League 
+        | LAT 1                 # note: official FIFA code is LVA
         | Virslīga
         | Latvian First Division
-        | Lettland LMT Virsliga
+        | Lettland LMT Virsliga [de]
 
 = Lithuania =
 1      Lithuanian First Division
-        | LIT 1 
-        | Litauen A Lyga
+        | LIT 1                # note: official FIFA code is LTU
+        | Litauen A Lyga [de]
 
 = Estonia =
 1      Meistriliiga
          | Estonian First League A
-         | Estland Meistriliiga
+         | Estland Meistriliiga [de]
 
 
 
@@ -461,16 +463,17 @@ super  Supercup
 1    Premier League
       | RUS PL
       | Russian Premier League
-      | Russland Premier League
+      | Russland Premier League [de]
 
 2    1. Division
-      | Russland 1. Division 
+      | Russland 1. Division [de] 
       
 cup  Russian Cup
-      | Russland Russian Cup
+      | Russland Russian Cup [de]
 
 super  Supercup
-        | RUS SC | Russland Supercup
+        | RUS SC 
+        | Russland Supercup [de]
 
 
 = Ukraine =
