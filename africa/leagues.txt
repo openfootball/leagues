@@ -12,6 +12,12 @@ caf.cl  CAF Champions League
        | Ägypten Premier League [de]
 
 
+= Tunisia =
+
+1    Ligue 1       
+      | Tunesien Ligue 1 [de]
+
+
 = South Africa =
 
 1    Premier League

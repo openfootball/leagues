@@ -36,6 +36,11 @@ cup.t       EFL Trophy
              | Football League Trophy | England Football League Trophy
              | ENG LTR | ENG T
 
+cup.t.ii    FA Trophy
+             | Football Association Challenge Trophy
+             | FA TRO
+             | England FA Trophy 
+
 com         FA Community Shield
              | England Community Shield
 
@@ -111,6 +116,10 @@ cup    Icelandic Cup
 
 cup      Copa del Rey
 
+super    Supercopa
+          | ESP SC   
+          | Spanien Supercopa [de]
+
 
 = Portugal =
 1       Primeira Liga
@@ -141,15 +150,20 @@ super   Supercup
 = France =     ## add incl. Monaco - why? why not?
 1        Ligue 1
           | French Ligue 1
-          | Frankreich Ligue 1
+          | Frankreich Ligue 1 [de]
 2        Ligue 2
-          | Frankreich Ligue 2
+          | Frankreich Ligue 2 [de]
+
+cup      Coupe de France
+          | Frankreich Coupe de France [de]
 
 cup.l    Coupe de la Ligue    ## French League Cup
-          | FRA LC | Frankreich Coupe de la Ligue
+          | FRA LC 
+          | Frankreich Coupe de la Ligue [de]
 
 super    Trophée des Champions           ## todo - check if this is the french supercup? 
-          | FRA SC | Frankreich Trophée des Champions
+          | FRA SC 
+          | Frankreich Trophée des Champions [de]
 
 
 
@@ -203,7 +217,8 @@ super   Süper Kupa
 
 2     Greek Super League 2
        | Griechenland Super League 2 [de]
-
+cup   Greek Cup
+       | Griechenland Cup [de]
 
 = Cyprus =
 1     Cypriot First Division
