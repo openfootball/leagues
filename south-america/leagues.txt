@@ -32,7 +32,7 @@ recopa  Recopa Sudamericana
 5.fed     Torneo Federal C
 
 # note: Torneo Federal B and C merged into a new system
-#        with more regional leagues in 2020? see Torneo Regional Federal Amateur
+#        with more regional leagues in 2018? see Torneo Regional Federal Amateur
 
 
 copa     Copa Argentina
