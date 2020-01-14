@@ -22,6 +22,11 @@ copa     Copa do Brasil
 
 
 league     Primeira Liga
+            | Liga Sul-Minas-Rio | South-Minas-Rio League
+            | Copa Sul-Minas-Rio | South-Minas-Rio Cup
+## note: also known as Liga Sul-Minas-Rio (South-Minas-Rio League) or Copa Sul-Minas-Rio (South-Minas-Rio Cup), 
+##       is a Brazilian football competition contested between Brazil's South Region, Minas Gerais and Rio de Janeiro state teams.
+
 
 rs         Gauchão 
             | Campeonato Estadual Gaúcho
