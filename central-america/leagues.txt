@@ -1,3 +1,16 @@
 = Costa Rica =
+1   Primera División
+      | Costa Rica Primera División
+      | Costa Rican Primera Division
 
-1  Costa Rica Primera División
+= Honduras =
+1   Primera División
+      | Honduran Primera Division
+
+= El Salvador =
+1  Primera División
+     | Salvadoran Primera Division
+
+= Guatemala =
+1  Liga Nacional
+     | Guatemalan Liga Nacional
