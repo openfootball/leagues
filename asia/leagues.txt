@@ -52,10 +52,13 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 = India =
 
-1      I-League
-         | Indian I-League
-
-## !!!    Indian Super League
+1.i      I-League
+          | Indian I-League
+1.ii     Super League
+          | Indian Super League
+# note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India 
+#         along with I-League
+# todo/check: how to handle two top football leagues? check auto-add keys and more? 
 
 
 = China =
