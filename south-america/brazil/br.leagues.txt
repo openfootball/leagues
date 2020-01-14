@@ -16,7 +16,7 @@
 4       Campeonato Brasileiro Série D
            | BR D    ## br.d 
 
-cup      Copa do Brasil
+copa     Copa do Brasil
            | Copa Do Brazil | Brazil Cup
            | Brasilien Cup [de]
 
