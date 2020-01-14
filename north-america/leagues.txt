@@ -3,11 +3,16 @@
 
 concacaf.cl   CONCACAF Champions League
                 | Champions League
+concacaf.l    CONCACAF League
 
 
 usmx.cup   US & Mexican Leagues Cup
           | USMXLC
 
+
+= Canada =
+1       Canadian Premier League
+         | CPL | CANPL
 
 = United States =                   ## todo/check - (auto)add incl. Canada - how? - why? why not?
 1       Major League Soccer
