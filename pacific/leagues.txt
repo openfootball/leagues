@@ -1,7 +1,8 @@
 
 = Australia =
 1      A-League
-        | Australien Hyundai A-League
+        | Australian A-League
+        | Australien $$Hyundai$$ A-League [de]
 
 cup     FFA Cup
          | Australien FFA Cup

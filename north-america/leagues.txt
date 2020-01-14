@@ -1,23 +1,36 @@
 
 = International =
 
-usmx.cup   US & Mexican Leagues Cup    ## check if clubs include country code?
+concacaf.cl   CONCACAF Champions League
+                | Champions League
+
+
+usmx.cup   US & Mexican Leagues Cup
           | USMXLC
 
 
-= United States =        ## add incl. Canada - why? why not?
-1       Major League Soccer                   ### todo: use mls (and not us.1) as "primary" key - why? why not?
-         | USA MLS | USA Major League Soccer
+= United States =                   ## todo/check - (auto)add incl. Canada - how? - why? why not?
+1       Major League Soccer
+         | MLS | USA MLS 
+         | USA Major League Soccer
 
 2       United Soccer League Championship
          | USLC
+         | USL Championship
 3       United Soccer League One  
          | USL1
 4       United Soccer League Two
          | USL2
 
 cup     US Open Cup
+         | United States Open Cup
          | USA US Open Cup
+
+ncaa    United States NCAA Men's Soccer
+         | NCAA Division I
+         | NCAA Division I Men's Soccer Tournament
+         | College Cup
+
 
 
 = Mexico =
@@ -29,12 +42,15 @@ cup     US Open Cup
       | Liguilla Apertura
       | Liga MX Clausura
       | Liguilla Clausura
+      | Mexican Liga $$BBVA$$ MX
 
 2   México Segunda División
      | México Segunda División Apertura
      | México Segunda División Clausura
      | Liga de Ascenso
      | Ascenso MX
+     | Mexican Ascenso MX
 
 cup  Copa MX
-      |  Mexiko, Copa MX
+      | Mexican Copa MX
+      | Mexiko Copa MX [de]

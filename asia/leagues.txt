@@ -10,6 +10,7 @@ asia.cup  AFC Cup
 = Japan =
 
 1      J. League 
+         | Japanese J League
          | Japan J. League
 2      J. League 2
          | Japan J. League 2
@@ -31,17 +32,39 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 1     S. League
         | Singapur S. League [de]
 
+# !!!  Singaporean Premier League  
+
+
 = Thailand =
 
 1     Premier League
        | Thai Premier League
 
+= Malaysia =
+
+1     Super League
+       | Malaysian Super League
+
+= Indonesia =
+
+1     Super League
+       | Indonesian Super League
+
+= India =
+
+1      I-League
+         | Indian I-League
+
+## !!!    Indian Super League
+
 
 = China =
 
-1       Chinese Super League  
+1      Super League 
+         | Chinese Super League  
          | China Chinese Super League
 
 = Kazakhstan =
 
-1        Kazakh Premier League A
+1      Premier League A
+         | Kazakh Premier League A

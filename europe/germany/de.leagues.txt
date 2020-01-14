@@ -5,11 +5,13 @@
          | German Bundesliga
          | Deutschland Bundesliga | Deutsche Bundesliga
 2       2. Bundesliga
+         | German 2. Bundesliga
          | Deutschland 2. Bundesliga | Deutsche 2. Bundesliga
 3       3. Liga
          | Deutschland 3. Liga | Deutsche 3. Liga
 
 cup     DFB Pokal
+         | German DFB Pokal
 
 cup.super   Supercup
              | GER SC

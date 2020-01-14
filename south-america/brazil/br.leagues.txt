@@ -2,27 +2,40 @@
 
 1       Campeonato Brasileiro Série A  
            | Brasileiro Série A
-           | Brasilien Brasilero Serie A
+           | Brazilian Serie A
+           | Brasilien Brasilero Serie A [de]
            | BR A    ## br.a
 2       Campeonato Brasileiro Série B
            | Brasileiro Série B
-           | Brasilien Brasilero Serie B
+           | Brazilian Serie B
+           | Brasilien Brasilero Serie B [de]
            | BR B    ## br.b
 3       Campeonato Brasileiro Série C
+           | Brazilian Serie C
            | BR C    ## br.c
 4       Campeonato Brasileiro Série D
            | BR D    ## br.d 
 
 cup      Copa do Brasil
-           | Brasilien Cup | Brazil Cup
+           | Copa Do Brazil | Brazil Cup
+           | Brasilien Cup [de]
 
 
 league     Primeira Liga
 
-rs         Gauchão - Campeonato Estadual Gaúcho
-rs.2       Divisão de Acesso Gaúcha - Divisão de acesso do Campeonato Estadual Gaúcho
-rs.3       Terceirona - Segunda divisão do Campeonato Estadual Gaúcho
+rs         Gauchão 
+            | Campeonato Estadual Gaúcho
+            | Brazilian Campeonato Gaucho
+rs.2       Divisão de Acesso Gaúcha 
+            | Divisão de acesso do Campeonato Estadual Gaúcho
+rs.3       Terceirona 
+            | Segunda divisão do Campeonato Estadual Gaúcho
 
-sp         Paulistão - Campeonato Estadual Paulista
+sp         Paulistão 
+             | Campeonato Estadual Paulista
+             | Brazilian Campeonato Paulista
 rj         Campeonato Estadual Carioca
-mg         Mineirão - Campeonato Estadual Mineiro
+             | Brazilian Campeonato Carioca
+mg         Mineirão 
+             | Campeonato Estadual Mineiro
+             | Brazilian Campeonato Mineiro 

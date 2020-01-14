@@ -16,29 +16,40 @@ czsk.super  Czechoslovak Supercup
 
 
 = England =       ## add incl. Wales   as country2 or something - why? why not?
-1       English Premier League
-         | ENG PL | England Premier League | Premier League
-2       English Championship
-         | ENG CS | England Championship | Championship
-3       English League One
-         | England League One | League One
-4       English League Two
-5       English National League
+1       Premier League
+          | ENG PL
+          | English Premier League 
+          | England Premier League 
+2       Championship
+          | ENG CS 
+          | English Championship | English League Championship
+          | England Championship
+3       League One
+          | English League One
+          | England League One 
+4       League Two
+          | English League Two
+5       National League
+          | English National League
 
 cup         FA Cup                  ## use cup.fa as key - why? why not?
              | ENG FA 
+             | English FA Cup
              | England FA Cup
 cup.l       EFL Cup
-             | League Cup | Football League Cup
              | ENG LC | ENG L
+             | League Cup | Football League Cup
              | England Liga Cup
+             | English $$Carabao$$ Cup     ## note: use $$ to mark sponsor name
 cup.t       EFL Trophy
-             | Football League Trophy | England Football League Trophy
              | ENG LTR | ENG T
+             | Football League Trophy 
+             | English EFL Trophy
+             | England Football League Trophy
 
 cup.t.ii    FA Trophy
-             | Football Association Challenge Trophy
              | FA TRO
+             | Football Association Challenge Trophy
              | England FA Trophy 
 
 com         FA Community Shield
@@ -46,38 +57,48 @@ com         FA Community Shield
 
 
 = Scotland =
-1       Scottish Premiership
+1       Premiership
          | SCO PS
+         | Scottish Premiership
          | Schottland Premiership [de]
-2       Scottish Championship
-         | SCO CS   
+2       Championship
+         | SCO CS 
+         | Scottish Championship  
          | Schottland Championship [de]
-3       Scottish League One
-4       Scottish League Two
+3       League One
+         | Scottish League One
+4       League Two
+         | Scottish League Two
 
 cup.l  League Cup 
-         | SCO LC | Schottland League Cup
+         | SCO LC 
+         | Scottish League Cup
+         | Schottland League Cup [de]
 
-cup.fa  FA Cup
-         | SCO FA | Schottland FA Cup
+cup.fa  FA Cup                              ## use cup as key - why? why not?
+         | SCO FA 
+         | Scottish Cup
+         | Schottland FA Cup [de]
 
 
 = Wales =
-1        Welsh Premier League
+1       Premier League
+          | Welsh Premier League
           | Wales Premier League
 
 = Northern Ireland =
 1     Premiership
         | NIRL 1      # note: FIFA code is NIR !!!
         | Northern Irish Premiership
-        | Nordirland Premiership
+        | Nordirland Premiership [de]
 
 = Ireland =
 1      Premier Division
+        | Irish Premier Division 
         | Irish Premier Division A
-        | Irland Premier Division
+        | Irland Premier Division [de]
 2      First Division
-        | Irland First Division
+        | Irland First Division [de]
 
 cup.l  League Cup
         | IRL LC 
@@ -105,16 +126,19 @@ cup    Icelandic Cup
 = Spain =
 1        Primera División
           | España Primera División | Primera División de España
+          | Spanish Primera División
           | Spanish Liga | La Liga
           | Spanien Primera Division [de]
 2        Segunda División                 # todo: add Liga Adelante ??
           | España Segunda División | Segunda División de España
+          | Spanish Segunda División
           | Spanien Segunda Division [de]      
 3        Segunda División B
           | ESP 2B   
           | Spanien Segunda Division B [de]
 
 cup      Copa del Rey
+          | Spanish Copa del Rey
 
 super    Supercopa
           | ESP SC   
@@ -123,8 +147,9 @@ super    Supercopa
 
 = Portugal =
 1       Primeira Liga
+          | Portuguese Liga
           | Portuguese First Division
-          | Portugal Primeira Liga
+          | Portugal Primeira Liga 
 
 2      Segunda Liga
          | Portugal Segunda Liga 
@@ -134,7 +159,7 @@ cup     Taça de Portugal
 
 cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup)
           | POR LC  
-          | Portugal Carlsberg Cup [de]   ## $$$ Carlsberg is sponsor
+          | Portugal $$Carlsberg$$ Cup    ## $$$ Carlsberg is sponsor
 
 super   Supercup 
          | POR SC | Portugal Supercup
@@ -152,13 +177,16 @@ super   Supercup
           | French Ligue 1
           | Frankreich Ligue 1 [de]
 2        Ligue 2
+          | French Ligue 2
           | Frankreich Ligue 2 [de]
 
 cup      Coupe de France
+          | French Coupe de France
           | Frankreich Coupe de France [de]
 
 cup.l    Coupe de la Ligue    ## French League Cup
           | FRA LC 
+          | French Coupe de la Ligue
           | Frankreich Coupe de la Ligue [de]
 
 super    Trophée des Champions           ## todo - check if this is the french supercup? 
@@ -171,9 +199,11 @@ super    Trophée des Champions           ## todo - check if this is the french 
 1       Serie A
           | ITA A
           | Italian Serie A
-          | Italien Serie A
+          | Italien Serie A [de]
 2       Serie B
-          | ITA B | Italien Serie B
+          | ITA B 
+          | Italian Serie B
+          | Italien Serie B [de]
 3.a     Serie C (North & Central West)   # Group A
           | ITA C1A | Italien Lega Pro Prima Divisione Girone A
 3.b     Serie C (North & Central East)   # Group B
@@ -182,7 +212,8 @@ super    Trophée des Champions           ## todo - check if this is the french 
           | ITA C1C | Italien Lega Pro Prima Divisione Girone C
 
 cup     Coppa Italia
-          | Italien Coppa Italia
+          | Italian Coppa Italia
+          | Italien Coppa Italia [de]
 
 super   Supercoppa Italiana
           | ITA SC
@@ -198,10 +229,11 @@ super   Supercoppa Italiana
 
 = Turkey =
 1        Süper Lig
+           | Turkish Super Lig
            | Turkish Super League
-           | Türkei Süper Lig
+           | Türkei Süper Lig [de]
 2       1. Lig 
-           | Türkei TFF 1. Lig      ## todo/check - is TFF the sponsor?
+           | Türkei TFF 1. Lig [de]     ## todo/check - is TFF the sponsor?
 
 cup     Türkiye Kupasi
            | Türkei Türkiye Kupasi
@@ -212,46 +244,51 @@ super   Süper Kupa
 
 
 = Greece =
-1     Greek Super League
+1     Super League
+       | Greek Super League
        | Griechenland Super League [de]
-
-2     Greek Super League 2
+2     Super League 2
+       | Greek Super League 2
        | Griechenland Super League 2 [de]
 cup   Greek Cup
        | Griechenland Cup [de]
 
 = Cyprus =
-1     Cypriot First Division
+1     First Division
+       | Cypriot First Division
        | Zypern 1. Division [de]
 cup   Cypriot Cup
        | Zypern Cup [de]
 
 
 = Malta =
-1     Maltese Premier League
+1     Premier League
+       | Maltese Premier League
 
 
 
 = Denmark =
 1        Superligaen
           | Danish Super League
-          | Dänemark Superligaen
+          | Danish SAS-Ligaen
+          | Dänemark Superligaen [de]
 2        1. Division
-          | Dänemark 1. Division
+          | Dänemark 1. Division [de]
 cup     Landspokalturneringen
           | DEN P
-          | Dänemark Landspokalturneringen
           | DBU Pokalen
+          | Dänemark Landspokalturneringen [de]
 
 = Norway =
 1       Tippeligaen
           | Eliteserien
+          | Norwegian Eliteserien
           | Norwegian Premier Division A 
-          | Norwegen Tippeligaen
+          | Norwegen Tippeligaen [de]
 2       1. Division
-          |  Norwegen Adeccoligaen
+          |  Norwegen Adeccoligaen [de]
 3       2. Division  
-          | Norwegen 2. Division Avd. 2
+          | Norwegen 2. Division Avd. 2 [de]
 
 cup      Norwegian Football Cup
           | Norwegen Cup [de]
@@ -259,17 +296,18 @@ cup      Norwegian Football Cup
 
 = Sweden =
 1       Allsvenskan
+         | Swedish Allsvenskanliga
          | Swedish First Division
-         | Schweden Allsvenskan
+         | Schweden Allsvenskan [de]
 2       Superettan
-         | Schweden Superettan
+         | Schweden Superettan [de]
 3.s     Div 1 Södra
-         | Schweden Div 1 Södra
+         | Schweden Div 1 Södra [de]
 3.n     Div 1 Norra
-         | Schweden Div 1 Norra   
+         | Schweden Div 1 Norra [de]  
 
 cup     Cup
-         | Schweden Cup
+         | Schweden Cup [de]
 
 
 = Finland =
@@ -277,9 +315,10 @@ cup     Cup
         | Finnish First Division
         | Finnland Veikkausliiga [de]
 2      Ykkonen
-        | Ykkönen | Finnland Ykkonen
+        | Ykkönen 
+        | Finnland Ykkonen [de]
 3      Kakkonen
-        | Finnland Kakkonen
+        | Finnland Kakkonen [de]
 
 cup    Cup
         | Finnland Cup [de]
@@ -288,19 +327,24 @@ cup    Cup
 
 = Netherlands =
 1       Eredivisie
-          | Dutch First Division
           | NL 1
-          | Niederlande Eredivisie
+          | Dutch Eredivisie
+          | Dutch First Division
+          | Niederlande Eredivisie [de]
 2       Eerste Divisie
+          | Dutch Eerste Divisie
 
 cup     Cup
-          | NL CUP | Niederlande KNVB Cup
+          | NL CUP 
+          | Dutch KNVB Beker
+          | Niederlande KNVB Cup [de]
 
 super   Johan Cruijff Schaal in Amsterdam    ## todo/check - is supercup?
-          | NL SC | Niederlande Johan Cruijff Schaal in Amsterdam
+          | NL SC 
+          | Niederlande Johan Cruijff Schaal in Amsterdam [de]
 
 po      Promotion/Relegation Playoffs 
-          | Niederlande Auf/Abstiegsplayoffs
+          | Niederlande Auf/Abstiegsplayoffs [de]
 
 
 = Belgium =
