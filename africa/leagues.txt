@@ -35,3 +35,28 @@ cup    Cup                                      # national cup - find a better "
 
 cup.l  Knockout                                # league cup  - find a better "official" name than Knockout
         | South African $$Telkom$$ Knockout
+
+
+= Nigeria =
+1   Professional League 
+     | Nigerian Professional League
+
+= Kenya =
+1  Premier League
+    | Kenyan Premier League
+
+= Zambia =
+1  Super League
+    | Zambian Super League
+
+= Ghana =
+1  Premier League
+     | Ghanaian Premier League
+
+= Uganda =
+1  Super League
+     | Ugandan Super League
+
+= Zimbabwe =
+1  Premier Soccer League
+    | Zimbabwean Premier Soccer League
