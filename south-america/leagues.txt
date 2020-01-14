@@ -35,9 +35,9 @@ recopa  Recopa Sudamericana
 #        with more regional leagues in 2020? see Torneo Regional Federal Amateur
 
 
-cup     Copa Argentina
+copa     Copa Argentina
           | Argentinien Cup [de]
-cup.l   Copa Superliga
+copa.l   Copa Superliga
           | ARG LC 
           | Copa de la Superliga
           | Argentinien Ligacup [de]
@@ -45,13 +45,15 @@ cup.l   Copa Superliga
 
 = Paraguay =
 1     Primera Division
+        | Paraguayan Primera Division
         | Paraguay Primera Division
 
 = Peru =
 1      Primera Division
+        | Peruvian Primera Profesional
         | Peru Primera Division
 
-cup.bic  Copa Bicentenario 2019
+copa.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
 
 = Bolivia =
@@ -64,7 +66,7 @@ cup.bic  Copa Bicentenario 2019
 1      Primera Divison
         | Chilean Primera Division
         | Chile Primera Divison
-cup    Copa Chile
+copa    Copa Chile
 
 
 = Colombia =
@@ -75,7 +77,7 @@ cup    Copa Chile
 2   Primera B
      | Colombian Primera B 
 
-cup  Copa Colombia
+copa  Copa Colombia
       | COL P | COL COP
 
 
@@ -95,5 +97,5 @@ cup  Copa Colombia
      | Venezuelan Primera Profesional
      | Venezuela Primera Divison
 
-cup  Copa Venezuela
+copa  Copa Venezuela
      
