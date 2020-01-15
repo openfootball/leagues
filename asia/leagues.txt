@@ -29,10 +29,12 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 = Singapore =
 
-1     S. League
+1     Premier League
+        | SPL
+        | Singapore Premier League
+        | Singaporean Premier League
+        | S. League                  # note: was previously known as the S.League
         | Singapur S. League [de]
-
-# !!!  Singaporean Premier League  
 
 
 = Thailand =
