@@ -37,6 +37,7 @@ recopa  Recopa Sudamericana
 
 copa     Copa Argentina
           | Argentinien Cup [de]
+          | ARG CUP
 copa.l   Copa Superliga
           | ARG LC 
           | Copa de la Superliga
@@ -99,4 +100,5 @@ copa  Copa Colombia
      | Venezuela Primera Divison
 
 copa  Copa Venezuela
+       | VEN CUP
      
