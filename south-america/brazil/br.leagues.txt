@@ -17,6 +17,7 @@
            | BR D    ## br.d 
 
 copa     Copa do Brasil
+           | BRA CUP
            | Copa Do Brazil | Brazil Cup
            | Brasilien Cup [de]
 
