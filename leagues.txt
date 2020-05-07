@@ -1,5 +1,11 @@
+= National Teams =
+
+worldcup       FIFA World Cup
+                | World Cup
+
+
 = International =
 
 worldcup.club  FIFA Club World Cup
-                | KLUB WM  
+                | KLUB WM
                 | FIFA Klub WM [de]
