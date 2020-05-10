@@ -1,6 +1,6 @@
 = National Teams =
 
-euro      Euro
+euro       Euro
             | European Championship
             | UEFA Euro
             | UEFA European Championship
@@ -9,59 +9,20 @@ euro      Euro
 
 = International =
 
-uefa.cl      UEFA Champions League          ## note: cl gets used by Chile (cl) - change? why? why not?
-              | Champions League
-uefa.el      UEFA Europa League
-              | Europa League
+uefa.cl      Champions League          ## note: cl gets used by Chile (cl) - change? why? why not?
+              | UEFA Champions League
+uefa.el      Europa League
+              | UEFA Europa League
 
-uefa.super  UEFA Super Cup
+
+uefa.super  Super Cup
+             | UEFA Super Cup
              | UEFA SC
 
 
 czsk.super  Czechoslovak Supercup
              | CZSK SC
              | Tschechisch-Slowakischer Supercup [de]
-
-
-= England =       ## add incl. Wales   as country2 or something - why? why not?
-1       Premier League
-          | ENG PL
-          | English Premier League
-          | England Premier League
-2       Championship
-          | ENG CS
-          | English Championship | English League Championship
-          | England Championship
-3       League One
-          | English League One
-          | England League One
-4       League Two
-          | English League Two
-5       National League
-          | English National League
-
-cup         FA Cup                  ## use cup.fa as key - why? why not?
-             | ENG FA
-             | English FA Cup
-             | England FA Cup
-cup.l       EFL Cup
-             | ENG LC | ENG L
-             | League Cup | Football League Cup
-             | England Liga Cup
-             | English $$Carabao$$ Cup     ## note: use $$ to mark sponsor name
-cup.t       EFL Trophy
-             | ENG LTR | ENG T
-             | Football League Trophy
-             | English EFL Trophy
-             | England Football League Trophy
-
-cup.t.ii    FA Trophy
-             | FA TRO
-             | Football Association Challenge Trophy
-             | England FA Trophy
-
-com         FA Community Shield
-             | England Community Shield
 
 
 = Scotland =

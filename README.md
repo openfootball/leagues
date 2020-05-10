@@ -5,8 +5,9 @@
 
 A free open public domain football database & schema
 for use in any (programming) language
-(e.g. uses plain text datasets for match schedules, results and more).
+e.g. uses datasets in (structured) text for match schedules, results and more.
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 ## Intro
 
@@ -46,7 +47,7 @@ or
           | England League One | League One
 4       English League Two
 5       English National League
-           
+
 ...
 ```
 
