@@ -1,12 +1,71 @@
 = National Teams =
 
-worldcup       World Cup
-                | FIFA World Cup
+##############
+# FIFA
+
+world                       World Cup
+                             | FIFA World Cup
+
+world.quali.europe          World Cup Quali Europe
+world.quali.northamerica    World Cup Quali North/Central America and Caribbean
+world.quali.southamerica    World Cup Quali South America
+world.quali.africa          World Cup Quali Africa
+world.quali.asia            World Cup Quali Asia (w/ Australia)
+world.quali.pacific         World Cup Quali South Pacific
+world.quali.playoffs        World Cup Quali Intercontinental Playoffs
+
+world.confed                Confederations Cup
+
+
+#######################################################
+# UEFA (Union of European Football Associations)
+
+euro       Euro
+            | European Championship
+            | UEFA Euro
+            | UEFA European Championship
+            | UEFA European Football Championship
+
+euro.quali   Euro Quali
+
+
+#######################################################
+# CONMEBOL (Confederación Sudamericana de Fútbol)
+
+southamerica     Copa América
+
+######################################################
+# CONCACAF (Confederation of North, Central American and Caribbean Association Football)
+
+northamerica     Gold Cup
+                  | Copa de Oro
+
+
+##########################################
+# AFC (Asian Football Confederation)
+
+asia              Asian Cup
+
+
+################################################
+# CAF (Confédération Africaine de Football)
+
+africa            Africa Cup of Nations
+                   | Coupe d'Afrique des Nations
+
+
+#############################################
+# OFC (Oceania Football Confederation)
+
+paficic     South Pacific Nations Cup
+# note: gets merged (group stage is the same as world.quali.pacific - stage 2 qualifiers)
+
+
 
 
 = International =
 
-worldcup.club   Club World Cup
+world.club   Club World Cup
                  | FIFA Club World Cup
-                 | KLUB WM
+                 | Klub WM [de]
                  | FIFA Klub WM [de]

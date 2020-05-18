@@ -4,20 +4,20 @@
 asia.cl   AFC Champions League     # afc = asian football confederation ?
            | AFC CL
 asia.cup  AFC Cup
-           | AFC C    
+           | AFC C
 
 
 = Japan =
 
-1      J. League 
+1      J. League
          | Japanese J League
          | Japan J. League
 2      J. League 2
          | Japan J. League 2
 
 cup    Emperor's Cup                       # note: national cup (as a rule use cup key for national cup and NOT league cup if both exists)
-          | Japan Emperor Cup 
-          | Japan FA Cup 
+          | Japan Emperor Cup
+          | Japan FA Cup
 
 cup.l    J. League Cup                    # note: league cup (incl. all teams from J. League and 0-2 teams from J2 League)
           | JPN LC | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
@@ -58,15 +58,15 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
           | Indian I-League
 1.ii     Super League
           | Indian Super League
-# note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India 
+# note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India
 #         along with I-League
-# todo/check: how to handle two top football leagues? check auto-add keys and more? 
+# todo/check: how to handle two top football leagues? check auto-add keys and more?
 
 
 = China =
 
-1      Super League 
-         | Chinese Super League  
+1      Super League
+         | Chinese Super League
          | China Chinese Super League
 
 = Kazakhstan =

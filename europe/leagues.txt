@@ -1,12 +1,3 @@
-= National Teams =
-
-euro       Euro
-            | European Championship
-            | UEFA Euro
-            | UEFA European Championship
-            | UEFA European Football Championship
-
-
 = International =
 
 uefa.cl      Champions League          ## note: cl gets used by Chile (cl) - change? why? why not?
