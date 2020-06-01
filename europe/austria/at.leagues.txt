@@ -3,21 +3,26 @@
 1       Bundesliga                    # Each year (July→December/February→May)
          | AUT BL
          | Austrian Bundesliga
-         | Österreich Bundesliga | Österr. Bundesliga 
+         | Österreich Bundesliga | Österr. Bundesliga
 2       2. Liga                       # Each year (July→May)
-         | Österreich Zweite Liga
+         | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
+
+rel     Relegation
+         | Österr. Bundesliga - Relegation
+         | Österr. Bundesliga - Relegationsspiele
+         | Österr. Bundesliga - Aufstieg
+
 
 # todo/check: use groups for West/Mitte/Ost??
 #  and just use at.3, Österr. Regionalliga
-#  use 3.ost / 3.mitte / 3.west ? 
-
+#  use 3.ost / 3.mitte / 3.west ?
 
 3.o     Regionalliga Ost
-         | AUT RLO 
+         | AUT RLO
          | Österr. Regionalliga Ost | Österreich Regionalliga Ost
 3.m     Regionalliga Mitte
-         | AUT RLM 
+         | AUT RLM
          | Österr. Regionalliga Mitte | Österreich Regionalliga Mitte
 3.sbg   Regionalliga Salzburg
          | RL SBG
@@ -25,9 +30,9 @@
          | RL TIR
 3.v     Eliteliga Vorarlberg
          | RL VBG
-       
-3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20   
-         | AUT RLW  
+
+3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20
+         | AUT RLW
          | Österr. Regionalliga West | Österreich Regionalliga West
 
 cup     ÖFB Cup
@@ -64,7 +69,7 @@ cup     ÖFB Cup
                | Vorarlbergliga
 
 
-## niederösterreich 
+## niederösterreich
 
 ############## -- 2. Landesliga (2 Staffeln)
 5.n.ost     2. Landesliga Ost (NÖ)        ## todo/check: use – (geviertstrich) to avoid () e.g. 2. Landesliga Ost – NÖ
@@ -135,6 +140,6 @@ cup     ÖFB Cup
 8.n.waldviertel.s         2. Klasse Waldviertel/Süd (NÖ)
 
 
-#############  -- 3. Klasse 
+#############  -- 3. Klasse
 9.n.hornerwald   3. Klasse Hornerwald (NÖ)
 9.n.mistelbach   3. Klasse Mistelbach (NÖ)
