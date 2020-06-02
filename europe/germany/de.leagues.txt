@@ -10,19 +10,22 @@
 3       3. Liga
          | Deutschland 3. Liga | Deutsche 3. Liga
 
+## todo/check: change key to playoffs.1/2 or rel.1/2  - why? why not?
 rel.1   Bundesliga - Relegation
          | Deutsche Bundesliga - Relegation
          | Deutsche Bundesliga - Relegationsspiele
          | Deutsche Bundesliga - Aufstieg
+         | Play-offs 1/2
 rel.2   2. Bundesliga - Relegation
          | Deutsche 2. Bundesliga - Relegation
          | Deutsche 2. Bundesliga - Relegationsspiele
          | Deutsche 2. Bundesliga - Aufstieg
+         | Play-offs 2/3
 rel.3   3. Liga - Relegation
          | Deutsche 3. Liga - Relegation
          | Deutsche 3. Liga - Relegationsspiele
          | Deutsche 3. Liga - Aufstieg
-
+         | Play-offs 3/4
 
 cup     DFB Pokal
          | German DFB Pokal
