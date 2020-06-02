@@ -8,10 +8,12 @@
          | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
 
-rel     Bundesliga - Relegation
+## todo/check: use playoffs.1/2 for key - why? why not?
+rel.1   Bundesliga - Relegation
          | Österr. Bundesliga - Relegation
          | Österr. Bundesliga - Relegationsspiele
          | Österr. Bundesliga - Aufstieg
+         | Play-offs 1/2
 
 
 # todo/check: use groups for West/Mitte/Ost??
@@ -28,8 +30,9 @@ rel     Bundesliga - Relegation
          | RL SBG
 3.t     Regionalliga Tirol
          | RL TIR
-3.v     Eliteliga Vorarlberg
+3.v     Regionalliga Vorarlberg
          | RL VBG
+         | Eliteliga Vorarlberg     ### todo/check new Eliteliga modus - split into two stages? 
 
 3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20
          | AUT RLW
