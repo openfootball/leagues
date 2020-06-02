@@ -8,7 +8,7 @@
          | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
 
-rel     Relegation
+rel     Bundesliga - Relegation
          | Österr. Bundesliga - Relegation
          | Österr. Bundesliga - Relegationsspiele
          | Österr. Bundesliga - Aufstieg

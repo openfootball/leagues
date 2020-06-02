@@ -10,6 +10,20 @@
 3       3. Liga
          | Deutschland 3. Liga | Deutsche 3. Liga
 
+rel.1   Bundesliga - Relegation
+         | Deutsche Bundesliga - Relegation
+         | Deutsche Bundesliga - Relegationsspiele
+         | Deutsche Bundesliga - Aufstieg
+rel.2   2. Bundesliga - Relegation
+         | Deutsche 2. Bundesliga - Relegation
+         | Deutsche 2. Bundesliga - Relegationsspiele
+         | Deutsche 2. Bundesliga - Aufstieg
+rel.3   3. Liga - Relegation
+         | Deutsche 3. Liga - Relegation
+         | Deutsche 3. Liga - Relegationsspiele
+         | Deutsche 3. Liga - Aufstieg
+
+
 cup     DFB Pokal
          | German DFB Pokal
 
@@ -34,7 +48,7 @@ cup.super   Supercup
 
 ## Regionalliga Nordost
 5.nordost.n   Oberliga Nordost (Nord)    ## todo/check: use – (geviertstrich) to avoid () e.g. Oberliga Nordost – Nord
-5.nordost.s   Oberliga Nordost (Süd)     ## todo/check: use – (geviertstrich) to avoid () e.g. Oberliga Nordost – Süd 
+5.nordost.s   Oberliga Nordost (Süd)     ## todo/check: use – (geviertstrich) to avoid () e.g. Oberliga Nordost – Süd
 
 ## Regionalliga West
 5.west.niederrhein   Oberliga Niederrhein
