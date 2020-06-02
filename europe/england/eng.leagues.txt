@@ -15,6 +15,18 @@
 5       National League
           | English National League
 
+
+## todo/check: turn play-offs (only) into a stage (instead of "free-standing league") - why? why not?
+
+playoffs.2   Championship - Play-offs
+             | English Championship - Play-offs
+playoffs.3   League One - Play-offs
+             | English League One - Play-offs
+playoffs.4   League Two - Play-offs
+             | English League Two - Play-offs
+
+
+
 cup         FA Cup                  ## use cup.fa as key - why? why not?
              | ENG FA
              | English FA Cup
