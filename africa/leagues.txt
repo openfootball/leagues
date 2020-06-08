@@ -60,3 +60,8 @@ cup.l  Knockout                                # league cup  - find a better "of
 = Zimbabwe =
 1  Premier Soccer League
     | Zimbabwean Premier Soccer League
+
+= Burundi =
+1   1. Liga 
+    | BUR 1
+    | Burundi 1. Liga
