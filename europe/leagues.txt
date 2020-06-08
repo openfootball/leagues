@@ -507,16 +507,37 @@ super  Ukraine Supercup
 
 
 = Belarus =
-1     Belarusian Premier League
+1   Premier League 
+     | Belarusian Premier League
+
+2   Pervaya Liga
+     | BLR 2  
+     | Weißrussland Pervaya Liga [de]
+
+cup  Cup
+      | BLR CUP  
+      | Weißrussland Cup [de]
+
+
+## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?    
+res Reserve Liga
+     | BLR RES
+     | Weißrussland Reserve Liga [de]
+
+
 
 = Armenia =
-1     Armenian Premier League
+1   Premier League 
+     | Armenian Premier League
 
 = Azerbaijan =
-1     Azerbaijani Premier League A
+1   Premier League A  
+     | Azerbaijani Premier League A
 
 = Georgia =
-1     Georgian Premier League A
+1   Premier League A  
+     | Georgian Premier League A
+
 
 
 
