@@ -336,7 +336,8 @@ super  Supercup
 2      I Liga
         | Polen I Liga [de]
 
-cup    Polish Cup
+cup    Cup
+        | Polish Cup
         | Puchar Polski
         | Polen Cup [de]
 
@@ -345,14 +346,21 @@ super  Supercup
 
 
 = Hungary =
-1     Hungarian First League
+1     First League
        | NB I
+       | Hungarian First League
+
+cup    Cup
+        | HUN CUP 
+        | Ungarn Cup [de]
+
 
 = Czech Republic =
-1     Czech First League
+1     First League
+       | Czech First League
        | 1. Liga
 2     1. Division
-       | Tschechien 1. Division
+       | Tschechien 1. Division [de]
 
 cup   Cup
        | Tschechien Cup
