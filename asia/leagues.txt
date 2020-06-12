@@ -27,6 +27,11 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 1      K-League
         | Südkorea K-League [de]
 
+2      K-League 2
+        | KOR 2
+        | Südkorea K-League 2 [de]
+
+
 = Singapore =
 
 1     Premier League
@@ -61,6 +66,12 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 # note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India
 #         along with I-League
 # todo/check: how to handle two top football leagues? check auto-add keys and more?
+
+
+= Taiwan =
+1      Premier League
+        | TWN 1   
+        | Taiwan Football Premier League
 
 
 = China =
