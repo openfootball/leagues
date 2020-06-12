@@ -2,9 +2,11 @@
 
 1       Bundesliga                    # Each year (July→December/February→May)
          | AUT BL
+         | Ö BL
          | Austrian Bundesliga
          | Österreich Bundesliga | Österr. Bundesliga
 2       2. Liga                       # Each year (July→May)
+         | Ö 2
          | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
 
