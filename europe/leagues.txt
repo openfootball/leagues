@@ -74,12 +74,18 @@ cup.l  League Cup
 3      2. Delid
         | Island 2. Delid
 
-cup    Icelandic Cup
+cup    Cup
+        | Icelandic Cup
         | Island Cup
+
+super  Super Cup
+        | ISL SC
+        | Island Super Cup
 
 
 = Faroe Islands =
-1      Faroese Premier Division
+1      Premier Division
+        | Faroese Premier Division
 
 
 
@@ -126,10 +132,12 @@ super   Supercup
 
 
 = Gibraltar =
-1     Gibraltarian Premier League A
+1   Premier League A  
+     | Gibraltarian Premier League A
 
 = Andorra =
-1     Andorran Premier Division
+1   Premier Division  
+     | Andorran Premier Division
 
 
 = France =     ## add incl. Monaco - why? why not?
@@ -299,8 +307,9 @@ cup     Cup
           | Dutch KNVB Beker
           | Niederlande KNVB Cup [de]
 
-super   Johan Cruijff Schaal in Amsterdam    ## todo/check - is supercup?
+super   Johan Cruijff Schaal   ## todo/check - is supercup?
           | NL SC
+          | Johan Cruijff Schaal in Amsterdam 
           | Niederlande Johan Cruijff Schaal in Amsterdam [de]
 
 po      Promotion/Relegation Playoffs
@@ -308,14 +317,16 @@ po      Promotion/Relegation Playoffs
 
 
 = Belgium =
-1      Pro League
+1       First Division A
+          | Pro League
           | Belgian First Division A
           | Belgian First League
           | Belgien Pro League
           | Belgien Eerste Klasse
 
-2      Belgian First Division B
-          | Belgium Tweede Klasse
+2      First Division B
+         | Belgian First Division B
+         | Belgium Tweede Klasse
 
 cup    Beker van Belgie
           | Belgium Beker van Belgie
@@ -379,7 +390,8 @@ cup    Schweizer Cup
 
 
 = Slovakia =
-1     Slovak First League
+1     First League
+        | Slovak First League
         | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
 
 cup   Slovak Cup
@@ -387,9 +399,11 @@ cup   Slovak Cup
 
 
 = Slovenia =
-1     Slovene First League
+1     First League
+       | Slovene First League
        | SLO 1 | Prva Liga      # note: official FIFA code is SVN !!!
-cup   Slowenien Cup
+cup   Cup
+       | Slowenien Cup
        | SLO CUP                # note: official FIFA code is SVN
 
 = Croatia  =
@@ -397,7 +411,8 @@ cup   Slowenien Cup
         | Croatian First League
         | Kroatien 1. HNL
 
-cup    Croatian Cup
+cup    Cup
+        | Croatian Cup
         | Kroatien Croatian Cup [de]
 
 super  Supercup
@@ -415,29 +430,36 @@ cup   Bosnia and Herzegovina Football Cup
        | Bosnien Cup [de]
 
 = Serbia =
-1     Serbian Super League
+1     Super League
+        | Serbian Super League
         | SERB 1                   # note: official FIFA code is SRB
         | Serbien Meridijan Superliga  [de]   ## check - Meridijan is sponsor?
 
-cup   Serbian Cup
+cup    Cup
+        | Serbian Cup
         | SER CUP                  # note: official FIFA code is SRB
         | Serbien Cup [de]
 
 
 = Kosovo =
-1     Kosovan Superliga A
+1    Superliga A 
+      | Kosovan Superliga A
 
 = Albania =
-1     Albanian Super League
+1    Super League 
+      | Albanian Super League
 
 = Moldova =
-1     Moldovan First Division
+1    First Division 
+      | Moldovan First Division
 
 = Montenegro =
-1     Montenegrin First League
+1    First League
+      | Montenegrin First League
 
 = Macedonia =
-1     Macedonian First League
+1    First League 
+      | Macedonian First League
 
 
 
@@ -459,7 +481,8 @@ super  Supercup
        | Bulgarian A League
        | Bulgarien Premier League [de]
 
-cup   Bulgarian Cup
+cup   Cup
+       | Bulgarian Cup
        | Bulgarien Cup [de]
 
 super  Supercup
@@ -468,14 +491,16 @@ super  Supercup
 
 
 = Latvia =
-1      Latvian Higher League
+1      Higher League
+        | Latvian Higher League
         | LAT 1                 # note: official FIFA code is LVA
         | Virslīga
         | Latvian First Division
         | Lettland LMT Virsliga [de]
 
 = Lithuania =
-1      Lithuanian First Division
+1      First Division
+        | Lithuanian First Division
         | LIT 1                # note: official FIFA code is LTU
         | Litauen A Lyga [de]
 
@@ -495,7 +520,8 @@ super  Supercup
 2    1. Division
       | Russland 1. Division [de]
 
-cup  Russian Cup
+cup  Cup
+      | Russian Cup
       | Russland Russian Cup [de]
 
 super  Supercup
@@ -507,10 +533,12 @@ super  Supercup
 1     Premier League
        | Ukrainian Premier League
        | Ukraine Premier League
+
 cup   Cup
        | Ukraine Cup
 
-super  Ukraine Supercup
+super  Supercup
+        | Ukraine Supercup
         | UKR SC
 
 
