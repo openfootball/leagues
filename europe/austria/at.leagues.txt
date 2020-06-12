@@ -2,7 +2,7 @@
 
 1       Bundesliga                    # Each year (July→December/February→May)
          | AUT BL
-         | Ö BL
+         | Ö BL | Ö 1 
          | Austrian Bundesliga
          | Österreich Bundesliga | Österr. Bundesliga
 2       2. Liga                       # Each year (July→May)
