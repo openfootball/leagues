@@ -1,0 +1,59 @@
+
+###################
+# Campeonato Brasileiro Série A
+
+League, Season, Dates,  Clubs,  Matches, Goals,   Comments
+
+###############
+# Brasileirão (1971-)
+
+BR 1, 1971
+BR 1, 1972
+BR 1, 1973
+BR 1, 1974
+BR 1, 1975
+BR 1, 1976
+BR 1, 1977
+BR 1, 1978
+BR 1, 1979
+BR 1, 1980
+BR 1, 1981
+BR 1, 1982
+BR 1, 1983
+BR 1, 1984
+BR 1, 1985
+BR 1, 1986
+BR 1, 1987
+BR 1, 1988
+BR 1, 1989,
+BR 1, 1990,
+BR 1, 1991,
+BR 1, 1992,
+BR 1, 1993,
+BR 1, 1994,
+BR 1, 1995,
+BR 1, 1996,
+BR 1, 1997,
+BR 1, 1998,
+BR 1, 1999,
+BR 1, 2000,
+BR 1, 2001,
+BR 1, 2002,
+BR 1, 2003,
+BR 1, 2004,
+BR 1, 2005,
+BR 1, 2006,
+BR 1, 2007,
+BR 1, 2008,
+BR 1, 2009,
+BR 1, 2010,
+BR 1, 2011,
+BR 1, 2012,
+BR 1, 2013,
+BR 1, 2014,
+BR 1, 2015,
+BR 1, 2016,  15 May   - 11 December 2016
+BR 1, 2017,  13 May   -  3 December 2017
+BR 1, 2018,  14 April -  2 December 2018
+BR 1, 2019,  27 April -  8 December 2019,  20 Clubs, 380 Matches, 876 Goals,  Double Round-Robin
+BR 1, 2020,

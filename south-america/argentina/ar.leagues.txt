@@ -1,0 +1,35 @@
+= Argentina =
+
+1        Primera Division
+           | Argentine Superliga
+           | Argentinien Primera Division [de]
+
+2        Primera B Nacional
+           | Nacional B
+           | Primera Nacional       ## note: and Primera Nacional since the 2019-20 season
+           | Argentine Nacional B
+
+3.metro   Primera B Metropolitana
+            | Argentine Primera B
+3.fed     Torneo Federal A
+
+4.metro   Primera C Metropolitana
+            | Argentine Primera C
+4.fed     Torneo Federal B
+
+5.metro   Primera D Metropolitana
+            | Argentine Primera D
+5.fed     Torneo Federal C
+
+# note: Torneo Federal B and C merged into a new system
+#        with more regional leagues in 2018? see Torneo Regional Federal Amateur
+
+
+copa     Copa Argentina
+          | Argentinien Cup [de]
+          | ARG CUP
+copa.l   Copa Superliga
+          | ARG LC
+          | Copa de la Superliga
+          | Argentinien Ligacup [de]
+

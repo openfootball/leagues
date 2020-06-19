@@ -1,20 +1,20 @@
 = Brazil =
 
-1       Campeonato Brasileiro Série A  
+1       Campeonato Brasileiro Série A
            | Brasileiro Série A
            | Brazilian Serie A
            | Brasilien Brasilero Serie A [de]
-           | BR A    ## br.a
+           | BR A
 2       Campeonato Brasileiro Série B
            | Brasileiro Série B
            | Brazilian Serie B
            | Brasilien Brasilero Serie B [de]
-           | BR B    ## br.b
+           | BR B
 3       Campeonato Brasileiro Série C
            | Brazilian Serie C
-           | BR C    ## br.c
+           | BR C
 4       Campeonato Brasileiro Série D
-           | BR D    ## br.d 
+           | BR D
 
 copa     Copa do Brasil
            | BRA CUP
@@ -25,23 +25,23 @@ copa     Copa do Brasil
 league     Primeira Liga
             | Liga Sul-Minas-Rio | South-Minas-Rio League
             | Copa Sul-Minas-Rio | South-Minas-Rio Cup
-## note: also known as Liga Sul-Minas-Rio (South-Minas-Rio League) or Copa Sul-Minas-Rio (South-Minas-Rio Cup), 
+## note: also known as Liga Sul-Minas-Rio (South-Minas-Rio League) or Copa Sul-Minas-Rio (South-Minas-Rio Cup),
 ##       is a Brazilian football competition contested between Brazil's South Region, Minas Gerais and Rio de Janeiro state teams.
 
 
-rs         Gauchão 
+rs         Gauchão
             | Campeonato Estadual Gaúcho
             | Brazilian Campeonato Gaucho
-rs.2       Divisão de Acesso Gaúcha 
+rs.2       Divisão de Acesso Gaúcha
             | Divisão de acesso do Campeonato Estadual Gaúcho
-rs.3       Terceirona 
+rs.3       Terceirona
             | Segunda divisão do Campeonato Estadual Gaúcho
 
-sp         Paulistão 
+sp         Paulistão
              | Campeonato Estadual Paulista
              | Brazilian Campeonato Paulista
 rj         Campeonato Estadual Carioca
              | Brazilian Campeonato Carioca
-mg         Mineirão 
+mg         Mineirão
              | Campeonato Estadual Mineiro
-             | Brazilian Campeonato Mineiro 
+             | Brazilian Campeonato Mineiro
