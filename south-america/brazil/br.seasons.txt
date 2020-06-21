@@ -52,8 +52,8 @@ BR 1, 2012,
 BR 1, 2013,
 BR 1, 2014,
 BR 1, 2015,
-BR 1, 2016,  15 May   - 11 December 2016
-BR 1, 2017,  13 May   -  3 December 2017
-BR 1, 2018,  14 April -  2 December 2018
-BR 1, 2019,  27 April -  8 December 2019,  20 Clubs, 380 Matches, 876 Goals,  Double Round-Robin
+BR 1, 2016,  15 May   - 11 December
+BR 1, 2017,  13 May   -  3 December
+BR 1, 2018,  14 April -  2 December
+BR 1, 2019,  27 April -  8 December,  20,  380,  876,  Double Round-Robin
 BR 1, 2020,
