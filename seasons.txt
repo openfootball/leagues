@@ -1,0 +1,40 @@
+####################
+#  World Cups
+
+# see https://origin.fifa.com/fifa-tournaments/statistics-and-records/worldcup/index.html
+#      wikipedia - en.wikipedia.org/wiki/<:YEAR>_FIFA_World_Cup (see infobox)
+
+# note/check:
+#     include replays in early tournaments? yes
+#     include goals after extra time? yes
+#             goals in penalty shootout? no
+
+
+# todo/fix:
+##  allow (short) date ranges e.g:
+##   4-19 June   or June 4-19
+##   13-30 July  or July 13-30
+
+
+League,  Num,  Year, Dates,  Teams,  Matches,   Goals
+WORLD,   1,    1930,  July 13 - July 30 ,  13  ,   18  ,   70     # Uruguay
+WORLD,   2,    1934,  May 27  - June 10 ,  16  ,   17  ,   70     # Italy
+WORLD,   3,    1938,  June 4  - June 19 ,  15  ,   18  ,   84     # France
+WORLD,   4,    1950,  June 24 - July 16 ,  13  ,   22  ,   88     # Brazil
+WORLD,   5,    1954,             ,  16  ,   26  ,  140     # Switzerland
+WORLD,   6,    1958,             ,  16  ,   35  ,  126     # Sweden
+WORLD,   7,    1962,             ,  16  ,   32  ,   89     # Chile
+WORLD,   8,    1966,             ,  16  ,   32  ,   89     # England
+WORLD,   9,    1970,             ,  16  ,   32  ,   95     # Mexico
+WORLD,  10,    1974,             ,  16  ,   38  ,   97     # Germany
+WORLD,  11,    1978,             ,  16  ,   38  ,  102     # Argentina
+WORLD,  12,    1982,             ,  24  ,   52  ,  146     # Spain
+WORLD,  13,    1986,             ,  24  ,   52  ,  132     # Mexico
+WORLD,  14,    1990,             ,  24  ,   52  ,  115     # Italy
+WORLD,  15,    1994,             ,  24  ,   52  ,  141     # United States
+WORLD,  16,    1998,             ,  32  ,   64  ,  171     # France
+WORLD,  17,    2002,             ,  32  ,   64  ,  161     # South Korea / Japan
+WORLD,  18,    2006,             ,  32  ,   64  ,  147     # Germany
+WORLD,  19,    2010,             ,  32  ,   64  ,  145     # South Africa
+
+

@@ -2,7 +2,7 @@
 ###################
 # Campeonato Brasileiro Série A
 
-League, Season, Dates,  Clubs,  Matches, Goals,   Comments
+League, Season, Dates,  Clubs,  Matches, Goals
 
 ###############
 # Brasileirão (1971-)
@@ -50,10 +50,10 @@ BR 1, 2010,
 BR 1, 2011,
 BR 1, 2012,
 BR 1, 2013,
-BR 1, 2014,
-BR 1, 2015,
-BR 1, 2016,  15 May   - 11 December
-BR 1, 2017,  13 May   -  3 December
-BR 1, 2018,  14 April -  2 December
-BR 1, 2019,  27 April -  8 December,  20,  380,  876,  Double Round-Robin
-BR 1, 2020,
+BR 1, 2014,                        ,  20
+BR 1, 2015,                        ,  20
+BR 1, 2016,  15 May   - 11 December,  20
+BR 1, 2017,  13 May   -  3 December,  20
+BR 1, 2018,  14 April -  2 December,  20
+BR 1, 2019,  27 April -  8 December,  20,  380,  876    # Double Round-Robin
+BR 1, 2020, ,                         20

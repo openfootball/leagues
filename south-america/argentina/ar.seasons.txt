@@ -1,7 +1,7 @@
 #############################
 # Argentine Primera División
 
-League, Season, Dates,  Clubs,  Matches, Goals,   Comments
+League, Season, Dates,  Clubs,  Matches, Goals
 
 
 # League format:
@@ -12,7 +12,7 @@ League, Season, Dates,  Clubs,  Matches, Goals,   Comments
 #  - Apertura / Clausura (1991-2012)
 #  - Inicial / Final (2012-14)
 
-AR 1, 1990-91,  20 August 1990    - 30 June 1991,  20, , , Apertura / Clausura
+AR 1, 1990-91,  20 August 1990    - 30 June 1991,  20        # Apertura / Clausura
 AR 1, 1991-92,  10 September 1991 -  5 July 1992,
 AR 1, 1992-93,
 AR 1, 1993-94
@@ -36,11 +36,11 @@ AR 1, 2010-11,   6 August 2010 - 30 June 2011
 AR 1, 2011-12,   5 August 2011 -  1 July 2012
 AR 1, 2012-13,   3 August 2012 - 29 June 2013
 AR 1, 2013-14,   2 August 2013 - 24 May 2014
-AR 1, 2014,      8 August      - 14 December,    20,    ## note: transition (shortened year)
-AR 1, 2015,     13 February    -  6 December
-AR 1, 2016,      5 February    - 29 May                     ## note: transition (shortened year)
-AR 1, 2016-17,  26 August 2016 - 27 June 2017
-AR 1, 2017-18,  25 August 2017 - 14 May 2018
-AR 1, 2018-19,  10 August 2018 -  7 April 2019
-AR 1, 2019-20,  26 July 2019   -  9 March 2020
+AR 1, 2014,      8 August      - 14 December,    20     ## note: transition (shortened year)
+AR 1, 2015,     13 February    -  6 December,    30
+AR 1, 2016,      5 February    - 29 May,         30     ## note: transition (shortened year)
+AR 1, 2016-17,  26 August 2016 - 27 June 2017,   30
+AR 1, 2017-18,  25 August 2017 - 14 May 2018,    28
+AR 1, 2018-19,  10 August 2018 -  7 April 2019,  26
+AR 1, 2019-20,  26 July 2019   -  9 March 2020,  24
 
