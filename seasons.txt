@@ -36,5 +36,7 @@ WORLD,  16,    1998,             ,  32  ,   64  ,  171     # France
 WORLD,  17,    2002,             ,  32  ,   64  ,  161     # South Korea / Japan
 WORLD,  18,    2006,             ,  32  ,   64  ,  147     # Germany
 WORLD,  19,    2010,             ,  32  ,   64  ,  145     # South Africa
+WORLD,  20,    2014,             ,  32  ,   64  ,  171     # Brazil
+WORLD,  21,    2018,             ,  32  ,   64  ,  169     # Russia
 
 
