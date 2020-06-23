@@ -11,6 +11,17 @@ League, Season, Dates,  Clubs,  Matches, Goals
 #  - Doble tournament Metropolitano / Nacional (1967-85)
 #  - Apertura / Clausura (1991-2012)
 #  - Inicial / Final (2012-14)
+#
+#  history:
+#  - Round-robin tournaments (1891–1966)
+#  - Metropolitano and Nacional (1967–1985)
+#  - European-styled seasons (1985–1991)
+#  - Apertura and Clausura (1991–2012)
+#  - Inicial and Final (2012–2014)
+#  - Superfinal (2013–2014)
+#  - 2014–20: One tournament again and Superliga
+#  - 2020–present
+
 
 AR 1, 1990-91,  20 August 1990    - 30 June 1991,  20        # Apertura / Clausura
 AR 1, 1991-92,  10 September 1991 -  5 July 1992,
@@ -33,14 +44,14 @@ AR 1, 2007-08,      3 August 2007 - 22 June 2008
 AR 1, 2008-09,     	8 August 2008 - 5 June 2009
 AR 1, 2009-10,  21 August 2009 - 23 May 2010
 AR 1, 2010-11,   6 August 2010 - 30 June 2011
-AR 1, 2011-12,   5 August 2011 -  1 July 2012
-AR 1, 2012-13,   3 August 2012 - 29 June 2013
-AR 1, 2013-14,   2 August 2013 - 24 May 2014
-AR 1, 2014,      8 August      - 14 December,    20     ## note: transition (shortened year)
-AR 1, 2015,     13 February    -  6 December,    30
-AR 1, 2016,      5 February    - 29 May,         30     ## note: transition (shortened year)
-AR 1, 2016-17,  26 August 2016 - 27 June 2017,   30
-AR 1, 2017-18,  25 August 2017 - 14 May 2018,    28
-AR 1, 2018-19,  10 August 2018 -  7 April 2019,  26
+AR 1, 2011-12,   5 August 2011 -  1 July 2012,   20,  380,  813
+AR 1, 2012-13,   3 August 2012 - 29 June 2013,   20,  381,  854
+AR 1, 2013-14,   2 August 2013 - 24 May 2014,    20,  383,  812
+AR 1, 2014,      8 August      - 14 December,    20,  190,  491     ## note: transition (shortened year)
+AR 1, 2015,     13 February    -  6 December,    30,  468, 1045
+AR 1, 2016,      5 February    - 29 May,         30,  242,  606     ## note: transition (shortened year)
+AR 1, 2016-17,  26 August 2016 - 27 June 2017,   30,  450, 1024
+AR 1, 2017-18,  25 August 2017 - 14 May 2018,    28,  378,  854
+AR 1, 2018-19,  10 August 2018 -  7 April 2019,  26,  325,  719
 AR 1, 2019-20,  26 July 2019   -  9 March 2020,  24
 
