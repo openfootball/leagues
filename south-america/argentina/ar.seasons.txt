@@ -23,35 +23,35 @@ League, Season, Dates,  Clubs,  Matches, Goals
 #  - 2020–present
 
 
-AR 1, 1990-91,  20 August 1990    - 30 June 1991,  20        # Apertura / Clausura
-AR 1, 1991-92,  10 September 1991 -  5 July 1992,
-AR 1, 1992-93,
-AR 1, 1993-94
-AR 1, 1994-95
-AR 1, 1995-96
-AR 1, 1996-97
-AR 1, 1997-98
-AR 1, 1998-99
-AR 1, 1999-2000,    7 August 1999 - 17 July 2000
-AR 1, 2000-01,     28 July 2000   - 11 July 2001
-AR 1, 2001-02,     17 August 2001 - 19 May 2002
-AR 1, 2002-03,     28 July 2002   -  6 July 2003
-AR 1, 2003-04,      3 August 2003 - 27 June 2004
-AR 1, 2004-05,     15 August 2004 - 3 July 2005
-AR 1, 2005-06,      5 August 2005 - 14 May 2006
-AR 1, 2006-07,      4 August 2006 - 17 June 2007
-AR 1, 2007-08,      3 August 2007 - 22 June 2008
-AR 1, 2008-09,     	8 August 2008 - 5 June 2009
-AR 1, 2009-10,  21 August 2009 - 23 May 2010
-AR 1, 2010-11,   6 August 2010 - 30 June 2011
-AR 1, 2011-12,   5 August 2011 -  1 July 2012,   20,  380,  813
-AR 1, 2012-13,   3 August 2012 - 29 June 2013,   20,  381,  854
-AR 1, 2013-14,   2 August 2013 - 24 May 2014,    20,  383,  812
+AR 1, 1990/91,  20 August 1990    - 30 June 1991,  20        # Apertura / Clausura
+AR 1, 1991/92,  10 September 1991 -  5 July 1992,
+AR 1, 1992/93,
+AR 1, 1993/94
+AR 1, 1994/95
+AR 1, 1995/96
+AR 1, 1996/97
+AR 1, 1997/98
+AR 1, 1998/99
+AR 1, 1999/2000,    7 August 1999 - 17 July 2000
+AR 1, 2000/01,     28 July 2000   - 11 July 2001
+AR 1, 2001/02,     17 August 2001 - 19 May 2002
+AR 1, 2002/03,     28 July 2002   -  6 July 2003
+AR 1, 2003/04,      3 August 2003 - 27 June 2004
+AR 1, 2004/05,     15 August 2004 - 3 July 2005
+AR 1, 2005/06,      5 August 2005 - 14 May 2006
+AR 1, 2006/07,      4 August 2006 - 17 June 2007
+AR 1, 2007/08,      3 August 2007 - 22 June 2008
+AR 1, 2008/09,     	8 August 2008 - 5 June 2009
+AR 1, 2009/10,  21 August 2009 - 23 May 2010
+AR 1, 2010/11,   6 August 2010 - 30 June 2011
+AR 1, 2011/12,   5 August 2011 -  1 July 2012,   20,  380,  813
+AR 1, 2012/13,   3 August 2012 - 29 June 2013,   20,  381,  854
+AR 1, 2013/14,   2 August 2013 - 24 May 2014,    20,  383,  812
 AR 1, 2014,      8 August      - 14 December,    20,  190,  491     ## note: transition (shortened year)
 AR 1, 2015,     13 February    -  6 December,    30,  468, 1045
 AR 1, 2016,      5 February    - 29 May,         30,  242,  606     ## note: transition (shortened year)
-AR 1, 2016-17,  26 August 2016 - 27 June 2017,   30,  450, 1024
-AR 1, 2017-18,  25 August 2017 - 14 May 2018,    28,  378,  854
-AR 1, 2018-19,  10 August 2018 -  7 April 2019,  26,  325,  719
-AR 1, 2019-20,  26 July 2019   -  9 March 2020,  24
+AR 1, 2016/17,  26 August 2016 - 27 June 2017,   30,  450, 1024
+AR 1, 2017/18,  25 August 2017 - 14 May 2018,    28,  378,  854
+AR 1, 2018/19,  10 August 2018 -  7 April 2019,  26,  325,  719
+AR 1, 2019/20,  26 July 2019   -  9 March 2020,  24
 
