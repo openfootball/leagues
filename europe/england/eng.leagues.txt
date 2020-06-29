@@ -29,10 +29,13 @@
 
 playoffs.2   Championship - Play-offs
              | English Championship - Play-offs
+             | English Division One - Play-offs     ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
 playoffs.3   League One - Play-offs
              | English League One - Play-offs
+             | English Division Two - Play-offs     ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
 playoffs.4   League Two - Play-offs
              | English League Two - Play-offs
+             | English Division Three - Play-offs      ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
 
 
 
