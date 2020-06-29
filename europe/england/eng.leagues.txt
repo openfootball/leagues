@@ -7,11 +7,20 @@
           | ENG CS
           | English Championship | English League Championship
           | England Championship
+          | Division One    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
+          | English Division One
+          | England Division One
 3       League One
           | English League One
           | England League One
+          | Division Two    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
+          | English Division Two
+          | England Division Two
 4       League Two
           | English League Two
+          | Division Three    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
+          | English Division Three
+          | England Division Three
 5       National League
           | English National League
 
