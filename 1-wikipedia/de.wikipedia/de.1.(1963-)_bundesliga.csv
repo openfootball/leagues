@@ -1,3 +1,6 @@
-Num,Season,League,Name,Page,Comments
-?,2015/16,de,Bundesliga,Fußball-Bundesliga_2015/16,
-?,2014/15,de,Bundesliga,Fußball-Bundesliga_2014/15,
+League, Num, Season, Name, Page
+
+DE 1,  1,  1963/64, Bundesliga, Fußball-Bundesliga_1963/64
+
+DE 1, 52 , 2014/15, Bundesliga, Fußball-Bundesliga_2014/15
+DE 1, 53 , 2015/16, Bundesliga, Fußball-Bundesliga_2015/16
