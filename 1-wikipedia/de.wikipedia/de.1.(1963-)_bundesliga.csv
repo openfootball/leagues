@@ -1,6 +1,11 @@
-League, Num, Season, Name, Page
+League, Season, Page
 
-DE 1,  1,  1963/64, Bundesliga, Fußball-Bundesliga_1963/64
+DE 1,  1963/64, Fußball-Bundesliga_1963/64
 
-DE 1, 52 , 2014/15, Bundesliga, Fußball-Bundesliga_2014/15
-DE 1, 53 , 2015/16, Bundesliga, Fußball-Bundesliga_2015/16
+DE 1,  2010/11, Fußball-Bundesliga_2010/11
+DE 1,  2011/12, Fußball-Bundesliga_2011/12
+DE 1,  2012/13, Fußball-Bundesliga_2012/13
+
+
+DE 1,  2014/15, Fußball-Bundesliga_2014/15
+DE 1,  2015/16, Fußball-Bundesliga_2015/16
