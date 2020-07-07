@@ -197,10 +197,11 @@ super   Supercoppa Italiana
 
 = Turkey =
 1        Süper Lig
-           | Turkish Super Lig
+           | Turkish Süper Lig | Turkish Super Lig
            | Turkish Super League
            | Türkei Süper Lig [de]
 2       1. Lig
+           | Turkish 1. Lig
            | Türkei TFF 1. Lig [de]     ## todo/check - is TFF the sponsor?
 
 cup     Türkiye Kupasi
@@ -382,6 +383,7 @@ cup   Cup
         | Swiss Super League
         | Schweiz Super League
 2      Challenge League
+        | Swiss Challenge League
 
 cup    Schweizer Cup
         | SUI P
