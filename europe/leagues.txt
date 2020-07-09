@@ -113,6 +113,7 @@ super    Supercopa
 
 = Portugal =
 1       Primeira Liga
+          | Portuguese Primeira Liga
           | Portuguese Liga
           | Portuguese First Division
           | Portugal Primeira Liga
