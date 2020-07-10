@@ -521,6 +521,7 @@ super  Supercup
       | Russland Premier League [de]
 
 2    1. Division
+      | Russian 1. Division
       | Russland 1. Division [de]
 
 cup  Cup
