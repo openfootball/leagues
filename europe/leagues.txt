@@ -1,9 +1,16 @@
 = International =
 
-uefa.cl      Champions League          ## note: cl gets used by Chile (cl) - change? why? why not?
-              | UEFA Champions League
-uefa.el      Europa League
-              | UEFA Europa League
+uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
+                | UEFA Champions League
+uefa.cl.quali  Champions League - Quali      
+                | UEFA Champions League - Qualification
+                | UEFA Champions League - Qualifying
+              
+uefa.el        Europa League
+                | UEFA Europa League
+uefa.el.quali  Europa League - Quali
+                | UEFA Europa League - Qualification
+                | UEFA Europa League - Qualifying
 
 
 uefa.super  Super Cup
