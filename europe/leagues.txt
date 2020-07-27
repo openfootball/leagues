@@ -369,6 +369,7 @@ super  Supercup
 = Hungary =
 1     First League
        | NB I
+       | Hungarian NB I
        | Hungarian First League
 
 cup    Cup
