@@ -12,6 +12,7 @@ asia.cup  AFC Cup
 1      J. League
          | Japanese J League
          | Japan J. League
+         | J1 League | Japan J1 League
 2      J. League 2
          | Japan J. League 2
 
