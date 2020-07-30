@@ -3,6 +3,7 @@
           | ENG PL
           | English Premier League
           | England Premier League
+          | English Football League   ## fix: note - add old pre 1892/3 season leagues names here (move to its own history "section" soon!!!)
 2       Championship
           | ENG CS
           | English Championship | English League Championship
