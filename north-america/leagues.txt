@@ -40,21 +40,21 @@ ncaa    United States NCAA Men's Soccer
 
 = Mexico =
 1      México Primera División
-        | México Primera División Apertura
-        | México Primera División Clausura
         | Liga MX
-        | Liga MX Apertura               ## todo: make / turn Apertura / Clausura and Liguilla into stages - why? why not?
-        | Liguilla Apertura
-        | Liga MX Clausura
-        | Liguilla Clausura
         | Mexican Liga $$BBVA$$ MX
+       ## | México Primera División Apertura  ## todo: make / turn Apertura / Clausura and Liguilla into stages - why? why not?
+       ## | México Primera División Clausura
+       ## | Liga MX Apertura               
+       ## | Liguilla Apertura
+       ## | Liga MX Clausura
+       ## | Liguilla Clausura
 
 2     México Segunda División
-       | México Segunda División Apertura
-       | México Segunda División Clausura
        | Liga de Ascenso
        | Ascenso MX
        | Mexican Ascenso MX
+      ## | México Segunda División Apertura
+      ## | México Segunda División Clausura
 
 copa  Copa MX
        | Mexican Copa MX
