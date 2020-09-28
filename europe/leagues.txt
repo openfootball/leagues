@@ -2,10 +2,10 @@
 
 uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
                 | UEFA Champions League
-uefa.cl.quali  Champions League - Quali      
+uefa.cl.quali  Champions League - Quali
                 | UEFA Champions League - Qualification
                 | UEFA Champions League - Qualifying
-              
+
 uefa.el        Europa League
                 | UEFA Europa League
 uefa.el.quali  Europa League - Quali
@@ -140,11 +140,11 @@ super   Supercup
 
 
 = Gibraltar =
-1   Premier League A  
+1   Premier League A
      | Gibraltarian Premier League A
 
 = Andorra =
-1   Premier Division  
+1   Premier Division
      | Andorran Premier Division
 
 
@@ -319,7 +319,7 @@ cup     Cup
 
 super   Johan Cruijff Schaal   ## todo/check - is supercup?
           | NL SC
-          | Johan Cruijff Schaal in Amsterdam 
+          | Johan Cruijff Schaal in Amsterdam
           | Niederlande Johan Cruijff Schaal in Amsterdam [de]
 
 po      Promotion/Relegation Playoffs
@@ -373,7 +373,7 @@ super  Supercup
        | Hungarian First League
 
 cup    Cup
-        | HUN CUP 
+        | HUN CUP
         | Ungarn Cup [de]
 
 
@@ -454,15 +454,15 @@ cup    Cup
 
 
 = Kosovo =
-1    Superliga A 
+1    Superliga A
       | Kosovan Superliga A
 
 = Albania =
-1    Super League 
+1    Super League
       | Albanian Super League
 
 = Moldova =
-1    First Division 
+1    First Division
       | Moldovan First Division
 
 = Montenegro =
@@ -470,14 +470,15 @@ cup    Cup
       | Montenegrin First League
 
 = Macedonia =
-1    First League 
+1    First League
       | Macedonian First League
 
 
 
 = Romania =
 1    Liga 1
-      | Romania Liga 1 | Romanian First Division
+      | Romania Liga 1 | Romanian Liga 1
+      | Romanian First Division
       | Rumänien Liga 1
 2    Liga 2
       | Rumänien Liga 2
@@ -556,19 +557,19 @@ super  Supercup
 
 
 = Belarus =
-1   Premier League 
+1   Premier League
      | Belarusian Premier League
 
 2   Pervaya Liga
-     | BLR 2  
+     | BLR 2
      | Weißrussland Pervaya Liga [de]
 
 cup  Cup
-      | BLR CUP  
+      | BLR CUP
       | Weißrussland Cup [de]
 
 
-## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?    
+## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?
 res Reserve Liga
      | BLR RES
      | Weißrussland Reserve Liga [de]
@@ -576,15 +577,15 @@ res Reserve Liga
 
 
 = Armenia =
-1   Premier League 
+1   Premier League
      | Armenian Premier League
 
 = Azerbaijan =
-1   Premier League A  
+1   Premier League A
      | Azerbaijani Premier League A
 
 = Georgia =
-1   Premier League A  
+1   Premier League A
      | Georgian Premier League A
 
 
