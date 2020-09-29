@@ -127,6 +127,7 @@ super    Supercopa
 
 2      Segunda Liga
          | Portugal Segunda Liga
+         | Portuguese Segunda Liga
 
 cup     Taça de Portugal
           | Portugal Taça de Portugal
