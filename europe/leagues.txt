@@ -3,8 +3,10 @@
 uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
                 | UEFA Champions League
 uefa.cl.quali  Champions League - Quali
+                | UEFA CL Q
                 | UEFA Champions League - Qualification
                 | UEFA Champions League - Qualifying
+                | UEFA Champions League - Qualifikation [de]
 
 uefa.el        Europa League
                 | UEFA Europa League
@@ -16,6 +18,14 @@ uefa.el.quali  Europa League - Quali
 uefa.super  Super Cup
              | UEFA Super Cup
              | UEFA SC
+
+atl.cup     Atlantic Cup
+             | ATL CUP
+#  The Atlantic Cup is a pre/mid season football tournament
+#   held in Algarve, Portugal for European football clubs
+#   from national leagues which do not operate in the winter months.
+#   It therefore consists mainly of teams from Scandinavia, Northern
+#   and Central Europe.
 
 
 czsk.super  Czechoslovak Supercup
@@ -59,6 +69,17 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
         | Northern Irish Premiership
         | Nordirland Premiership [de]
 
+cup.l  League Cup
+        | NIRL LC
+        | Irish League Cup
+        | Northern Ireland Football League Cup
+
+cup    Irish Cup
+        | NIRLCUP
+        | Irish Football Association Challenge Cup
+        | Nordirland $$JJB Sports$$ Irish Cup [de]
+
+
 = Ireland =
 1      Premier Division
         | Irish Premier Division
@@ -70,6 +91,19 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
 cup.l  League Cup
         | IRL LC
         | Irland League Cup
+
+###
+## todo/check:
+##  use int'l  - with two countries e.g.
+# Republic of Ireland
+#  Northern Ireland
+#   or just use cup  for Ireland - why? why not?
+#    just incl. (1,2?) northern ireland teams
+#    (by invitation? e.g. Derry City FC)
+cup   FAI Cup
+        | IRL CUP
+        | Football Association of Ireland Senior Challenge Cup
+
 
 
 = Iceland =
@@ -156,6 +190,10 @@ super   Supercup
 2        Ligue 2
           | French Ligue 2
           | Frankreich Ligue 2 [de]
+3        National
+          | Championnat National
+          | Frankreich National [de]
+
 
 cup      Coupe de France
           | French Coupe de France
@@ -213,6 +251,17 @@ super   Supercoppa Italiana
            | Turkish 1. Lig
            | Türkei TFF 1. Lig [de]     ## todo/check - is TFF the sponsor?
 
+## split in two groups - Weiss und Rot ???
+3.b        2. Lig - Beya
+            | Türkei 2. Lig - Beyaz Gruppe
+3.ki       2. Lig - Kirmizi
+            | Türkei 2. Lig - Kirmizi Gruppe
+
+3.playoffs   2. Lig - Play Offs
+              | TUR 3 PO
+
+
+
 cup     Türkiye Kupasi
            | Türkei Türkiye Kupasi
 
@@ -244,6 +293,9 @@ cup   Cypriot Cup
 1     Premier League
        | Maltese Premier League
 
+cup   Cup
+       | MLT CUP
+       | Malta FA Trophy
 
 
 = Denmark =
@@ -372,6 +424,10 @@ super  Supercup
        | NB I
        | Hungarian NB I
        | Hungarian First League
+
+2     NB II
+       | HUN 2
+       | Ungarn NB II
 
 cup    Cup
         | HUN CUP
@@ -523,6 +579,9 @@ super  Supercup
          | Estonian First League A
          | Estland Meistriliiga [de]
 
+cup    Cup
+        | EST CUP
+        | Estland Cup [de]
 
 
 = Russia =
@@ -564,6 +623,10 @@ super  Supercup
 2   Pervaya Liga
      | BLR 2
      | Weißrussland Pervaya Liga [de]
+
+3   Vtoraya Liga
+     | BLR 3
+     | Weißrussland Vtoraya Liga [de]
 
 cup  Cup
       | BLR CUP

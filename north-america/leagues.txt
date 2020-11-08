@@ -2,7 +2,9 @@
 = International =
 
 concacaf.cl   CONCACAF Champions League
+                | CCC CL
                 | Champions League
+
 concacaf.l    CONCACAF League
 
 
@@ -16,13 +18,17 @@ usmx.cup   US & Mexican Leagues Cup
 
 = United States =                   ## todo/check - (auto)add incl. Canada - how? - why? why not?
 1       Major League Soccer
-         | MLS | USA MLS 
+         | MLS | USA MLS
          | USA Major League Soccer
+
+mls.back  MLS is Back Tournament   ## special covid-19/corona "bubble" tournament in 2020
+           | MLSBACK
+
 
 2       United Soccer League Championship
          | USLC
          | USL Championship
-3       United Soccer League One  
+3       United Soccer League One
          | USL1
 4       United Soccer League Two
          | USL2
@@ -44,7 +50,7 @@ ncaa    United States NCAA Men's Soccer
         | Mexican Liga $$BBVA$$ MX
        ## | México Primera División Apertura  ## todo: make / turn Apertura / Clausura and Liguilla into stages - why? why not?
        ## | México Primera División Clausura
-       ## | Liga MX Apertura               
+       ## | Liga MX Apertura
        ## | Liguilla Apertura
        ## | Liga MX Clausura
        ## | Liguilla Clausura

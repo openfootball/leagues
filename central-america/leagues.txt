@@ -3,6 +3,11 @@
       | Costa Rica Primera División
       | Costa Rican Primera Division
 
+2    Segunda División
+       | Liga de Ascenso
+       | CRC ASC
+       | Costa Rica Liga de Ascenso
+
 = Honduras =
 1   Primera División
       | Honduran Primera Division
@@ -14,3 +19,9 @@
 = Guatemala =
 1  Liga Nacional
      | Guatemalan Liga Nacional
+
+= Nicaragua =
+1   Primera División
+      | NIC 1
+      |  Nicaragua Primera División
+

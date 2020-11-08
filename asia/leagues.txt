@@ -7,6 +7,7 @@ asia.cup  AFC Cup
            | AFC C
 
 
+
 = Japan =
 
 1      J. League
@@ -63,7 +64,9 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 1.i      I-League
           | Indian I-League
 1.ii     Super League
+          | IND SL
           | Indian Super League
+
 # note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India
 #         along with I-League
 # todo/check: how to handle two top football leagues? check auto-add keys and more?
@@ -71,15 +74,17 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 = Taiwan =
 1      Premier League
-        | TWN 1   
+        | TWN 1
         | Taiwan Football Premier League
 
 
 = China =
 
 1      Super League
+         | CHN SL
          | Chinese Super League
          | China Chinese Super League
+
 
 = Kazakhstan =
 
@@ -89,11 +94,32 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 = Turkmenistan =
 
 1       1. Liga
-         | TURK 1   
+         | TURK 1
          | Turkmenistan 1. Liga
+
+
+= Uzbekistan =
+
+1       Super League
+         | UZB 1
+         | Usbekistan PFL [de]
+
+
+= Tajikistan =
+
+1       Higher League
+         | TAJ 1
+         | Tadschikistan 1. Liga  [de]
+
 
 = Vietnam =
 
-cup     Cup 
-         | VIE CUP  
+1      V. League 1
+        | VIE 1
+        | V. League
+        | Vietnam V-League
+
+
+cup     Cup
+         | VIE CUP
          | Vietnam Cup

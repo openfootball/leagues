@@ -26,10 +26,15 @@
 
 
 copa     Copa Argentina
-          | Argentinien Cup [de]
           | ARG CUP
+          | Argentinien Cup [de]
 copa.l   Copa Superliga
           | ARG LC
           | Copa de la Superliga
           | Argentinien Ligacup [de]
+
+
+copa.super  Supercopa Argentina
+            | ARG SC
+            | Argentinien Supercup [de]
 
