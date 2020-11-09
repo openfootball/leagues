@@ -8,6 +8,8 @@
            | Nacional B
            | Primera Nacional       ## note: and Primera Nacional since the 2019-20 season
            | Argentine Nacional B
+           | ARG BNA
+           | Argentinien Primera Nacional B [de]
 
 3.metro   Primera B Metropolitana
             | Argentine Primera B

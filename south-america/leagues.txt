@@ -33,6 +33,12 @@ copa.bic  Copa Bicentenario 2019
 1      Primera Divison
         | Chilean Primera Division
         | Chile Primera Divison
+
+2      Primera B
+        | CHI 2
+        | Chile Primera B
+
+
 copa   Copa Chile
         | CHI CUP
 

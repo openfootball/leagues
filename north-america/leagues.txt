@@ -21,7 +21,7 @@ usmx.cup   US & Mexican Leagues Cup
          | MLS | USA MLS
          | USA Major League Soccer
 
-mls.back  MLS is Back Tournament   ## special covid-19/corona "bubble" tournament in 2020
+mls.back  MLS is Back Tournament   ## special covid-19/corona "bubble" (summer) tournament in 2020
            | MLSBACK
 
 

@@ -33,6 +33,12 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
         | KOR 2
         | Südkorea K-League 2 [de]
 
+cup    Cup
+        | KOR CUP
+        | FA Cup
+        | Südkorea FA Cup [de]
+
+
 
 = Singapore =
 
@@ -45,17 +51,20 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 
 = Thailand =
-
 1     Premier League
        | Thai Premier League
 
 = Malaysia =
-
 1     Super League
        | Malaysian Super League
 
-= Indonesia =
+= Myanmar =
+1     National League
+        | MMR 1
+        | Myanmar National League
 
+
+= Indonesia =
 1     Super League
        | Indonesian Super League
 
@@ -79,7 +88,6 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 
 = China =
-
 1      Super League
          | CHN SL
          | Chinese Super League
@@ -87,38 +95,36 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
 
 
 = Kazakhstan =
-
 1      Premier League A
          | Kazakh Premier League A
 
 = Turkmenistan =
-
 1       1. Liga
          | TURK 1
          | Turkmenistan 1. Liga
 
 
 = Uzbekistan =
-
 1       Super League
          | UZB 1
          | Usbekistan PFL [de]
 
 
 = Tajikistan =
-
 1       Higher League
          | TAJ 1
          | Tadschikistan 1. Liga  [de]
 
+cup.super  Super Cup
+            | TAJ SC
+            | Tadschikistan Super Cup [de]
+
 
 = Vietnam =
-
 1      V. League 1
         | VIE 1
         | V. League
         | Vietnam V-League
-
 
 cup     Cup
          | VIE CUP

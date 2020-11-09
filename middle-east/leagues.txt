@@ -7,18 +7,52 @@
       | Israel National League
 
 cup     League Cup National
-         | ISR LCN | Israel League Cup National 
+         | ISR LCN | Israel League Cup National
 cup.lp  League Cup Premier
          | ISR LCP | Israel League Cup Premier
 
-super   Supercup 
+super   Supercup
          | ISR SC | Israel Supercup
 
 
+= Palestine =
+
+1.i   West Bank Premier League
+       | PLE 1
+       | Palästina West Bank League [de]
+
+1.ii  Gaza Strip Premier League
+
+# West Bank Premier League is one of the two top divisions
+# of the Palestinian Football Federation (PFA).
+# The other is the Gaza Strip Premier League.
+
+cup.gaza  Gaza Strip Cup
+           | GAZ C
+           | Palästina Gaza-Streifen Cup [de]
+
+
+
+
+
 = Qatar =
-1   Qatar Stars League
+1   Stars League
+     | Qatar Stars League
      | Katar Stars League [de]
 
 = Iran =
-1   Iran Pro League
-      | IRI 1    # note: FIFA code is IRN
+1    Pro League
+      | IRI 1     # note: FIFA code is IRN
+      | Iran Pro League
+
+= Bahrain =
+1    Premier League
+      | BAH
+      | Bahraini Premier League
+      | Bahrain Premier League
+
+= Oman =
+cup   Sultan Cup
+       | OMA SC
+       | Oman Sultan Cup
+

@@ -4,5 +4,17 @@
         | Australian A-League
         | Australien $$Hyundai$$ A-League [de]
 
+## In total the National Premier Leagues (NPL) is contested
+# by clubs from eight divisions; these are
+# ACT, NSW, Northern NSW, Queensland, South Australia,
+# Tasmania, Victoria and Western Australia.
+
+2.qpr  Queensland Premier
+         | National Premier Leagues Queensland
+         | AUS QPR
+         | Australien Queensland Premier [de]
+
+
+
 cup     FFA Cup
          | Australien FFA Cup

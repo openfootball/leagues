@@ -362,6 +362,11 @@ cup    Cup
           | Dutch Eredivisie
           | Dutch First Division
           | Niederlande Eredivisie [de]
+
+1.comeback  Eredivisie Comeback Tournament   ## special (summer) covid-19/corona tournament in 2020
+             | NED COT
+
+
 2       Eerste Divisie
           | Dutch Eerste Divisie
 
@@ -409,6 +414,11 @@ super  Supercup
         | Polen Ekstraklasa [de]
 2      I Liga
         | Polen I Liga [de]
+3      II Liga
+        | POL 3
+        | Polen II Liga [de]
+
+
 
 cup    Cup
         | Polish Cup
@@ -536,9 +546,17 @@ cup    Cup
 1    Liga 1
       | Romania Liga 1 | Romanian Liga 1
       | Romanian First Division
-      | Rumänien Liga 1
+      | Rumänien Liga 1 [de]
 2    Liga 2
-      | Rumänien Liga 2
+      | Rumänien Liga 2 [de]
+# Starting with the 2016-17 season,
+#  Liga II has a single division of 20 teams.
+
+3.a  Liga 3 - Seria 1
+       | ROU 3A
+       | Rumänien Liga 3 - Seria 1 [de]
+
+
 
 cup    Cup
         | Rumänien Cup
