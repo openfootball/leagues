@@ -38,8 +38,13 @@ rs.3       Terceirona
             | Segunda divisão do Campeonato Estadual Gaúcho
 
 sp         Paulistão
+             | Campeonato Paulista Série A1
+             | Campeonato Paulista
              | Campeonato Estadual Paulista
              | Brazilian Campeonato Paulista
+             | Brasilien Paulista Serie A1 [de]
+             | BRA PAU
+
 rj         Campeonato Estadual Carioca
              | Brazilian Campeonato Carioca
 mg         Mineirão

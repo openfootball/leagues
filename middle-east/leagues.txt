@@ -38,6 +38,13 @@ cup.gaza  Gaza Strip Cup
        | Saudi Pro League
        | SAUD 1
 
+cup   King Cup
+        | King's Cup
+        | SAUD KC  
+
+super  Super Cup
+        | SAUD SC  
+        
 
 = Qatar =
 1   Stars League

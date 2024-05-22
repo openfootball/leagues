@@ -3,10 +3,10 @@
 uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
                 | UEFA Champions League
 uefa.cl.quali  Champions League - Quali
-                | UEFA CL Q
                 | UEFA Champions League - Qualification
                 | UEFA Champions League - Qualifying
                 | UEFA Champions League - Qualifikation [de]
+                | UEFA CL Q
 
 uefa.el        Europa League
                 | UEFA Europa League
@@ -32,33 +32,33 @@ atl.cup     Atlantic Cup
 
 
 czsk.super  Czechoslovak Supercup
-             | CZSK SC
              | Tschechisch-Slowakischer Supercup [de]
+             | CZSK SC
 
 
 = Scotland =
 1       Premiership
-         | SCO PS
          | Scottish Premiership
          | Schottland Premiership [de]
+         | SCO PS
 2       Championship
-         | SCO CS
          | Scottish Championship
          | Schottland Championship [de]
+         | SCO CS
 3       League One
          | Scottish League One
 4       League Two
          | Scottish League Two
 
 cup.l  League Cup
-         | SCO LC
          | Scottish League Cup
          | Schottland League Cup [de]
+         | SCO LC
 
 cup.fa  FA Cup                              ## use cup as key - why? why not?
-         | SCO FA
          | Scottish Cup
          | Schottland FA Cup [de]
+         | SCO FA
 
 
 = Wales =
@@ -68,19 +68,26 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
 
 = Northern Ireland =
 1     Premiership
-        | NIRL 1      # note: FIFA code is NIR !!!
         | Northern Irish Premiership
+        | NIFL Premiership
         | Nordirland Premiership [de]
+        | NIRL 1      # note: FIFA code is NIR !!!
+
+2      Championship 
+        | NIFL Championship
+        | Nordirland IFA Championship [de]
+        | NIRL 2
+
 
 cup.l  League Cup
-        | NIRL LC
         | Irish League Cup
         | Northern Ireland Football League Cup
+        | NIRL LC
 
 cup    Irish Cup
-        | NIRLCUP
         | Irish Football Association Challenge Cup
         | Nordirland $$JJB Sports$$ Irish Cup [de]
+        | NIRLCUP
 
 
 = Ireland =
@@ -92,8 +99,8 @@ cup    Irish Cup
         | Irland First Division [de]
 
 cup.l  League Cup
-        | IRL LC
         | Irland League Cup
+        | IRL LC
 
 ###
 ## todo/check:
@@ -122,9 +129,13 @@ cup    Cup
         | Icelandic Cup
         | Island Cup
 
+cup.l  League Cup
+        | Island Ligacup [de]    ## why Ligacup A ??
+        | ISL LCA
+
 super  Super Cup
-        | ISL SC
         | Island Super Cup
+        | ISL SC
 
 
 = Faroe Islands =
@@ -144,15 +155,15 @@ super  Super Cup
           | Spanish Segunda División
           | Spanien Segunda Division [de]
 3        Segunda División B
-          | ESP 2B
           | Spanien Segunda Division B [de]
+          | ESP 2B
 
 cup      Copa del Rey
           | Spanish Copa del Rey
 
 super    Supercopa
-          | ESP SC
           | Spanien Supercopa [de]
+          | ESP SC
 
 
 = Portugal =
@@ -170,11 +181,12 @@ cup     Taça de Portugal
           | Portugal Taça de Portugal
 
 cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup)
-          | POR LC
           | Portugal $$Carlsberg$$ Cup    ## $$$ Carlsberg is sponsor
+          | POR LC
 
 super   Supercup
-         | POR SC | Portugal Supercup
+         | Portugal Supercup
+         | POR SC 
 
 
 = Gibraltar =
@@ -203,40 +215,47 @@ cup      Coupe de France
           | Frankreich Coupe de France [de]
 
 cup.l    Coupe de la Ligue    ## French League Cup
-          | FRA LC
           | French Coupe de la Ligue
           | Frankreich Coupe de la Ligue [de]
+          | FRA LC
 
 super    Trophée des Champions           ## todo - check if this is the french supercup?
-          | FRA SC
           | Frankreich Trophée des Champions [de]
+          | FRA SC
 
 
 
 = Italy =
 1       Serie A
-          | ITA A
           | Italian Serie A
           | Italien Serie A [de]
+          | ITA A
 2       Serie B
-          | ITA B
           | Italian Serie B
           | Italien Serie B [de]
+          | ITA B
 3.a     Serie C (North & Central West)   # Group A
-          | ITA C1A | Italien Lega Pro Prima Divisione Girone A
+          | Italien Lega Pro Prima Divisione Girone A
+          | ITA C1A 
 3.b     Serie C (North & Central East)   # Group B
-          | ITA C1B | Italien Lega Pro Prima Divisione Girone B
+          | Italien Lega Pro Prima Divisione Girone B
+          | ITA C1B 
 3.c     Serie C (South)                  # Group C
-          | ITA C1C | Italien Lega Pro Prima Divisione Girone C
+          | Italien Lega Pro Prima Divisione Girone C
+          | ITA C1C
 
 cup     Coppa Italia
           | Italian Coppa Italia
           | Italien Coppa Italia [de]
 
+cup.c   Coppa Italia Serie C
+          | Italien Coppa Italia Serie C [de]
+          | ITA CUP R   ##  keep - why? why not?  R for ?? 
+
 super   Supercoppa Italiana
-          | ITA SC
           | Italian Super Cup
           | Italien Supercoppa [de]
+          | ITA SC
 
 
 = San Marino =
@@ -269,8 +288,8 @@ cup     Türkiye Kupasi
            | Türkei Türkiye Kupasi
 
 super   Süper Kupa
-          | TUR SC
           | Türkei Süper Kupa [de]
+          | TUR SC
 
 
 = Greece =
@@ -297,8 +316,8 @@ cup   Cypriot Cup
        | Maltese Premier League
 
 cup   Cup
-       | MLT CUP
        | Malta FA Trophy
+       | MLT CUP
 
 
 = Denmark =
@@ -309,9 +328,9 @@ cup   Cup
 2        1. Division
           | Dänemark 1. Division [de]
 cup     Landspokalturneringen
-          | DEN P
           | DBU Pokalen
           | Dänemark Landspokalturneringen [de]
+          | DEN P
 
 = Norway =
 1       Tippeligaen
@@ -361,10 +380,10 @@ cup    Cup
 
 = Netherlands =
 1       Eredivisie
-          | NL 1
           | Dutch Eredivisie
           | Dutch First Division
           | Niederlande Eredivisie [de]
+          | NL 1
 
 1.comeback  Eredivisie Comeback Tournament   ## special (summer) covid-19/corona tournament in 2020
              | NED COT
@@ -374,14 +393,14 @@ cup    Cup
           | Dutch Eerste Divisie
 
 cup     Cup
-          | NL CUP
           | Dutch KNVB Beker
           | Niederlande KNVB Cup [de]
+          | NL CUP
 
 super   Johan Cruijff Schaal   ## todo/check - is supercup?
-          | NL SC
           | Johan Cruijff Schaal in Amsterdam
           | Niederlande Johan Cruijff Schaal in Amsterdam [de]
+          | NL SC
 
 po      Promotion/Relegation Playoffs
           | Niederlande Auf/Abstiegsplayoffs [de]
@@ -403,7 +422,8 @@ cup    Beker van Belgie
           | Belgium Beker van Belgie
 
 super  Supercup
-         | BEL SC | Belgien Supercup
+         | Belgien Supercup
+         | BEL SC 
 
 
 = Luxembourg =
@@ -418,8 +438,8 @@ super  Supercup
 2      I Liga
         | Polen I Liga [de]
 3      II Liga
-        | POL 3
         | Polen II Liga [de]
+        | POL 3
 
 
 
@@ -429,22 +449,23 @@ cup    Cup
         | Polen Cup [de]
 
 super  Supercup
-        | POL SC | Polen Supercup
+        | Polen Supercup
+        | POL SC 
 
 
 = Hungary =
 1     First League
-       | NB I
        | Hungarian NB I
        | Hungarian First League
+       | NB I
 
 2     NB II
-       | HUN 2
        | Ungarn NB II
+       | HUN 2
 
 cup    Cup
-        | HUN CUP
         | Ungarn Cup [de]
+        | HUN CUP
 
 
 = Czech Republic =
@@ -459,9 +480,9 @@ cup   Cup
 
 = Switzerland =
 1      Super League
-        | SUI SL
         | Swiss Super League
         | Schweiz Super League
+        | SUI SL
 2      Challenge League
         | Swiss Challenge League
 
@@ -474,7 +495,13 @@ cup    Schweizer Cup
 = Slovakia =
 1     First League
         | Slovak First League
+        | Slovak First Football League
+        | 1. League
         | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
+
+2    Second League
+        | Slovak Second League
+        | 2. Liga
 
 cup   Slovak Cup
         | Slowakei Cup [de]
@@ -483,44 +510,59 @@ cup   Slovak Cup
 = Slovenia =
 1     First League
        | Slovene First League
-       | SLO 1 | Prva Liga      # note: official FIFA code is SVN !!!
+       | Prva Liga      
+       | SLO 1             # note: official FIFA code is SVN !!!
 cup   Cup
        | Slowenien Cup
        | SLO CUP                # note: official FIFA code is SVN
 
 = Croatia  =
-1      1. HNL
-        | Croatian First League
-        | Kroatien 1. HNL
+1      HNL
+        | Croatian Football League
+        | Kroatien HNL
+2      Prva NL
+        | 1. NL
+        | First Football League
+        | Croatian First Football League
+3      Druga NL
+         | 2. NL
+         | Second Football League
+         | Croatian Second Football League     
+         | Kroatien Druga HNL [de]
+ 
+# note - a league structure reorganization from 2022–23 
+#       led to name changes for the three top league levels
+
 
 cup    Cup
         | Croatian Cup
         | Kroatien Croatian Cup [de]
 
 super  Supercup
-        | CRO SC  | Kroatien Supercup
+        | Kroatien Supercup
+        | CRO SC  
 
 
 = Bosnia and Herzegovina =
 1     Premier Liga
-       | BOS 1                   # note: official FIFA code is BIH
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
+       | BOS 1                   # note: official FIFA code is BIH
 
 cup   Bosnia and Herzegovina Football Cup
-       | BOS CUP                  # note: official FIFA code is BIH
        | Bosnien Cup [de]
+       | BOS CUP                  # note: official FIFA code is BIH
 
 = Serbia =
 1     Super League
         | Serbian Super League
-        | SERB 1                   # note: official FIFA code is SRB
         | Serbien Meridijan Superliga  [de]   ## check - Meridijan is sponsor?
+        | SERB 1                   # note: official FIFA code is SRB
 
 cup    Cup
         | Serbian Cup
-        | SER CUP                  # note: official FIFA code is SRB
         | Serbien Cup [de]
+        | SER CUP                  # note: official FIFA code is SRB
 
 
 = Kosovo =
@@ -556,15 +598,16 @@ cup    Cup
 #  Liga II has a single division of 20 teams.
 
 3.a  Liga 3 - Seria 1
-       | ROU 3A
        | Rumänien Liga 3 - Seria 1 [de]
+       | ROU 3A
 
 
 
 cup    Cup
         | Rumänien Cup
 super  Supercup
-        | ROU SC | Rumänien Supercup
+        | Rumänien Supercup
+        | ROU SC 
 
 
 = Bulgaria =
@@ -577,23 +620,23 @@ cup   Cup
        | Bulgarien Cup [de]
 
 super  Supercup
-        |  BUL SC
         | Bulgarien Supercup [de]
+        | BUL SC
 
 
 = Latvia =
 1      Higher League
         | Latvian Higher League
-        | LAT 1                 # note: official FIFA code is LVA
         | Virslīga
         | Latvian First Division
         | Lettland LMT Virsliga [de]
+        | LAT 1                 # note: official FIFA code is LVA
 
 = Lithuania =
 1      First Division
         | Lithuanian First Division
-        | LIT 1                # note: official FIFA code is LTU
         | Litauen A Lyga [de]
+        | LIT 1                # note: official FIFA code is LTU
 
 = Estonia =
 1      Meistriliiga
@@ -601,15 +644,15 @@ super  Supercup
          | Estland Meistriliiga [de]
 
 cup    Cup
-        | EST CUP
         | Estland Cup [de]
+        | EST CUP
 
 
 = Russia =
 1    Premier League
-      | RUS PL
       | Russian Premier League
       | Russland Premier League [de]
+      | RUS PL
 
 2    1. Division
       | Russian 1. Division
@@ -620,8 +663,8 @@ cup  Cup
       | Russland Russian Cup [de]
 
 super  Supercup
-        | RUS SC
         | Russland Supercup [de]
+        | RUS SC
 
 
 = Ukraine =
@@ -646,18 +689,18 @@ super  Supercup
      | Weißrussland Pervaya Liga [de]
 
 3   Vtoraya Liga
-     | BLR 3
      | Weißrussland Vtoraya Liga [de]
+     | BLR 3
 
 cup  Cup
-      | BLR CUP
       | Weißrussland Cup [de]
+      | BLR CUP
 
 
 ## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?
 res Reserve Liga
-     | BLR RES
      | Weißrussland Reserve Liga [de]
+     | BLR RES
 
 
 

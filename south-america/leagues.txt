@@ -60,6 +60,9 @@ copa  Copa Colombia
      | Uruguayan Primera Division
      | Uruguay Primera Division
 
+cup   Uruguay Cup
+       | URU CUP
+
 = Ecuador =
 1  Serie A
      | Ecuadoran Primera A
