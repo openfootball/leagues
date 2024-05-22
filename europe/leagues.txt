@@ -87,7 +87,7 @@ cup.l  League Cup
 cup    Irish Cup
         | Irish Football Association Challenge Cup
         | Nordirland $$JJB Sports$$ Irish Cup [de]
-        | NIRLCUP
+        | NIRL CUP
 
 
 = Ireland =
