@@ -33,6 +33,10 @@ cup.gaza  Gaza Strip Cup
 
 
 
+= Saudi Arabia =
+1   Saudi Professional League
+       | Saudi Pro League
+       | SAUD 1
 
 
 = Qatar =

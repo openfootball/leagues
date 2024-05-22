@@ -14,6 +14,9 @@ uefa.el.quali  Europa League - Quali
                 | UEFA Europa League - Qualification
                 | UEFA Europa League - Qualifying
 
+uefa.ecl      Europa Conference League  
+               | UEFA Europa Conference League
+
 
 uefa.super  Super Cup
              | UEFA Super Cup
