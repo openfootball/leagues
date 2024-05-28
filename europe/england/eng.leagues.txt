@@ -1,23 +1,26 @@
 = England =       ## add incl. Wales   as country2 or something - why? why not?
 1       Premier League
-          | ENG PL
           | English Premier League
-          | England Premier League
+          | England Premier League  ## fix - remove - gets auto added!!
           | English Football League   ## fix: note - add old pre 1892/3 season leagues names here (move to its own history "section" soon!!!)
+          | ENG PL
 2       Championship
-          | ENG CS
+          | Football League Championship
           | English Championship | English League Championship
-          | England Championship
+          | England Championship  ## fix - remove - gets auto added!!!
           | Division One    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
           | English Division One
           | England Division One
+          | ENG CS
 3       League One
+          | Football League One
           | English League One
           | England League One
           | Division Two    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
           | English Division Two
           | England Division Two
 4       League Two
+          | Football League Two
           | English League Two
           | Division Three    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
           | English Division Three

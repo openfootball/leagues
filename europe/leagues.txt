@@ -152,7 +152,7 @@ super  Super Cup
           | Spanien Primera Division [de]
 2        Segunda División                 # todo: add Liga Adelante ??
           | España Segunda División | Segunda División de España
-          | Spanish Segunda División
+          | Spanish Segunda División | La Liga 2
           | Spanien Segunda Division [de]
 3        Segunda División B
           | Spanien Segunda Division B [de]
@@ -322,6 +322,7 @@ cup   Cup
 
 = Denmark =
 1        Superligaen
+          | Superliga
           | Danish Super League
           | Danish SAS-Ligaen
           | Dänemark Superligaen [de]
@@ -454,12 +455,14 @@ super  Supercup
 
 
 = Hungary =
-1     First League
+1     Nemzeti Bajnokság I
+       | NB I
        | Hungarian NB I
        | Hungarian First League
-       | NB I
+       | First League
 
-2     NB II
+2     Nemzeti Bajnokság II
+       | NB II
        | Ungarn NB II
        | HUN 2
 
@@ -518,6 +521,7 @@ cup   Cup
 
 = Croatia  =
 1      HNL
+        | 1. HNL
         | Croatian Football League
         | Kroatien HNL
 2      Prva NL
