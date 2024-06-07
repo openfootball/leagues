@@ -585,6 +585,11 @@ cup    Cup
 1    First League
       | Montenegrin First League
 
+cup   Cup
+      | Montenegro Cup Crne Gore
+      # MNE CUP 
+
+
 = Macedonia =
 1    First League
       | Macedonian First League
