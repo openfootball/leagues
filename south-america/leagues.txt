@@ -20,6 +20,10 @@ recopa  Recopa Sudamericana
         | Peruvian Primera Profesional
         | Peru Primera Division
 
+2      Segunda Division
+        | Peru Segunda Division
+
+
 copa.bic  Copa Bicentenario 2019
            | CP BIC | Peru Copa Bicentenario
 
