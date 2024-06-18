@@ -488,6 +488,9 @@ cup   Cup
         | SUI SL
 2      Challenge League
         | Swiss Challenge League
+3      Promotion League 
+        | Swiss Promotion League
+        | Schweiz Promotion League
 
 cup    Schweizer Cup
         | SUI P
