@@ -2,21 +2,29 @@
 
 uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
                 | UEFA Champions League
+                | UEFA Champ | UEFA Champs
 uefa.cl.quali  Champions League - Quali
                 | UEFA Champions League - Qualification
                 | UEFA Champions League - Qualifying
                 | UEFA Champions League - Qualifikation [de]
                 | UEFA CL Q
+                | UEFA Champ Q | UEFA Champs Q
 
 uefa.el        Europa League
                 | UEFA Europa League
 uefa.el.quali  Europa League - Quali
                 | UEFA Europa League - Qualification
                 | UEFA Europa League - Qualifying
+                | UEFA EL Q
 
-uefa.ecl      Europa Conference League  
+uefa.conf      Conference League
+               | UEFA Conference League
+               | Europa Conference League
                | UEFA Europa Conference League
+               | UEFA ECL
 
+uefa.conf.quali  Conference League - Quali
+                  | UEFA Conf Q
 
 uefa.super  Super Cup
              | UEFA Super Cup
@@ -73,7 +81,7 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
         | Nordirland Premiership [de]
         | NIRL 1      # note: FIFA code is NIR !!!
 
-2      Championship 
+2      Championship
         | NIFL Championship
         | Nordirland IFA Championship [de]
         | NIRL 2
@@ -88,6 +96,9 @@ cup    Irish Cup
         | Irish Football Association Challenge Cup
         | Nordirland $$JJB Sports$$ Irish Cup [de]
         | NIRL CUP
+
+super    NIFL Charity Shield
+              | NIR CHS
 
 
 = Ireland =
@@ -186,7 +197,7 @@ cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup
 
 super   Supercup
          | Portugal Supercup
-         | POR SC 
+         | POR SC
 
 
 = Gibraltar =
@@ -236,10 +247,10 @@ super    Trophée des Champions           ## todo - check if this is the french 
           | ITA B
 3.a     Serie C (North & Central West)   # Group A
           | Italien Lega Pro Prima Divisione Girone A
-          | ITA C1A 
+          | ITA C1A
 3.b     Serie C (North & Central East)   # Group B
           | Italien Lega Pro Prima Divisione Girone B
-          | ITA C1B 
+          | ITA C1B
 3.c     Serie C (South)                  # Group C
           | Italien Lega Pro Prima Divisione Girone C
           | ITA C1C
@@ -250,7 +261,7 @@ cup     Coppa Italia
 
 cup.c   Coppa Italia Serie C
           | Italien Coppa Italia Serie C [de]
-          | ITA CUP R   ##  keep - why? why not?  R for ?? 
+          | ITA CUP R   ##  keep - why? why not?  R for ??
 
 super   Supercoppa Italiana
           | Italian Super Cup
@@ -424,7 +435,7 @@ cup    Beker van Belgie
 
 super  Supercup
          | Belgien Supercup
-         | BEL SC 
+         | BEL SC
 
 
 = Luxembourg =
@@ -451,7 +462,7 @@ cup    Cup
 
 super  Supercup
         | Polen Supercup
-        | POL SC 
+        | POL SC
 
 
 = Hungary =
@@ -488,7 +499,7 @@ cup   Cup
         | SUI SL
 2      Challenge League
         | Swiss Challenge League
-3      Promotion League 
+3      Promotion League
         | Swiss Promotion League
         | Schweiz Promotion League
 
@@ -516,7 +527,7 @@ cup   Slovak Cup
 = Slovenia =
 1     First League
        | Slovene First League
-       | Prva Liga      
+       | Prva Liga
        | SLO 1             # note: official FIFA code is SVN !!!
 cup   Cup
        | Slowenien Cup
@@ -534,10 +545,10 @@ cup   Cup
 3      Druga NL
          | 2. NL
          | Second Football League
-         | Croatian Second Football League     
+         | Croatian Second Football League
          | Kroatien Druga HNL [de]
- 
-# note - a league structure reorganization from 2022–23 
+
+# note - a league structure reorganization from 2022–23
 #       led to name changes for the three top league levels
 
 
@@ -547,7 +558,7 @@ cup    Cup
 
 super  Supercup
         | Kroatien Supercup
-        | CRO SC  
+        | CRO SC
 
 
 = Bosnia and Herzegovina =
@@ -590,7 +601,7 @@ cup    Cup
 
 cup   Cup
       | Montenegro Cup Crne Gore
-      # MNE CUP 
+      # MNE CUP
 
 
 = Macedonia =
@@ -619,7 +630,7 @@ cup    Cup
         | Rumänien Cup
 super  Supercup
         | Rumänien Supercup
-        | ROU SC 
+        | ROU SC
 
 
 = Bulgaria =
