@@ -1,14 +1,13 @@
 = Austria =
 
 1       Bundesliga                    # Each year (July→December/February→May)
-         | AUT BL
-         | Ö BL | Ö 1 
          | Austrian Bundesliga
          | Österreich Bundesliga | Österr. Bundesliga
+         | aut.bl | ö.bl | ö.1
 2       2. Liga                       # Each year (July→May)
-         | Ö 2
          | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
          | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
+         | ö.2
 
 ## todo/check: use playoffs.1/2 for key - why? why not?
 rel.1   Bundesliga - Relegation
@@ -23,22 +22,22 @@ rel.1   Bundesliga - Relegation
 #  use 3.ost / 3.mitte / 3.west ?
 
 3.o     Regionalliga Ost
-         | AUT RLO
          | Österr. Regionalliga Ost | Österreich Regionalliga Ost
+         | aut.rlo
 3.m     Regionalliga Mitte
-         | AUT RLM
          | Österr. Regionalliga Mitte | Österreich Regionalliga Mitte
+         | aut.rlm
 3.sbg   Regionalliga Salzburg
-         | RL SBG
+         | rl.sbg
 3.t     Regionalliga Tirol
-         | RL TIR
+         | rl.tir
 3.v     Regionalliga Vorarlberg
-         | RL VBG
-         | Eliteliga Vorarlberg     ### todo/check new Eliteliga modus - split into two stages? 
+         | Eliteliga Vorarlberg     ### todo/check new Eliteliga modus - split into two stages?
+         | rl.vbg
 
 3.w     Regionalliga West                   # note: split in three leagues (Salzburg/Tirol/Vorarlber with playoff) in 2019/20
-         | AUT RLW
          | Österr. Regionalliga West | Österreich Regionalliga West
+         | aut.rlw
 
 cup     ÖFB Cup
          | Österreich ÖFB Cup

@@ -27,6 +27,7 @@ euro       Euro
             | UEFA European Football Championship
 
 euro.quali   Euro Quali
+              | euro.q
 
 
 #######################################################

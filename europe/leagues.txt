@@ -2,36 +2,35 @@
 
 uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
                 | UEFA Champions League
-                | UEFA Champ | UEFA Champs
+                | uefa.champ | uefa.champs
 uefa.cl.quali  Champions League - Quali
                 | UEFA Champions League - Qualification
                 | UEFA Champions League - Qualifying
                 | UEFA Champions League - Qualifikation [de]
-                | UEFA CL Q
-                | UEFA Champ Q | UEFA Champs Q
+                | uefa.cl.q
+                | uefa.champ.q | uefa.champs.q
 
 uefa.el        Europa League
                 | UEFA Europa League
 uefa.el.quali  Europa League - Quali
                 | UEFA Europa League - Qualification
                 | UEFA Europa League - Qualifying
-                | UEFA EL Q
+                | uefa.el.q
 
 uefa.conf      Conference League
                | UEFA Conference League
                | Europa Conference League
                | UEFA Europa Conference League
-               | UEFA ECL
+               | uefa.con | uefa.ecl
 
 uefa.conf.quali  Conference League - Quali
-                  | UEFA Conf Q
+                  | uefa.con | uefa.conf.q
 
 uefa.super  Super Cup
              | UEFA Super Cup
-             | UEFA SC
+             | uefa.sc
 
 atl.cup     Atlantic Cup
-             | ATL CUP
 #  The Atlantic Cup is a pre/mid season football tournament
 #   held in Algarve, Portugal for European football clubs
 #   from national leagues which do not operate in the winter months.
@@ -41,18 +40,18 @@ atl.cup     Atlantic Cup
 
 czsk.super  Czechoslovak Supercup
              | Tschechisch-Slowakischer Supercup [de]
-             | CZSK SC
+             | czsk.sc
 
 
 = Scotland =
 1       Premiership
          | Scottish Premiership
          | Schottland Premiership [de]
-         | SCO PS
+         | sco.ps
 2       Championship
          | Scottish Championship
          | Schottland Championship [de]
-         | SCO CS
+         | sco.cs
 3       League One
          | Scottish League One
 4       League Two
@@ -61,12 +60,12 @@ czsk.super  Czechoslovak Supercup
 cup.l  League Cup
          | Scottish League Cup
          | Schottland League Cup [de]
-         | SCO LC
+         | sco.lc
 
 cup.fa  FA Cup                              ## use cup as key - why? why not?
          | Scottish Cup
          | Schottland FA Cup [de]
-         | SCO FA
+         | sco.fa
 
 
 = Wales =
@@ -79,26 +78,26 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
         | Northern Irish Premiership
         | NIFL Premiership
         | Nordirland Premiership [de]
-        | NIRL 1      # note: FIFA code is NIR !!!
+        | nirl.1      # note: FIFA code is NIR !!!
 
 2      Championship
         | NIFL Championship
         | Nordirland IFA Championship [de]
-        | NIRL 2
+        | nirl.2
 
 
 cup.l  League Cup
         | Irish League Cup
         | Northern Ireland Football League Cup
-        | NIRL LC
+        | nirl.lc
 
 cup    Irish Cup
         | Irish Football Association Challenge Cup
         | Nordirland $$JJB Sports$$ Irish Cup [de]
-        | NIRL CUP
+        | nirl.cup
 
 super    NIFL Charity Shield
-              | NIR CHS
+              | nir.chs
 
 
 = Ireland =
@@ -111,7 +110,7 @@ super    NIFL Charity Shield
 
 cup.l  League Cup
         | Irland League Cup
-        | IRL LC
+        | irl.lc
 
 ###
 ## todo/check:
@@ -122,8 +121,8 @@ cup.l  League Cup
 #    just incl. (1,2?) northern ireland teams
 #    (by invitation? e.g. Derry City FC)
 cup   FAI Cup
-        | IRL CUP
         | Football Association of Ireland Senior Challenge Cup
+        | irl.cup
 
 
 
@@ -142,11 +141,11 @@ cup    Cup
 
 cup.l  League Cup
         | Island Ligacup [de]    ## why Ligacup A ??
-        | ISL LCA
+        | isl.lca
 
 super  Super Cup
         | Island Super Cup
-        | ISL SC
+        | isl.sc
 
 
 = Faroe Islands =
@@ -167,14 +166,14 @@ super  Super Cup
           | Spanien Segunda Division [de]
 3        Segunda División B
           | Spanien Segunda Division B [de]
-          | ESP 2B
+          | esp.2b
 
 cup      Copa del Rey
           | Spanish Copa del Rey
 
 super    Supercopa
           | Spanien Supercopa [de]
-          | ESP SC
+          | esp.sc
 
 
 = Portugal =
@@ -193,11 +192,11 @@ cup     Taça de Portugal
 
 cup.l   Taça da Liga                   # note: League Cup (and NOT National Cup)
           | Portugal $$Carlsberg$$ Cup    ## $$$ Carlsberg is sponsor
-          | POR LC
+          | por.lc
 
 super   Supercup
          | Portugal Supercup
-         | POR SC
+         | por.sc
 
 
 = Gibraltar =
@@ -228,11 +227,11 @@ cup      Coupe de France
 cup.l    Coupe de la Ligue    ## French League Cup
           | French Coupe de la Ligue
           | Frankreich Coupe de la Ligue [de]
-          | FRA LC
+          | fra.lc
 
 super    Trophée des Champions           ## todo - check if this is the french supercup?
           | Frankreich Trophée des Champions [de]
-          | FRA SC
+          | fra.sc
 
 
 
@@ -240,20 +239,20 @@ super    Trophée des Champions           ## todo - check if this is the french 
 1       Serie A
           | Italian Serie A
           | Italien Serie A [de]
-          | ITA A
+          | ita.a
 2       Serie B
           | Italian Serie B
           | Italien Serie B [de]
-          | ITA B
-3.a     Serie C (North & Central West)   # Group A
-          | Italien Lega Pro Prima Divisione Girone A
-          | ITA C1A
+          | ita.b
+3.a    Serie C (North & Central West)   # Group A
+             | Italien Lega Pro Prima Divisione Girone A
+             | ita.c1a
 3.b     Serie C (North & Central East)   # Group B
           | Italien Lega Pro Prima Divisione Girone B
-          | ITA C1B
+          | ita.c1b
 3.c     Serie C (South)                  # Group C
           | Italien Lega Pro Prima Divisione Girone C
-          | ITA C1C
+          | ita.c1c
 
 cup     Coppa Italia
           | Italian Coppa Italia
@@ -261,12 +260,12 @@ cup     Coppa Italia
 
 cup.c   Coppa Italia Serie C
           | Italien Coppa Italia Serie C [de]
-          | ITA CUP R   ##  keep - why? why not?  R for ??
+          | ita.cup.r    ##  keep - why? why not?  R for ??
 
 super   Supercoppa Italiana
           | Italian Super Cup
           | Italien Supercoppa [de]
-          | ITA SC
+          | ita.sc
 
 
 = San Marino =
@@ -328,7 +327,7 @@ cup   Cypriot Cup
 
 cup   Cup
        | Malta FA Trophy
-       | MLT CUP
+       | mlt.cup
 
 
 = Denmark =
@@ -342,7 +341,7 @@ cup   Cup
 cup     Landspokalturneringen
           | DBU Pokalen
           | Dänemark Landspokalturneringen [de]
-          | DEN P
+          | den.p
 
 = Norway =
 1       Tippeligaen

@@ -1,6 +1,19 @@
 # Notes
 
 
+## Format Notes
+
+- use all lower-case (alternative) names for more codes
+   (e.g. uefa.champs, uefa.cl.q, etc. )
+
+note: all uppercase (alternative) names are added as names PLUS
+       as codes !!!  e.g.  MLS  (same as MLS | mls etc.)
+
+
+
+
+
+
 ## References
 
 **Wikipedia**
