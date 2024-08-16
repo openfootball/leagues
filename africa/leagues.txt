@@ -1,19 +1,22 @@
 = International =
 
 caf.cl     CAF Champions League
-            | CAF CL
+
 caf.conf   CAF Confederations Cup
 
 
 = Egypt =
 1   Premier League
-       | EGY 1
        | Egyptian Premier League
        | Ägypten Premier League [de]
+       | egy.1
+
+cup  Cup
+      | egt.cup
 
 cup.super  Supercup
-            | EG SC
             | Ägypten Supercup [de]
+            | eg.sc
 
 
 = Tunisia =
@@ -23,16 +26,22 @@ cup.super  Supercup
 = Morocco =
 1    Botola
       | Botola Pro 1
-      | MAR 1
       | Marokko 1. Liga [de]
+      | mar.1
+
+= Algeria =
+1    Ligue 1
+      | Algeria Ligue 1
+      | alg.1
+
 
 
 = South Africa =
 1    Premier League
-      | PSL | RSA PL
       | Premier Soccer League
       | South African Premiership
       | Südafrika Premier League [de]
+      | psl  | rsa.pl
 
 2    National First Division
       | South African First Division
@@ -70,15 +79,15 @@ cup.l  Knockout                                # league cup  - find a better "of
 
 = Burundi =
 1   1. Liga
-    | BUR 1
     | Burundi 1. Liga
+    | bur.1
 
 = Angola =
 1   Girabola
-     | ANG 1
      | Angola Girabola
+     | ang.1
 
 = Tanzania =
 1   Premier League
-      | TZA PL
       | Tansania Premier League [de]
+      | tza.pl

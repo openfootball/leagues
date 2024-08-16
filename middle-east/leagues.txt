@@ -7,19 +7,21 @@
       | Israel National League
 
 cup     League Cup National
-         | ISR LCN | Israel League Cup National
+         | Israel League Cup National
+         | isr.lcn
 cup.lp  League Cup Premier
-         | ISR LCP | Israel League Cup Premier
+         | Israel League Cup Premier
+         | isr.lcp
 
 super   Supercup
-         | ISR SC | Israel Supercup
-
+         | Israel Supercup
+         | isr.sc
 
 = Palestine =
 
 1.i   West Bank Premier League
-       | PLE 1
        | Palästina West Bank League [de]
+       | ple.1
 
 1.ii  Gaza Strip Premier League
 
@@ -28,23 +30,23 @@ super   Supercup
 # The other is the Gaza Strip Premier League.
 
 cup.gaza  Gaza Strip Cup
-           | GAZ C
            | Palästina Gaza-Streifen Cup [de]
+           | gaz.c
 
 
 
 = Saudi Arabia =
 1   Saudi Professional League
        | Saudi Pro League
-       | SAUD 1
+       | saud.1
 
 cup   King Cup
         | King's Cup
-        | SAUD KC  
+        | saud.kc
 
 super  Super Cup
-        | SAUD SC  
-        
+        | saud.sc
+
 
 = Qatar =
 1   Stars League
@@ -53,17 +55,17 @@ super  Super Cup
 
 = Iran =
 1    Pro League
-      | IRI 1     # note: FIFA code is IRN
       | Iran Pro League
+      | iri.1        # note: FIFA code is IRN
 
 = Bahrain =
 1    Premier League
-      | BAH
       | Bahraini Premier League
       | Bahrain Premier League
+      | bah
 
 = Oman =
 cup   Sultan Cup
-       | OMA SC
        | Oman Sultan Cup
+       | oma.sc
 

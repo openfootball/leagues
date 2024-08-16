@@ -8,8 +8,8 @@
            | Nacional B
            | Primera Nacional       ## note: and Primera Nacional since the 2019-20 season
            | Argentine Nacional B
-           | ARG BNA
            | Argentinien Primera Nacional B [de]
+           | arg.bna
 
 3.metro   Primera B Metropolitana
             | Argentine Primera B
@@ -28,15 +28,15 @@
 
 
 copa     Copa Argentina
-          | ARG CUP
           | Argentinien Cup [de]
+          | arg.cup
 copa.l   Copa Superliga
-          | ARG LC
           | Copa de la Superliga
           | Argentinien Ligacup [de]
+          | arg.lc
 
 
 copa.super  Supercopa Argentina
-            | ARG SC
             | Argentinien Supercup [de]
+            | arg.sc
 

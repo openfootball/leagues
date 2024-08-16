@@ -4,22 +4,22 @@
            | Brasileiro Série A
            | Brazilian Serie A
            | Brasilien Brasilero Serie A [de]
-           | BR A
+           | br.a
 2       Campeonato Brasileiro Série B
            | Brasileiro Série B
            | Brazilian Serie B
            | Brasilien Brasilero Serie B [de]
-           | BR B
+           | br.b
 3       Campeonato Brasileiro Série C
            | Brazilian Serie C
-           | BR C
+           | br.c
 4       Campeonato Brasileiro Série D
-           | BR D
+           | br.d
 
 copa     Copa do Brasil
-           | BRA CUP
            | Copa Do Brazil | Brazil Cup
            | Brasilien Cup [de]
+           | bra.cup
 
 
 league     Primeira Liga
@@ -43,7 +43,7 @@ sp         Paulistão
              | Campeonato Estadual Paulista
              | Brazilian Campeonato Paulista
              | Brasilien Paulista Serie A1 [de]
-             | BRA PAU
+             | bra.pau
 
 rj         Campeonato Estadual Carioca
              | Brazilian Campeonato Carioca

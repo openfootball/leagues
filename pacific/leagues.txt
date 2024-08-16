@@ -11,8 +11,8 @@
 
 2.qpr  Queensland Premier
          | National Premier Leagues Queensland
-         | AUS QPR
          | Australien Queensland Premier [de]
+         | aus.qpr
 
 
 

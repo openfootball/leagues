@@ -1,17 +1,17 @@
 = Germany =
 
 1       Bundesliga
-         | GER BL
-         | D BL | D 1
          | German Bundesliga
          | Deutschland Bundesliga | Deutsche Bundesliga
+         | ger.bl
+         | d.bl | d.1
 2       2. Bundesliga
-         | D 2
          | German 2. Bundesliga
          | Deutschland 2. Bundesliga | Deutsche 2. Bundesliga
+         | d.2
 3       3. Liga
-         | D 3
          | Deutschland 3. Liga | Deutsche 3. Liga
+         | d.3
 
 ## todo/check: change key to playoffs.1/2 or rel.1/2  - why? why not?
 rel.1   Bundesliga - Relegation
@@ -34,8 +34,8 @@ cup     DFB Pokal
          | German DFB Pokal
 
 cup.super   Supercup
-             | GER SC
              | Deutschland Supercup
+             | ger.sc
 
 
 4.nord        Regionalliga Nord

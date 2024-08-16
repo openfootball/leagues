@@ -2,9 +2,9 @@
 = International =
 
 asia.cl   AFC Champions League     # afc = asian football confederation ?
-           | AFC CL
+           | afc.cl
 asia.cup  AFC Cup
-           | AFC C
+           | afc.c
 
 
 
@@ -22,7 +22,8 @@ cup    Emperor's Cup                       # note: national cup (as a rule use c
           | Japan FA Cup
 
 cup.l    J. League Cup                    # note: league cup (incl. all teams from J. League and 0-2 teams from J2 League)
-          | JPN LC | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
+          | Japan Nabisco Cup    # check - $$$ Nabisco is a sponsor?
+          | jpn.lc
 
 = South Korea =
 
@@ -30,13 +31,13 @@ cup.l    J. League Cup                    # note: league cup (incl. all teams fr
         | Südkorea K-League [de]
 
 2      K-League 2
-        | KOR 2
         | Südkorea K-League 2 [de]
+        | kor.2
 
 cup    Cup
-        | KOR CUP
         | FA Cup
         | Südkorea FA Cup [de]
+        | kor.cup
 
 
 
@@ -60,8 +61,8 @@ cup    Cup
 
 = Myanmar =
 1     National League
-        | MMR 1
         | Myanmar National League
+        | mmr.1
 
 
 = Indonesia =
@@ -73,8 +74,8 @@ cup    Cup
 1.i      I-League
           | Indian I-League
 1.ii     Super League
-          | IND SL
           | Indian Super League
+          | ind.sl
 
 # note:  Indian Super League is a football league in India. It is one of the TWO co-existing premier football leagues in India
 #         along with I-League
@@ -83,15 +84,15 @@ cup    Cup
 
 = Taiwan =
 1      Premier League
-        | TWN 1
         | Taiwan Football Premier League
+        | twn.1
 
 
 = China =
 1      Super League
-         | CHN SL
          | Chinese Super League
          | China Chinese Super League
+         | chn.sl
 
 
 = Kazakhstan =
@@ -100,32 +101,32 @@ cup    Cup
 
 = Turkmenistan =
 1       1. Liga
-         | TURK 1
          | Turkmenistan 1. Liga
+         | turk.1
 
 
 = Uzbekistan =
 1       Super League
-         | UZB 1
          | Usbekistan PFL [de]
+         | uzb.1
 
 
 = Tajikistan =
 1       Higher League
-         | TAJ 1
          | Tadschikistan 1. Liga  [de]
+         | taj.1
 
 cup.super  Super Cup
-            | TAJ SC
             | Tadschikistan Super Cup [de]
+            | taj.sc
 
 
 = Vietnam =
 1      V. League 1
-        | VIE 1
         | V. League
         | Vietnam V-League
+        | vie.1
 
 cup     Cup
-         | VIE CUP
          | Vietnam Cup
+         | vie.cup

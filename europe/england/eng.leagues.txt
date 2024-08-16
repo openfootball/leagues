@@ -2,8 +2,9 @@
 1       Premier League
           | English Premier League
           | England Premier League  ## fix - remove - gets auto added!!
+          | EPL
           | English Football League   ## fix: note - add old pre 1892/3 season leagues names here (move to its own history "section" soon!!!)
-          | ENG PL
+          | eng.pl
 2       Championship
           | Football League Championship
           | English Championship | English League Championship
@@ -11,7 +12,7 @@
           | Division One    ## fix: note - add old pre 2004/05 season leagues names here (move to its own history "section" soon!!!)
           | English Division One
           | England Division One
-          | ENG CS
+          | eng.cs
 3       League One
           | Football League One
           | English League One
@@ -44,24 +45,24 @@ playoffs.4   League Two - Play-offs
 
 
 cup         FA Cup                  ## use cup.fa as key - why? why not?
-             | ENG FA
              | English FA Cup
              | England FA Cup
+             | eng.fa
 cup.l       EFL Cup
-             | ENG LC | ENG L
              | League Cup | Football League Cup
              | England Liga Cup
              | English $$Carabao$$ Cup     ## note: use $$ to mark sponsor name
+             | eng.lc | eng.l
 cup.t       EFL Trophy
-             | ENG LTR | ENG T
              | Football League Trophy
              | English EFL Trophy
              | England Football League Trophy
+             | eng.ltr | eng.t
 
 cup.t.ii    FA Trophy
-             | FA TRO
              | Football Association Challenge Trophy
              | England FA Trophy
+             | fa.tro
 
 com         FA Community Shield
              | England Community Shield

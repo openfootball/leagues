@@ -67,6 +67,11 @@ cup.fa  FA Cup                              ## use cup as key - why? why not?
          | Schottland FA Cup [de]
          | sco.fa
 
+cup.cc  Challenge Cup
+         | Schottland Challenge Cup [de]
+         | sco.cc
+
+
 
 = Wales =
 1       Premier League
@@ -111,6 +116,11 @@ super    NIFL Charity Shield
 cup.l  League Cup
         | Irland League Cup
         | irl.lc
+
+super  Supercup
+        | Irland Supercup
+        | irl.sc
+
 
 ###
 ## todo/check:
@@ -290,7 +300,7 @@ super   Supercoppa Italiana
             | Türkei 2. Lig - Kirmizi Gruppe
 
 3.playoffs   2. Lig - Play Offs
-              | TUR 3 PO
+              | tur.3.po
 
 
 
@@ -299,7 +309,7 @@ cup     Türkiye Kupasi
 
 super   Süper Kupa
           | Türkei Süper Kupa [de]
-          | TUR SC
+          | tur.sc
 
 
 = Greece =
@@ -384,6 +394,11 @@ cup     Cup
 3      Kakkonen
         | Finnland Kakkonen [de]
 
+4.a    Kakkonen Group A
+         | Finnland Kakkonen Group A [de]
+         | fin.4a
+
+
 cup    Cup
         | Finnland Cup [de]
 
@@ -394,10 +409,10 @@ cup    Cup
           | Dutch Eredivisie
           | Dutch First Division
           | Niederlande Eredivisie [de]
-          | NL 1
+          | nl.1
 
 1.comeback  Eredivisie Comeback Tournament   ## special (summer) covid-19/corona tournament in 2020
-             | NED COT
+             | ned.cot
 
 
 2       Eerste Divisie
@@ -406,12 +421,12 @@ cup    Cup
 cup     Cup
           | Dutch KNVB Beker
           | Niederlande KNVB Cup [de]
-          | NL CUP
+          | nl.cup
 
 super   Johan Cruijff Schaal   ## todo/check - is supercup?
           | Johan Cruijff Schaal in Amsterdam
           | Niederlande Johan Cruijff Schaal in Amsterdam [de]
-          | NL SC
+          | nl.sc
 
 po      Promotion/Relegation Playoffs
           | Niederlande Auf/Abstiegsplayoffs [de]
@@ -434,7 +449,7 @@ cup    Beker van Belgie
 
 super  Supercup
          | Belgien Supercup
-         | BEL SC
+         | bel.sc
 
 
 = Luxembourg =
@@ -450,7 +465,7 @@ super  Supercup
         | Polen I Liga [de]
 3      II Liga
         | Polen II Liga [de]
-        | POL 3
+        | pol.3
 
 
 
@@ -461,7 +476,7 @@ cup    Cup
 
 super  Supercup
         | Polen Supercup
-        | POL SC
+        | pol.sc
 
 
 = Hungary =
@@ -474,11 +489,11 @@ super  Supercup
 2     Nemzeti Bajnokság II
        | NB II
        | Ungarn NB II
-       | HUN 2
+       | hun.2
 
 cup    Cup
         | Ungarn Cup [de]
-        | HUN CUP
+        | hun.cup
 
 
 = Czech Republic =
@@ -495,7 +510,7 @@ cup   Cup
 1      Super League
         | Swiss Super League
         | Schweiz Super League
-        | SUI SL
+        | sui.sl
 2      Challenge League
         | Swiss Challenge League
 3      Promotion League
@@ -503,7 +518,7 @@ cup   Cup
         | Schweiz Promotion League
 
 cup    Schweizer Cup
-        | SUI P
+        | sui.p
 
 
 
@@ -526,11 +541,19 @@ cup   Slovak Cup
 = Slovenia =
 1     First League
        | Slovene First League
+       | 1. SNL
        | Prva Liga
-       | SLO 1             # note: official FIFA code is SVN !!!
+       | slo.1             # note: official FIFA code is SVN !!!
+
+2     Second League
+       | Slovenian Second League
+       | 2. SNL
+       | Slowenien 2. Liga [de]
+       | slo.2
+
 cup   Cup
        | Slowenien Cup
-       | SLO CUP                # note: official FIFA code is SVN
+       | slo.cup           # note: official FIFA code is SVN
 
 = Croatia  =
 1      HNL
@@ -557,29 +580,29 @@ cup    Cup
 
 super  Supercup
         | Kroatien Supercup
-        | CRO SC
+        | cro.sc
 
 
 = Bosnia and Herzegovina =
 1     Premier Liga
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
-       | BOS 1                   # note: official FIFA code is BIH
+       | bos.1                   # note: official FIFA code is BIH
 
 cup   Bosnia and Herzegovina Football Cup
        | Bosnien Cup [de]
-       | BOS CUP                  # note: official FIFA code is BIH
+       | bos.cup                  # note: official FIFA code is BIH
 
 = Serbia =
 1     Super League
         | Serbian Super League
         | Serbien Meridijan Superliga  [de]   ## check - Meridijan is sponsor?
-        | SERB 1                   # note: official FIFA code is SRB
+        | serb.1                     # note: official FIFA code is SRB
 
 cup    Cup
         | Serbian Cup
         | Serbien Cup [de]
-        | SER CUP                  # note: official FIFA code is SRB
+        | ser.cup                    # note: official FIFA code is SRB
 
 
 = Kosovo =
@@ -621,7 +644,7 @@ cup   Cup
 
 3.a  Liga 3 - Seria 1
        | Rumänien Liga 3 - Seria 1 [de]
-       | ROU 3A
+       | rou.sa
 
 
 
@@ -629,7 +652,7 @@ cup    Cup
         | Rumänien Cup
 super  Supercup
         | Rumänien Supercup
-        | ROU SC
+        | rou.sc
 
 
 = Bulgaria =
@@ -643,7 +666,7 @@ cup   Cup
 
 super  Supercup
         | Bulgarien Supercup [de]
-        | BUL SC
+        | bul.sc
 
 
 = Latvia =
@@ -652,13 +675,13 @@ super  Supercup
         | Virslīga
         | Latvian First Division
         | Lettland LMT Virsliga [de]
-        | LAT 1                 # note: official FIFA code is LVA
+        | lat.1                    # note: official FIFA code is LVA
 
 = Lithuania =
 1      First Division
         | Lithuanian First Division
         | Litauen A Lyga [de]
-        | LIT 1                # note: official FIFA code is LTU
+        | lit.1                    # note: official FIFA code is LTU
 
 = Estonia =
 1      Meistriliiga
@@ -667,14 +690,14 @@ super  Supercup
 
 cup    Cup
         | Estland Cup [de]
-        | EST CUP
+        | est.cup
 
 
 = Russia =
 1    Premier League
       | Russian Premier League
       | Russland Premier League [de]
-      | RUS PL
+      | rus.pl
 
 2    1. Division
       | Russian 1. Division
@@ -686,7 +709,7 @@ cup  Cup
 
 super  Supercup
         | Russland Supercup [de]
-        | RUS SC
+        | rus.sc
 
 
 = Ukraine =
@@ -699,7 +722,7 @@ cup   Cup
 
 super  Supercup
         | Ukraine Supercup
-        | UKR SC
+        | ukr.sc
 
 
 = Belarus =
@@ -707,22 +730,22 @@ super  Supercup
      | Belarusian Premier League
 
 2   Pervaya Liga
-     | BLR 2
      | Weißrussland Pervaya Liga [de]
+     | blr.2
 
 3   Vtoraya Liga
      | Weißrussland Vtoraya Liga [de]
-     | BLR 3
+     | blr.3
 
 cup  Cup
       | Weißrussland Cup [de]
-      | BLR CUP
+      | blr.cup
 
 
 ## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?
 res Reserve Liga
      | Weißrussland Reserve Liga [de]
-     | BLR RES
+     | blr.res
 
 
 
