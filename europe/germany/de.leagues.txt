@@ -1,5 +1,19 @@
 = Germany =
 
+
+##   todo/check:
+###  define qualifier e.g.
+##      German [en], Germany [en]
+##      Deutsche [de], Deutschland [de]
+##    to auto-add up front or if marker present
+##     eg  $Country$ or ??
+##
+##   define extra codes
+##    use fifa plus d (vehicles/car plates) plus others if uniquie
+##       de, ger, d, deu ??
+##   why? why not?
+
+
 1       Bundesliga
          | German Bundesliga
          | Deutschland Bundesliga | Deutsche Bundesliga
@@ -39,10 +53,20 @@ cup.super   Supercup
 
 
 4.nord        Regionalliga Nord
+                | Deutsche Regionalliga Nord
+                | de.4.n
 4.nordost     Regionalliga Nordost
+                | Deutsche Regionalliga Nordost
+                | de.4.no
 4.west        Regionalliga West
+                | Deutsche Regionalliga West
+                | de.4.w
 4.suedwest    Regionalliga Südwest
-4.by          Regionalliga Bayern
+                | Deutsche Regionalliga Südwest
+                | de.4.sw
+4.bayern      Regionalliga Bayern
+                | Deutsche Regionalliga Bayern
+                | de.4.by
 
 # add .nord .nordost .west, .suedwest, .by to key ?? why? why not??
 

@@ -55,8 +55,14 @@ ncaa    United States NCAA Men's Soccer
        ## | Liga MX Clausura
        ## | Liguilla Clausura
 
+
+### todo - add start_season/end_season for
+##           - Ascenso MX
+##           - Expansión MX
 2     México Segunda División
-       | Liga de Ascenso
+       | Liga de Expansión MX | Liga de Expansión
+       | Expansión MX
+       | Liga de Ascenso MX | Liga de Ascenso
        | Ascenso MX
        | Mexican Ascenso MX
       ## | México Segunda División Apertura

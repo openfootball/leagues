@@ -180,6 +180,7 @@ super  Super Cup
 
 cup      Copa del Rey
           | Spanish Copa del Rey
+          | España Copa del Rey | Copa del Rey de España
 
 super    Supercopa
           | Spanien Supercopa [de]
@@ -518,6 +519,7 @@ cup   Cup
         | Schweiz Promotion League
 
 cup    Schweizer Cup
+        | Swiss Cup
         | sui.p
 
 
