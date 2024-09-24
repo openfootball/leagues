@@ -523,8 +523,8 @@ cup    Schweizer Cup
         | Swiss Cup
         | sui.p
 
-= Lichtenstein =
-cup    Lichtensteiner Pokal
+= Liechtenstein =
+cup    Liechtensteiner Pokal
         | Liechtensteiner Cup
 
 
@@ -875,4 +875,4 @@ kz, Premier League,         kz    # CL/2.QR, 3 EL/1.QR  -- KAZ / Kazakhstan (40)
 
 
 ###
-#   li.cup,  Lichtensteiner Pokal, li   # EL/1.QR  --  / Lichtenstein  (43)
+#   li.cup,  Liechtensteiner Pokal, li   # EL/1.QR  --  / Liechtenstein  (43)
