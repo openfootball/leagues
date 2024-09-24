@@ -213,6 +213,7 @@ super   Supercup
 = Gibraltar =
 1   Premier League A
      | Gibraltarian Premier League A
+     | Gibraltarian Premier League
 
 = Andorra =
 1   Premier Division
@@ -522,6 +523,9 @@ cup    Schweizer Cup
         | Swiss Cup
         | sui.p
 
+= Lichtenstein =
+cup    Lichtensteiner Pokal
+        | Liechtensteiner Cup
 
 
 
@@ -610,6 +614,7 @@ cup    Cup
 = Kosovo =
 1    Superliga A
       | Kosovan Superliga A
+      | Kosovan Superliga
 
 = Albania =
 1    Super League
@@ -688,6 +693,7 @@ super  Supercup
 = Estonia =
 1      Meistriliiga
          | Estonian First League A
+         | Estonian First League
          | Estland Meistriliiga [de]
 
 cup    Cup
@@ -758,11 +764,12 @@ res Reserve Liga
 = Azerbaijan =
 1   Premier League A
      | Azerbaijani Premier League A
+     | Azerbaijani Premier League
 
 = Georgia =
 1   Premier League A
      | Georgian Premier League A
-
+     | Georgian Premier League
 
 
 

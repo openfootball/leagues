@@ -4,11 +4,14 @@ caf.cl     CAF Champions League
 
 caf.conf   CAF Confederations Cup
 
+afl        African Football League
+
 
 = Egypt =
 1   Premier League
        | Egyptian Premier League
        | Ägypten Premier League [de]
+       | Egypt Premiership
        | egy.1
 
 cup  Cup
@@ -26,6 +29,7 @@ cup.super  Supercup
 = Morocco =
 1    Botola
       | Botola Pro 1
+      | Morocco Botola Pro 1
       | Marokko 1. Liga [de]
       | mar.1
 
