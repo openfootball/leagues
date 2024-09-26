@@ -95,3 +95,11 @@ cup.l  Knockout                                # league cup  - find a better "of
 1   Premier League
       | Tansania Premier League [de]
       | tza.pl
+
+
+= Mauritius =
+1   Premier League
+       | Mauritius Premier League
+
+cup   Cup
+       | Mauritius Cup
