@@ -4,15 +4,23 @@
            | Argentine Superliga
            | Argentinien Primera Division [de]
 
+##
+#  todo/fix -  add keys (plus years) - split 2
+##                 for 2.metro / 2.nacional if historic???
+
 2        Primera B Nacional
            | Nacional B
            | Primera Nacional       ## note: and Primera Nacional since the 2019-20 season
            | Argentine Nacional B
            | Argentinien Primera Nacional B [de]
            | arg.bna
+           | ar.2.nacional
 
 3.metro   Primera B Metropolitana
             | Argentine Primera B
+            | ar.2.metro    ### note - use tier 2 - why? why not?
+
+
 3.fed     Torneo Federal A
 
 4.metro   Primera C Metropolitana

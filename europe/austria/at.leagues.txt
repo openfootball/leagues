@@ -1,30 +1,38 @@
 = Austria =
 
-1       Bundesliga                    # Each year (July→December/February→May)
+1       Bundesliga,     1-bundesliga          # Each year (July→December/February→May)
          | Austrian Bundesliga
          | Österreich Bundesliga | Österr. Bundesliga
          | aut.bl | ö.bl | ö.1
-2       2. Liga                       # Each year (July→May)
-         | Österreich Zweite Liga | Österr. Zweite Liga | Österr. 2. Liga
-         | Österr. Erste Liga | Österr. 1. Liga      # note: before 2018/19 2. Liga was known as 1. Liga / Erste Liga
-         | ö.2
+
+
+#  note - Erste Liga renamed to 2. Liga starting 2018/19
+
+2  2018/19-     Erste Liga => 2. Liga,       2-liga2   # Each year (July→May)
+                              | Österreich Zweite Liga
+                              | Österr. Zweite Liga
+                              | Österr. 2. Liga
+2   -2017/18    Erste Liga,     2-liga1
+                  | Österr. Erste Liga | Österr. 1. Liga
+                  | ö.2
+
 
 ## todo/check: use playoffs.1/2 for key - why? why not?
-rel.1   Bundesliga - Relegation
-         | Österr. Bundesliga - Relegation
-         | Österr. Bundesliga - Relegationsspiele
-         | Österr. Bundesliga - Aufstieg
-         | Play-offs 1/2
+## rel.1   Bundesliga - Relegation
+##         | Österr. Bundesliga - Relegation
+##         | Österr. Bundesliga - Relegationsspiele
+##         | Österr. Bundesliga - Aufstieg
+##         | Play-offs 1/2
 
 
 # todo/check: use groups for West/Mitte/Ost??
 #  and just use at.3, Österr. Regionalliga
 #  use 3.ost / 3.mitte / 3.west ?
 
-3.o     Regionalliga Ost
+3.o     Regionalliga Ost,    3-regionalliga-ost
          | Österr. Regionalliga Ost | Österreich Regionalliga Ost
          | aut.rlo
-3.m     Regionalliga Mitte
+3.m     Regionalliga Mitte,   3-regionalliga-mitte
          | Österr. Regionalliga Mitte | Österreich Regionalliga Mitte
          | aut.rlm
 3.sbg   Regionalliga Salzburg
@@ -39,9 +47,10 @@ rel.1   Bundesliga - Relegation
          | Österr. Regionalliga West | Österreich Regionalliga West
          | aut.rlw
 
-cup     ÖFB Cup
+cup     ÖFB Cup,                cup
          | Österreich ÖFB Cup
          | Austrian Cup
+
 
 ###
 # 9 leagues (one per bundesland/state)

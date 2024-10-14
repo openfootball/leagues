@@ -71,3 +71,6 @@ ncaa    United States NCAA Men's Soccer
 copa  Copa MX
        | Mexican Copa MX
        | Mexiko Copa MX [de]
+
+## check for mx.3 etc.
+##  https://en.wikipedia.org/wiki/List_of_association_football_competitions#Mexico
