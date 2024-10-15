@@ -5,33 +5,38 @@
 ##  <English>  use for qualifier to make (globally) unique
 ##  <English> Championship etc.
 
+##
+## note - variants with England | English prefix (country qualifier) get auto-added
+##              e.g.  Championship =>  England Championship / English Championship
+
+
 ## rebranding in 2004/05
-2   2004/05-    Division 1 =>  Championship,      2-championship
+2   2004/05-    Division One =>  Championship,      2-championship
                                 | EFL Championship
                                 | Football League Championship
-                                | English Championship | English League Championship
-                                | England Championship  ## fix - remove - gets auto added!!!
                                 | eng.cs
-3   2004/05-    Division 2 =>  League One,        3-league1
+3   2004/05-    Division Two =>  League One,        3-league1
+                                | EFL League One
                                 | Football League One
-                                | English League One
-                                | England League One
-4   2004/05-    Division 3 =>  League Two,        4-league2
+4   2004/05-    Division Three =>  League Two,        4-league2
+                                | EFL League Two
                                 | Football League Two
-                                | English League Two
 
 
 ## start of premier league 1992/93 - all tiers shift down (by one)
 1   1992/93-          Premier League,    1-premierleague
-                       | English Premier League
-                       | England Premier League     ## fix - remove - gets auto added!!
                        | EPL
-                       | eng.pl
+                       | eng.pl | eng | e
 2   1992/93-2003/04   Division One,      2-division1
+                       | Division 1
+                       | First Division | Football League First Division
 3   1992/93-2003/04   Division Two,      3-division2
+                       | Division 2
+                       | Second Division | Football League Second Division
 4   1992/93-2003/04   Division Three,    4-division3
+                       | Division 3
+                       | Third Division
 5   1992/93-          National League,   5-nationalleague
-                       | English National League
 
 #########
 # historic league pyramids
@@ -40,27 +45,20 @@
 
 ## todo/fix: add complete league pyramid with start and end year!!!
 
-3a    Division 3 (North),    3a-division3_north
-        | English Division 3 (North)
-3b    Division 3 (South),    3b-division3_south
-        | English Division 3 (South)
+3a    Division Three (North),    3a-division3_north
+        | Division 3 (North)
+3b    Division Three (South),    3b-division3_south
+        | Division 3 (South)
 
 
 ## start of division 1 & 2
 1   1892/93-1991/92   Football League => Division One,   1-division1
-                                         | English Division One
-                                         | England Division One
 2   1892/93-1991/92   Division Two,                      2-division2
-                           | English Football League Second Division
-                           | English Division Two
-                           | England Division Two
 3   -1991/92          Division Three,                    3-division3
-                          | English Division Three
-                          | England Division Three
 
 ## single league (no divisions)
 1   1888/89-1891/92   Football League,   1-footballleague
-                       | English Football League
+                       | English Football League  ## gets auto-added - keep? why? why not?
 
 
 ## note - autogenerate slug from name if NOT present e.g.
@@ -73,22 +71,20 @@
 
 # National cup
 cup         FA Cup             ## use cup.fa as key - why? why not?
-             | English FA Cup
-             | England FA Cup
              | eng.fa
 
 # Super cup
 #  Between winners of Premier League and FA Cup
 super       FA Community Shield
-             | England Community Shield
+             | Community Shield
 
 # League cup
 #  - Only the teams from Premier League and
 #     English Football League can enter this cup
 cup.l       EFL Cup
              | League Cup | Football League Cup
-             | England Liga Cup
-             | English $$Carabao$$ Cup     ## note: use $$ to mark sponsor name
+             | Liga Cup [de]
+             | $$Carabao$$ Cup     ## note: use $$ to mark sponsor name
              | eng.lc | eng.l
 
 # Lower cup
@@ -97,8 +93,6 @@ cup.l       EFL Cup
 #     can enter this cup
 cup.t       EFL Trophy
              | Football League Trophy
-             | English EFL Trophy
-             | England Football League Trophy
              | eng.ltr | eng.t
 
 # Lower cup
@@ -106,7 +100,6 @@ cup.t       EFL Trophy
 #       and the 8th-tier leagues can enter this cup
 cup.t.ii    FA Trophy
              | Football Association Challenge Trophy
-             | England FA Trophy
              | fa.tro
 
 

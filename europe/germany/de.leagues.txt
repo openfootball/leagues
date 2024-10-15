@@ -14,58 +14,31 @@
 ##   why? why not?
 
 
-1       Bundesliga
-         | German Bundesliga
-         | Deutschland Bundesliga | Deutsche Bundesliga
-         | ger.bl
-         | d.bl | d.1
-2       2. Bundesliga
-         | German 2. Bundesliga
-         | Deutschland 2. Bundesliga | Deutsche 2. Bundesliga
+1       Bundesliga,      1-bundesliga
+         | ger.bl | d.bl | d.1 | d
+2       2. Bundesliga,   2-bundesliga2
+         | 2. Liga
          | d.2
-3       3. Liga
-         | Deutschland 3. Liga | Deutsche 3. Liga
+3       3. Liga,         3-liga3
          | d.3
 
-## todo/check: change key to playoffs.1/2 or rel.1/2  - why? why not?
-rel.1   Bundesliga - Relegation
-         | Deutsche Bundesliga - Relegation
-         | Deutsche Bundesliga - Relegationsspiele
-         | Deutsche Bundesliga - Aufstieg
-         | Play-offs 1/2
-rel.2   2. Bundesliga - Relegation
-         | Deutsche 2. Bundesliga - Relegation
-         | Deutsche 2. Bundesliga - Relegationsspiele
-         | Deutsche 2. Bundesliga - Aufstieg
-         | Play-offs 2/3
-rel.3   3. Liga - Relegation
-         | Deutsche 3. Liga - Relegation
-         | Deutsche 3. Liga - Relegationsspiele
-         | Deutsche 3. Liga - Aufstieg
-         | Play-offs 3/4
 
-cup     DFB Pokal
-         | German DFB Pokal
+cup     DFB Pokal,        cup
 
-cup.super   Supercup
-             | Deutschland Supercup
+cup.super   Supercup,      super
+             | DFL-Supercup
              | ger.sc
 
 
-4.nord        Regionalliga Nord
-                | Deutsche Regionalliga Nord
+4.nord        Regionalliga Nord,     4-regionalliga-nord
                 | de.4.n
-4.nordost     Regionalliga Nordost
-                | Deutsche Regionalliga Nordost
+4.nordost     Regionalliga Nordost,  4-regionalliga-nordost
                 | de.4.no
-4.west        Regionalliga West
-                | Deutsche Regionalliga West
+4.west        Regionalliga West,     4-regionalliga-west
                 | de.4.w
-4.suedwest    Regionalliga Südwest
-                | Deutsche Regionalliga Südwest
+4.suedwest    Regionalliga Südwest,  4-regionalliga-suedwest
                 | de.4.sw
-4.bayern      Regionalliga Bayern
-                | Deutsche Regionalliga Bayern
+4.bayern      Regionalliga Bayern,   4-regionalliga-bayern
                 | de.4.by
 
 # add .nord .nordost .west, .suedwest, .by to key ?? why? why not??
@@ -93,3 +66,23 @@ cup.super   Supercup
 ## Regionalliga Bayern
 5.by.n    Bayernliga (Nord)    ## todo/check: use – (geviertstrich) to avoid () e.g. Bayernliga – Nord
 5.by.s    Bayernliga (Süd)     ## todo/check: use – (geviertstrich) to avoid () e.g. Bayernliga – Süd
+
+
+
+
+## todo/check: change key to playoffs.1/2 or rel.1/2  - why? why not?
+# rel.1   Bundesliga - Relegation
+#         | Deutsche Bundesliga - Relegation
+#         | Deutsche Bundesliga - Relegationsspiele
+#         | Deutsche Bundesliga - Aufstieg
+#         | Play-offs 1/2
+# rel.2   2. Bundesliga - Relegation
+#         | Deutsche 2. Bundesliga - Relegation
+#         | Deutsche 2. Bundesliga - Relegationsspiele
+#         | Deutsche 2. Bundesliga - Aufstieg
+#         | Play-offs 2/3
+# rel.3   3. Liga - Relegation
+#         | Deutsche 3. Liga - Relegation
+#         | Deutsche 3. Liga - Relegationsspiele
+#         | Deutsche 3. Liga - Aufstieg
+#         | Play-offs 3/4

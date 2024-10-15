@@ -751,9 +751,9 @@ cup  Cup
 
 
 ## todo/check - what key to use for reserve  use 1.res or 1.b or 1.ii or such - why? why not?
-res Reserve Liga
-     | Weißrussland Reserve Liga [de]
-     | blr.res
+res  Reserve Liga
+      | Weißrussland Reserve Liga [de]
+      | blr.res
 
 
 
