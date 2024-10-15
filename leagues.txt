@@ -20,7 +20,12 @@ world.confed                Confederations Cup
 #######################################################
 # UEFA (Union of European Football Associations)
 
-euro       Euro
+##   euro starting in 1960 (every four years)
+#      2020 in 2021 (!!)
+## naming history
+##   1960, 1964 -  European Nations' Cup
+##   1968 -        European Championship
+euro    1960-     Euro
             | European Championship
             | UEFA Euro
             | UEFA European Championship
@@ -28,6 +33,16 @@ euro       Euro
 
 euro.quali   Euro Quali
               | euro.q
+
+
+### note - nations league starting in 2018/19
+uefa.nl    2018/19-    UEFA Nations League,      nl
+
+## add entries per league for now
+uefa.nl.a    2018/19-    UEFA Nations League A,      nla
+uefa.nl.b    2018/19-    UEFA Nations League B,      nlb
+uefa.nl.c    2018/19-    UEFA Nations League C,      nlc
+
 
 
 #######################################################

@@ -1,6 +1,7 @@
 
 = Israel =
-1    Winner League
+1    Premier League,   1-premierleague
+      | Winner League
       | Israeli Premier League
       | Israel Winner League
 2    National League

@@ -1,34 +1,83 @@
 = International =
 
-uefa.cl        Champions League          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
-                | UEFA Champions League
-                | uefa.champ | uefa.champs
-uefa.cl.quali  Champions League - Quali
-                | UEFA Champions League - Qualification
-                | UEFA Champions League - Qualifying
-                | UEFA Champions League - Qualifikation [de]
-                | uefa.cl.q
-                | uefa.champ.q | uefa.champs.q
 
-uefa.el        Europa League
-                | UEFA Europa League
-uefa.el.quali  Europa League - Quali
-                | UEFA Europa League - Qualification
-                | UEFA Europa League - Qualifying
-                | uefa.el.q
+##  use uefa.1 - why? why not?
+##      uefa.2,
+##      uefa.3
 
-uefa.conf      Conference League
-               | UEFA Conference League
-               | Europa Conference League
-               | UEFA Europa Conference League
-               | uefa.con | uefa.ecl
+##
+## note - UEFA Champions League branding starting in 1992/93
+##         (originally adopted only in the group stage in 1991/92).
+uefa.cl   1992/93-   UEFA Champions League,     cl          ## note: cl gets used by Chile (cl) -use eu.cl, euro.cl or europe.cl - change? why? why not?
+                       | Champions League
+                       | uefa.champ | uefa.champs
 
-uefa.conf.quali  Conference League - Quali
-                  | uefa.con | uefa.conf.q
+uefa.cl.quali  1992/93-   UEFA Champions League - Quali
+                           | UEFA Champions League - Qualification
+                           | UEFA Champions League - Qualifying
+                           | UEFA Champions League - Qualifikation [de]
+                           | uefa.cl.q
+                           | uefa.champ.q | uefa.champs.q
 
-uefa.super  Super Cup
-             | UEFA Super Cup
-             | uefa.sc
+## commonly known as  European Cup
+euro.champs   1955/56-1991/92    European Champion Clubs' Cup, champs
+                                   | European Cup
+
+##
+## By 1968, all UEFA member nations had set up domestic cup competitions
+## due to the success of the Cup Winners' Cup. UEFA regarded it as
+## the second most prestigious competition,
+## behind the European Cup (later the UEFA Champions League)
+## and ahead of the Fairs Cup (later the UEFA Cup).
+## Therefore, a team qualified for both the European Cup
+## and the Cup Winners' Cup would play in the European Cup,
+## whereas a team qualified for both the UEFA Cup and the Cup Winners' Cup
+## would play in the Cup Winners' Cup.
+## Nevertheless, many commentators and fans regarded the Cup Winners' Cup
+## as weaker than the UEFA Cup, which had more and better teams
+## from the stronger European leagues.
+
+## old "2-nd" tier cup (merged into uefa cup)
+##    renamed the UEFA Cup Winners' Cup in 1994/95
+euro.cup   1960/61-1998/99     European Cup Winners' Cup,   cupwinners
+
+
+# uefa europa league starting in 2009/10
+uefa.el    2009/10-    UEFA Europa League,    el
+                        | Europa League
+                        | uefa.europa
+uefa.el.quali  2009/10-   UEFA Europa League - Quali
+                           | UEFA Europa League - Qualification
+                           | UEFA Europa League - Qualifying
+                           | uefa.el.q | uefa.europa.q
+
+## uefa cup changed to europa league in 2009/10
+##  note - The UEFA Cup was preceded by the Inter-Cities Fairs Cup,
+##  which was a European football competition played between 1955 and 1971.
+uefa.cup    1971/72-2008/09     UEFA Cup,                 cup
+
+
+## uefa conference league starting in 2021/22
+##    naming history
+##    2021/22 - 2023/24 -   UEFA Europa Conference League
+##    2024/25 -             UEFA Conference League   (dropping Europa)
+uefa.conf   2021/22-   UEFA Conference League,     conf
+                        | Conference League
+                        | Europa Conference League
+                        | UEFA Europa Conference League
+                        | uefa.con | uefa.ecl
+
+uefa.conf.quali   2021/22-  UEFA Conference League - Quali
+                             | uefa.con | uefa.conf.q
+
+## note - official name was originally the Super Competition,
+##  and later the European Super Cup.
+##  It was renamed the UEFA Super Cup in 1995.
+##   note - use calendar year for season!!!
+uefa.super   1972-   UEFA Super Cup,  super
+                     | Super Cup
+                     | uefa.sc
+
 
 atl.cup     Atlantic Cup
 #  The Atlantic Cup is a pre/mid season football tournament
@@ -44,21 +93,16 @@ czsk.super  Czechoslovak Supercup
 
 
 = Scotland =
-1       Premiership
-         | Scottish Premiership
+1       Premiership,    1-premiership
          | Schottland Premiership [de]
          | sco.ps
 2       Championship
-         | Scottish Championship
          | Schottland Championship [de]
          | sco.cs
 3       League One
-         | Scottish League One
 4       League Two
-         | Scottish League Two
 
 cup.l  League Cup
-         | Scottish League Cup
          | Schottland League Cup [de]
          | sco.lc
 
@@ -74,13 +118,10 @@ cup.cc  Challenge Cup
 
 
 = Wales =
-1       Premier League
-          | Welsh Premier League
-          | Wales Premier League
+1       Premier League,    1-premierleague
 
 = Northern Ireland =
-1     Premiership
-        | Northern Irish Premiership
+1     Premiership,          1-premiership
         | NIFL Premiership
         | Nordirland Premiership [de]
         | nirl.1      # note: FIFA code is NIR !!!
@@ -106,19 +147,18 @@ super    NIFL Charity Shield
 
 
 = Ireland =
-1      Premier Division
-        | Irish Premier Division
-        | Irish Premier Division A
+1      Premier Division,       1-premierdivision
+        | Premier Division A
         | Irland Premier Division [de]
 2      First Division
         | Irland First Division [de]
 
 cup.l  League Cup
-        | Irland League Cup
+        | Irland League Cup [de]
         | irl.lc
 
 super  Supercup
-        | Irland Supercup
+        | Irland Supercup [de]
         | irl.sc
 
 
@@ -137,7 +177,7 @@ cup   FAI Cup
 
 
 = Iceland =
-1      Urvalsdeild
+1      Urvalsdeild,      1-urvalsdeild
         | Icelandic Premier League
         | Island Urvalsdeild
 2      1. Deild
@@ -159,18 +199,18 @@ super  Super Cup
 
 
 = Faroe Islands =
-1      Premier Division
+1      Premier Division,   1-premierdivision
         | Faroese Premier Division
 
 
 
 = Spain =
-1        Primera División
+1        Primera División,    1-liga
           | España Primera División | Primera División de España
           | Spanish Primera División
           | Spanish Liga | La Liga
           | Spanien Primera Division [de]
-2        Segunda División                 # todo: add Liga Adelante ??
+2        Segunda División,   2-liga2                 # todo: add Liga Adelante ??
           | España Segunda División | Segunda División de España
           | Spanish Segunda División | La Liga 2
           | Spanien Segunda Division [de]
@@ -178,7 +218,7 @@ super  Super Cup
           | Spanien Segunda Division B [de]
           | esp.2b
 
-cup      Copa del Rey
+cup      Copa del Rey,         cup
           | Spanish Copa del Rey
           | España Copa del Rey | Copa del Rey de España
 
@@ -188,13 +228,13 @@ super    Supercopa
 
 
 = Portugal =
-1       Primeira Liga
+1       Primeira Liga,     1-primeiraliga
           | Portuguese Primeira Liga
           | Portuguese Liga
           | Portuguese First Division
           | Portugal Primeira Liga
 
-2      Segunda Liga
+2      Segunda Liga,      2-segundaliga
          | Portugal Segunda Liga
          | Portuguese Segunda Liga
 
@@ -211,29 +251,26 @@ super   Supercup
 
 
 = Gibraltar =
-1   Premier League A
+1   Premier League A,    1-premierleague
      | Gibraltarian Premier League A
      | Gibraltarian Premier League
 
 = Andorra =
-1   Premier Division
+1   Premier Division,   1-premierdisvision
      | Andorran Premier Division
 
 
 = France =     ## add incl. Monaco - why? why not?
-1        Ligue 1
-          | French Ligue 1
+1        Ligue 1,       1-ligue
           | Frankreich Ligue 1 [de]
-2        Ligue 2
-          | French Ligue 2
+2        Ligue 2,      2-ligue2
           | Frankreich Ligue 2 [de]
 3        National
           | Championnat National
           | Frankreich National [de]
 
 
-cup      Coupe de France
-          | French Coupe de France
+cup      Coupe de France,        cup
           | Frankreich Coupe de France [de]
 
 cup.l    Coupe de la Ligue    ## French League Cup
@@ -248,26 +285,23 @@ super    Trophée des Champions           ## todo - check if this is the french 
 
 
 = Italy =
-1       Serie A
-          | Italian Serie A
+1       Serie A,   1-seriea
           | Italien Serie A [de]
           | ita.a
-2       Serie B
-          | Italian Serie B
+2       Serie B,   2-serieb
           | Italien Serie B [de]
           | ita.b
 3.a    Serie C (North & Central West)   # Group A
-             | Italien Lega Pro Prima Divisione Girone A
+             | Italien Lega Pro Prima Divisione Girone A [de]
              | ita.c1a
 3.b     Serie C (North & Central East)   # Group B
-          | Italien Lega Pro Prima Divisione Girone B
+          | Italien Lega Pro Prima Divisione Girone B [de]
           | ita.c1b
 3.c     Serie C (South)                  # Group C
-          | Italien Lega Pro Prima Divisione Girone C
+          | Italien Lega Pro Prima Divisione Girone C [de]
           | ita.c1c
 
-cup     Coppa Italia
-          | Italian Coppa Italia
+cup     Coppa Italia,    cup
           | Italien Coppa Italia [de]
 
 cup.c   Coppa Italia Serie C
@@ -275,23 +309,23 @@ cup.c   Coppa Italia Serie C
           | ita.cup.r    ##  keep - why? why not?  R for ??
 
 super   Supercoppa Italiana
-          | Italian Super Cup
+          | Super Cup
           | Italien Supercoppa [de]
           | ita.sc
 
 
 = San Marino =
-1     San Marinese Championship
+1       Championship,    1-championship
 
 
 
 
 = Turkey =
-1        Süper Lig
+1        Süper Lig,    1-superlig
            | Turkish Süper Lig | Turkish Super Lig
            | Turkish Super League
            | Türkei Süper Lig [de]
-2       1. Lig
+2       1. Lig,       2-lig1
            | Turkish 1. Lig
            | Türkei TFF 1. Lig [de]     ## todo/check - is TFF the sponsor?
 
@@ -315,7 +349,7 @@ super   Süper Kupa
 
 
 = Greece =
-1     Super League
+1     Super League,     1-superleague
        | Greek Super League
        | Griechenland Super League [de]
        | Super League Greece
@@ -326,7 +360,7 @@ cup   Greek Cup
        | Griechenland Cup [de]
 
 = Cyprus =
-1     First Division
+1     First Division,       1-firstdivision
        | Cypriot First Division
        | Zypern 1. Division [de]
 cup   Cypriot Cup
@@ -343,7 +377,7 @@ cup   Cup
 
 
 = Denmark =
-1        Superligaen
+1        Superligaen,    1-superligaen
           | Superliga
           | Danish Super League
           | Danish SAS-Ligaen
@@ -356,8 +390,8 @@ cup     Landspokalturneringen
           | den.p
 
 = Norway =
-1       Tippeligaen
-          | Eliteserien
+1       Eliteserien,     1-eliteserien
+          | Tippeligaen
           | Norwegian Eliteserien
           | Norwegian Premier Division A
           | Norwegen Tippeligaen [de]
@@ -371,11 +405,11 @@ cup      Norwegian Football Cup
 
 
 = Sweden =
-1       Allsvenskan
+1       Allsvenskan,       1-allsvenskan
          | Swedish Allsvenskanliga
          | Swedish First Division
          | Schweden Allsvenskan [de]
-2       Superettan
+2       Superettan,        2-superettan
          | Schweden Superettan [de]
 3.s     Div 1 Södra
          | Schweden Div 1 Södra [de]
@@ -387,7 +421,7 @@ cup     Cup
 
 
 = Finland =
-1      Veikkausliiga
+1      Veikkausliiga,           1-veikkausliiga
         | Finnish First Division
         | Finnland Veikkausliiga [de]
 2      Ykkonen
@@ -407,7 +441,7 @@ cup    Cup
 
 
 = Netherlands =
-1       Eredivisie
+1       Eredivisie,    1-eredivisie
           | Dutch Eredivisie
           | Dutch First Division
           | Niederlande Eredivisie [de]
@@ -435,7 +469,7 @@ po      Promotion/Relegation Playoffs
 
 
 = Belgium =
-1       First Division A
+1       First Division A,    1-firstdivisiona
           | Pro League
           | Belgian First Division A
           | Belgian First League
@@ -455,12 +489,12 @@ super  Supercup
 
 
 = Luxembourg =
-1      Luxembourger First Division
+1      Luxembourger National Division,    1-nationaldivision
 
 
 
 = Poland =
-1      Ekstraklasa
+1      Ekstraklasa,     1-ekstraklasa
         | Polish First Division
         | Polen Ekstraklasa [de]
 2      I Liga
@@ -482,13 +516,13 @@ super  Supercup
 
 
 = Hungary =
-1     Nemzeti Bajnokság I
+1     Nemzeti Bajnokság I,    1-nbi
        | NB I
        | Hungarian NB I
        | Hungarian First League
        | First League
 
-2     Nemzeti Bajnokság II
+2     Nemzeti Bajnokság II,    2-nbii
        | NB II
        | Ungarn NB II
        | hun.2
@@ -499,7 +533,7 @@ cup    Cup
 
 
 = Czech Republic =
-1     First League
+1     First League,           1-firstleague
        | Czech First League
        | 1. Liga
 2     1. Division
@@ -509,28 +543,30 @@ cup   Cup
        | Tschechien Cup
 
 = Switzerland =
-1      Super League
+1      Super League,            1-superleague
         | Swiss Super League
         | Schweiz Super League
         | sui.sl
-2      Challenge League
+2      Challenge League,       2-challengeleague
         | Swiss Challenge League
 3      Promotion League
         | Swiss Promotion League
         | Schweiz Promotion League
 
-cup    Schweizer Cup
+cup    Cup,          cup
+        | Schweizer Cup [de]
         | Swiss Cup
         | sui.p
 
+
 = Liechtenstein =
-cup    Liechtensteiner Pokal
+cup    Liechtensteiner Pokal,    cup
         | Liechtensteiner Cup
 
 
 
 = Slovakia =
-1     First League
+1     First League,      1-liga1
         | Slovak First League
         | Slovak First Football League
         | 1. League
@@ -540,12 +576,13 @@ cup    Liechtensteiner Pokal
         | Slovak Second League
         | 2. Liga
 
-cup   Slovak Cup
+cup   Cup
+        | Slovak Cup
         | Slowakei Cup [de]
 
 
 = Slovenia =
-1     First League
+1     First League,   1-firstleague
        | Slovene First League
        | 1. SNL
        | Prva Liga
@@ -562,7 +599,7 @@ cup   Cup
        | slo.cup           # note: official FIFA code is SVN
 
 = Croatia  =
-1      HNL
+1      HNL,          1-hnl
         | 1. HNL
         | Croatian Football League
         | Kroatien HNL
@@ -590,7 +627,7 @@ super  Supercup
 
 
 = Bosnia and Herzegovina =
-1     Premier Liga
+1     Premier Liga,   1-premierliga
        | Bosnian-Herzegovinian Premier League
        | Bosnien Premier Liga
        | bos.1                   # note: official FIFA code is BIH
@@ -600,7 +637,7 @@ cup   Bosnia and Herzegovina Football Cup
        | bos.cup                  # note: official FIFA code is BIH
 
 = Serbia =
-1     Super League
+1     Super League,    1-superleague
         | Serbian Super League
         | Serbien Meridijan Superliga  [de]   ## check - Meridijan is sponsor?
         | serb.1                     # note: official FIFA code is SRB
@@ -612,20 +649,20 @@ cup    Cup
 
 
 = Kosovo =
-1    Superliga A
+1    Superliga A,      1-superliga
       | Kosovan Superliga A
       | Kosovan Superliga
 
 = Albania =
-1    Super League
+1    Super League,     1-superleague
       | Albanian Super League
 
 = Moldova =
-1    First Division
+1    First Division,  1-firstdivision
       | Moldovan First Division
 
 = Montenegro =
-1    First League
+1    First League,      1-firstleague
       | Montenegrin First League
 
 cup   Cup
@@ -634,13 +671,13 @@ cup   Cup
 
 
 = Macedonia =
-1    First League
+1    First League,      1-firstleague
       | Macedonian First League
 
 
 
 = Romania =
-1    Liga 1
+1    Liga 1,     1-liga1
       | Romania Liga 1 | Romanian Liga 1
       | Romanian First Division
       | Rumänien Liga 1 [de]
@@ -663,7 +700,7 @@ super  Supercup
 
 
 = Bulgaria =
-1     Premier League
+1     Premier League,    1-premierleague
        | Bulgarian A League
        | Bulgarien Premier League [de]
 
@@ -677,7 +714,7 @@ super  Supercup
 
 
 = Latvia =
-1      Higher League
+1      Higher League,  1-higherleague
         | Latvian Higher League
         | Virslīga
         | Latvian First Division
@@ -685,13 +722,13 @@ super  Supercup
         | lat.1                    # note: official FIFA code is LVA
 
 = Lithuania =
-1      First Division
+1      First Division,    1-firstdivision
         | Lithuanian First Division
         | Litauen A Lyga [de]
         | lit.1                    # note: official FIFA code is LTU
 
 = Estonia =
-1      Meistriliiga
+1      Meistriliiga,   1-meistriliiga
          | Estonian First League A
          | Estonian First League
          | Estland Meistriliiga [de]
@@ -702,12 +739,12 @@ cup    Cup
 
 
 = Russia =
-1    Premier League
+1    Premier League,   1-premierliga
       | Russian Premier League
       | Russland Premier League [de]
       | rus.pl
 
-2    1. Division
+2    1. Division,       2-division1
       | Russian 1. Division
       | Russland 1. Division [de]
 
@@ -721,7 +758,7 @@ super  Supercup
 
 
 = Ukraine =
-1     Premier League
+1     Premier League,     1-premierleague
        | Ukrainian Premier League
        | Ukraine Premier League
 
@@ -734,7 +771,7 @@ super  Supercup
 
 
 = Belarus =
-1   Premier League
+1   Premier League,    1-premierleague
      | Belarusian Premier League
 
 2   Pervaya Liga
@@ -758,16 +795,16 @@ res  Reserve Liga
 
 
 = Armenia =
-1   Premier League
+1   Premier League,    1-premierleague
      | Armenian Premier League
 
 = Azerbaijan =
-1   Premier League A
+1   Premier League A,    1-premierleague
      | Azerbaijani Premier League A
      | Azerbaijani Premier League
 
 = Georgia =
-1   Premier League A
+1   Premier League A,      1-premierleague
      | Georgian Premier League A
      | Georgian Premier League
 

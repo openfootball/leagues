@@ -10,7 +10,7 @@ asia.cup  AFC Cup
 
 = Japan =
 
-1      J. League
+1      J. League,      1-jleague
          | Japanese J League
          | Japan J. League
          | J1 League | Japan J1 League
@@ -89,15 +89,16 @@ cup    Cup
 
 
 = China =
-1      Super League
+1      Super League,     1-superleague
          | Chinese Super League
          | China Chinese Super League
          | chn.sl
 
 
 = Kazakhstan =
-1      Premier League A
+1      Premier League A,        1-premierleague
          | Kazakh Premier League A
+
 
 = Turkmenistan =
 1       1. Liga

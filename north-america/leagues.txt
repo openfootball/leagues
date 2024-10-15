@@ -45,8 +45,9 @@ ncaa    United States NCAA Men's Soccer
 
 
 = Mexico =
-1      México Primera División
-        | Liga MX
+
+1      Liga MX,     1-ligamx
+        | México Primera División
         | Mexican Liga $$BBVA$$ MX
        ## | México Primera División Apertura  ## todo: make / turn Apertura / Clausura and Liguilla into stages - why? why not?
        ## | México Primera División Clausura
@@ -55,18 +56,23 @@ ncaa    United States NCAA Men's Soccer
        ## | Liga MX Clausura
        ## | Liguilla Clausura
 
-
 ### todo - add start_season/end_season for
 ##           - Ascenso MX
 ##           - Expansión MX
-2     México Segunda División
-       | Liga de Expansión MX | Liga de Expansión
-       | Expansión MX
-       | Liga de Ascenso MX | Liga de Ascenso
-       | Ascenso MX
-       | Mexican Ascenso MX
-      ## | México Segunda División Apertura
-      ## | México Segunda División Clausura
+2    2020/21-   Liga de Expansión MX,       2-ligaexpansionmx
+                | Liga de Expansión
+                | Expansión MX
+
+2   -2019/20    Ascenso MX,                 2-ascensomx,
+                | Liga de Ascenso MX | Liga de Ascenso
+                | Mexican Ascenso MX
+
+##   add - México Segunda División - why? why not?
+## | México Segunda División Apertura
+## | México Segunda División Clausura
+
+
+
 
 copa  Copa MX
        | Mexican Copa MX

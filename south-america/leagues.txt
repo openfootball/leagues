@@ -1,9 +1,9 @@
 
 = International =
 
-copa.l  Copa Libertadores
+copa.l  Copa Libertadores,     libertadores
           | CONMEBOL Copa Libertadores
-copa.s  Copa Sudamericana
+copa.s  Copa Sudamericana,     sudamericana
           | CONMEBOL Copa Sudamericana
 
 recopa  Recopa Sudamericana
@@ -49,7 +49,7 @@ copa   Copa Chile
 
 
 = Colombia =
-1   Primera A
+1   Primera A,     1-primeraa
      | Categoría Primera A
      | Colombian Primera A
      | Kolumbien Primera Liga [de]

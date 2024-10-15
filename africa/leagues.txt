@@ -1,15 +1,16 @@
 = International =
 
-caf.cl     CAF Champions League
-
+caf.cl     CAF Champions League,    cl
+             | caf.champs
 caf.conf   CAF Confederations Cup
 
-afl        African Football League
+afl        African Football League,   afl
+
 
 
 = Egypt =
-1   Premier League
-       | Egyptian Premier League
+1   Premiership,      1-premiership
+       | Premier League
        | Ägypten Premier League [de]
        | Egypt Premiership
        | egy.1
@@ -27,14 +28,14 @@ cup.super  Supercup
       | Tunesien Ligue 1 [de]
 
 = Morocco =
-1    Botola
+1    Botola,         1-botola
       | Botola Pro 1
       | Morocco Botola Pro 1
       | Marokko 1. Liga [de]
       | mar.1
 
 = Algeria =
-1    Ligue 1
+1    Ligue 1,       1-ligue1
       | Algeria Ligue 1
       | alg.1
 
