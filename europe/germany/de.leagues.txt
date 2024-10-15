@@ -25,7 +25,7 @@
 
 cup     DFB Pokal,        cup
 
-cup.super   Supercup,      super
+super   Supercup,      super
              | DFL-Supercup
              | ger.sc
 

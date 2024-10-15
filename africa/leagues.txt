@@ -18,7 +18,7 @@ afl        African Football League,   afl
 cup  Cup
       | egt.cup
 
-cup.super  Supercup
+uper   Supercup
             | Ägypten Supercup [de]
             | eg.sc
 

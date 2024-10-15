@@ -45,9 +45,9 @@
 
 ## todo/fix: add complete league pyramid with start and end year!!!
 
-3a    Division Three (North),    3a-division3_north
+3.a    Division Three (North),    3a-division3_north
         | Division 3 (North)
-3b    Division Three (South),    3b-division3_south
+3.b    Division Three (South),    3b-division3_south
         | Division 3 (South)
 
 

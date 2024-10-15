@@ -261,7 +261,7 @@ super   Supercup
 
 
 = France =     ## add incl. Monaco - why? why not?
-1        Ligue 1,       1-ligue
+1        Ligue 1,       1-ligue1
           | Frankreich Ligue 1 [de]
 2        Ligue 2,      2-ligue2
           | Frankreich Ligue 2 [de]
@@ -368,7 +368,7 @@ cup   Cypriot Cup
 
 
 = Malta =
-1     Premier League
+1     Premier League,      1-premierleague
        | Maltese Premier League
 
 cup   Cup
@@ -489,7 +489,7 @@ super  Supercup
 
 
 = Luxembourg =
-1      Luxembourger National Division,    1-nationaldivision
+1       National Division,    1-nationaldivision
 
 
 
@@ -632,7 +632,8 @@ super  Supercup
        | Bosnien Premier Liga
        | bos.1                   # note: official FIFA code is BIH
 
-cup   Bosnia and Herzegovina Football Cup
+cup   Cup
+       | Bosnia and Herzegovina Football Cup
        | Bosnien Cup [de]
        | bos.cup                  # note: official FIFA code is BIH
 

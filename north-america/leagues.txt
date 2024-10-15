@@ -13,7 +13,8 @@ usmx.cup   US & Mexican Leagues Cup
 
 
 = Canada =
-1       Canadian Premier League
+1      Premier League
+         | Canadian Premier League
          | CPL
          | can.pl
 
@@ -37,7 +38,7 @@ cup     US Open Cup
          | United States Open Cup
          | USA US Open Cup
 
-ncaa    United States NCAA Men's Soccer
+ncaa    NCAA Men's Soccer
          | NCAA Division I
          | NCAA Division I Men's Soccer Tournament
          | College Cup

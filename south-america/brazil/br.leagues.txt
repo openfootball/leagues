@@ -19,9 +19,9 @@
            | br.d
 
 copa     Copa do Brasil,     cup
-           | Copa Do Brazil | Brazil Cup
+           | Brazil Cup
            | Brasilien Cup [de]
-           | bra.cup
+           | br.cup | bra.cup
 
 
 league     Primeira Liga

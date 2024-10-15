@@ -3,7 +3,7 @@
 ##############
 # FIFA
 
-world                       World Cup
+world                       World Cup,     cup
                              | FIFA World Cup
 
 world.quali.europe          World Cup Quali Europe

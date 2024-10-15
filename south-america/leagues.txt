@@ -45,7 +45,7 @@ copa.bic  Copa Bicentenario 2019
 
 
 copa   Copa Chile
-        | chi.cup
+        | cl.cup | chi.cup
 
 
 = Colombia =
@@ -57,7 +57,7 @@ copa   Copa Chile
      | Colombian Primera B
 
 copa  Copa Colombia
-      | col.p | col.cop
+       | co.cup | col.p | col.cop
 
 super  Super Cup
        | Kolumbien Super Cup [de]
@@ -70,8 +70,8 @@ super  Super Cup
      | Uruguayan Primera Division
      | Uruguay Primera Division
 
-cup   Uruguay Cup
-       | uru.cup
+copa   Cup
+        | uy.cup | uru.cup
 
 = Ecuador =
 1  Serie A
@@ -85,9 +85,8 @@ cup   Uruguay Cup
 
 = Venezuela =
 1   Primera División
-     | Venezuelan Primera Profesional
-     | Venezuela Primera Divison
+     | Primera Profesional
 
 copa  Copa Venezuela
-       | ven.cup
+       | ve.cup | ven.cup
 
