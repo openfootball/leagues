@@ -24,12 +24,17 @@
                                 | Football League Two
                                 | League 2
 
+##
+##  fix - add format update for
+##    alt keys for tier keys  (reuse) without period (scope/limit)
+##
+##  e.g. 1 | eng | e  ## alt country codes get auto-added - why? why not?
 
 ## start of premier league 1992/93 - all tiers shift down (by one)
 1   1992/93-          Premier League,    1-premierleague
                        | FA Premier League
                        | EPL
-                       | eng.pl | eng | e
+                       | eng.pl
 2   1992/93-2003/04   Division 1,      2-division1
                        | Division One
                        | First Division | Football League First Division
