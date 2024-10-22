@@ -39,9 +39,11 @@ euro.quali   Euro Quali
 uefa.nl    2018/19-    UEFA Nations League,      nl
 
 ## add entries per league for now
+##   add use uefa.nl.1/2/3/4  codes too - why? why not?
 uefa.nl.a    2018/19-    UEFA Nations League A,      nla
 uefa.nl.b    2018/19-    UEFA Nations League B,      nlb
 uefa.nl.c    2018/19-    UEFA Nations League C,      nlc
+uefa.nl.d    2018/19-    UEFA Nations League D,      nld
 
 
 

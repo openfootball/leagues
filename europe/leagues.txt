@@ -535,12 +535,29 @@ cup    Cup
 = Czech Republic =
 1     First League,           1-firstleague
        | Czech First League
-       | 1. Liga
-2     1. Division
-       | Tschechien 1. Division [de]
+       | 1. Liga [de]
+2   1993/94-  National League
+              | Second League
+              | 1. Division
+              | Tschechien 1. Division [de]
+## Before 2013 it was known as 2. liga or Druhá liga.
+
+
+
+##  note - ČFL split into two (or three?) leagues/groups A & B
+3.c.a   1991/92-  Bohemian Football League A      #  3. Česká fotbalová liga; ČFL
+                  | 3rd Bohemian Football League A
+                  | CFL A
+3.c.b   1991/92-  Bohemian Football League B
+                  | 3rd Bohemian Football League B
+                  | CFL B
+
+3.ms  1991/92-   Moravian-Silesian Football League   # Moravskoslezská fotbalová liga
+                  | MSFL
+
 
 cup   Cup
-       | Tschechien Cup
+       | Tschechien Cup [de]
 
 = Switzerland =
 1      Super League,            1-superleague

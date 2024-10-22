@@ -1,6 +1,5 @@
 = Costa Rica =
 1   Primera División
-      | Costa Rica Primera División
       | Costa Rican Primera Division
 
 2    Segunda División
@@ -22,6 +21,5 @@
 
 = Nicaragua =
 1   Primera División
-      | Nicaragua Primera División
-      | nic.1
+
 

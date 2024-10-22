@@ -1,6 +1,10 @@
 
 = International =
 
+###
+# add more codes
+#    e.g.conmebol.1, conmebol.2, conmebol.super  - why? why not?
+
 copa.l  Copa Libertadores,     libertadores
           | CONMEBOL Copa Libertadores
 copa.s  Copa Sudamericana,     sudamericana
@@ -13,39 +17,34 @@ recopa  Recopa Sudamericana
 = Paraguay =
 1     Primera Division
         | Paraguayan Primera Division
-        | Paraguay Primera Division
 
 = Peru =
 1      Primera Division
         | Peruvian Primera Profesional
-        | Peru Primera Division
 
 2      Segunda Division
-        | Peru Segunda Division
 
 
-copa.bic  Copa Bicentenario 2019
-           | Peru Copa Bicentenario
-           | cp.bic
+cup.bic  Copa Bicentenario 2019
+           | Copa Bicentenario
+           | pe.copa.bic | cp.bic
 
 = Bolivia =
-1      Bolivian Primera División
+1      Primera División
          | División Profesional
+         | Bolivian Primera División
          | Bolivian Liga Profesional
          | Bolivien Liga Profesjonal [de]    ## match/keep j typo in from tipp3 - why? why not?
 
 = Chile =
 1      Primera Divison
         | Chilean Primera Division
-        | Chile Primera Divison
 
 2      Primera B
-        | Chile Primera B
-        | chi.2
 
 
-copa   Copa Chile
-        | cl.cup | chi.cup
+cup    Copa Chile
+        | cl.copa | chi.copa
 
 
 = Colombia =
@@ -56,8 +55,8 @@ copa   Copa Chile
 2   Primera B
      | Colombian Primera B
 
-copa  Copa Colombia
-       | co.cup | col.p | col.cop
+cup  Copa Colombia
+       | co.copa | col.copa | col.p | col.cop
 
 super  Super Cup
        | Kolumbien Super Cup [de]
@@ -68,25 +67,27 @@ super  Super Cup
 = Uruguay =
 1   Primera División
      | Uruguayan Primera Division
-     | Uruguay Primera Division
 
-copa   Cup
-        | uy.cup | uru.cup
+2   Segunda División
+
+cup   Cup
+       | Copa Uruguay
+       | uy.copa | uru.copa
+
+
 
 = Ecuador =
 1  Serie A
-     | Ecuadoran Primera A
-     | Ecuador Serie A
+     | Primera A | Ecuadoran Primera A
 
 2  Serie B
      | Primera B | LigaPro Primera B
-     | ecu.2
 
 
 = Venezuela =
 1   Primera División
      | Primera Profesional
 
-copa  Copa Venezuela
-       | ve.cup | ven.cup
+cup  Copa Venezuela
+       | ve.copa | ven.copa
 

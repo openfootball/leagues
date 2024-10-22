@@ -18,10 +18,10 @@
            | Campeonato Brasileiro Série D
            | br.d
 
-copa     Copa do Brasil,     cup
+cup      Copa do Brasil,     cup
            | Brazil Cup
            | Brasilien Cup [de]
-           | br.cup | bra.cup
+           | br.copa | bra.copa
 
 
 league     Primeira Liga

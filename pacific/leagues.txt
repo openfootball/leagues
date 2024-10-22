@@ -16,5 +16,16 @@
 
 
 
-cup     FFA Cup
-         | Australien FFA Cup
+cup   2014-   Cup
+              | Australia Cup
+              | FFA Cup | Australien FFA Cup [de]
+##  National cup -- Each year (February→October)
+##    known as Football Federation Australia until 2020
+
+
+
+= New Zealand =
+
+1         National League
+## 1st-tier league - Each year (September→December);
+## Each team plays every other team once; Single match playoff final.

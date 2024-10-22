@@ -35,13 +35,13 @@
 #        with more regional leagues in 2018? see Torneo Regional Federal Amateur
 
 
-copa     Copa Argentina
+cup     Copa Argentina
           | Argentinien Cup [de]
-          | ar.cup | arg.cup
-copa.l   Copa Superliga
+          | ar.copa | arg.copa
+cup.l   Copa Superliga
           | Copa de la Superliga
           | Argentinien Ligacup [de]
-          | ar.cup.l | arg.lc
+          | ar.copa.l | arg.copa.l | arg.lc
 
 
 super   Supercopa Argentina

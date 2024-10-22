@@ -18,25 +18,68 @@ usmx.cup   US & Mexican Leagues Cup
          | CPL
          | can.pl
 
+cup    Championship
+         | Canadian Championship
+       ## National cup for professional and semi-professional teams;
+       ##  determines one of the country's qualifiers for the CONCACAF Champions League
+
+
+3.on    League1 Ontario	 ## 22 teams  (May→October)
+           | L1ON
+  # Each team playing one match against all other teams.
+  # The top six teams compete in the league playoffs at the end of the season,
+  # with the champion qualifying for the Canadian Championship.
+3.bc    League1 British Columbia
+           | L1BC
+
+3.qc   Premiere Ligue du Quebec
+           | L1QC
+
+
+
 = United States =                   ## todo/check - (auto)add incl. Canada - how? - why? why not?
-1       Major League Soccer
+1       Major League Soccer,          1-mls
          | MLS | USA MLS
-         | USA Major League Soccer
 
-mls.back  MLS is Back Tournament   ## special covid-19/corona "bubble" (summer) tournament in 2020
+1.back  MLS is Back Tournament,       1-mlsisback
+            | mls.back
+## special covid-19/corona "bubble" (summer) tournament in 2020
 
 
-2       United Soccer League Championship
-         | USL Championship
-         | usl.c
-3       United Soccer League One
-         | usl.1
-4       United Soccer League Two
-         | usl.2
+3.next   2022-   MLS Next Pro,        3-mlsnext
+# 3rd-tier league; launched in 2022 with 21 teams, being reserve sides of MLS.
 
-cup     US Open Cup
+
+
+2  2011-   USL Championship,          2-uslc
+           | United Soccer League Championship
+           | USLC
+## 	1st division of the United Soccer League; each year (March→October).
+##      34 regular-season matches, with each team playing all other teams
+##      in its conference home and away. Playoffs: USL Cup (October→December).
+
+
+## change code to 3.usl - why? why not?
+3   2019-   United Soccer League One,    3-usl1
+             | US League One
+             | USL1
+# 3rd-tier league; 2nd division of the United Soccer League;
+# began play in 2019. 32-game regular-season (March→October).
+
+## change to 4.usl
+4       United Soccer League Two,     4-usl2
+         | USL2
+# 3rd division of the United Soccer League.
+# Each year (May→July); each team plays every other team in its division home and away.
+# Playoffs in July and August. Includes teams from Canada.
+
+
+
+cup     US Open Cup,    cup
          | United States Open Cup
          | USA US Open Cup
+# National cup - Each year (May→September)
+
 
 ncaa    NCAA Men's Soccer
          | NCAA Division I
@@ -44,11 +87,11 @@ ncaa    NCAA Men's Soccer
          | College Cup
 
 
-
 = Mexico =
 
-1      Liga MX,     1-ligamx
+1      Liga MX,     1-ligamx         ## 18 clubs
         | México Primera División
+        | Primera División de México
         | Mexican Liga $$BBVA$$ MX
        ## | México Primera División Apertura  ## todo: make / turn Apertura / Clausura and Liguilla into stages - why? why not?
        ## | México Primera División Clausura
@@ -57,27 +100,66 @@ ncaa    NCAA Men's Soccer
        ## | Liga MX Clausura
        ## | Liguilla Clausura
 
-### todo - add start_season/end_season for
-##           - Ascenso MX
-##           - Expansión MX
-2    2020/21-   Liga de Expansión MX,       2-ligaexpansionmx
+
+2    2020/21-   Liga de Expansión MX,       2-ligaexpansionmx     ## 15 clubs
                 | Liga de Expansión
                 | Expansión MX
+                | mx.2.expansion
+
+##
+##  The champions of the 1993–94 Segunda División season was the last
+##  to be promoted to the Primera División.
+## In 1994–95 season, the FMF created the Primera División A
+## (renamed Ascenso MX in 2012)
+##  with 15 teams from the Segunda División,
+## and all other teams remained in the league
+##  that continued to be called Segunda División
+## but at the new third level of Mexican football.
 
 2   -2019/20    Ascenso MX,                 2-ascensomx,
                 | Liga de Ascenso MX | Liga de Ascenso
                 | Mexican Ascenso MX
+                | mx.2.ascenso
+
+
+##
+## The Serie A was created in the second half of 2008,
+## with the participation and approval of the owners of the teams of the Second and Third Division, being next to Serie B part of the Liga Premier.
+
+# 49 clubs (divided into Serie A with 36 clubs and Serie B with 13 clubs)
+3.a     Serie A
+         | LP - Serie A
+         | Liga Premier Serie A
+         | Serie A de México
+3.b     Serie B
+         | LP - Serie B
+         | Liga Premier Serie B
+         | Serie B de México
+
+
+## 4    Liga TDP
+## 4    Liga de Nuevos Talentos
 
 ##   add - México Segunda División - why? why not?
+##  3  México Segunda División
 ## | México Segunda División Apertura
 ## | México Segunda División Clausura
 
 
-
-
-copa  Copa MX
-       | Mexican Copa MX
-       | Mexiko Copa MX [de]
+cup  -2019/20   Copa MX               ## defunct
+                | Copa México
+                | Mexican Copa MX
+                | Mexiko Copa MX [de]
+                | mx.copa
 
 ## check for mx.3 etc.
 ##  https://en.wikipedia.org/wiki/List_of_association_football_competitions#Mexico
+
+##
+## Campeón de Campeones -- Super cup
+##    Between winners of the previous Liga MX Apertura and Clausura seasons.
+##
+##  Supercopa MX -- Super cup
+##    Between winners of the previous Copa MX Apertura and Clausura seasons.
+
+
