@@ -1,0 +1,46 @@
+
+1  => premiership,  Scotish Premiership     # starting w/ 2013-14 season
+2  => championship, Scotish Championship
+3  => league1,      Scotish League One
+4  => league2,      Scotish League Two
+
+
+[2012-13]   ## until (including) 2012-13 season
+1  => premierleague, Scotish Premiership
+2  => division1,     Scotish 1st Division
+3  => division2,     Scotish League One
+4  => division3,     Scotish League Two
+
+
+[1997-98]   ## until (including)   season
+1  => premierdivision,  Scotish Premier Division
+2  => division1,        Scotish 1st Division
+3  => division2,        Scotish 2nd Division
+4  => division3,        Scotish 3rd Division
+
+
+----------
+
+q:  what is the naming history of the scotch premiership / tier 1 league. 
+please use seasons for name changes.
+
+a:  The naming history of Scotland's top football division, currently known as the **Scottish Premiership**, has undergone several changes over the years, largely driven by reorganizations and sponsorships. Below is a detailed breakdown of its naming history based on the seasons:
+
+### 1. **1890–1998: Scottish Football League First Division**
+   - From its inception in **1890**, the top tier of Scottish football was known as the **Scottish Football League First Division**. This name continued for over a century as the league's primary designation. The Scottish Football League (SFL) itself was responsible for organizing football in Scotland.
+
+### 2. **1998–2013: Scottish Premier League (SPL)**
+   - In **1998**, a major restructure took place in Scottish football. The top tier of the Scottish Football League became the **Scottish Premier League** (SPL), separating from the Scottish Football League as a standalone competition.
+   - This change was driven by the desire to make the top tier more commercially viable and to create a more competitive structure. The SPL operated as Scotland's top division from **1998 to 2013**.
+
+### 3. **2013–Present: Scottish Premiership**
+   - In **2013**, the Scottish Premier League merged with the Scottish Football League to form the **Scottish Professional Football League** (SPFL), which now governs all levels of Scottish football. 
+   - The top division within the SPFL was named the **Scottish Premiership**. This marked the end of the SPL as an entity and the beginning of the new structure. The **Scottish Premiership** has continued under the governance of the SPFL, with the league title remaining in place.
+   - As of the 2013-14 season, the top tier is called the **Scottish Premiership**, a name that has remained in use to this day.
+
+### Summary of Name Changes:
+- **1890–1998**: Scottish Football League First Division
+- **1998–2013**: Scottish Premier League (SPL)
+- **2013–Present**: Scottish Premiership (under the Scottish Professional Football League - SPFL)
+
+The changes reflect a restructuring of the league, including a move towards greater commercial independence and later integration into a larger governance structure. The most recent change in 2013 established the **Scottish Premiership** as the name for the top division within the new SPFL system.

@@ -1,0 +1,46 @@
+
+
+1  =>  ligue1, French Ligue 1
+2  =>  ligue2, French Ligue 2
+
+
+[2001-02]      ## until (including) 2001-02 season
+1  =>  division1,  ?     ## use championat or something? check official name
+2  =>  division2,  ?
+
+
+----
+
+q: hello. what is the naming history of the french ligue 1. 
+please use seasons for name changes.
+
+a: The naming history of Ligue 1, the top professional football division in France, has evolved over time, with several name changes to reflect sponsorships and organizational decisions. Below is a summary of these name changes based on the seasons:
+
+1. **1932–1933: Division 1**
+   - Ligue 1 was initially known as **Division 1**, when it was first established as the top-tier professional league in French football. It was the highest level of French football, created by the French Football Federation.
+
+2. **1933–1945: Ligue 1 (continued)**
+   - During this period, the name remained **Division 1**, continuing until World War II disrupted the regular football calendar.
+
+3. **1945–1965: National**
+   - Following World War II, the league was restructured, and the top tier was rebranded as **National** (sometimes called **Championnat National**).
+
+4. **1965–2002: Division 1**
+   - The league returned to the **Division 1** name in 1965 and continued with this title for decades. The name remained consistent even as the league grew in popularity and financial stature.
+
+5. **2002–2010: Ligue 1 (with sponsorship)**
+   - In 2002, the league underwent a significant change, adopting the **Ligue 1** name. This change was part of a broader effort to rebrand French football.
+   - From 2002, the French league began featuring sponsorship names, and the full name of the competition was **Ligue 1 (sponsored by various companies)**. For example, it was known as "**Ligue 1 Orange**" from 2002 to 2016 due to the telecommunications company Orange sponsoring the league.
+
+6. **2010–Present: Ligue 1 (with sponsorship)**
+   - The league's name remained **Ligue 1**, but it continued to have various sponsorship deals over the years. One notable sponsor, **Uber Eats**, took over as the title sponsor starting from the 2020–2021 season, and the league became known as "**Ligue 1 Uber Eats**".
+
+Throughout these periods, the French league's structure, competitiveness, and commercial appeal have evolved, and its name has often been linked to sponsorship agreements. Currently, the league is known as **Ligue 1 Uber Eats**.
+
+In summary:
+- **1932–1965**: Division 1
+- **1965–2002**: Division 1
+- **2002–2010**: Ligue 1 (with various sponsors)
+- **2010–Present**: Ligue 1 (with various sponsors, currently "Uber Eats")
+
+The name changes often reflect sponsorship, with the most recent era being defined by corporate involvement. 

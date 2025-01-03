@@ -1,0 +1,76 @@
+###
+#  try new leagues format (cont.)
+
+==================================
+=  Austria (at)
+
+1    Österr. Bundesliga,   1994/95 ..
+       | Bundesliga | BL
+2    Österr. 2. Liga,      2018/19 ..
+       | 2. Liga
+
+
+#########
+## historic names / leagues
+
+2    Erste Liga,      2002/03 .. 2017/18
+2    Erste Division,  1998/99 .. 2001/02
+
+1    1. Division
+         1993/94
+         1985/86 .. 1992/93  ## zeit der play-off-ligen
+         1982/83 .. 1984/85  ## 16er-liga
+         1975/76 .. 1981/82
+
+2    2. Division
+         1993/94 .. 1997/98  ## rückkehr zur 16er-liga
+         1985/86 .. 1992/93  ## zeit der play-off-ligen; mittleres play-off
+         1975/76 .. 1984/85
+
+1    Bundesliga,          1974/75
+2    Nationalliga,        1974/75
+
+1    Nationalliga,   1965/66 .. 1973/74
+1    Staatsliga,     1949/50 .. 1964/65     # Staatsliga (gesamtösterreichisch)
+       | Liga A
+
+
+
+---
+
+q:  what is the naming history of the Austrian Bundesliga / tier 1 league. 
+please use seasons for name changes.
+
+a:  The naming history of Austria's top-tier football league, currently known as the **Bundesliga**, has undergone several changes over time. These changes have been influenced by the structure of the league, sponsorships, and branding efforts. Below is a detailed breakdown of the league’s naming history based on the seasons:
+
+### 1. **1911–1938: Austrian Championship**
+   - From **1911**, Austria had a top-tier football competition known as the **Austrian Championship** (Österreichische Meisterschaft). This was the name for the highest level of football in Austria before any formal league structure was established.
+   - The competition ran in different regional divisions, and the winner was considered the national champion of Austria.
+
+### 2. **1949–1965: First Division (Erste Division)**
+   - After World War II, the **Austrian First Division** (Erste Division) became the official name of the country's top-tier league from **1949** to **1965**.
+   - This period marked the beginning of a more formalized and organized league system, with more consistent structures for promotion and relegation.
+
+### 3. **1965–1997: Bundesliga**
+   - In **1965**, the league was renamed **Bundesliga**, a name which has remained in use up to the present day. The name change reflected a more professional, nationwide structure for the competition.
+   - This version of the **Austrian Bundesliga** was considered the premier division of Austrian football until the late 1990s.
+
+### 4. **1997–2002: Austrian Football Bundesliga (with sponsorship)**
+   - In **1997**, a rebranding took place, and the league was referred to as the **Austrian Football Bundesliga** (Österreichische Fußball-Bundesliga). This was largely a marketing shift to emphasize the connection with the broader football community.
+   - The competition was sometimes referred to with sponsorships added to the name during this period, depending on the season.
+
+### 5. **2002–Present: Bundesliga (with sponsorship)**
+   - In **2002**, the name reverted back to simply **Bundesliga**, maintaining its traditional association with Austrian football's top tier. However, sponsorship continued to play a significant role in how the league was marketed.
+   - The league has been known as **Bundesliga (with various sponsors)** since 2002, with sponsorship deals influencing the full name. For instance, the league has been called **Tipico Bundesliga** due to a sponsorship by the bookmaker **Tipico** in recent years.
+
+### Summary of Name Changes:
+- **1911–1938**: Austrian Championship
+- **1949–1965**: First Division (Erste Division)
+- **1965–1997**: Bundesliga
+- **1997–2002**: Austrian Football Bundesliga (with sponsorship)
+- **2002–Present**: Bundesliga (with sponsorship)
+
+The most significant change occurred in **1965** when the league adopted the name **Bundesliga**. Since then, the name has remained largely unchanged, although sponsorship deals have led to occasional modifications to its official title. Today, the league is commonly known as the **Tipico Bundesliga** due to the sponsorship of Tipico, but it is still widely referred to simply as the **Bundesliga** in Austria.
+
+
+
