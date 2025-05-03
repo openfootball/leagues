@@ -14,31 +14,32 @@
 ##   why? why not?
 
 
-1       Bundesliga,      1-bundesliga
+1       Bundesliga
          | ger.bl | d.bl | d.1 | d
-2       2. Bundesliga,   2-bundesliga2
+2       2. Bundesliga
          | 2. Liga
          | d.2
-3       3. Liga,         3-liga3
+3       3. Liga
          | d.3
 
 
-cup     DFB Pokal,        cup
+cup     DFB Pokal
 
-super   Supercup,      super
+super   Supercup
              | DFL-Supercup
+             | Franz Beckenbauer Supercup
              | ger.sc
 
 
-4.nord        Regionalliga Nord,     4-regionalliga-nord
+4.nord        Regionalliga Nord
                 | de.4.n
-4.nordost     Regionalliga Nordost,  4-regionalliga-nordost
+4.nordost     Regionalliga Nordost
                 | de.4.no
-4.west        Regionalliga West,     4-regionalliga-west
+4.west        Regionalliga West
                 | de.4.w
-4.suedwest    Regionalliga Südwest,  4-regionalliga-suedwest
+4.suedwest    Regionalliga Südwest
                 | de.4.sw
-4.bayern      Regionalliga Bayern,   4-regionalliga-bayern
+4.bayern      Regionalliga Bayern
                 | de.4.by
 
 # add .nord .nordost .west, .suedwest, .by to key ?? why? why not??

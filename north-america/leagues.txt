@@ -38,20 +38,20 @@ cup    Championship
 
 
 = United States =                   ## todo/check - (auto)add incl. Canada - how? - why? why not?
-1       Major League Soccer,          1-mls
+1       Major League Soccer
          | MLS | USA MLS
 
-1.back  MLS is Back Tournament,       1-mlsisback
+1.back  MLS is Back Tournament
             | mls.back
 ## special covid-19/corona "bubble" (summer) tournament in 2020
 
 
-3.next   2022-   MLS Next Pro,        3-mlsnext
+3.next   2022-   MLS Next Pro
 # 3rd-tier league; launched in 2022 with 21 teams, being reserve sides of MLS.
 
 
 
-2  2011-   USL Championship,          2-uslc
+2  2011-   USL Championship
            | United Soccer League Championship
            | USLC
 ## 	1st division of the United Soccer League; each year (March→October).
@@ -60,14 +60,14 @@ cup    Championship
 
 
 ## change code to 3.usl - why? why not?
-3   2019-   United Soccer League One,    3-usl1
+3   2019-   United Soccer League One
              | US League One
              | USL1
 # 3rd-tier league; 2nd division of the United Soccer League;
 # began play in 2019. 32-game regular-season (March→October).
 
 ## change to 4.usl
-4       United Soccer League Two,     4-usl2
+4       United Soccer League Two
          | USL2
 # 3rd division of the United Soccer League.
 # Each year (May→July); each team plays every other team in its division home and away.
@@ -75,7 +75,7 @@ cup    Championship
 
 
 
-cup     US Open Cup,    cup
+cup     US Open Cup
          | United States Open Cup
          | USA US Open Cup
 # National cup - Each year (May→September)
@@ -89,7 +89,7 @@ ncaa    NCAA Men's Soccer
 
 = Mexico =
 
-1      Liga MX,     1-ligamx         ## 18 clubs
+1      Liga MX      ## 18 clubs
         | México Primera División
         | Primera División de México
         | Mexican Liga $$BBVA$$ MX
@@ -101,7 +101,7 @@ ncaa    NCAA Men's Soccer
        ## | Liguilla Clausura
 
 
-2    2020/21-   Liga de Expansión MX,       2-ligaexpansionmx     ## 15 clubs
+2    2020/21-   Liga de Expansión MX    ## 15 clubs
                 | Liga de Expansión
                 | Expansión MX
                 | mx.2.expansion
@@ -116,7 +116,7 @@ ncaa    NCAA Men's Soccer
 ##  that continued to be called Segunda División
 ## but at the new third level of Mexican football.
 
-2   -2019/20    Ascenso MX,                 2-ascensomx,
+2   -2019/20    Ascenso MX
                 | Liga de Ascenso MX | Liga de Ascenso
                 | Mexican Ascenso MX
                 | mx.2.ascenso

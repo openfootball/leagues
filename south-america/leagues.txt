@@ -5,9 +5,9 @@
 # add more codes
 #    e.g.conmebol.1, conmebol.2, conmebol.super  - why? why not?
 
-copa.l  Copa Libertadores,     libertadores
+copa.l  Copa Libertadores
           | CONMEBOL Copa Libertadores
-copa.s  Copa Sudamericana,     sudamericana
+copa.s  Copa Sudamericana
           | CONMEBOL Copa Sudamericana
 
 recopa  Recopa Sudamericana
@@ -48,7 +48,7 @@ cup    Copa Chile
 
 
 = Colombia =
-1   Primera A,     1-primeraa
+1   Primera A
      | Categoría Primera A
      | Colombian Primera A
      | Kolumbien Primera Liga [de]

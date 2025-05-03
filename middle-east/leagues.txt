@@ -1,22 +1,32 @@
 
 = Israel =
-1    Premier League,   1-premierleague
+1    Premier League
       | Winner League
       | Israeli Premier League
       | Israel Winner League
+      | Ligat ha'Al
 2    National League
       | Israel National League
+      | Liga Leumit
 
-cup     League Cup National
+cup    State Cup 
+         | League Cup National
          | Israel League Cup National
          | isr.lcn
-cup.lp  League Cup Premier
+
+# note - Israel's League Cup, split into two versions:
+#  - Toto Cup Al – for teams in the Premier League (Ligat Ha'Al)
+#  - Toto Cup Leumit – for teams in the second tier (Liga Leumit)
+cup.l1  Toto Cup Al
+         | League Cup Premier
          | Israel League Cup Premier
          | isr.lcp
+cup.l2  Toto Cup Leumit
 
 super   Supercup
          | Israel Supercup
          | isr.sc
+
 
 = Palestine =
 

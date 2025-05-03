@@ -1,0 +1,7 @@
+####
+#  ignore clipboard (temp cut-n-paste texts and more)
+
+_clipboard/
+clipboard/
+
+

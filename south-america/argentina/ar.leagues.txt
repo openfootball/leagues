@@ -1,6 +1,6 @@
 = Argentina =
 
-1        Primera Division,    1-primeradivision
+1        Primera Division
            | Argentine Superliga
            | Argentinien Primera Division [de]
 

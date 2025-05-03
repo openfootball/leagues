@@ -1,24 +1,24 @@
 = Brazil =
 
-1       Brasileiro Série A,    1-seriea
+1       Brasileiro Série A
            | Campeonato Brasileiro Série A
            | Brazilian Serie A
            | Brasilien Brasilero Serie A [de]
            | br.a
-2       Brasileiro Série B,    2-serieb
+2       Brasileiro Série B
            | Campeonato Brasileiro Série B
            | Brazilian Serie B
            | Brasilien Brasilero Serie B [de]
            | br.b
-3       Brasileiro Série C,    3-seriec
+3       Brasileiro Série C
            | Campeonato Brasileiro Série C
            | Brazilian Serie C
            | br.c
-4       Brasileiro Série D,    4-seried
+4       Brasileiro Série D
            | Campeonato Brasileiro Série D
            | br.d
 
-cup      Copa do Brasil,     cup
+cup      Copa do Brasil
            | Brazil Cup
            | Brasilien Cup [de]
            | br.copa | bra.copa
@@ -32,7 +32,7 @@ league     Primeira Liga
 
 
 
-rs        Campeonato Gaúcho,     gauchao
+rs        Campeonato Gaúcho
             | Gauchão
             | Campeonato Estadual Gaúcho
             | Brazilian Campeonato Gaucho
@@ -42,7 +42,7 @@ rs.2       Divisão de Acesso Gaúcha
 rs.3       Terceirona
             | Segunda divisão do Campeonato Estadual Gaúcho
 
-sp         Campeonato Paulista,    paulistao
+sp         Campeonato Paulista
              | Campeonato Paulista Série A1
              | Paulistão
              | Campeonato Estadual Paulista
@@ -51,17 +51,17 @@ sp         Campeonato Paulista,    paulistao
              | bra.pau | br.paulistao
 
 
-rj         Campeonato Carioca,    carioca
+rj         Campeonato Carioca
              | Campeonato Estadual Carioca
              | Brazilian Campeonato Carioca
              | br.carioca
 
-mg         Campeonato Mineiro,    mineiro
+mg         Campeonato Mineiro
              | Mineirão
              | Campeonato Estadual Mineiro
              | Brazilian Campeonato Mineiro
              | br.mineiro
 
 
-paranaense   Campeonato Paranaense,   paranaense
+paranaense   Campeonato Paranaense
 

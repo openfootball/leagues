@@ -1,15 +1,15 @@
 = Austria =
 
-1       Bundesliga,     1-bundesliga          # Each year (July→December/February→May)
+1       Bundesliga         # Each year (July→December/February→May)
          | aut.bl | at.bl | ö.bl | ö.1 | ö
 
 
 #  note - Erste Liga renamed to 2. Liga starting 2018/19
 
-2  2018/19-     Erste Liga => 2. Liga,       2-liga2   # Each year (July→May)
+2  2018/19-     Erste Liga => 2. Liga   # Each year (July→May)
                               | Zweite Liga
                               | ö.2
-2   -2017/18                 Erste Liga,     2-liga1
+2   -2017/18                 Erste Liga
                               | 1. Liga
 
 
@@ -17,9 +17,9 @@
 #  and just use at.3, Österr. Regionalliga
 #  use 3.ost / 3.mitte / 3.west ?
 
-3.o     Regionalliga Ost,    3-regionalliga-ost
+3.o     Regionalliga Ost
          | aut.rlo | at.rlo
-3.m     Regionalliga Mitte,   3-regionalliga-mitte
+3.m     Regionalliga Mitte
          | aut.rlm | at.rlm
 3.sbg   Regionalliga Salzburg
          | rl.sbg
