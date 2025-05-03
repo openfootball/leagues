@@ -160,7 +160,18 @@ super    NIFL Charity Shield
 2      First Division
         | Irland First Division [de]
 
-cup    FAI Cup 
+cup   FAI Cup
+        | Football Association of Ireland Senior Challenge Cup
+        | irl.cup
+###
+## todo/check:
+##  use int'l  - with two countries e.g.
+# Republic of Ireland
+#  Northern Ireland
+#   or just use cup  for Ireland - why? why not?
+#    just incl. (1,2?) northern ireland teams
+#    (by invitation? e.g. Derry City FC)
+
 
 cup.l  League Cup
         | Irland League Cup [de]
@@ -170,19 +181,6 @@ super  Supercup
         | President's Cup
         | Irland Supercup [de]
         | irl.sc
-
-
-###
-## todo/check:
-##  use int'l  - with two countries e.g.
-# Republic of Ireland
-#  Northern Ireland
-#   or just use cup  for Ireland - why? why not?
-#    just incl. (1,2?) northern ireland teams
-#    (by invitation? e.g. Derry City FC)
-cup   FAI Cup
-        | Football Association of Ireland Senior Challenge Cup
-        | irl.cup
 
 
 
@@ -353,8 +351,8 @@ super   Supercoppa Italiana
 1       Championship
           | Campionato
 
-cup   Coppa Titano
-super Super Coppa
+cup     Coppa Titano
+super   Super Coppa
 
 
 
@@ -659,15 +657,15 @@ cup    Liechtensteiner Pokal
         | Slowakei Corgon Liga [de]    ## check - Corgon is sponsor?
         | Super Liga
 
-2    Second League
+2     Second League
         | Slovak Second League
         | 2. Liga
 
-cup   Cup
+cup    Cup
         | Slovensky Pohar
         | Slovak Cup
         | Slowakei Cup [de]
-super Superpohár
+super  Superpohár
 
 
 = Slovenia =
@@ -677,16 +675,16 @@ super Superpohár
        | Prva Liga 
        | slo.1             # note: official FIFA code is SVN !!!
 
-2     Second League
-       | Slovenian Second League
-       | 2. SNL
-       | Slowenien 2. Liga [de]
-       | slo.2
+2      Second League
+        | Slovenian Second League
+        | 2. SNL
+        | Slowenien 2. Liga [de]
+        | slo.2
 
-cup   Cup
-       | Pokal Slovenije
-       | Slowenien Cup
-       | slo.cup           # note: official FIFA code is SVN
+cup    Cup
+        | Pokal Slovenije
+        | Slowenien Cup
+        | slo.cup           # note: official FIFA code is SVN
 super  Super Pokal
 
 
