@@ -542,6 +542,18 @@ super  Supercup
          | Belgien Supercup
          | bel.sc
 
+belgium.acff_d2   ACFF Division 2
+                     | ACFF D2
+                     | Belgian ACFF D2
+
+belgium.acff_d3a  ACFF Division 3A
+                     | ACFF D3A
+                     | Belgian ACFF D3A
+
+belgium.acff_d3b  ACFF Division 3B
+                     | ACFF D3B
+                     | Belgian ACFF D3B
+
 
 = Luxembourg =
 1       National Division
